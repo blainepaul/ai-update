@@ -1,8 +1,5 @@
 import os
 
-# --- API Key ---
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-
 # --- Categories ---
 CATEGORIES = [
     "models_research",

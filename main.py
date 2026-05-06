@@ -33,10 +33,6 @@ def main():
     logger = logging.getLogger("main")
     logger.info("=== AI News Aggregator starting ===")
 
-    from config import ANTHROPIC_API_KEY
-    if not ANTHROPIC_API_KEY:
-        logger.warning("ANTHROPIC_API_KEY is not set — articles will all be assigned to 'other'")
-
     # Load existing store (articles from past 7 days)
     import store
     existing = store.load()

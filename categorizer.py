@@ -1,84 +1,75 @@
-import json
+import re
 import logging
-import anthropic
-from tenacity import retry, stop_after_attempt, wait_exponential
-from config import ANTHROPIC_API_KEY, CATEGORIES, CLAUDE_MODEL, CATEGORIZATION_BATCH_SIZE
+from config import CATEGORIES
 
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """You are an AI news categorization assistant.
-Given a list of AI-related news article titles and summaries, classify each one into exactly one of these categories:
+# Keywords per categoria — ordine = priorità (prima match vince)
+RULES: list[tuple[str, list[str]]] = [
+    ("policy_regulation", [
+        "regulation", "regulat", "law", "legislat", "congress", "senate", "parliament",
+        "european union", "eu ai act", "ai act", "ban", "policy", "government", "legal",
+        "court", "lawsuit", "gdpr", "compliance", "antitrust", "ftc", "fcc", "fda",
+        "ministry", "minister", "governo", "legge", "regolamento", "parlamento",
+    ]),
+    ("ethics_safety", [
+        "safety", "alignment", "bias", "harm", "deepfake", "misuse", "ethics",
+        "responsible ai", "trustworthy", "transparent", "explainab", "fairness",
+        "risk", "danger", "threat", "concern", "controversial", "censur",
+        "disinformation", "misinformation", "fake", "sicurezza", "etica",
+    ]),
+    ("healthcare", [
+        "health", "medical", "doctor", "diagnosis", "drug", "clinical", "hospital",
+        "patient", "cancer", "disease", "pharma", "therapeut", "radiology",
+        "genomic", "biotech", "mental health", "psychiatr", "salute", "medicina",
+    ]),
+    ("creativity", [
+        "image generat", "video generat", "text-to-image", "text-to-video",
+        "music generat", "art", "creative", "design", "sora", "dall-e", "midjourney",
+        "stable diffusion", "flux", "runway", "pika", "animation", "film", "creative ai",
+        "generative art", "arte", "creatività",
+    ]),
+    ("business_investment", [
+        "funding", "raised", "million", "billion", "valuation", "acquisition",
+        "acqui", "merger", "ipo", "startup", "venture", "invest", "partnership",
+        "deal", "revenue", "profit", "loss", "layoff", "hiring", "employee",
+        "finanziamento", "miliardo", "milione", "acquisizione",
+    ]),
+    ("models_research", [
+        "model", "llm", "large language", "foundation model", "benchmark",
+        "research paper", "arxiv", "training", "fine-tun", "weights", "parameter",
+        "gpt", "gemini", "claude", "llama", "mistral", "phi", "qwen", "grok",
+        "o1", "o3", "o4", "r1", "deepseek", "diffusion", "multimodal",
+        "transformer", "attention", "neural network", "algorithm",
+    ]),
+    ("tools_products", [
+        "launch", "release", "new feature", "plugin", "extension", "app",
+        "api", "platform", "product", "assistant", "chatbot", "copilot",
+        "agent", "workflow", "automat", "integrat", "update", "version",
+        "tool", "software", "service", "subscription", "open source",
+    ]),
+]
 
-- models_research: New AI models, research papers, benchmarks, training techniques
-- tools_products: Software tools, APIs, applications, product launches, features
-- policy_regulation: Laws, government policy, regulations, hearings, compliance
-- business_investment: Funding, acquisitions, partnerships, revenue, market analysis
-- ethics_safety: AI safety, alignment, bias, misuse, deepfakes, societal impact
-- healthcare: Medical AI applications, drug discovery, diagnostics, clinical trials
-- creativity: Art, music, writing, video generation, creative AI applications
-- other: Anything that does not fit the above categories
-
-Respond ONLY with a JSON array where each element is: {"index": <integer>, "category": "<category_key>"}
-No explanations. No markdown fences. Only the raw JSON array."""
+_COMPILED: list[tuple[str, re.Pattern]] = [
+    (cat, re.compile("|".join(re.escape(kw) for kw in kws), re.IGNORECASE))
+    for cat, kws in RULES
+]
 
 
-def _build_user_message(batch: list[dict], offset: int) -> str:
-    lines = []
-    for i, article in enumerate(batch):
-        lines.append(f'[{offset + i}] Title: {article["title"]}')
-        if article["summary"]:
-            lines.append(f'    Summary: {article["summary"][:200]}')
-    return "\n".join(lines)
-
-
-@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=5, max=30))
-def _call_claude(client: anthropic.Anthropic, user_message: str) -> list[dict]:
-    response = client.messages.create(
-        model=CLAUDE_MODEL,
-        max_tokens=1024,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": user_message}],
-    )
-    raw = response.content[0].text.strip()
-    # Strip markdown fences if present
-    if raw.startswith("```"):
-        parts = raw.split("```")
-        raw = parts[1] if len(parts) > 1 else raw
-        if raw.startswith("json"):
-            raw = raw[4:].strip()
-    return json.loads(raw)
+def _classify(title: str, summary: str) -> str:
+    text = f"{title} {summary}"
+    for cat, pattern in _COMPILED:
+        if pattern.search(text):
+            return cat
+    return "other"
 
 
 def categorize_articles(articles: list[dict]) -> list[dict]:
-    if not ANTHROPIC_API_KEY:
-        logger.error("ANTHROPIC_API_KEY not set — skipping categorization, all articles -> 'other'")
-        for a in articles:
-            a["category"] = "other"
-        return articles
-
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-    total = len(articles)
-    logger.info(f"Categorizing {total} articles in batches of {CATEGORIZATION_BATCH_SIZE}")
-
-    for batch_start in range(0, total, CATEGORIZATION_BATCH_SIZE):
-        batch = articles[batch_start: batch_start + CATEGORIZATION_BATCH_SIZE]
-        user_msg = _build_user_message(batch, batch_start)
-
-        try:
-            results = _call_claude(client, user_msg)
-            for result in results:
-                idx = result.get("index")
-                cat = result.get("category")
-                if cat in CATEGORIES and isinstance(idx, int) and 0 <= idx < total:
-                    articles[idx]["category"] = cat
-        except Exception as exc:
-            logger.error(f"Categorization batch starting at {batch_start} failed: {exc}")
-            for article in batch:
-                if article["category"] is None:
-                    article["category"] = "other"
-
+    counts: dict[str, int] = {cat: 0 for cat in CATEGORIES}
     for article in articles:
-        if article["category"] is None:
-            article["category"] = "other"
-
+        cat = _classify(article["title"], article.get("summary", ""))
+        article["category"] = cat
+        counts[cat] = counts.get(cat, 0) + 1
+    logger.info(f"Categorized {len(articles)} articles: " +
+                ", ".join(f"{c}={n}" for c, n in counts.items() if n))
     return articles
