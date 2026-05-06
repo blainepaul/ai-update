@@ -66,13 +66,13 @@ def main():
     from traction import build_traction_map
     traction_map = build_traction_map()
 
-    # Render HTML (traction used for highlights ranking)
+    # Compute highlights ONCE — used both for the site and the Telegram message
     from renderer import render_html, write_output, pick_highlights
-    html = render_html(merged, traction_map)
+    highlights = pick_highlights(merged, traction_map)
+
+    html = render_html(merged, highlights)
     output_path = write_output(html)
 
-    # Send Telegram notification with top 5
-    highlights = pick_highlights(merged, traction_map)
     from notifier import send_highlights
     send_highlights(highlights)
 

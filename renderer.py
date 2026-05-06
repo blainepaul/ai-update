@@ -59,7 +59,7 @@ def _day_label(day_key: str) -> str:
     return f"{prefix} — {full}" if prefix else full
 
 
-def render_html(articles: list[dict], traction_map: dict | None = None) -> str:
+def render_html(articles: list[dict], highlights: list[dict]) -> str:
     # Group by day (UTC date key)
     by_day: dict[str, list[dict]] = defaultdict(list)
     for article in articles:
@@ -87,8 +87,6 @@ def render_html(articles: list[dict], traction_map: dict | None = None) -> str:
 
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     active_sources = len(set(a["source"] for a in articles))
-
-    highlights = pick_highlights(articles, traction_map)
 
     env = Environment(loader=FileSystemLoader(os.path.join(BASE_DIR, "templates")))
     template = env.get_template("dashboard.html")
