@@ -64,12 +64,28 @@
     "category": "creativity"
   },
   {
+    "title": "ZAYA1-8B: Frontier intelligence density, trained on AMD",
+    "url": "https://www.zyphra.com/post/zaya1-8b",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-06T19:43:52+00:00",
+    "category": "other"
+  },
+  {
     "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
     "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
     "summary": "",
     "source": "HuggingFace Blog",
     "date": "2026-05-06T19:06:55+00:00",
     "category": "models_research"
+  },
+  {
+    "title": "DeepSeek Targets $50B Valuation in First Fundraising, Escalating Global AI Race",
+    "url": "https://www.financership.com/deepseek-50-billion-valuation-first-fundraising-ai/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-06T19:00:35+00:00",
+    "category": "business_investment"
   },
   {
     "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
@@ -126,6 +142,14 @@
     "source": "Wired",
     "date": "2026-05-06T16:51:12+00:00",
     "category": "tools_products"
+  },
+  {
+    "title": "AI lets chemists design molecules by simply describing them",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm",
+    "summary": "**A New AI Approach to Chemical Reasoning**\n\nResearchers led by Philippe Schwaller at EPFL have developed a new method that uses large language models (LLMs) as reasoning tools for chemistry. Rather than directly generating chemical structures, these models act as evaluators that guide existing comp",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-06T16:41:28+00:00",
+    "category": "creativity"
   },
   {
     "title": "Anthropic Inks Computing Deal With SpaceX to Meet AI Demand",
@@ -256,6 +280,14 @@
     "category": "creativity"
   },
   {
+    "title": "Bad news: Apple drops high-memory Mac Studio configs",
+    "url": "https://9to5mac.com/2026/05/05/apples-most-powerful-mac-studio-loses-its-last-remaining-ram-upgrade-option/",
+    "summary": "Looks like Apple has quietly killed off the higher-memory Mac Studio options. The M3 Ultra Mac Studio is now only available with 96GB RAM. The 512GB option was already removed back in March, and now the 256GB config is gone too.\n\nApple has said both the Mac Studio and Mac mini will stay supply-const",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-06T11:13:02+00:00",
+    "category": "tools_products"
+  },
+  {
     "title": "Hut 8 Jumps Most Since 2021 on Texas AI Data Center Lease",
     "url": "https://www.bloomberg.com/news/articles/2026-05-06/hut-8-to-lease-texas-ai-data-center-for-at-least-9-8-billion",
     "summary": "Hut 8 Corp., a cryptocurrency miner that is shifting to developing artificial intelligence data center capacity, gained the most in five years after the company signed a lease worth at least $9.8 billion to provide computing power to a “high-investment-grade company.”",
@@ -280,12 +312,28 @@
     "category": "creativity"
   },
   {
+    "title": "Dario Amodei spent last year warning of an AI white-collar bloodbath. Now he's changing the narrative",
+    "url": "https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/",
+    "summary": "Is Dario AGI-pilled/ASI-pilled or not?\n\nAs the article notes, this is a shift in his rhetoric where he’s now talking about Jevon’s paradox and it’s possible there’d be more jobs because of AI.\n\nIf he really believes in AGI and ASI being on the horizon, then there’s no way he can believe that. The ar",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-06T08:59:40+00:00",
+    "category": "creativity"
+  },
+  {
     "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
     "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
     "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company.",
     "source": "TechCrunch AI",
     "date": "2026-05-06T06:47:12+00:00",
     "category": "business_investment"
+  },
+  {
+    "title": "Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama",
+    "url": "https://www.cyera.com/research/bleeding-llama-critical-unauthenticated-memory-leak-in-ollama",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-06T02:02:25+00:00",
+    "category": "models_research"
   },
   {
     "title": "Introducing ChatGPT Futures: Class of 2026",
@@ -296,12 +344,12 @@
     "category": "models_research"
   },
   {
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
-    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "url": "https://openai.com/index/singular-bank",
+    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
     "source": "OpenAI Blog",
     "date": "2026-05-06T00:00:00+00:00",
-    "category": "creativity"
+    "category": "policy_regulation"
   },
   {
     "title": "How frontier enterprises are building an AI advantage",
@@ -312,20 +360,20 @@
     "category": "tools_products"
   },
   {
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
+    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "source": "OpenAI Blog",
+    "date": "2026-05-06T00:00:00+00:00",
+    "category": "creativity"
+  },
+  {
     "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
     "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
     "summary": "",
     "source": "HuggingFace Blog",
     "date": "2026-05-06T00:00:00+00:00",
     "category": "other"
-  },
-  {
-    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-    "url": "https://openai.com/index/singular-bank",
-    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-    "source": "OpenAI Blog",
-    "date": "2026-05-06T00:00:00+00:00",
-    "category": "policy_regulation"
   },
   {
     "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",

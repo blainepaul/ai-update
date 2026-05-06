@@ -1,5 +1,10 @@
 import os
 
+# --- Telegram ---
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID", "")
+SITE_URL           = os.environ.get("SITE_URL", "https://blainepaul.github.io/ai-news/")
+
 # --- Categories ---
 CATEGORIES = [
     "models_research",
@@ -53,6 +58,16 @@ FEEDS = [
 
 # Feeds that are NOT AI-specific and need keyword filtering
 GENERIC_FEEDS = {"ANSA Tech", "Bloomberg Tech", "MIT Tech Review", "Wired", "Ars Technica"}
+
+# --- Reddit sources (curated, moderated AI subreddits) ---
+# Only link posts with score >= min_score are included
+REDDIT_SOURCES = [
+    {"sub": "MachineLearning", "min_score": 50},   # very strict — academic/pro
+    {"sub": "artificial",      "min_score": 30},
+    {"sub": "AINews",          "min_score": 20},
+    {"sub": "singularity",     "min_score": 30},
+    {"sub": "LocalLLaMA",      "min_score": 40},
+]
 
 AI_KEYWORDS = [
     "artificial intelligence", "machine learning", "deep learning",

@@ -21,7 +21,7 @@ def setup_logging():
 def open_in_browser(path: str):
     import sys as _sys
     if _sys.platform != "win32":
-        return  # no browser on GitHub Actions / Linux
+        return
     try:
         os.startfile(path)
     except Exception as exc:
@@ -33,16 +33,15 @@ def main():
     logger = logging.getLogger("main")
     logger.info("=== AI News Aggregator starting ===")
 
-    # Load existing store (articles from past 7 days)
+    # Load existing store
     import store
     existing = store.load()
     existing_urls = {a["url"] for a in existing}
 
-    # Fetch fresh articles from RSS feeds
+    # Fetch new articles (RSS + Reddit)
     from fetcher import fetch_all_articles
     fetched = fetch_all_articles()
 
-    # Only process articles we haven't seen before
     new_articles = [a for a in fetched if a["url"] not in existing_urls]
     logger.info(f"New articles to process: {len(new_articles)}")
 
@@ -54,10 +53,7 @@ def main():
         logger.info("No new articles — store unchanged")
         merged = existing
 
-    # Remove articles older than 7 days
     merged = store.purge_old(merged)
-
-    # Sort newest first before saving and rendering
     merged.sort(key=lambda a: a["date"], reverse=True)
 
     if not merged:
@@ -66,9 +62,19 @@ def main():
 
     store.save(merged)
 
-    from renderer import render_html, write_output
-    html = render_html(merged)
+    # Build traction map from HN + Reddit
+    from traction import build_traction_map
+    traction_map = build_traction_map()
+
+    # Render HTML (traction used for highlights ranking)
+    from renderer import render_html, write_output, pick_highlights
+    html = render_html(merged, traction_map)
     output_path = write_output(html)
+
+    # Send Telegram notification with top 5
+    highlights = pick_highlights(merged, traction_map)
+    from notifier import send_highlights
+    send_highlights(highlights)
 
     open_in_browser(output_path)
     logger.info(f"=== Done — {len(merged)} articles in store ===")

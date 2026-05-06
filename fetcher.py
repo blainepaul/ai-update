@@ -7,7 +7,7 @@ from dateutil import parser as dateparser
 from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 from config import (
-    FEEDS, GENERIC_FEEDS, AI_KEYWORDS,
+    FEEDS, GENERIC_FEEDS, AI_KEYWORDS, REDDIT_SOURCES,
     MAX_ARTICLES_PER_FEED, FETCH_TIMEOUT_SECONDS, MAX_AGE_HOURS,
 )
 
@@ -117,6 +117,78 @@ def fetch_all_articles() -> list[dict]:
 
         logger.info(f"  -> {count} articles from {name}")
 
+    # Reddit link posts from curated AI subreddits
+    reddit_articles = fetch_reddit_articles(seen_urls, cutoff)
+    all_articles.extend(reddit_articles)
+
     all_articles.sort(key=lambda a: a["date"], reverse=True)
     logger.info(f"Total articles fetched: {len(all_articles)}")
     return all_articles
+
+
+def fetch_reddit_articles(seen_urls: set[str], cutoff: datetime) -> list[dict]:
+    """
+    Fetches top link posts from curated AI subreddits.
+    Only includes posts with an external URL and score >= MIN_SCORE.
+    """
+    articles = []
+    reddit_headers = {
+        "User-Agent": "AI News Aggregator/1.0 (personal use)",
+        "Accept": "application/json",
+    }
+
+    for cfg in REDDIT_SOURCES:
+        sub = cfg["sub"]
+        min_score = cfg.get("min_score", 20)
+        url = f"https://www.reddit.com/r/{sub}/top/.json?t=day&limit=50"
+        logger.info(f"Fetching Reddit: r/{sub}")
+        try:
+            resp = requests.get(url, headers=reddit_headers, timeout=FETCH_TIMEOUT_SECONDS)
+            resp.raise_for_status()
+            posts = resp.json().get("data", {}).get("children", [])
+        except Exception as exc:
+            logger.warning(f"SKIP r/{sub}: {exc}")
+            continue
+
+        count = 0
+        for post in posts:
+            d = post.get("data", {})
+            # Only link posts (not self/text posts)
+            if d.get("is_self"):
+                continue
+            ext_url = d.get("url", "").strip()
+            if not ext_url or ext_url in seen_urls:
+                continue
+            # Skip Reddit-internal links
+            if "reddit.com" in ext_url or "redd.it" in ext_url:
+                continue
+            score = d.get("score", 0)
+            if score < min_score:
+                continue
+
+            title = d.get("title", "").strip()
+            if not title:
+                continue
+
+            created = d.get("created_utc")
+            pub_date = (datetime.fromtimestamp(created, tz=timezone.utc)
+                        if created else datetime.now(timezone.utc))
+            if pub_date < cutoff:
+                continue
+
+            seen_urls.add(ext_url)
+            articles.append({
+                "title":    title,
+                "url":      ext_url,
+                "summary":  d.get("selftext", "")[:300],
+                "source":   f"Reddit r/{sub}",
+                "date":     pub_date,
+                "category": None,
+            })
+            count += 1
+            if count >= MAX_ARTICLES_PER_FEED:
+                break
+
+        logger.info(f"  -> {count} articles from r/{sub}")
+
+    return articles

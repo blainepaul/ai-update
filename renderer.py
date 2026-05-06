@@ -20,7 +20,7 @@ HIGH_IMPACT_KEYWORDS = re.compile(
 )
 
 
-def _score(article: dict, now: datetime) -> float:
+def _score(article: dict, now: datetime, traction_map: dict) -> float:
     score = 0.0
     age = now - article["date"]
     if age < timedelta(hours=24):
@@ -31,12 +31,17 @@ def _score(article: dict, now: datetime) -> float:
         score += 2
     text = f"{article['title']} {article.get('summary', '')}"
     score += len(HIGH_IMPACT_KEYWORDS.findall(text)) * 1.5
+    # Real traction from HN + Reddit (0-10, normalized)
+    if traction_map:
+        from traction import get_article_traction
+        score += get_article_traction(article, traction_map) * 2
     return score
 
 
-def pick_highlights(articles: list[dict], n: int = 5) -> list[dict]:
+def pick_highlights(articles: list[dict], traction_map: dict | None = None, n: int = 5) -> list[dict]:
     now = datetime.now(timezone.utc)
-    scored = sorted(articles, key=lambda a: _score(a, now), reverse=True)
+    tm = traction_map or {}
+    scored = sorted(articles, key=lambda a: _score(a, now, tm), reverse=True)
     return scored[:n]
 
 
@@ -54,7 +59,7 @@ def _day_label(day_key: str) -> str:
     return f"{prefix} — {full}" if prefix else full
 
 
-def render_html(articles: list[dict]) -> str:
+def render_html(articles: list[dict], traction_map: dict | None = None) -> str:
     # Group by day (UTC date key)
     by_day: dict[str, list[dict]] = defaultdict(list)
     for article in articles:
@@ -83,7 +88,7 @@ def render_html(articles: list[dict]) -> str:
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     active_sources = len(set(a["source"] for a in articles))
 
-    highlights = pick_highlights(articles)
+    highlights = pick_highlights(articles, traction_map)
 
     env = Environment(loader=FileSystemLoader(os.path.join(BASE_DIR, "templates")))
     template = env.get_template("dashboard.html")
