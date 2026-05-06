@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI News — 2026-05-06 22:52 UTC</title>
+  <title>AI News — 2026-05-06 23:04 UTC</title>
   <style>
     :root {
       --bg: #0f1117;
@@ -184,10 +184,76 @@
       border-top: 1px solid var(--border); margin-top: 1rem;
     }
 
+    /* ── Highlights ── */
+    .highlights-section {
+      max-width: 1400px;
+      margin: 1.5rem auto 0;
+      padding: 0 2rem;
+    }
+    .highlights-inner {
+      background: var(--surface);
+      border: 1px solid var(--accent);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .highlights-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.75rem 1.25rem;
+      background: var(--accent-dim);
+      border-bottom: 1px solid var(--border);
+    }
+    .highlights-header h2 { font-size: 0.9rem; font-weight: 700; color: var(--accent-light); }
+    .highlights-list { list-style: none; }
+    .highlight-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.9rem;
+      padding: 0.75rem 1.25rem;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s;
+    }
+    .highlight-item:last-child { border-bottom: none; }
+    .highlight-item:hover { background: var(--surface-hover); }
+    .highlight-rank {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--accent-light);
+      min-width: 1.4rem;
+      padding-top: 0.15rem;
+    }
+    .highlight-body { flex: 1; min-width: 0; }
+    .highlight-body a {
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 0.88rem;
+      line-height: 1.4;
+    }
+    .highlight-body a:hover { color: var(--accent-light); }
+    .highlight-meta {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+      margin-top: 0.2rem;
+      flex-wrap: wrap;
+    }
+    .highlight-source {
+      font-size: 0.68rem; color: var(--muted);
+      background: var(--border); padding: 0.08rem 0.45rem;
+      border-radius: 999px;
+    }
+    .highlight-cat {
+      font-size: 0.68rem; color: var(--accent-light);
+      background: var(--accent-dim); padding: 0.08rem 0.45rem;
+      border-radius: 999px;
+    }
+
     @media (max-width: 640px) {
       header { padding: 0.75rem 1rem; flex-direction: column; align-items: flex-start; }
       nav { padding: 0.5rem 1rem; top: 80px; }
-      main, .stats-bar { padding: 1rem; }
+      main, .stats-bar, .highlights-section { padding: 1rem; }
       .articles-grid { grid-template-columns: 1fr; }
     }
   </style>
@@ -197,8 +263,8 @@
 <header>
   <div class="header-title">⚡ AI News</div>
   <div class="header-meta">
-    Aggiornato 2026-05-06 22:52 UTC<br>
-    43 articoli · 9 fonti · 2 giorni
+    Aggiornato 2026-05-06 23:04 UTC<br>
+    44 articoli · 9 fonti · 2 giorni
   </div>
 </header>
 
@@ -207,7 +273,7 @@
   
     <a href="#day-2026-05-06">
       Oggi
-      (40)
+      (41)
     </a>
   
     <a href="#day-2026-05-05">
@@ -217,10 +283,77 @@
   
 </nav>
 
+<section class="highlights-section">
+  <div class="highlights-inner">
+    <div class="highlights-header">
+      <span>🔥</span>
+      <h2>Top 5 — Le notizie più rilevanti</h2>
+    </div>
+    <ol class="highlights-list">
+      
+        <li class="highlight-item">
+          <span class="highlight-rank">#1</span>
+          <div class="highlight-body">
+            <a href="https://openai.com/index/singular-bank" target="_blank" rel="noopener noreferrer">Singular Bank helps bankers move fast with ChatGPT and Codex</a>
+            <div class="highlight-meta">
+              <span class="highlight-source">OpenAI Blog</span>
+              <span class="highlight-cat">⚖️ Policy & Regolamentazione</span>
+            </div>
+          </div>
+        </li>
+      
+        <li class="highlight-item">
+          <span class="highlight-rank">#2</span>
+          <div class="highlight-body">
+            <a href="https://openai.com/index/introducing-chatgpt-futures-class-of-2026" target="_blank" rel="noopener noreferrer">Introducing ChatGPT Futures: Class of 2026</a>
+            <div class="highlight-meta">
+              <span class="highlight-source">OpenAI Blog</span>
+              <span class="highlight-cat">🧠 Modelli & Ricerca</span>
+            </div>
+          </div>
+        </li>
+      
+        <li class="highlight-item">
+          <span class="highlight-rank">#3</span>
+          <div class="highlight-body">
+            <a href="https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/" target="_blank" rel="noopener noreferrer">Google tests Remy AI agent for Gemini as focus turns to user control</a>
+            <div class="highlight-meta">
+              <span class="highlight-source">AI News</span>
+              <span class="highlight-cat">🎨 Creatività & Arte</span>
+            </div>
+          </div>
+        </li>
+      
+        <li class="highlight-item">
+          <span class="highlight-rank">#4</span>
+          <div class="highlight-body">
+            <a href="https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade" target="_blank" rel="noopener noreferrer">Google Home&#8217;s Gemini AI can handle more complicated requests</a>
+            <div class="highlight-meta">
+              <span class="highlight-source">The Verge AI</span>
+              <span class="highlight-cat">🎨 Creatività & Arte</span>
+            </div>
+          </div>
+        </li>
+      
+        <li class="highlight-item">
+          <span class="highlight-rank">#5</span>
+          <div class="highlight-body">
+            <a href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit" target="_blank" rel="noopener noreferrer">Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI</a>
+            <div class="highlight-meta">
+              <span class="highlight-source">The Verge AI</span>
+              <span class="highlight-cat">⚖️ Policy & Regolamentazione</span>
+            </div>
+          </div>
+        </li>
+      
+    </ol>
+  </div>
+</section>
+
 <div class="stats-bar">
   <div class="stats-inner">
     <div class="stat">
-      <span class="value">43</span>
+      <span class="value">44</span>
       <span class="label">Articoli totali</span>
     </div>
     <div class="stat">
@@ -241,7 +374,7 @@
       <div class="day-header today">
         <span>📅</span>
         <span class="day-label">Oggi — Mercoledì 6 Maggio 2026</span>
-        <span class="day-count">40 articoli</span>
+        <span class="day-count">41 articoli</span>
       </div>
 
       
@@ -378,7 +511,7 @@
             <div class="cat-header">
               <span>⚖️</span>
               <h3>Policy & Regolamentazione</h3>
-              <span class="cat-count">6</span>
+              <span class="cat-count">7</span>
             </div>
             <div class="articles-grid">
               
@@ -457,6 +590,19 @@
                   <div class="card-meta">
                     <span class="source-badge">AI News</span>
                     <span class="article-time">12:23</span>
+                  </div>
+                </article>
+              
+                <article class="article-card">
+                  <a class="title" href="https://openai.com/index/singular-bank" target="_blank" rel="noopener noreferrer">
+                    Singular Bank helps bankers move fast with ChatGPT and Codex
+                  </a>
+                  
+                    <p class="summary">Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.</p>
+                  
+                  <div class="card-meta">
+                    <span class="source-badge">OpenAI Blog</span>
+                    <span class="article-time">00:00</span>
                   </div>
                 </article>
               
@@ -949,7 +1095,7 @@
 </main>
 
 <footer>
-  Generato il 2026-05-06 22:52 UTC — AI News Aggregator · ultimi 7 giorni
+  Generato il 2026-05-06 23:04 UTC — AI News Aggregator · ultimi 7 giorni
 </footer>
 
 </body>

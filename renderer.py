@@ -1,12 +1,44 @@
 import os
+import re
 import logging
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from jinja2 import Environment, FileSystemLoader
 from config import CATEGORIES, CATEGORY_LABELS, CATEGORY_ICONS
 
 logger = logging.getLogger(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+HIGH_IMPACT_SOURCES = {
+    "OpenAI Blog", "Anthropic Blog", "Google AI Blog", "DeepMind Blog", "HuggingFace Blog"
+}
+HIGH_IMPACT_KEYWORDS = re.compile(
+    r"launch|release|announc|breakthrough|new model|raises|funding|billion|"
+    r"regulation|ban|acqui|open.sourc|gpt|gemini|claude|llama|mistral|"
+    r"lancia|annuncia|miliard|regolament",
+    re.IGNORECASE
+)
+
+
+def _score(article: dict, now: datetime) -> float:
+    score = 0.0
+    age = now - article["date"]
+    if age < timedelta(hours=24):
+        score += 3
+    elif age < timedelta(hours=48):
+        score += 1
+    if article["source"] in HIGH_IMPACT_SOURCES:
+        score += 2
+    text = f"{article['title']} {article.get('summary', '')}"
+    score += len(HIGH_IMPACT_KEYWORDS.findall(text)) * 1.5
+    return score
+
+
+def pick_highlights(articles: list[dict], n: int = 5) -> list[dict]:
+    now = datetime.now(timezone.utc)
+    scored = sorted(articles, key=lambda a: _score(a, now), reverse=True)
+    return scored[:n]
+
 
 DAYS_IT   = ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica"]
 MONTHS_IT = ["", "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
@@ -51,10 +83,13 @@ def render_html(articles: list[dict]) -> str:
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     active_sources = len(set(a["source"] for a in articles))
 
+    highlights = pick_highlights(articles)
+
     env = Environment(loader=FileSystemLoader(os.path.join(BASE_DIR, "templates")))
     template = env.get_template("dashboard.html")
 
     return template.render(
+        highlights=highlights,
         days=days_data,
         category_order=CATEGORIES,
         labels=CATEGORY_LABELS,

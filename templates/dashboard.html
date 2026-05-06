@@ -184,10 +184,76 @@
       border-top: 1px solid var(--border); margin-top: 1rem;
     }
 
+    /* ── Highlights ── */
+    .highlights-section {
+      max-width: 1400px;
+      margin: 1.5rem auto 0;
+      padding: 0 2rem;
+    }
+    .highlights-inner {
+      background: var(--surface);
+      border: 1px solid var(--accent);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .highlights-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.75rem 1.25rem;
+      background: var(--accent-dim);
+      border-bottom: 1px solid var(--border);
+    }
+    .highlights-header h2 { font-size: 0.9rem; font-weight: 700; color: var(--accent-light); }
+    .highlights-list { list-style: none; }
+    .highlight-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.9rem;
+      padding: 0.75rem 1.25rem;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s;
+    }
+    .highlight-item:last-child { border-bottom: none; }
+    .highlight-item:hover { background: var(--surface-hover); }
+    .highlight-rank {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: var(--accent-light);
+      min-width: 1.4rem;
+      padding-top: 0.15rem;
+    }
+    .highlight-body { flex: 1; min-width: 0; }
+    .highlight-body a {
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 0.88rem;
+      line-height: 1.4;
+    }
+    .highlight-body a:hover { color: var(--accent-light); }
+    .highlight-meta {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+      margin-top: 0.2rem;
+      flex-wrap: wrap;
+    }
+    .highlight-source {
+      font-size: 0.68rem; color: var(--muted);
+      background: var(--border); padding: 0.08rem 0.45rem;
+      border-radius: 999px;
+    }
+    .highlight-cat {
+      font-size: 0.68rem; color: var(--accent-light);
+      background: var(--accent-dim); padding: 0.08rem 0.45rem;
+      border-radius: 999px;
+    }
+
     @media (max-width: 640px) {
       header { padding: 0.75rem 1rem; flex-direction: column; align-items: flex-start; }
       nav { padding: 0.5rem 1rem; top: 80px; }
-      main, .stats-bar { padding: 1rem; }
+      main, .stats-bar, .highlights-section { padding: 1rem; }
       .articles-grid { grid-template-columns: 1fr; }
     }
   </style>
@@ -211,6 +277,29 @@
     </a>
   {% endfor %}
 </nav>
+
+<section class="highlights-section">
+  <div class="highlights-inner">
+    <div class="highlights-header">
+      <span>🔥</span>
+      <h2>Top 5 — Le notizie più rilevanti</h2>
+    </div>
+    <ol class="highlights-list">
+      {% for article in highlights %}
+        <li class="highlight-item">
+          <span class="highlight-rank">#{{ loop.index }}</span>
+          <div class="highlight-body">
+            <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
+            <div class="highlight-meta">
+              <span class="highlight-source">{{ article.source }}</span>
+              <span class="highlight-cat">{{ icons[article.category] }} {{ labels[article.category] }}</span>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
 
 <div class="stats-bar">
   <div class="stats-inner">
