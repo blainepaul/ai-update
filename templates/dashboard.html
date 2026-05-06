@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News — {{ generated_at }}</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface-hover: #20243a;
+      --border: #2a2d3e;
+      --text: #e2e8f0;
+      --muted: #7c8799;
+      --accent: #7c3aed;
+      --accent-light: #a78bfa;
+      --accent-dim: rgba(124,58,237,0.12);
+      --today: rgba(124,58,237,0.18);
+      --date-border: #3d4060;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 200;
+    }
+    .header-title { font-size: 1.2rem; font-weight: 700; color: var(--accent-light); letter-spacing: -0.02em; }
+    .header-meta  { font-size: 0.75rem; color: var(--muted); text-align: right; line-height: 1.4; }
+
+    /* ── Date nav ── */
+    nav {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0.55rem 2rem;
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+      position: sticky;
+      top: 56px;
+      z-index: 100;
+    }
+    nav a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.78rem;
+      padding: 0.22rem 0.65rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      transition: color 0.15s, border-color 0.15s, background 0.15s;
+      white-space: nowrap;
+    }
+    nav a:hover, nav a.active { border-color: var(--accent); color: var(--accent-light); background: var(--accent-dim); }
+
+    /* ── Stats bar ── */
+    .stats-bar { max-width: 1400px; margin: 1.5rem auto 0; padding: 0 2rem; }
+    .stats-inner {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 0.9rem 1.4rem;
+      display: flex;
+      gap: 2.5rem;
+      flex-wrap: wrap;
+    }
+    .stat { display: flex; flex-direction: column; gap: 0.1rem; }
+    .stat .value { font-size: 1.3rem; font-weight: 700; color: var(--accent-light); line-height: 1; }
+    .stat .label { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
+    /* ── Main ── */
+    main { max-width: 1400px; margin: 0 auto; padding: 2rem; }
+
+    /* ── Day block ── */
+    .day-block { margin-bottom: 3rem; }
+    .day-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.7rem 1rem;
+      background: var(--surface);
+      border: 1px solid var(--date-border);
+      border-left: 4px solid var(--accent);
+      border-radius: 8px;
+      margin-bottom: 1.25rem;
+    }
+    .day-header.today { background: var(--today); border-color: var(--accent); }
+    .day-label { font-size: 0.95rem; font-weight: 600; color: var(--text); }
+    .day-count {
+      font-size: 0.72rem;
+      color: var(--muted);
+      background: var(--border);
+      padding: 0.12rem 0.55rem;
+      border-radius: 999px;
+      margin-left: auto;
+    }
+
+    /* ── Category section within a day ── */
+    .cat-section { margin-bottom: 1.5rem; padding-left: 0.5rem; }
+    .cat-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.7rem;
+      padding-bottom: 0.35rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .cat-header h3 { font-size: 0.82rem; font-weight: 600; color: var(--accent-light); }
+    .cat-count {
+      font-size: 0.68rem;
+      color: var(--muted);
+      background: var(--border);
+      padding: 0.08rem 0.45rem;
+      border-radius: 999px;
+    }
+
+    /* ── Card grid ── */
+    .articles-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 0.75rem;
+    }
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 9px;
+      padding: 0.9rem 1.05rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+      transition: border-color 0.15s, transform 0.15s, background 0.15s;
+    }
+    .article-card:hover { border-color: var(--accent); transform: translateY(-2px); background: var(--surface-hover); }
+    .article-card a.title {
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 0.85rem;
+      line-height: 1.4;
+    }
+    .article-card a.title:hover { color: var(--accent-light); }
+    .article-card .summary {
+      font-size: 0.76rem;
+      color: var(--muted);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      line-height: 1.5;
+      flex: 1;
+    }
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: auto;
+    }
+    .source-badge {
+      font-size: 0.68rem; color: var(--muted); background: var(--border);
+      padding: 0.08rem 0.45rem; border-radius: 999px;
+      white-space: nowrap; max-width: 150px; overflow: hidden; text-overflow: ellipsis;
+    }
+    .article-time { font-size: 0.68rem; color: var(--muted); white-space: nowrap; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center; padding: 2rem;
+      font-size: 0.7rem; color: var(--muted);
+      border-top: 1px solid var(--border); margin-top: 1rem;
+    }
+
+    @media (max-width: 640px) {
+      header { padding: 0.75rem 1rem; flex-direction: column; align-items: flex-start; }
+      nav { padding: 0.5rem 1rem; top: 80px; }
+      main, .stats-bar { padding: 1rem; }
+      .articles-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-title">⚡ AI News</div>
+  <div class="header-meta">
+    Aggiornato {{ generated_at }}<br>
+    {{ total_articles }} articoli · {{ total_sources }} fonti · {{ total_days }} giorni
+  </div>
+</header>
+
+<nav id="top">
+  <a href="#top">Tutti</a>
+  {% for day in days %}
+    <a href="#day-{{ day.key }}">
+      {% if loop.first %}Oggi{% elif loop.index == 2 %}Ieri{% else %}{{ day.key[8:] }}/{{ day.key[5:7] }}{% endif %}
+      ({{ day.total }})
+    </a>
+  {% endfor %}
+</nav>
+
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat">
+      <span class="value">{{ total_articles }}</span>
+      <span class="label">Articoli totali</span>
+    </div>
+    <div class="stat">
+      <span class="value">{{ total_days }}</span>
+      <span class="label">Giorni archiviati</span>
+    </div>
+    <div class="stat">
+      <span class="value">{{ total_sources }}</span>
+      <span class="label">Fonti attive</span>
+    </div>
+  </div>
+</div>
+
+<main>
+  {% for day in days %}
+    <section class="day-block" id="day-{{ day.key }}">
+
+      <div class="day-header {% if loop.first %}today{% endif %}">
+        <span>📅</span>
+        <span class="day-label">{{ day.label }}</span>
+        <span class="day-count">{{ day.total }} articoli</span>
+      </div>
+
+      {% for cat_key in category_order %}
+        {% if day.categories[cat_key] %}
+          <div class="cat-section">
+            <div class="cat-header">
+              <span>{{ icons[cat_key] }}</span>
+              <h3>{{ labels[cat_key] }}</h3>
+              <span class="cat-count">{{ day.categories[cat_key]|length }}</span>
+            </div>
+            <div class="articles-grid">
+              {% for article in day.categories[cat_key] %}
+                <article class="article-card">
+                  <a class="title" href="{{ article.url }}" target="_blank" rel="noopener noreferrer">
+                    {{ article.title }}
+                  </a>
+                  {% if article.summary %}
+                    <p class="summary">{{ article.summary }}</p>
+                  {% endif %}
+                  <div class="card-meta">
+                    <span class="source-badge">{{ article.source }}</span>
+                    <span class="article-time">{{ article.date.strftime('%H:%M') }}</span>
+                  </div>
+                </article>
+              {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+
+    </section>
+  {% endfor %}
+</main>
+
+<footer>
+  Generato il {{ generated_at }} — AI News Aggregator · ultimi 7 giorni
+</footer>
+
+</body>
+</html>

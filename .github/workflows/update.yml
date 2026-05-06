@@ -1,0 +1,40 @@
+name: Aggiorna Notizie AI
+
+on:
+  schedule:
+    - cron: '30 6 * * *'  # 08:30 ora italiana estiva (CEST = UTC+2)
+                           # In inverno (CET = UTC+1) corrisponde alle 07:30 — cambia in '30 7 * * *' da ottobre a marzo
+  workflow_dispatch:       # permette anche il lancio manuale dalla pagina GitHub Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Esegui aggregatore
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python main.py
+
+      - name: Salva store e pubblica sito
+        run: |
+          git config user.name "AI News Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add cache/articles.json docs/index.html
+          git diff --staged --quiet || git commit -m "news: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
