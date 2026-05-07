@@ -10,7 +10,7 @@ import os
 import time
 import requests
 from collections import defaultdict
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
 from traction import _normalize_url
 
@@ -22,7 +22,7 @@ _GEMINI_URL = (
     "gemini-2.0-flash-lite:generateContent"
 )
 _BATCH_SIZE = 8
-_MAX_ARTICLES = 40
+_MAX_ARTICLES = 60  # safety cap; actual filtering happens upstream in main.py
 _TIMEOUT = 20
 
 # Official sources — preferred when picking the canonical article within a cluster
@@ -69,12 +69,8 @@ def build_llm_score_map(articles: list[dict]) -> dict[str, float]:
         logger.info("GEMINI_API_KEY not set — LLM scoring skipped")
         return {}
 
-    now = datetime.now(timezone.utc)
-    candidates = sorted(
-        [a for a in articles if (now - a["date"]) < timedelta(hours=48)],
-        key=lambda a: a["date"],
-        reverse=True,
-    )[:_MAX_ARTICLES]
+    # articles already pre-filtered and sorted by caller; apply safety cap
+    candidates = articles[:_MAX_ARTICLES]
 
     scores: dict[str, float] = {}
     total_batches = (len(candidates) + _BATCH_SIZE - 1) // _BATCH_SIZE

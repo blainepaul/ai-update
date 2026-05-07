@@ -135,12 +135,23 @@ def main():
         a["_is_new"] = a["url"] in new_urls
     logger.info(f"Dedup: {len(merged)} → {len(display)} articles for display")
 
-    # LLM strategic importance scoring via Gemini Flash (free tier)
-    llm_map = build_llm_score_map(display)
-
     # Pre-compute scores so renderer can sort by relevance
     from renderer import _score as compute_score
     _now = datetime.now(timezone.utc)
+
+    # Pre-filter: score new articles with rule-based scorer (no LLM yet), pick top 60
+    # These are the candidates for Gemini evaluation
+    new_display = [a for a in display if a.get("_is_new")]
+    llm_candidates = sorted(
+        new_display,
+        key=lambda a: compute_score(a, _now, traction_map, {}),
+        reverse=True,
+    )[:60]
+    logger.info(f"LLM candidates (pre-filtered): {len(llm_candidates)} of {len(new_display)} new articles")
+
+    # LLM strategic importance scoring via Gemini Flash (free tier)
+    llm_map = build_llm_score_map(llm_candidates)
+
     for a in display:
         a["_computed_score"] = compute_score(a, _now, traction_map, llm_map)
 
