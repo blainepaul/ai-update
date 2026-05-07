@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="it" data-theme="light">
+<html lang="it" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -382,8 +382,8 @@
       {{ total_articles }} articoli · {{ total_sources }} fonti
     </div>
     <button class="theme-toggle" id="theme-toggle" title="Cambia tema">
-      <span id="theme-icon">🌙</span>
-      <span id="theme-label">Dark</span>
+      <span id="theme-icon">☀️</span>
+      <span id="theme-label">Light</span>
     </button>
   </div>
 </header>
@@ -505,8 +505,8 @@
     localStorage.setItem('ai-update-theme', t);
   }
 
-  // Restore saved preference, default to light
-  applyTheme(localStorage.getItem('ai-update-theme') || 'light');
+  // Restore saved preference, default to dark
+  applyTheme(localStorage.getItem('ai-update-theme') || 'dark');
 
   btn.addEventListener('click', () => {
     applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
