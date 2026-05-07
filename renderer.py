@@ -94,10 +94,6 @@ def _score(article: dict, now: datetime, traction_map: dict, llm_map: dict | Non
         from llm_scorer import get_article_llm_score
         score += get_article_llm_score(article, llm_map) * 1.5
 
-    # Malus for articles already shown in previous highlights (-8 pts)
-    if article.get("_in_prev_highlights"):
-        score -= 8
-
     return score
 
 

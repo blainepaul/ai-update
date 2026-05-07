@@ -138,20 +138,23 @@ def main():
     # LLM strategic importance scoring via Gemini Flash (free tier)
     llm_map = build_llm_score_map(display)
 
-    # Mark articles already shown in previous highlights (malus in scoring)
-    prev_highlight_urls = _load_prev_highlight_urls()
-    for a in display:
-        a["_in_prev_highlights"] = a["url"] in prev_highlight_urls
-
     # Pre-compute scores so renderer can sort by relevance
     from renderer import _score as compute_score
     _now = datetime.now(timezone.utc)
     for a in display:
         a["_computed_score"] = compute_score(a, _now, traction_map, llm_map)
 
-    # Compute highlights ONCE — used both for the site and the Telegram message
-    highlights = pick_highlights(display, traction_map, llm_map)
-    _save_highlight_urls(highlights)
+    # Top 20 of this run (new articles only), sorted by score
+    run_top20 = sorted(
+        [a for a in display if a.get("_is_new")],
+        key=lambda a: a["_computed_score"],
+        reverse=True,
+    )[:20]
+
+    # Top 7 = best 7 of the current run's top 20
+    # Fallback to full display if run brought < 7 new articles
+    highlight_pool = run_top20 if len(run_top20) >= 7 else display
+    highlights = pick_highlights(highlight_pool, traction_map, llm_map)
 
     html = render_html(display, highlights, traction_history)
     output_path = write_output(html)
