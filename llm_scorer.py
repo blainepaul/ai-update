@@ -7,6 +7,7 @@ LLM utilities using Gemini 2.0 Flash Lite (Google AI Studio free tier: 1500 req/
 import json
 import logging
 import os
+import time
 import requests
 from collections import defaultdict
 from datetime import datetime, timezone, timedelta
@@ -83,16 +84,7 @@ def build_llm_score_map(articles: list[dict]) -> dict[str, float]:
         headlines = "\n".join(f"{i}. {a['title']}" for i, a in enumerate(batch))
         prompt = _PROMPT.format(headlines=headlines)
         try:
-            resp = requests.post(
-                f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
-                json={
-                    "contents": [{"parts": [{"text": prompt}]}],
-                    "generationConfig": {"temperature": 0, "maxOutputTokens": 300},
-                },
-                timeout=_TIMEOUT,
-            )
-            resp.raise_for_status()
-            raw = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+            raw = _gemini_call(prompt, max_tokens=300)
             results = _parse_json_response(raw)
             for item in results:
                 idx = item.get("i")
@@ -134,17 +126,20 @@ Example: [[0,2],[4,5,7]]
 No other text."""
 
 
-def _gemini_call(prompt: str) -> str:
+def _gemini_call(prompt: str, max_tokens: int = 400) -> str:
+    """Single Gemini call with a post-request sleep to respect the 30 RPM free tier."""
     resp = requests.post(
         f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
         json={
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0, "maxOutputTokens": 400},
+            "generationConfig": {"temperature": 0, "maxOutputTokens": max_tokens},
         },
         timeout=_TIMEOUT,
     )
     resp.raise_for_status()
-    return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+    result = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+    time.sleep(2.5)  # 30 RPM limit → 1 call per 2s; 2.5s gives comfortable headroom
+    return result
 
 
 def dedup_with_llm(articles: list[dict]) -> list[dict]:
