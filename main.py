@@ -7,6 +7,21 @@ from datetime import datetime, timezone
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 _RUN_FLAG = os.path.join(BASE_DIR, "cache", "last_run.txt")
+_PREV_HIGHLIGHTS_FILE = os.path.join(BASE_DIR, "cache", "last_highlights.json")
+
+
+def _load_prev_highlight_urls() -> set[str]:
+    try:
+        with open(_PREV_HIGHLIGHTS_FILE) as f:
+            return set(json.load(f))
+    except (FileNotFoundError, ValueError):
+        return set()
+
+
+def _save_highlight_urls(highlights: list[dict]):
+    os.makedirs(os.path.dirname(_PREV_HIGHLIGHTS_FILE), exist_ok=True)
+    with open(_PREV_HIGHLIGHTS_FILE, "w") as f:
+        json.dump([a["url"] for a in highlights], f)
 
 
 def _current_slot() -> str:
@@ -123,6 +138,11 @@ def main():
     # LLM strategic importance scoring via Gemini Flash (free tier)
     llm_map = build_llm_score_map(display)
 
+    # Mark articles already shown in previous highlights (malus in scoring)
+    prev_highlight_urls = _load_prev_highlight_urls()
+    for a in display:
+        a["_in_prev_highlights"] = a["url"] in prev_highlight_urls
+
     # Pre-compute scores so renderer can sort by relevance
     from renderer import _score as compute_score
     _now = datetime.now(timezone.utc)
@@ -131,6 +151,7 @@ def main():
 
     # Compute highlights ONCE — used both for the site and the Telegram message
     highlights = pick_highlights(display, traction_map, llm_map)
+    _save_highlight_urls(highlights)
 
     html = render_html(display, highlights, traction_history)
     output_path = write_output(html)
