@@ -2,8 +2,14 @@ name: Aggiorna Notizie AI
 
 on:
   schedule:
-    - cron: '30 6 * * *'  # 08:30 ora italiana estiva (CEST = UTC+2)
-                           # In inverno (CET = UTC+1) corrisponde alle 07:30 — cambia in '30 7 * * *' da ottobre a marzo
+    # Mattina (CEST = UTC+2; in inverno CET = UTC+1, aggiungere 1h)
+    - cron: '0 6 * * *'    # 08:00 CEST — tentativo principale
+    - cron: '30 6 * * *'   # 08:30 CEST — secondo tentativo
+    - cron: '0 7 * * *'    # 09:00 CEST — terzo tentativo
+    # Pomeriggio
+    - cron: '30 14 * * *'  # 16:30 CEST — tentativo principale pomeridiano
+    - cron: '0 15 * * *'   # 17:00 CEST — secondo tentativo
+    - cron: '30 15 * * *'  # 17:30 CEST — terzo tentativo
   workflow_dispatch:       # permette anche il lancio manuale dalla pagina GitHub Actions
 
 permissions:
@@ -36,6 +42,6 @@ jobs:
         run: |
           git config user.name "AI News Bot"
           git config user.email "bot@users.noreply.github.com"
-          git add cache/articles.json docs/index.html
+          git add cache/articles.json cache/last_notified.txt cache/last_run.txt docs/index.html
           git diff --staged --quiet || git commit -m "news: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

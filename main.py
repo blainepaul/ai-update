@@ -2,8 +2,24 @@ import os
 import sys
 import logging
 from logging.handlers import RotatingFileHandler
+from datetime import datetime, timezone
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+_RUN_FLAG = os.path.join(BASE_DIR, "cache", "last_run.txt")
+
+
+def _already_ran_today() -> bool:
+    try:
+        with open(_RUN_FLAG) as f:
+            return f.read().strip() == datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    except FileNotFoundError:
+        return False
+
+
+def _mark_ran_today():
+    os.makedirs(os.path.dirname(_RUN_FLAG), exist_ok=True)
+    with open(_RUN_FLAG, "w") as f:
+        f.write(datetime.now(timezone.utc).strftime("%Y-%m-%d"))
 
 
 def setup_logging():
@@ -31,6 +47,11 @@ def open_in_browser(path: str):
 def main():
     setup_logging()
     logger = logging.getLogger("main")
+
+    if _already_ran_today():
+        logger.info("Already ran successfully today — skipping duplicate run")
+        sys.exit(0)
+
     logger.info("=== AI News Aggregator starting ===")
 
     # Load existing store
@@ -76,6 +97,7 @@ def main():
     from notifier import send_highlights
     send_highlights(highlights)
 
+    _mark_ran_today()
     open_in_browser(output_path)
     logger.info(f"=== Done — {len(merged)} articles in store ===")
 
