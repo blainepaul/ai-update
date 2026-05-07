@@ -20,6 +20,27 @@ HIGH_IMPACT_KEYWORDS = re.compile(
     re.IGNORECASE
 )
 
+# Major AI players and their top executives — any headline featuring these is relevant
+_MAJOR_COMPANIES = re.compile(
+    r"\b(anthropic|openai|open\s+ai|deepmind|google\s+deepmind|google\s+ai|"
+    r"meta\s+ai|xai|x\.ai|grok|mistral|cohere|nvidia|"
+    r"microsoft\s+ai|copilot|chatgpt|gemini|claude|perplexity|"
+    r"hugging\s+face|stability\s+ai|inflection|"
+    # CEOs / key figures — their statements move the industry
+    r"sam\s+altman|dario\s+amodei|sundar\s+pichai|demis\s+hassabis|"
+    r"jensen\s+huang|satya\s+nadella|yann\s+lecun|geoffrey\s+hinton|"
+    r"ilya\s+sutskever|elon\s+musk|mark\s+zuckerberg|greg\s+brockman)\b",
+    re.IGNORECASE,
+)
+
+# Market-moving events — when paired with a major company, big boost
+_MARKET_EVENTS = re.compile(
+    r"\b(deal|partnership|acqui|invest|fund|raises|raised|billion|million|"
+    r"launches|launch|announces|unveiled|integrat|agreement|contract|"
+    r"doubles|expand|collaborat|hired|hires|joins|inks|signs|wins)\b",
+    re.IGNORECASE,
+)
+
 
 def _score(article: dict, now: datetime, traction_map: dict) -> float:
     score = 0.0
@@ -30,12 +51,22 @@ def _score(article: dict, now: datetime, traction_map: dict) -> float:
         score += 1
     if article["source"] in HIGH_IMPACT_SOURCES:
         score += 2
-    text = f"{article['title']} {article.get('summary', '')}"
+
+    title = article["title"]
+    text = f"{title} {article.get('summary', '')}"
     score += len(HIGH_IMPACT_KEYWORDS.findall(text)) * 1.5
+
+    # Major company mention in the title → relevant by definition
+    if _MAJOR_COMPANIES.search(title):
+        score += 2
+        # Company + market event in the same headline → extra boost
+        if _MARKET_EVENTS.search(title):
+            score += 2
+
     # Real traction from HN + Reddit (0-10, normalized)
     if traction_map:
         from traction import get_article_traction
-        score += get_article_traction(article, traction_map) * 2
+        score += get_article_traction(article, traction_map) * 3
     return score
 
 
