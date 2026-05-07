@@ -235,8 +235,8 @@ def render_html(articles: list[dict], highlights: list[dict], traction_history: 
         slot_date, slot = slot_key.split("__", 1)
         slot_articles = by_slot[slot_key]
 
-        # Sort new articles first, then by published date; keep top 20
-        slot_articles.sort(key=lambda a: (not a.get("_is_new", False), -a["date"].timestamp()))
+        # Sort by relevance score (pre-computed in main.py), keep top 20
+        slot_articles.sort(key=lambda a: a.get("_computed_score", 0), reverse=True)
         slot_articles = slot_articles[:20]
 
         by_cat = {cat: [] for cat in CATEGORIES}

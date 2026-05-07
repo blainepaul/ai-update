@@ -123,6 +123,12 @@ def main():
     # LLM strategic importance scoring via Gemini Flash (free tier)
     llm_map = build_llm_score_map(display)
 
+    # Pre-compute scores so renderer can sort by relevance
+    from renderer import _score as compute_score
+    _now = datetime.now(timezone.utc)
+    for a in display:
+        a["_computed_score"] = compute_score(a, _now, traction_map, llm_map)
+
     # Compute highlights ONCE — used both for the site and the Telegram message
     highlights = pick_highlights(display, traction_map, llm_map)
 
