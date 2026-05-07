@@ -98,9 +98,9 @@ def main():
 
     store.save(merged)
 
-    # Build traction map from HN + Reddit, then save history for sparklines
+    # Build traction map from HN + Reddit + Google Trends, then save history
     from traction import build_traction_map, save_traction_history
-    traction_map = build_traction_map()
+    traction_map = build_traction_map(merged)
     traction_history = save_traction_history(traction_map)
 
     # Compute highlights ONCE — used both for the site and the Telegram message

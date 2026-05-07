@@ -99,19 +99,100 @@ def _fetch_reddit_traction() -> dict[str, float]:
     return scores
 
 
-def build_traction_map() -> dict[str, float]:
+# Google Trends: fixed batch of AI terms queried each run
+# Maps search term (Google Trends) → substrings to match in article titles
+_TRENDS_TERMS = [
+    ["ChatGPT", "OpenAI", "Anthropic", "Gemini", "Claude"],
+    ["DeepMind", "xAI", "Mistral", "NVIDIA", "Grok"],
+    ["AI regulation", "AI safety", "LLM", "AI model", "artificial intelligence"],
+]
+_TRENDS_TITLE_MAP: dict[str, list[str]] = {
+    "chatgpt":               ["chatgpt"],
+    "openai":                ["openai", "open ai"],
+    "anthropic":             ["anthropic"],
+    "gemini":                ["gemini"],
+    "claude":                ["claude"],
+    "deepmind":              ["deepmind"],
+    "xai":                   ["xai", "x.ai", "grok"],
+    "mistral":               ["mistral"],
+    "nvidia":                ["nvidia"],
+    "grok":                  ["grok"],
+    "ai regulation":         ["ai regulation", "ai act", "eu ai"],
+    "ai safety":             ["ai safety", "alignment"],
+    "llm":                   ["llm", "language model"],
+    "ai model":              ["ai model", "new model"],
+    "artificial intelligence": ["artificial intelligence"],
+}
+
+
+def _fetch_google_trends() -> dict[str, float]:
+    """
+    Returns {term_lowercase: score_0_to_100} for AI keywords over the last 24h.
+    Uses pytrends (unofficial Google Trends wrapper, no API key required).
+    Gracefully returns {} on any failure.
+    """
+    try:
+        import time
+        from pytrends.request import TrendReq
+        pytrends = TrendReq(hl="en-US", tz=0, timeout=(10, 30),
+                            retries=2, backoff_factor=0.5)
+        scores: dict[str, float] = {}
+        for batch in _TRENDS_TERMS:
+            try:
+                pytrends.build_payload(batch, timeframe="now 1-d", geo="")
+                df = pytrends.interest_over_time()
+                if not df.empty:
+                    for term in batch:
+                        if term in df.columns:
+                            scores[term.lower()] = float(df[term].mean())
+                time.sleep(2)  # avoid rate-limiting
+            except Exception as exc:
+                logger.warning(f"Google Trends batch {batch[0]}… failed: {exc}")
+        logger.info(f"Google Trends: {len(scores)} terms scored")
+        return scores
+    except ImportError:
+        logger.warning("pytrends not installed — Google Trends skipped")
+        return {}
+    except Exception as exc:
+        logger.warning(f"Google Trends failed: {exc}")
+        return {}
+
+
+def _trends_score_for_article(article: dict, trends: dict[str, float]) -> float:
+    """Returns the highest Google Trends score (0-100) matching the article title."""
+    if not trends:
+        return 0.0
+    title = article.get("title", "").lower()
+    best = 0.0
+    for term, patterns in _TRENDS_TITLE_MAP.items():
+        if term in trends and any(p in title for p in patterns):
+            best = max(best, trends[term])
+    return best
+
+
+def build_traction_map(articles: list[dict] | None = None) -> dict[str, float]:
     """
     Returns {normalized_url: combined_traction_score}, normalized to 0-10.
-    Reddit is weighted 2x vs HN since it has more AI community signal.
+    Sources: HN (1x) + Reddit OAuth (2x) + Google Trends (1x, keyword-matched).
     """
     hn = _fetch_hn()
     reddit = _fetch_reddit_traction()
+    trends = _fetch_google_trends()
 
     combined: dict[str, float] = {}
     for url, score in hn.items():
         combined[url] = combined.get(url, 0) + score
     for url, score in reddit.items():
-        combined[url] = combined.get(url, 0) + score * 2.0  # Reddit 2x weight
+        combined[url] = combined.get(url, 0) + score * 2.0
+
+    # Google Trends: map keyword popularity back to each article URL
+    if trends and articles:
+        for article in articles:
+            t_score = _trends_score_for_article(article, trends)
+            if t_score > 0:
+                url = _normalize_url(article.get("url", ""))
+                if url:
+                    combined[url] = combined.get(url, 0) + t_score
 
     if not combined:
         return {}

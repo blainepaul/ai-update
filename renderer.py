@@ -63,10 +63,10 @@ def _score(article: dict, now: datetime, traction_map: dict) -> float:
         if _MARKET_EVENTS.search(title):
             score += 2
 
-    # Real traction from HN + Reddit (0-10, normalized)
+    # Traction from HN + Reddit + Google Trends (0-10 normalized → max +20)
     if traction_map:
         from traction import get_article_traction
-        score += get_article_traction(article, traction_map) * 3
+        score += get_article_traction(article, traction_map) * 2
     return score
 
 
