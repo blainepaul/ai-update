@@ -59,7 +59,7 @@ _EXEC_STATEMENT = re.compile(
 )
 
 
-def _score(article: dict, now: datetime, traction_map: dict) -> float:
+def _score(article: dict, now: datetime, traction_map: dict, llm_map: dict | None = None) -> float:
     score = 0.0
     age = now - article["date"]
     if age < timedelta(hours=24):
@@ -84,17 +84,25 @@ def _score(article: dict, now: datetime, traction_map: dict) -> float:
     if _EXEC_NAMES.search(title) and _EXEC_STATEMENT.search(title):
         score += 2
 
-    # Traction from HN + Reddit + Google Trends (0-10 normalized → max +20)
+    # Traction from HN + Reddit + Serper + Google Trends (0-10 normalized → max +20)
     if traction_map:
         from traction import get_article_traction
         score += get_article_traction(article, traction_map) * 2
+
+    # LLM strategic importance score (0-10 → max +15)
+    if llm_map:
+        from llm_scorer import get_article_llm_score
+        score += get_article_llm_score(article, llm_map) * 1.5
+
     return score
 
 
-def pick_highlights(articles: list[dict], traction_map: dict | None = None, n: int = 7) -> list[dict]:
+def pick_highlights(articles: list[dict], traction_map: dict | None = None,
+                    llm_map: dict | None = None, n: int = 7) -> list[dict]:
     now = datetime.now(timezone.utc)
     tm = traction_map or {}
-    scored = sorted(articles, key=lambda a: _score(a, now, tm), reverse=True)
+    lm = llm_map or {}
+    scored = sorted(articles, key=lambda a: _score(a, now, tm, lm), reverse=True)
     return scored[:n]
 
 

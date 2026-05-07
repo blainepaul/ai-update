@@ -108,8 +108,12 @@ def main():
     display = dedup_articles(merged)
     logger.info(f"Dedup: {len(merged)} → {len(display)} articles for display")
 
+    # LLM strategic importance scoring via Gemini Flash (free tier)
+    from llm_scorer import build_llm_score_map
+    llm_map = build_llm_score_map(display)
+
     # Compute highlights ONCE — used both for the site and the Telegram message
-    highlights = pick_highlights(display, traction_map)
+    highlights = pick_highlights(display, traction_map, llm_map)
 
     html = render_html(display, highlights, traction_history)
     output_path = write_output(html)

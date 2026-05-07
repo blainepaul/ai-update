@@ -39,6 +39,7 @@ jobs:
           REDDIT_CLIENT_ID:      ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET:  ${{ secrets.REDDIT_CLIENT_SECRET }}
           SERPER_API_KEY:        ${{ secrets.SERPER_API_KEY }}
+          GEMINI_API_KEY:        ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
 
       - name: Salva store e pubblica sito
