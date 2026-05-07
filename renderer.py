@@ -201,41 +201,64 @@ def dedup_articles(articles: list[dict], threshold: float = 0.55) -> list[dict]:
 DAYS_IT   = ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica"]
 MONTHS_IT = ["", "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
              "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"]
+_SLOT_LABELS = {"morning": "Mattina", "afternoon": "Pomeriggio"}
+_SLOT_ICONS  = {"morning": "🌅", "afternoon": "🌆"}
 
 
-def _day_label(day_key: str) -> str:
-    dt = datetime.strptime(day_key, "%Y-%m-%d")
+def _slot_label(slot_date: str, slot: str) -> str:
+    dt = datetime.strptime(slot_date, "%Y-%m-%d")
     today = datetime.now(timezone.utc).date()
     delta = (today - dt.date()).days
-    prefix = {0: "Oggi", 1: "Ieri"}.get(delta, "")
-    full = f"{DAYS_IT[dt.weekday()]} {dt.day} {MONTHS_IT[dt.month]} {dt.year}"
-    return f"{prefix} — {full}" if prefix else full
+    day_prefix = {0: "Oggi", 1: "Ieri"}.get(delta, "")
+    date_str = f"{DAYS_IT[dt.weekday()]} {dt.day} {MONTHS_IT[dt.month]}"
+    slot_str = _SLOT_LABELS.get(slot, "")
+    if day_prefix:
+        return f"{day_prefix} — {slot_str}" if slot_str else day_prefix
+    return f"{slot_str} — {date_str}" if slot_str else date_str
 
 
 def render_html(articles: list[dict], highlights: list[dict], traction_history: dict | None = None) -> str:
-    # Group by day (UTC date key)
-    by_day: dict[str, list[dict]] = defaultdict(list)
+    now = datetime.now(timezone.utc)
+
+    # Group by run slot (date + morning/afternoon).
+    # Old articles without _slot default to "morning" of their date.
+    by_slot: dict[str, list[dict]] = defaultdict(list)
     for article in articles:
-        day_key = article["date"].strftime("%Y-%m-%d")
-        by_day[day_key].append(article)
+        slot = article.get("_slot") or "morning"
+        slot_date = article.get("_slot_date") or article["date"].strftime("%Y-%m-%d")
+        by_slot[f"{slot_date}__{slot}"].append(article)
 
-    sorted_days = sorted(by_day.keys(), reverse=True)
+    sorted_slots = sorted(by_slot.keys(), reverse=True)
 
-    days_data = []
-    for day_key in sorted_days:
-        day_articles = by_day[day_key]
+    slots_data = []
+    for slot_key in sorted_slots:
+        slot_date, slot = slot_key.split("__", 1)
+        slot_articles = by_slot[slot_key]
+
+        # Sort new articles first, then by published date; keep top 20
+        slot_articles.sort(key=lambda a: (not a.get("_is_new", False), -a["date"].timestamp()))
+        slot_articles = slot_articles[:20]
+
         by_cat = {cat: [] for cat in CATEGORIES}
-        for article in day_articles:
+        for article in slot_articles:
             cat = article.get("category", "other")
             if cat not in by_cat:
                 cat = "other"
             by_cat[cat].append(article)
 
-        days_data.append({
-            "key":        day_key,
-            "label":      _day_label(day_key),
+        new_count = sum(1 for a in slot_articles if a.get("_is_new"))
+        is_today = slot_date == now.strftime("%Y-%m-%d")
+
+        slots_data.append({
+            "key":       slot_key,
+            "slot_date": slot_date,
+            "slot":      slot,
+            "icon":      _SLOT_ICONS.get(slot, "📅"),
+            "label":     _slot_label(slot_date, slot),
             "categories": by_cat,
-            "total":      len(day_articles),
+            "total":     len(slot_articles),
+            "new_count": new_count,
+            "is_today":  is_today,
         })
 
     # Enrich highlights with sparkline SVG + trend arrow
@@ -255,13 +278,13 @@ def render_html(articles: list[dict], highlights: list[dict], traction_history: 
 
     return template.render(
         highlights=highlights,
-        days=days_data,
+        slots=slots_data,
         category_order=CATEGORIES,
         labels=CATEGORY_LABELS,
         icons=CATEGORY_ICONS,
         total_articles=len(articles),
         total_sources=active_sources,
-        total_days=len(sorted_days),
+        total_slots=len(slots_data),
         generated_at=now_str,
     )
 

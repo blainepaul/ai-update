@@ -127,7 +127,8 @@ No other text."""
 
 
 def _gemini_call(prompt: str, max_tokens: int = 400) -> str:
-    """Single Gemini call with a post-request sleep to respect the 30 RPM free tier."""
+    """Single Gemini call, paced to respect the 30 RPM free tier."""
+    time.sleep(2.5)  # pre-call delay: 2.5s → max 24 RPM, safely under 30 RPM limit
     resp = requests.post(
         f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
         json={
@@ -137,9 +138,7 @@ def _gemini_call(prompt: str, max_tokens: int = 400) -> str:
         timeout=_TIMEOUT,
     )
     resp.raise_for_status()
-    result = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
-    time.sleep(2.5)  # 30 RPM limit → 1 call per 2s; 2.5s gives comfortable headroom
-    return result
+    return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
 def dedup_with_llm(articles: list[dict]) -> list[dict]:

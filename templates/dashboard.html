@@ -401,10 +401,9 @@
 
 <nav id="top">
   <a href="#top">Tutti</a>
-  {% for day in days %}
-    <a href="#day-{{ day.key }}">
-      {% if loop.first %}Oggi{% elif loop.index == 2 %}Ieri{% else %}{{ day.key[8:] }}/{{ day.key[5:7] }}{% endif %}
-      ({{ day.total }})
+  {% for slot in slots %}
+    <a href="#slot-{{ loop.index }}">
+      {{ slot.icon }} {{ slot.label }} ({{ slot.total }}){% if slot.new_count %} <span style="color:var(--accent)">+{{ slot.new_count }}</span>{% endif %}
     </a>
   {% endfor %}
 </nav>
@@ -448,8 +447,8 @@
       <span class="label">Articoli totali</span>
     </div>
     <div class="stat">
-      <span class="value">{{ total_days }}</span>
-      <span class="label">Giorni archiviati</span>
+      <span class="value">{{ total_slots }}</span>
+      <span class="label">Run archiviate</span>
     </div>
     <div class="stat">
       <span class="value">{{ total_sources }}</span>
@@ -459,25 +458,28 @@
 </div>
 
 <main>
-  {% for day in days %}
-    <section class="day-block" id="day-{{ day.key }}">
+  {% for slot in slots %}
+    <section class="day-block" id="slot-{{ loop.index }}">
 
-      <div class="day-header {% if loop.first %}today{% endif %}">
-        <span>📅</span>
-        <span class="day-label">{{ day.label }}</span>
-        <span class="day-count">{{ day.total }} articoli</span>
+      <div class="day-header {% if slot.is_today %}today{% endif %}">
+        <span>{{ slot.icon }}</span>
+        <span class="day-label">{{ slot.label }}</span>
+        {% if slot.new_count %}
+          <span class="new-badge" style="margin-left:0.4rem">+{{ slot.new_count }} new</span>
+        {% endif %}
+        <span class="day-count">{{ slot.total }} articoli</span>
       </div>
 
       {% for cat_key in category_order %}
-        {% if day.categories[cat_key] %}
+        {% if slot.categories[cat_key] %}
           <div class="cat-section">
             <div class="cat-header">
               <span>{{ icons[cat_key] }}</span>
               <h3>{{ labels[cat_key] }}</h3>
-              <span class="cat-count">{{ day.categories[cat_key]|length }}</span>
+              <span class="cat-count">{{ slot.categories[cat_key]|length }}</span>
             </div>
             <div class="articles-grid">
-              {% for article in day.categories[cat_key] %}
+              {% for article in slot.categories[cat_key] %}
                 <article class="article-card">
                   <a class="title" href="{{ article.url }}" target="_blank" rel="noopener noreferrer">
                     {{ article.title }}

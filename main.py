@@ -79,6 +79,11 @@ def main():
 
     new_articles = [a for a in fetched if a["url"] not in existing_urls]
     new_urls = {a["url"] for a in new_articles}
+    run_slot = _current_slot()
+    run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    for a in new_articles:
+        a["_slot"] = run_slot
+        a["_slot_date"] = run_date
     logger.info(f"New articles to process: {len(new_articles)}")
 
     if new_articles:
