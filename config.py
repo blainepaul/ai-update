@@ -98,12 +98,32 @@ REDDIT_SOURCES = [
 ]
 
 AI_KEYWORDS = [
+    # Core concepts
     "artificial intelligence", "machine learning", "deep learning",
-    "neural network", "large language model", "llm", "gpt", "gemini",
-    "claude", "chatgpt", "openai", "anthropic", "deepmind", "mistral",
-    "generative ai", "diffusion model", "transformer", "ai model", "ai chip",
-    "nvidia", "ai regulation", "ai safety", "ai ethics", "ai tool",
+    "neural network", "large language model", "foundation model",
+    "generative ai", "diffusion model", "transformer", "multimodal",
+    "reasoning model", "agentic", "ai agent", "llm",
+    # Specific models
+    "gpt", "gemini", "claude", "chatgpt", "copilot",
+    "llama", "deepseek", "grok", "mistral", "mixtral", "gemma",
+    "stable diffusion", "midjourney", "sora", "dall-e",
+    # Companies / platforms
+    "openai", "anthropic", "deepmind", "nvidia",
+    "hugging face", "huggingface", "perplexity", "cohere", "xai",
+    "stability ai", "mistral ai",
+    # Products & use cases
+    "ai model", "ai chip", "ai hardware", "ai datacenter", "ai infrastructure",
+    "ai regulation", "ai safety", "ai ethics", "ai tool", "ai assistant",
+    "ai coding", "vibe coding", "computer use",
+    "text-to-video", "text-to-image", "voice ai", "speech recognition",
+    "retrieval augmented", "fine-tuning", "fine-tune",
+    "open source ai", "model weights", "open weights",
+    # Policy / milestones
+    "ai act", "eu ai", "agi", "superintelligence", "ai startup",
+    "ai investment", "ai compute", "ai governance",
+    # Italian
     "intelligenza artificiale", "apprendimento automatico",
+    "modello linguistico", "rete neurale",
 ]
 
 # --- Fetcher settings ---
