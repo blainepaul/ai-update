@@ -50,7 +50,7 @@ FEEDS = [
     {"name": "Google AI Blog",   "url": "https://blog.google/technology/ai/rss/"},
     {"name": "HuggingFace Blog", "url": "https://huggingface.co/blog/feed.xml"},
     {"name": "The Register AI",  "url": "https://www.theregister.com/software/ai_ml/headlines.atom"},
-    {"name": "AI News",          "url": "https://www.artificialintelligence-news.com/feed/"},
+    {"name": "AI News (AIN)",    "url": "https://www.artificialintelligence-news.com/feed/"},
     {"name": "ANSA Tech",        "url": "https://www.ansa.it/sito/ansait_rss.xml"},
     {"name": "Bloomberg Tech",   "url": "https://feeds.bloomberg.com/technology/news.rss"},
     {"name": "Ars Technica",     "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
