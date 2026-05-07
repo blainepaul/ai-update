@@ -10,6 +10,7 @@ from config import (
     FEEDS, GENERIC_FEEDS, AI_KEYWORDS, REDDIT_SOURCES,
     MAX_ARTICLES_PER_FEED, FETCH_TIMEOUT_SECONDS, MAX_AGE_HOURS,
 )
+from reddit_auth import get_reddit_headers
 
 logger = logging.getLogger(__name__)
 
@@ -128,22 +129,84 @@ def fetch_all_articles() -> list[dict]:
 
 def fetch_reddit_articles(seen_urls: set[str], cutoff: datetime) -> list[dict]:
     """
-    Fetches top link posts from curated AI subreddits via RSS (avoids server-IP blocks).
-    External article URL is extracted from the [link] anchor in each entry's description.
+    Fetches top link posts from curated AI subreddits.
+    Uses OAuth API if credentials are available, falls back to RSS.
     """
+    oauth_headers = get_reddit_headers()
+    if oauth_headers:
+        return _fetch_reddit_oauth(seen_urls, cutoff, oauth_headers)
+    return _fetch_reddit_rss(seen_urls, cutoff)
+
+
+def _fetch_reddit_oauth(seen_urls: set[str], cutoff: datetime, headers: dict) -> list[dict]:
     articles = []
-    # RSS endpoint is less aggressively blocked than the JSON API from server IPs
+    for cfg in REDDIT_SOURCES:
+        sub = cfg["sub"]
+        min_score = cfg.get("min_score", 20)
+        logger.info(f"Fetching Reddit OAuth: r/{sub}")
+        try:
+            resp = requests.get(
+                f"https://oauth.reddit.com/r/{sub}/top?t=day&limit=50",
+                headers=headers,
+                timeout=FETCH_TIMEOUT_SECONDS,
+            )
+            resp.raise_for_status()
+            posts = resp.json().get("data", {}).get("children", [])
+        except Exception as exc:
+            logger.warning(f"SKIP r/{sub}: {exc}")
+            continue
+
+        count = 0
+        for post in posts:
+            d = post.get("data", {})
+            if d.get("is_self"):
+                continue
+            ext_url = d.get("url", "").strip()
+            if not ext_url or "reddit.com" in ext_url or "redd.it" in ext_url:
+                continue
+            if ext_url in seen_urls:
+                continue
+            if (d.get("score") or 0) < min_score:
+                continue
+            title = d.get("title", "").strip()
+            if not title:
+                continue
+            created = d.get("created_utc")
+            pub_date = (datetime.fromtimestamp(created, tz=timezone.utc)
+                        if created else datetime.now(timezone.utc))
+            if pub_date < cutoff:
+                continue
+            seen_urls.add(ext_url)
+            articles.append({
+                "title":    title,
+                "url":      ext_url,
+                "summary":  d.get("selftext", "")[:300],
+                "source":   f"Reddit r/{sub}",
+                "date":     pub_date,
+                "category": None,
+            })
+            count += 1
+            if count >= MAX_ARTICLES_PER_FEED:
+                break
+        logger.info(f"  -> {count} articles from r/{sub}")
+    return articles
+
+
+def _fetch_reddit_rss(seen_urls: set[str], cutoff: datetime) -> list[dict]:
+    """Fallback: RSS feed (no vote scores, no IP block)."""
+    articles = []
     rss_headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0",
         "Accept": "application/rss+xml, application/xml, text/xml, */*",
     }
-
     for cfg in REDDIT_SOURCES:
         sub = cfg["sub"]
-        rss_url = f"https://www.reddit.com/r/{sub}/top.rss?t=day"
-        logger.info(f"Fetching Reddit RSS: r/{sub}")
+        logger.info(f"Fetching Reddit RSS (fallback): r/{sub}")
         try:
-            resp = requests.get(rss_url, headers=rss_headers, timeout=FETCH_TIMEOUT_SECONDS)
+            resp = requests.get(
+                f"https://www.reddit.com/r/{sub}/top.rss?t=day",
+                headers=rss_headers, timeout=FETCH_TIMEOUT_SECONDS,
+            )
             resp.raise_for_status()
             parsed = feedparser.parse(resp.content)
         except Exception as exc:
@@ -152,7 +215,6 @@ def fetch_reddit_articles(seen_urls: set[str], cutoff: datetime) -> list[dict]:
 
         count = 0
         for entry in parsed.entries:
-            # Extract the external article URL from the [link] anchor in the summary HTML
             description = getattr(entry, "summary", "") or ""
             with warnings.catch_warnings():
                 warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
@@ -165,15 +227,12 @@ def fetch_reddit_articles(seen_urls: set[str], cutoff: datetime) -> list[dict]:
                 continue
             if ext_url in seen_urls:
                 continue
-
             title = getattr(entry, "title", "").strip()
             if not title:
                 continue
-
             pub_date = _normalize_date(entry)
             if pub_date < cutoff:
                 continue
-
             seen_urls.add(ext_url)
             articles.append({
                 "title":    title,
@@ -186,7 +245,5 @@ def fetch_reddit_articles(seen_urls: set[str], cutoff: datetime) -> list[dict]:
             count += 1
             if count >= MAX_ARTICLES_PER_FEED:
                 break
-
         logger.info(f"  -> {count} articles from r/{sub}")
-
     return articles

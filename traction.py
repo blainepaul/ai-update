@@ -10,6 +10,8 @@ import requests
 from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 
+from reddit_auth import get_reddit_headers
+
 logger = logging.getLogger(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 HISTORY_FILE = os.path.join(BASE_DIR, "cache", "traction_history.json")
@@ -69,13 +71,18 @@ def _fetch_hn() -> dict[str, float]:
 
 
 def _fetch_reddit_traction() -> dict[str, float]:
-    """Returns {normalized_url: reddit_score} from AI subreddits."""
+    """Returns {normalized_url: reddit_score} from AI subreddits via OAuth API."""
+    headers = get_reddit_headers()
+    if not headers:
+        return {}
+
     scores: dict[str, float] = {}
     for sub in REDDIT_TRACTION_SUBS:
         try:
             resp = requests.get(
-                REDDIT_JSON.format(sub=sub),
-                headers=HEADERS, timeout=TIMEOUT,
+                f"https://oauth.reddit.com/r/{sub}/top?t=day&limit=50",
+                headers=headers,
+                timeout=TIMEOUT,
             )
             resp.raise_for_status()
             posts = resp.json().get("data", {}).get("children", [])
