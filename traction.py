@@ -134,8 +134,7 @@ def _fetch_google_trends() -> dict[str, float]:
     try:
         import time
         from pytrends.request import TrendReq
-        pytrends = TrendReq(hl="en-US", tz=0, timeout=(10, 30),
-                            retries=2, backoff_factor=0.5)
+        pytrends = TrendReq(hl="en-US", tz=0, timeout=(10, 30))
         scores: dict[str, float] = {}
         for batch in _TRENDS_TERMS:
             try:
