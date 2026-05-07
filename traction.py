@@ -20,6 +20,10 @@ HISTORY_MAX_POINTS = 14
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0"}
 TIMEOUT = 8
 
+SERPER_API_KEY = os.environ.get("SERPER_API_KEY", "").strip()
+SERPER_URL = "https://google.serper.dev/news"
+SERPER_MAX_ARTICLES = 35  # ~2100 req/month with 2 daily runs (well within 2500 free tier)
+
 # HN via Algolia API — single call, returns scored stories
 HN_ALGOLIA = "https://hn.algolia.com/api/v1/search?tags=story&hitsPerPage=60&query=artificial+intelligence+OR+AI+OR+LLM+OR+OpenAI+OR+Anthropic+OR+machine+learning"
 
@@ -125,6 +129,44 @@ _TRENDS_TITLE_MAP: dict[str, list[str]] = {
 }
 
 
+def _fetch_serper_traction(articles: list[dict]) -> dict[str, float]:
+    """
+    Returns {normalized_url: serper_score} (0-10) based on Google News result count.
+    Queries up to SERPER_MAX_ARTICLES recent articles via Serper.dev.
+    """
+    if not SERPER_API_KEY:
+        logger.info("SERPER_API_KEY not set — Serper traction skipped")
+        return {}
+
+    from datetime import timedelta
+    now = datetime.now(timezone.utc)
+    recent = sorted(
+        [a for a in articles if (now - a["date"]) < timedelta(hours=48)],
+        key=lambda a: a["date"], reverse=True,
+    )[:SERPER_MAX_ARTICLES]
+
+    scores: dict[str, float] = {}
+    for article in recent:
+        try:
+            resp = requests.post(
+                SERPER_URL,
+                headers={"X-API-KEY": SERPER_API_KEY, "Content-Type": "application/json"},
+                json={"q": article["title"], "num": 10, "tbs": "qdr:d"},
+                timeout=TIMEOUT,
+            )
+            resp.raise_for_status()
+            n = float(len(resp.json().get("newsResults", [])))
+            if n > 0:
+                key = _normalize_url(article.get("url", ""))
+                if key:
+                    scores[key] = max(scores.get(key, 0), n)
+        except Exception as exc:
+            logger.warning(f"Serper traction failed for '{article['title'][:50]}': {exc}")
+
+    logger.info(f"Serper traction: {len(scores)} URLs scored ({len(recent)} queried)")
+    return scores
+
+
 def _fetch_google_trends() -> dict[str, float]:
     """
     Returns {term_lowercase: score_0_to_100} for AI keywords over the last 24h.
@@ -172,17 +214,20 @@ def _trends_score_for_article(article: dict, trends: dict[str, float]) -> float:
 def build_traction_map(articles: list[dict] | None = None) -> dict[str, float]:
     """
     Returns {normalized_url: combined_traction_score}, normalized to 0-10.
-    Sources: HN (1x) + Reddit OAuth (2x) + Google Trends (1x, keyword-matched).
+    Sources: HN (1x) + Reddit OAuth (2x) + Google Trends (1x) + Serper Google News (1.5x).
     """
     hn = _fetch_hn()
     reddit = _fetch_reddit_traction()
     trends = _fetch_google_trends()
+    serper = _fetch_serper_traction(articles or [])
 
     combined: dict[str, float] = {}
     for url, score in hn.items():
         combined[url] = combined.get(url, 0) + score
     for url, score in reddit.items():
         combined[url] = combined.get(url, 0) + score * 2.0
+    for url, score in serper.items():
+        combined[url] = combined.get(url, 0) + score * 1.5
 
     # Google Trends: map keyword popularity back to each article URL
     if trends and articles:
