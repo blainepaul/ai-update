@@ -62,9 +62,9 @@ def _fetch_raw(url: str):
     return feedparser.parse(resp.content)
 
 
-def fetch_all_articles() -> list[dict]:
+def fetch_all_articles(max_age_hours: float = MAX_AGE_HOURS) -> list[dict]:
     now = datetime.now(timezone.utc)
-    cutoff = now - timedelta(hours=MAX_AGE_HOURS)
+    cutoff = now - timedelta(hours=max_age_hours)
     all_articles = []
     seen_urls: set[str] = set()
 

@@ -3,7 +3,7 @@ import os
 import sys
 import logging
 from logging.handlers import RotatingFileHandler
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 _RUN_FLAG = os.path.join(BASE_DIR, "cache", "last_run.txt")
@@ -29,26 +29,61 @@ def _current_slot() -> str:
     return "morning" if datetime.now(timezone.utc).hour < 12 else "afternoon"
 
 
-def _already_ran_today() -> bool:
+def _read_flags() -> dict:
     try:
         with open(_RUN_FLAG) as f:
-            flags = json.load(f)
-        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        return flags.get(_current_slot()) == today
+            return json.load(f)
     except (FileNotFoundError, ValueError):
+        return {}
+
+
+def _already_ran_today() -> bool:
+    flags = _read_flags()
+    ts = flags.get(_current_slot())
+    if not ts:
+        return False
+    try:
+        # Support both old format ("2025-05-07") and new ISO format
+        if "T" in ts:
+            dt = datetime.fromisoformat(ts.replace("Z", "+00:00"))
+        else:
+            dt = datetime.strptime(ts, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        return dt.date() == datetime.now(timezone.utc).date()
+    except ValueError:
         return False
 
 
 def _mark_ran_today():
     os.makedirs(os.path.dirname(_RUN_FLAG), exist_ok=True)
-    try:
-        with open(_RUN_FLAG) as f:
-            flags = json.load(f)
-    except (FileNotFoundError, ValueError):
-        flags = {}
-    flags[_current_slot()] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    flags = _read_flags()
+    flags[_current_slot()] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     with open(_RUN_FLAG, "w") as f:
         json.dump(flags, f)
+
+
+def _fetch_window_hours() -> float:
+    """
+    Returns how many hours back the fetcher should look.
+    = elapsed time since the most recent run across all slots + 2h buffer.
+    Clamped to [6, 48] hours.
+    """
+    flags = _read_flags()
+    now = datetime.now(timezone.utc)
+    latest: datetime | None = None
+    for ts in flags.values():
+        try:
+            if "T" in ts:
+                dt = datetime.fromisoformat(ts.replace("Z", "+00:00"))
+            else:
+                dt = datetime.strptime(ts, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            if latest is None or dt > latest:
+                latest = dt
+        except ValueError:
+            pass
+    if latest is None:
+        return 26.0  # first ever run: default lookback
+    elapsed_hours = (now - latest).total_seconds() / 3600
+    return max(6.0, min(48.0, elapsed_hours + 2.0))
 
 
 def setup_logging():
@@ -88,9 +123,11 @@ def main():
     existing = store.load()
     existing_urls = {a["url"] for a in existing}
 
-    # Fetch new articles (RSS + Reddit)
+    # Fetch new articles (RSS + Reddit) — window = elapsed since last run + 2h buffer
     from fetcher import fetch_all_articles
-    fetched = fetch_all_articles()
+    fetch_hours = _fetch_window_hours()
+    logger.info(f"Fetch window: {fetch_hours:.1f}h")
+    fetched = fetch_all_articles(max_age_hours=fetch_hours)
 
     new_articles = [a for a in fetched if a["url"] not in existing_urls]
     new_urls = {a["url"] for a in new_articles}
