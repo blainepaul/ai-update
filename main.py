@@ -98,16 +98,20 @@ def main():
 
     store.save(merged)
 
-    # Build traction map from HN + Reddit + Google Trends, then save history
+    # Build traction map from HN + Reddit + Serper + Google Trends, then save history
     from traction import build_traction_map, save_traction_history
     traction_map = build_traction_map(merged)
     traction_history = save_traction_history(traction_map)
 
-    # Compute highlights ONCE — used both for the site and the Telegram message
-    from renderer import render_html, write_output, pick_highlights
-    highlights = pick_highlights(merged, traction_map)
+    # Deduplicate for display (store keeps full history)
+    from renderer import render_html, write_output, pick_highlights, dedup_articles
+    display = dedup_articles(merged)
+    logger.info(f"Dedup: {len(merged)} → {len(display)} articles for display")
 
-    html = render_html(merged, highlights, traction_history)
+    # Compute highlights ONCE — used both for the site and the Telegram message
+    highlights = pick_highlights(display, traction_map)
+
+    html = render_html(display, highlights, traction_history)
     output_path = write_output(html)
 
     from notifier import send_highlights

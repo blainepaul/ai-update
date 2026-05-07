@@ -41,6 +41,23 @@ _MARKET_EVENTS = re.compile(
     re.IGNORECASE,
 )
 
+# Named executives — separate from _MAJOR_COMPANIES for targeted declaration boost
+_EXEC_NAMES = re.compile(
+    r"\b(sam\s+altman|dario\s+amodei|sundar\s+pichai|demis\s+hassabis|"
+    r"jensen\s+huang|satya\s+nadella|yann\s+lecun|geoffrey\s+hinton|"
+    r"ilya\s+sutskever|elon\s+musk|mark\s+zuckerberg|greg\s+brockman|"
+    r"altman|amodei|hassabis|nadella|lecun|hinton|sutskever|brockman)\b",
+    re.IGNORECASE,
+)
+
+# Statement verbs — declaration by a named executive is industry-relevant
+_EXEC_STATEMENT = re.compile(
+    r"\b(says|said|warns|warning|predicts|believes|claims|argues|"
+    r"interview|keynote|speech|statement|declares|urges|reveals|"
+    r"admits|confirms|calls\s+for|thinks|suggests|responds|fires\s+back)\b",
+    re.IGNORECASE,
+)
+
 
 def _score(article: dict, now: datetime, traction_map: dict) -> float:
     score = 0.0
@@ -62,6 +79,10 @@ def _score(article: dict, now: datetime, traction_map: dict) -> float:
         # Company + market event in the same headline → extra boost
         if _MARKET_EVENTS.search(title):
             score += 2
+
+    # Named executive + statement verb → declaration boost (+2)
+    if _EXEC_NAMES.search(title) and _EXEC_STATEMENT.search(title):
+        score += 2
 
     # Traction from HN + Reddit + Google Trends (0-10 normalized → max +20)
     if traction_map:
@@ -114,6 +135,59 @@ def _trend_arrow(scores: list[float]) -> tuple[str, str]:
     if delta < -0.3:
         return "↓", "trend-down"
     return "→", "trend-flat"
+
+
+_DEDUP_STOP = frozenset({
+    "the","and","for","with","that","this","its","from","about",
+    "are","was","were","been","has","have","had","will","can",
+    "could","would","may","might","not","but","also","more",
+    "than","just","all","when","into","out","over","after",
+    "their","how","what","why","says","said","one","two",
+})
+
+
+def _title_tokens(title: str) -> frozenset:
+    tokens = re.findall(r'\b[a-z0-9]{3,}\b', title.lower())
+    return frozenset(t for t in tokens if t not in _DEDUP_STOP)
+
+
+def _jaccard(a: frozenset, b: frozenset) -> float:
+    if not a or not b:
+        return 0.0
+    return len(a & b) / len(a | b)
+
+
+def dedup_articles(articles: list[dict], threshold: float = 0.55) -> list[dict]:
+    """
+    Collapse near-duplicate articles (same story, multiple sources) within each day.
+    Keeps the best article per cluster: official source first, then most recent.
+    Articles are never merged across different days.
+    """
+    by_day: dict[str, list[dict]] = defaultdict(list)
+    for a in articles:
+        by_day[a["date"].strftime("%Y-%m-%d")].append(a)
+
+    kept: list[dict] = []
+    for day_arts in by_day.values():
+        tok_cache = {id(a): _title_tokens(a["title"]) for a in day_arts}
+        clusters: list[list[dict]] = []
+        for article in day_arts:
+            kw = tok_cache[id(article)]
+            placed = False
+            for cluster in clusters:
+                if any(_jaccard(kw, tok_cache[id(m)]) >= threshold for m in cluster):
+                    cluster.append(article)
+                    placed = True
+                    break
+            if not placed:
+                clusters.append([article])
+        for cluster in clusters:
+            best = max(cluster, key=lambda a: (
+                a["source"] in HIGH_IMPACT_SOURCES,
+                a["date"],
+            ))
+            kept.append(best)
+    return kept
 
 
 DAYS_IT   = ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica"]
