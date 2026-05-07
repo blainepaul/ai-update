@@ -1,4 +1,4 @@
-"""Sends a Telegram message (twice a day) with the top 5 highlights and site link."""
+"""Sends a Telegram message (twice a day) with the top 7 highlights and site link."""
 import html
 import json
 import logging
@@ -14,8 +14,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SENT_FLAG = os.path.join(BASE_DIR, "cache", "last_notified.txt")
 
 _SLOT_HEADER = {
-    "morning":   "🌅 AI Update — Top 5 di questa mattina",
-    "afternoon": "🌆 AI Update — Top 5 di questo pomeriggio",
+    "morning":   "🌅 AI Update — Top 7 di questa mattina",
+    "afternoon": "🌆 AI Update — Top 7 di questo pomeriggio",
 }
 
 
@@ -53,7 +53,7 @@ def _escape(text: str) -> str:
 
 def send_highlights(highlights: list[dict]) -> bool:
     """
-    Sends a Telegram message with the top 5 highlights.
+    Sends a Telegram message with the top 7 highlights.
     Returns True on success, False if credentials missing or request fails.
     """
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
@@ -64,7 +64,7 @@ def send_highlights(highlights: list[dict]) -> bool:
         logger.info("Telegram notification already sent today — skipping duplicate")
         return False
 
-    header = _SLOT_HEADER.get(_current_slot(), "🔥 AI Update — Top 5")
+    header = _SLOT_HEADER.get(_current_slot(), "🔥 AI Update — Top 7")
     lines = [f"<b>{header}</b>\n"]
     for i, article in enumerate(highlights, 1):
         cat_key  = article.get("category", "other")

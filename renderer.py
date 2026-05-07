@@ -70,7 +70,7 @@ def _score(article: dict, now: datetime, traction_map: dict) -> float:
     return score
 
 
-def pick_highlights(articles: list[dict], traction_map: dict | None = None, n: int = 5) -> list[dict]:
+def pick_highlights(articles: list[dict], traction_map: dict | None = None, n: int = 7) -> list[dict]:
     now = datetime.now(timezone.utc)
     tm = traction_map or {}
     scored = sorted(articles, key=lambda a: _score(a, now, tm), reverse=True)
