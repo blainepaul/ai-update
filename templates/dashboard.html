@@ -350,6 +350,17 @@
       font-weight: 500;
     }
     .article-time { font-size: 0.67rem; color: var(--muted); white-space: nowrap; }
+    .new-badge {
+      font-size: 0.6rem;
+      font-weight: 800;
+      color: #fff;
+      background: #16a34a;
+      padding: 0.1rem 0.45rem;
+      border-radius: 999px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      flex-shrink: 0;
+    }
 
     /* ── Footer ── */
     footer {
@@ -413,6 +424,7 @@
             <div class="highlight-meta">
               <span class="highlight-source">{{ article.source }}</span>
               <span class="highlight-cat">{{ icons[article.category] }} {{ labels[article.category] }}</span>
+              {% if article._is_new %}<span class="new-badge">new</span>{% endif %}
             </div>
           </div>
           {% if article._sparkline %}
@@ -476,6 +488,7 @@
                   <div class="card-meta">
                     <span class="source-badge">{{ article.source }}</span>
                     <span class="article-time">{{ article.date.strftime('%H:%M') }}</span>
+                    {% if article._is_new %}<span class="new-badge">new</span>{% endif %}
                   </div>
                 </article>
               {% endfor %}

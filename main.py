@@ -78,6 +78,7 @@ def main():
     fetched = fetch_all_articles()
 
     new_articles = [a for a in fetched if a["url"] not in existing_urls]
+    new_urls = {a["url"] for a in new_articles}
     logger.info(f"New articles to process: {len(new_articles)}")
 
     if new_articles:
@@ -108,6 +109,10 @@ def main():
     # Deduplicate for display using LLM (store keeps full history)
     from llm_scorer import dedup_with_llm, build_llm_score_map
     display = dedup_with_llm(merged)
+
+    # Mark articles added in this run
+    for a in display:
+        a["_is_new"] = a["url"] in new_urls
     logger.info(f"Dedup: {len(merged)} → {len(display)} articles for display")
 
     # LLM strategic importance scoring via Gemini Flash (free tier)
