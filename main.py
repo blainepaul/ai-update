@@ -103,13 +103,14 @@ def main():
     traction_map = build_traction_map(merged)
     traction_history = save_traction_history(traction_map)
 
-    # Deduplicate for display (store keeps full history)
-    from renderer import render_html, write_output, pick_highlights, dedup_articles
-    display = dedup_articles(merged)
+    from renderer import render_html, write_output, pick_highlights
+
+    # Deduplicate for display using LLM (store keeps full history)
+    from llm_scorer import dedup_with_llm, build_llm_score_map
+    display = dedup_with_llm(merged)
     logger.info(f"Dedup: {len(merged)} → {len(display)} articles for display")
 
     # LLM strategic importance scoring via Gemini Flash (free tier)
-    from llm_scorer import build_llm_score_map
     llm_map = build_llm_score_map(display)
 
     # Compute highlights ONCE — used both for the site and the Telegram message
