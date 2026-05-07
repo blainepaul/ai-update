@@ -15,7 +15,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 HISTORY_FILE = os.path.join(BASE_DIR, "cache", "traction_history.json")
 HISTORY_MAX_POINTS = 14
 
-HEADERS = {"User-Agent": "AI News Aggregator/1.0 (personal use)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0"}
 TIMEOUT = 8
 
 # HN via Algolia API — single call, returns scored stories
