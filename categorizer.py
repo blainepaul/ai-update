@@ -67,11 +67,14 @@ RULES: list[tuple[str, list[str]]] = [
     ]),
     ("creativity", [
         "image generat", "video generat", "text-to-image", "text-to-video",
-        "text to image", "text to video", "ai art", "generative art",
-        "music generat", "ai music", "ai film", "ai animation",
+        "text to image", "text to video",
+        "ai-generated image", "ai-generated video", "ai-generated art",
+        "ai art generator", "generative art",
+        "music generat", "ai music generator", "ai composer",
+        "ai film maker", "ai animation tool",
         "sora", "dall-e", "midjourney", "stable diffusion", "flux model",
-        "runway ml", "pika labs", "kling ai", "ai creative",
-        "arte ai", "creatività",
+        "runway ml", "pika labs", "kling ai",
+        "arte ai", "creatività ai",
     ]),
 ]
 

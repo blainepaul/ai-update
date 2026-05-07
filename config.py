@@ -3,7 +3,7 @@ import os
 # --- Telegram ---
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID", "")
-SITE_URL           = os.environ.get("SITE_URL", "https://blainepaul.github.io/ai-news/")
+SITE_URL           = os.environ.get("SITE_URL", "https://blainepaul.github.io/ai-update/")
 
 # --- Categories ---
 CATEGORIES = [

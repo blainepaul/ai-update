@@ -81,12 +81,13 @@ def main():
     logger.info(f"New articles to process: {len(new_articles)}")
 
     if new_articles:
-        from categorizer import categorize_articles
-        new_articles = categorize_articles(new_articles)
         merged = store.merge(existing, new_articles)
     else:
-        logger.info("No new articles — store unchanged")
         merged = existing
+
+    # Always recategorize the full store so rule changes take effect immediately
+    from categorizer import categorize_articles
+    merged = categorize_articles(merged)
 
     merged = store.purge_old(merged)
     merged.sort(key=lambda a: a["date"], reverse=True)

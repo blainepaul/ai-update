@@ -14,8 +14,8 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SENT_FLAG = os.path.join(BASE_DIR, "cache", "last_notified.txt")
 
 _SLOT_HEADER = {
-    "morning":   "🌅 AI News — Top 5 di questa mattina",
-    "afternoon": "🌆 AI News — Top 5 di questo pomeriggio",
+    "morning":   "🌅 AI Update — Top 5 di questa mattina",
+    "afternoon": "🌆 AI Update — Top 5 di questo pomeriggio",
 }
 
 
@@ -64,7 +64,7 @@ def send_highlights(highlights: list[dict]) -> bool:
         logger.info("Telegram notification already sent today — skipping duplicate")
         return False
 
-    header = _SLOT_HEADER.get(_current_slot(), "🔥 AI News — Top 5")
+    header = _SLOT_HEADER.get(_current_slot(), "🔥 AI Update — Top 5")
     lines = [f"<b>{header}</b>\n"]
     for i, article in enumerate(highlights, 1):
         cat_key  = article.get("category", "other")
