@@ -2,12 +2,18 @@
 Fetches real-world traction data from Hacker News and Reddit
 to score articles by actual online engagement.
 """
+import json
+import os
 import re
 import logging
 import requests
+from datetime import datetime, timezone
 from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 
 logger = logging.getLogger(__name__)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+HISTORY_FILE = os.path.join(BASE_DIR, "cache", "traction_history.json")
+HISTORY_MAX_POINTS = 14
 
 HEADERS = {"User-Agent": "AI News Aggregator/1.0 (personal use)"}
 TIMEOUT = 8
@@ -88,8 +94,8 @@ def _fetch_reddit_traction() -> dict[str, float]:
 
 def build_traction_map() -> dict[str, float]:
     """
-    Returns {normalized_url: combined_traction_score}.
-    Combines HN + Reddit scores, normalized to 0-10 range.
+    Returns {normalized_url: combined_traction_score}, normalized to 0-10.
+    Reddit is weighted 2x vs HN since it has more AI community signal.
     """
     hn = _fetch_hn()
     reddit = _fetch_reddit_traction()
@@ -98,12 +104,11 @@ def build_traction_map() -> dict[str, float]:
     for url, score in hn.items():
         combined[url] = combined.get(url, 0) + score
     for url, score in reddit.items():
-        combined[url] = combined.get(url, 0) + score
+        combined[url] = combined.get(url, 0) + score * 2.0  # Reddit 2x weight
 
     if not combined:
         return {}
 
-    # Normalize to 0-10 so traction doesn't dwarf keyword scores
     max_score = max(combined.values())
     if max_score > 0:
         combined = {url: (s / max_score) * 10 for url, s in combined.items()}
@@ -112,7 +117,41 @@ def build_traction_map() -> dict[str, float]:
     return combined
 
 
+def save_traction_history(traction_map: dict[str, float]) -> dict:
+    """Append current run's scores to per-URL history. Returns the full history."""
+    try:
+        with open(HISTORY_FILE) as f:
+            history = json.load(f)
+    except (FileNotFoundError, ValueError):
+        history = {}
+
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M")
+    for url, score in traction_map.items():
+        entry = {"ts": ts, "score": round(score, 2)}
+        history.setdefault(url, []).append(entry)
+        history[url] = history[url][-HISTORY_MAX_POINTS:]
+
+    os.makedirs(os.path.dirname(HISTORY_FILE), exist_ok=True)
+    with open(HISTORY_FILE, "w") as f:
+        json.dump(history, f, separators=(",", ":"))
+    return history
+
+
+def load_traction_history() -> dict:
+    try:
+        with open(HISTORY_FILE) as f:
+            return json.load(f)
+    except (FileNotFoundError, ValueError):
+        return {}
+
+
 def get_article_traction(article: dict, traction_map: dict[str, float]) -> float:
     """Look up a single article's traction score."""
     key = _normalize_url(article.get("url", ""))
     return traction_map.get(key, 0.0)
+
+
+def get_article_history(article: dict, history: dict) -> list[dict]:
+    """Returns list of {ts, score} data points for a given article."""
+    key = _normalize_url(article.get("url", ""))
+    return history.get(key, [])

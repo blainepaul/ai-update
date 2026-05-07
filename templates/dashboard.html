@@ -249,6 +249,17 @@
       background: var(--accent-dim); padding: 0.08rem 0.45rem;
       border-radius: 999px;
     }
+    .highlight-trend {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 3px;
+      flex-shrink: 0;
+      padding-left: 0.75rem;
+    }
+    .trend-up   { font-size: 0.8rem; color: #22c55e; font-weight: 700; }
+    .trend-down { font-size: 0.8rem; color: #ef4444; font-weight: 700; }
+    .trend-flat { font-size: 0.8rem; color: var(--muted); }
 
     @media (max-width: 640px) {
       header { padding: 0.75rem 1rem; flex-direction: column; align-items: flex-start; }
@@ -295,6 +306,14 @@
               <span class="highlight-cat">{{ icons[article.category] }} {{ labels[article.category] }}</span>
             </div>
           </div>
+          {% if article._sparkline %}
+            <div class="highlight-trend">
+              {{ article._sparkline | safe }}
+              {% if article._trend_arrow %}
+                <span class="{{ article._trend_class }}">{{ article._trend_arrow }}</span>
+              {% endif %}
+            </div>
+          {% endif %}
         </li>
       {% endfor %}
     </ol>

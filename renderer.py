@@ -5,6 +5,7 @@ from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 from jinja2 import Environment, FileSystemLoader
 from config import CATEGORIES, CATEGORY_LABELS, CATEGORY_ICONS
+from traction import get_article_history
 
 logger = logging.getLogger(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -45,6 +46,45 @@ def pick_highlights(articles: list[dict], traction_map: dict | None = None, n: i
     return scored[:n]
 
 
+def _sparkline_svg(scores: list[float]) -> str:
+    """Inline SVG bar chart from a list of 0-10 traction scores."""
+    if len(scores) < 2:
+        return ""
+    n = min(len(scores), 8)
+    data = scores[-n:]
+    w, h = 56, 18
+    bar_w = w / n
+    max_val = max(data) if max(data) > 0 else 1
+    bars = []
+    for i, val in enumerate(data):
+        bh = max(2.0, (val / max_val) * h)
+        x = i * bar_w + 1
+        y = h - bh
+        if i < n - 1:
+            color = "#3d2d6e"
+        elif val > data[-2] * 1.05:
+            color = "#22c55e"
+        elif val < data[-2] * 0.95:
+            color = "#ef4444"
+        else:
+            color = "#7c3aed"
+        bars.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{bar_w - 2:.1f}" height="{bh:.1f}" fill="{color}" rx="1"/>')
+    return (f'<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" '
+            f'style="vertical-align:middle;flex-shrink:0">{"".join(bars)}</svg>')
+
+
+def _trend_arrow(scores: list[float]) -> tuple[str, str]:
+    """Returns (arrow_char, css_class) based on last vs previous score."""
+    if len(scores) < 2:
+        return "", ""
+    delta = scores[-1] - scores[-2]
+    if delta > 0.3:
+        return "↑", "trend-up"
+    if delta < -0.3:
+        return "↓", "trend-down"
+    return "→", "trend-flat"
+
+
 DAYS_IT   = ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica"]
 MONTHS_IT = ["", "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
              "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"]
@@ -59,7 +99,7 @@ def _day_label(day_key: str) -> str:
     return f"{prefix} — {full}" if prefix else full
 
 
-def render_html(articles: list[dict], highlights: list[dict]) -> str:
+def render_html(articles: list[dict], highlights: list[dict], traction_history: dict | None = None) -> str:
     # Group by day (UTC date key)
     by_day: dict[str, list[dict]] = defaultdict(list)
     for article in articles:
@@ -84,6 +124,15 @@ def render_html(articles: list[dict], highlights: list[dict]) -> str:
             "categories": by_cat,
             "total":      len(day_articles),
         })
+
+    # Enrich highlights with sparkline SVG + trend arrow
+    hist = traction_history or {}
+    for article in highlights:
+        scores = [p["score"] for p in get_article_history(article, hist)]
+        article["_sparkline"] = _sparkline_svg(scores)
+        arrow, css = _trend_arrow(scores)
+        article["_trend_arrow"] = arrow
+        article["_trend_class"] = css
 
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     active_sources = len(set(a["source"] for a in articles))

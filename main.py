@@ -1,3 +1,4 @@
+import json
 import os
 import sys
 import logging
@@ -8,18 +9,31 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 _RUN_FLAG = os.path.join(BASE_DIR, "cache", "last_run.txt")
 
 
+def _current_slot() -> str:
+    """morning = UTC 0-11, afternoon = UTC 12-23."""
+    return "morning" if datetime.now(timezone.utc).hour < 12 else "afternoon"
+
+
 def _already_ran_today() -> bool:
     try:
         with open(_RUN_FLAG) as f:
-            return f.read().strip() == datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    except FileNotFoundError:
+            flags = json.load(f)
+        today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        return flags.get(_current_slot()) == today
+    except (FileNotFoundError, ValueError):
         return False
 
 
 def _mark_ran_today():
     os.makedirs(os.path.dirname(_RUN_FLAG), exist_ok=True)
+    try:
+        with open(_RUN_FLAG) as f:
+            flags = json.load(f)
+    except (FileNotFoundError, ValueError):
+        flags = {}
+    flags[_current_slot()] = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     with open(_RUN_FLAG, "w") as f:
-        f.write(datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+        json.dump(flags, f)
 
 
 def setup_logging():
@@ -83,15 +97,16 @@ def main():
 
     store.save(merged)
 
-    # Build traction map from HN + Reddit
-    from traction import build_traction_map
+    # Build traction map from HN + Reddit, then save history for sparklines
+    from traction import build_traction_map, save_traction_history
     traction_map = build_traction_map()
+    traction_history = save_traction_history(traction_map)
 
     # Compute highlights ONCE — used both for the site and the Telegram message
     from renderer import render_html, write_output, pick_highlights
     highlights = pick_highlights(merged, traction_map)
 
-    html = render_html(merged, highlights)
+    html = render_html(merged, highlights, traction_history)
     output_path = write_output(html)
 
     from notifier import send_highlights
