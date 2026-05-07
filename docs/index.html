@@ -1,38 +1,62 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="it" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Update — 2026-05-07 10:11 UTC</title>
+  <title>AI Update — 2026-05-07 10:20 UTC</title>
   <style>
+    /* ── Tokens: light mode (default, datapizza-inspired) ── */
     :root {
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --surface-hover: #20243a;
-      --border: #2a2d3e;
-      --text: #e2e8f0;
-      --muted: #7c8799;
-      --accent: #7c3aed;
-      --accent-light: #a78bfa;
-      --accent-dim: rgba(124,58,237,0.12);
-      --today: rgba(124,58,237,0.18);
-      --date-border: #3d4060;
+      --bg:           #F8FAFC;
+      --surface:      #FFFFFF;
+      --surface-hover:#F1F5F9;
+      --border:       #E2E8F0;
+      --text:         #0F172A;
+      --muted:        #64748B;
+      --accent:       #7C3AED;
+      --accent-light: #6D28D9;
+      --accent-dim:   rgba(124,58,237,0.08);
+      --today:        rgba(124,58,237,0.06);
+      --date-border:  #CBD5E1;
+      --shadow:       0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.05);
+      --shadow-hover: 0 4px 12px rgba(0,0,0,0.10), 0 2px 4px rgba(0,0,0,0.06);
+      --rank-color:   #7C3AED;
     }
+
+    /* ── Tokens: dark mode ── */
+    [data-theme="dark"] {
+      --bg:           #0f1117;
+      --surface:      #1a1d27;
+      --surface-hover:#20243a;
+      --border:       #2a2d3e;
+      --text:         #e2e8f0;
+      --muted:        #7c8799;
+      --accent:       #7c3aed;
+      --accent-light: #a78bfa;
+      --accent-dim:   rgba(124,58,237,0.12);
+      --today:        rgba(124,58,237,0.18);
+      --date-border:  #3d4060;
+      --shadow:       none;
+      --shadow-hover: none;
+      --rank-color:   #a78bfa;
+    }
+
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
     body {
       background: var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Inter", sans-serif;
       font-size: 15px;
       line-height: 1.6;
+      transition: background 0.2s, color 0.2s;
     }
 
     /* ── Header ── */
     header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 1rem 2rem;
+      padding: 0.85rem 2rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -40,213 +64,139 @@
       position: sticky;
       top: 0;
       z-index: 200;
+      box-shadow: var(--shadow);
     }
-    .header-title { font-size: 1.2rem; font-weight: 700; color: var(--accent-light); letter-spacing: -0.02em; }
-    .header-meta  { font-size: 0.75rem; color: var(--muted); text-align: right; line-height: 1.4; }
+    .header-left { display: flex; align-items: center; gap: 1rem; }
+    .header-title {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--accent);
+      letter-spacing: -0.03em;
+    }
+    .header-right { display: flex; align-items: center; gap: 1.2rem; }
+    .header-meta { font-size: 0.73rem; color: var(--muted); text-align: right; line-height: 1.5; }
+
+    /* ── Theme toggle ── */
+    .theme-toggle {
+      background: var(--surface-hover);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.3rem 0.7rem;
+      cursor: pointer;
+      font-size: 0.85rem;
+      color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      transition: border-color 0.15s, color 0.15s, background 0.15s;
+      white-space: nowrap;
+    }
+    .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
     /* ── Date nav ── */
     nav {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 0.55rem 2rem;
+      padding: 0.5rem 2rem;
       display: flex;
-      gap: 0.4rem;
+      gap: 0.35rem;
       flex-wrap: wrap;
       position: sticky;
-      top: 56px;
+      top: 53px;
       z-index: 100;
     }
     nav a {
       color: var(--muted);
       text-decoration: none;
-      font-size: 0.78rem;
-      padding: 0.22rem 0.65rem;
+      font-size: 0.75rem;
+      font-weight: 500;
+      padding: 0.2rem 0.65rem;
       border-radius: 999px;
       border: 1px solid var(--border);
       transition: color 0.15s, border-color 0.15s, background 0.15s;
       white-space: nowrap;
     }
-    nav a:hover, nav a.active { border-color: var(--accent); color: var(--accent-light); background: var(--accent-dim); }
-
-    /* ── Stats bar ── */
-    .stats-bar { max-width: 1400px; margin: 1.5rem auto 0; padding: 0 2rem; }
-    .stats-inner {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 0.9rem 1.4rem;
-      display: flex;
-      gap: 2.5rem;
-      flex-wrap: wrap;
-    }
-    .stat { display: flex; flex-direction: column; gap: 0.1rem; }
-    .stat .value { font-size: 1.3rem; font-weight: 700; color: var(--accent-light); line-height: 1; }
-    .stat .label { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
-
-    /* ── Main ── */
-    main { max-width: 1400px; margin: 0 auto; padding: 2rem; }
-
-    /* ── Day block ── */
-    .day-block { margin-bottom: 3rem; }
-    .day-header {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      padding: 0.7rem 1rem;
-      background: var(--surface);
-      border: 1px solid var(--date-border);
-      border-left: 4px solid var(--accent);
-      border-radius: 8px;
-      margin-bottom: 1.25rem;
-    }
-    .day-header.today { background: var(--today); border-color: var(--accent); }
-    .day-label { font-size: 0.95rem; font-weight: 600; color: var(--text); }
-    .day-count {
-      font-size: 0.72rem;
-      color: var(--muted);
-      background: var(--border);
-      padding: 0.12rem 0.55rem;
-      border-radius: 999px;
-      margin-left: auto;
-    }
-
-    /* ── Category section within a day ── */
-    .cat-section { margin-bottom: 1.5rem; padding-left: 0.5rem; }
-    .cat-header {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 0.7rem;
-      padding-bottom: 0.35rem;
-      border-bottom: 1px solid var(--border);
-    }
-    .cat-header h3 { font-size: 0.82rem; font-weight: 600; color: var(--accent-light); }
-    .cat-count {
-      font-size: 0.68rem;
-      color: var(--muted);
-      background: var(--border);
-      padding: 0.08rem 0.45rem;
-      border-radius: 999px;
-    }
-
-    /* ── Card grid ── */
-    .articles-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 0.75rem;
-    }
-    .article-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 9px;
-      padding: 0.9rem 1.05rem;
-      display: flex;
-      flex-direction: column;
-      gap: 0.45rem;
-      transition: border-color 0.15s, transform 0.15s, background 0.15s;
-    }
-    .article-card:hover { border-color: var(--accent); transform: translateY(-2px); background: var(--surface-hover); }
-    .article-card a.title {
-      text-decoration: none;
-      color: var(--text);
-      font-weight: 600;
-      font-size: 0.85rem;
-      line-height: 1.4;
-    }
-    .article-card a.title:hover { color: var(--accent-light); }
-    .article-card .summary {
-      font-size: 0.76rem;
-      color: var(--muted);
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      line-height: 1.5;
-      flex: 1;
-    }
-    .card-meta {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: auto;
-    }
-    .source-badge {
-      font-size: 0.68rem; color: var(--muted); background: var(--border);
-      padding: 0.08rem 0.45rem; border-radius: 999px;
-      white-space: nowrap; max-width: 150px; overflow: hidden; text-overflow: ellipsis;
-    }
-    .article-time { font-size: 0.68rem; color: var(--muted); white-space: nowrap; }
-
-    /* ── Footer ── */
-    footer {
-      text-align: center; padding: 2rem;
-      font-size: 0.7rem; color: var(--muted);
-      border-top: 1px solid var(--border); margin-top: 1rem;
+    nav a:hover, nav a.active {
+      border-color: var(--accent);
+      color: var(--accent);
+      background: var(--accent-dim);
     }
 
     /* ── Highlights ── */
     .highlights-section {
       max-width: 1400px;
-      margin: 1.5rem auto 0;
+      margin: 2rem auto 0;
       padding: 0 2rem;
     }
     .highlights-inner {
       background: var(--surface);
-      border: 1px solid var(--accent);
-      border-radius: 12px;
+      border: 1px solid var(--border);
+      border-radius: 16px;
       overflow: hidden;
+      box-shadow: var(--shadow);
     }
     .highlights-header {
       display: flex;
       align-items: center;
       gap: 0.6rem;
-      padding: 0.75rem 1.25rem;
-      background: var(--accent-dim);
+      padding: 0.85rem 1.4rem;
       border-bottom: 1px solid var(--border);
+      background: var(--accent-dim);
     }
-    .highlights-header h2 { font-size: 0.9rem; font-weight: 700; color: var(--accent-light); }
+    .highlights-header h2 {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: var(--accent);
+      letter-spacing: -0.01em;
+    }
     .highlights-list { list-style: none; }
     .highlight-item {
       display: flex;
-      align-items: flex-start;
-      gap: 0.9rem;
-      padding: 0.75rem 1.25rem;
+      align-items: center;
+      gap: 1rem;
+      padding: 0.85rem 1.4rem;
       border-bottom: 1px solid var(--border);
       transition: background 0.15s;
     }
     .highlight-item:last-child { border-bottom: none; }
     .highlight-item:hover { background: var(--surface-hover); }
     .highlight-rank {
-      font-size: 0.75rem;
-      font-weight: 700;
-      color: var(--accent-light);
-      min-width: 1.4rem;
-      padding-top: 0.15rem;
+      font-size: 0.8rem;
+      font-weight: 800;
+      color: var(--rank-color);
+      min-width: 1.6rem;
+      opacity: 0.7;
     }
     .highlight-body { flex: 1; min-width: 0; }
     .highlight-body a {
       text-decoration: none;
       color: var(--text);
       font-weight: 600;
-      font-size: 0.88rem;
-      line-height: 1.4;
+      font-size: 0.875rem;
+      line-height: 1.45;
     }
-    .highlight-body a:hover { color: var(--accent-light); }
+    .highlight-body a:hover { color: var(--accent); }
     .highlight-meta {
       display: flex;
-      gap: 0.5rem;
+      gap: 0.4rem;
       align-items: center;
-      margin-top: 0.2rem;
+      margin-top: 0.25rem;
       flex-wrap: wrap;
     }
     .highlight-source {
-      font-size: 0.68rem; color: var(--muted);
-      background: var(--border); padding: 0.08rem 0.45rem;
+      font-size: 0.67rem;
+      color: var(--muted);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      padding: 0.05rem 0.5rem;
       border-radius: 999px;
     }
     .highlight-cat {
-      font-size: 0.68rem; color: var(--accent-light);
-      background: var(--accent-dim); padding: 0.08rem 0.45rem;
+      font-size: 0.67rem;
+      color: var(--accent);
+      background: var(--accent-dim);
+      border: 1px solid transparent;
+      padding: 0.05rem 0.5rem;
       border-radius: 999px;
     }
     .highlight-trend {
@@ -257,25 +207,184 @@
       flex-shrink: 0;
       padding-left: 0.75rem;
     }
-    .trend-up   { font-size: 0.8rem; color: #22c55e; font-weight: 700; }
-    .trend-down { font-size: 0.8rem; color: #ef4444; font-weight: 700; }
+    .trend-up   { font-size: 0.8rem; color: #16a34a; font-weight: 700; }
+    .trend-down { font-size: 0.8rem; color: #dc2626; font-weight: 700; }
     .trend-flat { font-size: 0.8rem; color: var(--muted); }
 
+    /* ── Stats bar ── */
+    .stats-bar { max-width: 1400px; margin: 1.5rem auto 0; padding: 0 2rem; }
+    .stats-inner {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1rem 1.6rem;
+      display: flex;
+      gap: 3rem;
+      flex-wrap: wrap;
+      box-shadow: var(--shadow);
+    }
+    .stat { display: flex; flex-direction: column; gap: 0.1rem; }
+    .stat .value {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+      letter-spacing: -0.03em;
+    }
+    .stat .label {
+      font-size: 0.68rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-weight: 500;
+    }
+
+    /* ── Main ── */
+    main { max-width: 1400px; margin: 0 auto; padding: 2rem; }
+
+    /* ── Day block ── */
+    .day-block { margin-bottom: 3rem; }
+    .day-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.75rem 1.1rem;
+      background: var(--surface);
+      border: 1px solid var(--date-border);
+      border-left: 4px solid var(--accent);
+      border-radius: 10px;
+      margin-bottom: 1.4rem;
+      box-shadow: var(--shadow);
+    }
+    .day-header.today { background: var(--today); border-color: var(--accent); }
+    .day-label { font-size: 0.9rem; font-weight: 700; color: var(--text); }
+    .day-count {
+      font-size: 0.7rem;
+      color: var(--muted);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      padding: 0.1rem 0.55rem;
+      border-radius: 999px;
+      margin-left: auto;
+      font-weight: 500;
+    }
+
+    /* ── Category section ── */
+    .cat-section { margin-bottom: 1.75rem; padding-left: 0.25rem; }
+    .cat-header {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.8rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .cat-header h3 { font-size: 0.8rem; font-weight: 700; color: var(--accent); }
+    .cat-count {
+      font-size: 0.67rem;
+      color: var(--muted);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      padding: 0.06rem 0.45rem;
+      border-radius: 999px;
+      font-weight: 500;
+    }
+
+    /* ── Card grid ── */
+    .articles-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 0.85rem;
+    }
+    .article-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+      box-shadow: var(--shadow);
+    }
+    .article-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-hover);
+    }
+    .article-card a.title {
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 0.84rem;
+      line-height: 1.45;
+    }
+    .article-card a.title:hover { color: var(--accent); }
+    .article-card .summary {
+      font-size: 0.75rem;
+      color: var(--muted);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      line-height: 1.55;
+      flex: 1;
+    }
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: auto;
+    }
+    .source-badge {
+      font-size: 0.67rem;
+      color: var(--muted);
+      background: var(--bg);
+      border: 1px solid var(--border);
+      padding: 0.06rem 0.5rem;
+      border-radius: 999px;
+      white-space: nowrap;
+      max-width: 150px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-weight: 500;
+    }
+    .article-time { font-size: 0.67rem; color: var(--muted); white-space: nowrap; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 2.5rem 2rem;
+      font-size: 0.7rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+      margin-top: 1rem;
+    }
+
     @media (max-width: 640px) {
-      header { padding: 0.75rem 1rem; flex-direction: column; align-items: flex-start; }
-      nav { padding: 0.5rem 1rem; top: 80px; }
+      header { padding: 0.75rem 1rem; }
+      nav { padding: 0.45rem 1rem; top: 58px; }
       main, .stats-bar, .highlights-section { padding: 1rem; }
       .articles-grid { grid-template-columns: 1fr; }
+      .header-meta { display: none; }
     }
   </style>
 </head>
 <body>
 
 <header>
-  <div class="header-title">⚡ AI Update</div>
-  <div class="header-meta">
-    Aggiornato 2026-05-07 10:11 UTC<br>
-    70 articoli · 14 fonti · 3 giorni
+  <div class="header-left">
+    <div class="header-title">⚡ AI Update</div>
+  </div>
+  <div class="header-right">
+    <div class="header-meta">
+      Aggiornato 2026-05-07 10:20 UTC<br>
+      71 articoli · 14 fonti
+    </div>
+    <button class="theme-toggle" id="theme-toggle" title="Cambia tema">
+      <span id="theme-icon">🌙</span>
+      <span id="theme-label">Dark</span>
+    </button>
   </div>
 </header>
 
@@ -284,7 +393,7 @@
   
     <a href="#day-2026-05-07">
       Oggi
-      (12)
+      (13)
     </a>
   
     <a href="#day-2026-05-06">
@@ -398,7 +507,7 @@
 <div class="stats-bar">
   <div class="stats-inner">
     <div class="stat">
-      <span class="value">70</span>
+      <span class="value">71</span>
       <span class="label">Articoli totali</span>
     </div>
     <div class="stat">
@@ -419,7 +528,7 @@
       <div class="day-header today">
         <span>📅</span>
         <span class="day-label">Oggi — Giovedì 7 Maggio 2026</span>
-        <span class="day-count">12 articoli</span>
+        <span class="day-count">13 articoli</span>
       </div>
 
       
@@ -538,9 +647,20 @@
             <div class="cat-header">
               <span>📌</span>
               <h3>Altro</h3>
-              <span class="cat-count">7</span>
+              <span class="cat-count">8</span>
             </div>
             <div class="articles-grid">
+              
+                <article class="article-card">
+                  <a class="title" href="/r/accelerate/comments/1t6594n/what_should_i_do_about_automation_in_the_short/" target="_blank" rel="noopener noreferrer">
+                    What should I do about automation in the short term?
+                  </a>
+                  
+                  <div class="card-meta">
+                    <span class="source-badge">Reddit r/singularity</span>
+                    <span class="article-time">09:48</span>
+                  </div>
+                </article>
               
                 <article class="article-card">
                   <a class="title" href="https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/" target="_blank" rel="noopener noreferrer">
@@ -1534,8 +1654,29 @@ If he really believes in AGI and ASI being on the horizon, then there’s no way
 </main>
 
 <footer>
-  Generato il 2026-05-07 10:11 UTC — AI Update · ultimi 7 giorni
+  Generato il 2026-05-07 10:20 UTC — AI Update · ultimi 7 giorni
 </footer>
+
+<script>
+  const html = document.documentElement;
+  const btn   = document.getElementById('theme-toggle');
+  const icon  = document.getElementById('theme-icon');
+  const label = document.getElementById('theme-label');
+
+  function applyTheme(t) {
+    html.setAttribute('data-theme', t);
+    icon.textContent  = t === 'dark' ? '☀️' : '🌙';
+    label.textContent = t === 'dark' ? 'Light' : 'Dark';
+    localStorage.setItem('ai-update-theme', t);
+  }
+
+  // Restore saved preference, default to light
+  applyTheme(localStorage.getItem('ai-update-theme') || 'light');
+
+  btn.addEventListener('click', () => {
+    applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  });
+</script>
 
 </body>
 </html>
