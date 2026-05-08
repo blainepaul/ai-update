@@ -1,5 +1,485 @@
 [
   {
+    "title": "Wayve CEO on Tesla, Waymo, Future of Self-Driving Cars",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-08/wayve-ceo-on-tesla-waymo-future-of-self-driving-cars",
+    "summary": "Wayve CEO Alex Kendall explains end-to-end autonomous driving, how Wayve's approach differs to those of Tesla and Waymo, and why artificial intelligence licensing could scale fastest. He speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-08T07:30:09+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "AI Is Reshaping Self-Driving Cars, Wayve CEO Says",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-08/ai-is-reshaping-self-driving-cars-wayve-ceo-says",
+    "summary": "Wayve CEO Alex Kendall explains how an artificial intelligence-driven approach to self-driving -- using onboard intelligence and real-world learning -- is reshaping how autonomous cars and robotaxis are built and scaled. Kendall speaks to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-08T07:30:09+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Accordo su Digital Omnibus, così l’Europa rinvia gli obblighi AI Act",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/accordo-su-digital-omnibus-cosi-leuropa-rinvia-gli-obblighi-ai-act/",
+    "summary": "L’accordo provvisorio sul Digital Omnibus rinvia obblighi chiave dell’AI Act, alleggerisce responsabilità dirette e rafforza la logica della semplificazione. Per sistemi ad alto rischio, AI literacy e dati sensibili, Bruxelles conserva il lessico dei diritti ma ne ritarda la tutela, mentre riduce l’attrito con Big Tech e Washington L'articolo Accordo su Digital Omnibus, così l’Europa rinvia gli obblighi AI Act proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-08T07:27:08+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion",
+    "summary": "SoftBank Group Corp. has downsized plans for a $10 billion margin loan backed by its OpenAI stake after facing hesitation from some creditors, people familiar with the matter said.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-08T07:15:47+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Welfare predittivo: la città che prevede il disagio sociale prima che esploda",
+    "url": "https://www.agendadigitale.eu/smart-city/welfare-predittivo-la-citta-che-prevede-il-disagio-sociale-prima-che-esploda/",
+    "summary": "Il welfare predittivo di prossimità usa AI, dati amministrativi integrati e digital twin urbani per intercettare il disagio sociale prima che diventi irreversibile. Dalla mappatura della povertà latente al monitoraggio dell'isolamento degli anziani, una nuova stagione del welfare pubblico sta prendendo forma nelle nostre città L'articolo Welfare predittivo: la città che prevede il disagio sociale prima che esploda proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-08T07:06:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Le tante ombre di Sam Altman: a chi affidiamo il futuro dell’AI?",
+    "url": "https://www.agendadigitale.eu/industry-4-0/le-tante-ombre-di-sam-altman-a-chi-affidiamo-il-futuro-dellai/",
+    "summary": "Il processo tra Elon Musk e OpenAI ha il pregio di mettere a fuoco il profilo di Altman. Tra accuse di opacità interna, capacità unica di attrarre capitali e un ruolo crescente nei mega investimenti infrastrutturali, il caso mostra quanto il futuro dell’AI dipenda oggi da un numero ristretto di leader privati L'articolo Le tante ombre di Sam Altman: a chi affidiamo il futuro dell’AI? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-08T06:38:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "US Said to Suspect Nvidia Chips Smuggled to Alibaba Via Thailand",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
+    "summary": "A key company behind Thailand’s national AI effort is suspected of helping to smuggle billions of dollars worth of Super Micro Computer Inc. servers containing advanced Nvidia Corp. chips to China, with Alibaba Group Holding Ltd. one of multiple end customers, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-08T06:34:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Nuove assunzioni: governare l’AI per non chiudere la porta ai giovani",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/nuove-assunzioni-governare-lai-per-non-chiudere-la-porta-ai-giovani/",
+    "summary": "L’intelligenza artificiale non sta producendo solo licenziamenti, ma una riduzione progressiva delle assunzioni nei ruoli di ingresso. Tra automazione, AI Act, governance e nuove competenze operative, le imprese devono ripensare modelli organizzativi, responsabilità e percorsi di accesso al lavoro L'articolo Nuove assunzioni: governare l’AI per non chiudere la porta ai giovani proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-08T06:34:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works",
+    "url": "https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-08T06:23:32+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "PRIME PAGINE | Il Papa cordiale con Rubio, ma non fa sconti: \"Lavoriamo per la pace\"",
+    "url": "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/08/prime-pagine-il-papa-cordiale-con-rubio-ma-non-fa-sconti-lavoriamo-per_c9368a34-a5b6-4011-b608-b5c4b8dafcb4.html",
+    "summary": "",
+    "source": "ANSA Tech",
+    "date": "2026-05-08T08:05:26+02:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Earnings Resilience Amid Iran Risk: Markets Snapshot",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-08/earnings-resilience-amid-iran-risk-markets-snapshot-video",
+    "summary": "The shape-shifting artificial intelligence trade and the ongoing conflict in the Middle East dominated conversations in a week that saw strong earnings results. The Opening Trade spoke with leading market voices and company executives to get their take. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-08T06:02:05+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Why you can never get your doctor to call you back",
+    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-08T04:42:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Baidu’s AI Chip Unit Plans Dual IPO in Shanghai and Hong Kong",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-08/baidu-s-ai-chip-unit-plans-dual-ipo-in-shanghai-and-hong-kong",
+    "summary": "Baidu Inc.’s chip unit Kunlunxin is planning an initial public offering on Shanghai’s Nasdaq-style bourse in addition to a separate listing plan in Hong Kong as the Chinese search engine giant looks to taps investor appetite for semiconductor stocks.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-08T04:41:07+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+    "source": "Wired",
+    "date": "2026-05-08T01:42:14+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Taiwanese company Skymizer announces HTX301 - PCIE inference card with 384GB of Memory at ~240 Watts",
+    "url": "https://skymizer.ai/skymizer-announces-htx301-reinventing-on-prem-ai-inference/",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-08T01:36:22+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Nvidia CEO Says He Would Join Trump’s China Trip If Invited",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-08/nvidia-ceo-says-he-would-join-trump-s-china-trip-if-invited",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang said he would gladly join President Donald Trump on an upcoming visit to China if invited, signaling that the leader of America’s most valuable company has yet to receive an offer to go.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-08T00:18:07+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "ZAYA1-74B-Preview: Scaling Pretraining on AMD",
+    "url": "https://www.zyphra.com/post/zaya1-74b-preview",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-07T22:50:22+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-07T22:24:50+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "SoftBank Rally Hinges on OpenAI Growth Easing Balance Sheet Fear",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-07/softbank-rally-hinges-on-openai-growth-easing-balance-sheet-fear",
+    "summary": "SoftBank Group Corp.’s stock rally faces a test against reality next week, with investors clamoring for assurance that the company’s multibillion-dollar bet on an increasingly embattled OpenAI will be worth the money.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-07T22:00:16+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "guess what? if you are a chrome user, technically you are localllama member!",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-07T21:54:34+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+    "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+    "source": "Wired",
+    "date": "2026-05-07T21:37:20+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-07T21:02:11+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Nvidia to Invest Up to $2.1 Billion in Data Center Firm IREN",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-07/nvidia-to-invest-up-to-2-1-billion-in-data-center-firm-iren",
+    "summary": "Nvidia Corp. is investing as much as $2.1 billion in the data center developer IREN Ltd. as part of a broader partnership between the two companies aimed at accelerating the construction of artificial intelligence infrastructure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-07T20:50:25+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "How to Disable Google's Gemini in Chrome",
+    "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+    "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+    "source": "Wired",
+    "date": "2026-05-07T20:31:57+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations",
+    "url": "https://www.alignmentforum.org/posts/oeYesesaxjzMAktCM/natural-language-autoencoders-produce-unsupervised",
+    "summary": "Abstract We introduce Natural Language Autoencoders (NLAs), an unsupervised method for generating natural language explanations of LLM activations. An NLA consists of two LLM modules: an activation verbalizer (AV) that maps an activation to a text description and an activation reconstructor (AR) that maps the description back to an activation. We jointly train the AV and AR with reinforcement learning to reconstruct residual stream activations. Although we optimize for activation reconstruction,",
+    "source": "AI Alignment Forum",
+    "date": "2026-05-07T20:21:22+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-07T20:20:20+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-07T19:57:59+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+    "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was \"not consistently candid in his communications with the board.\" Now, via witness testimony and trial exhibits in Musk v. Altman, the […]",
+    "source": "The Verge AI",
+    "date": "2026-05-07T15:55:22-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+    "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+    "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes that are in the design validation test stage, which is one step before the production validation test stage. The AirPods' cameras \"aren't designed\" to snap photos or […]",
+    "source": "The Verge AI",
+    "date": "2026-05-07T15:39:22-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+    "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chip plant in Austin, Texas. That's according to the details of a public hearing notice filed in Grimes County, […]",
+    "source": "The Verge AI",
+    "date": "2026-05-07T15:26:16-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-07T19:21:21+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Translating Claude’s thoughts into language",
+    "url": "https://youtu.be/j2knrqAzYVY?si=fybH2qu0IuH2e1jB",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-07T19:14:39+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIA’s Ian Buck on the Genesis Mission",
+    "url": "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/",
+    "summary": "AI will help build the energy it needs. That’s the case U.S. Energy Secretary Chris Wright and NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck made Thursday morning at the SCSP AI+ Expo. The 30-minute fireside chat, moderated by SCSP president Ylli Bajraktari, was called “Powering the Next American Century.” Their argument: American […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-07T19:14:38+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Garlasco, la procura chiude le indagini: 'Chiara Poggi uccisa da Sempio con odio e crudeltà'",
+    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/garlasco-la-procura-chiude-le-indagini-chiara-poggi-uccisa-da-sempio-con-odio_9a0d67fe-718a-4304-ba7d-0ed652b52e76.html",
+    "summary": "La difesa al lavoro anche sugli audio per dimostrare l'innocenza. Stasi spera nella revisione",
+    "source": "ANSA Tech",
+    "date": "2026-05-07T21:07:47+02:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-05-07T19:06:17+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+    "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a \"Trusted Contact\" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. \"Trusted […]",
+    "source": "The Verge AI",
+    "date": "2026-05-07T14:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "New OpenAI Voice models: GPT-Realtime-2, Translate, and Whisper",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-07T17:47:53+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Translating Claude’s thoughts into language",
+    "url": "https://www.youtube.com/watch?v=j2knrqAzYVY",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-07T17:19:50+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "South Korea names first humanoid robot monk as it accepted the faith's vows",
+    "url": "http://the-express.com/tech/tech-news/206676/south-korea-first-robot-monk",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-07T17:02:16+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Coinbase Cuts 700 Jobs and CEO Warns Every Company Will Do the Same",
+    "url": "https://blocknow.com/coinbase-stock-layoffs-700-jobs-ai-restructuring-2026/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-07T16:57:07+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+    "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+    "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+    "source": "Wired",
+    "date": "2026-05-07T16:25:48+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Mechanistic estimation for wide random MLPs",
+    "url": "https://www.alignmentforum.org/posts/fsG4m6sRMpomd7Rk6/mechanistic-estimation-for-wide-random-mlps",
+    "summary": "This post covers joint work with Wilson Wu, George Robinson, Mike Winer, Victor Lecomte and Paul Christiano. Thanks to Geoffrey Irving and Jess Riedel for comments on the post. In ARC's latest paper, we study the following problem: given a randomly initialized multilayer perceptron (MLP), produce an estimate for the expected output of the model under Gaussian input. The usual approach to this problem is to sample many possible inputs, run them all through the model, and take the average. Instead",
+    "source": "AI Alignment Forum",
+    "date": "2026-05-07T16:20:52+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Robert Evans on AI psychosis",
+    "url": "https://open.spotify.com/episode/0gr3uXLFSlVYADPFQ0J9OK?si=d1d8eab26d6d474c",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-07T16:08:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+    "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+    "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-07T16:05:48+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Secure short-term GPU capacity for ML workloads with EC2 Capacity Blocks for ML and SageMaker training plans",
+    "url": "https://aws.amazon.com/blogs/machine-learning/secure-short-term-gpu-capacity-for-ml-workloads-with-ec2-capacity-blocks-for-ml-and-sagemaker-training-plans/",
+    "summary": "In this post, you will learn how to secure reserved GPU capacity for short-term workloads using Amazon Elastic Compute Cloud (Amazon EC2) Capacity Blocks for ML and Amazon SageMaker training plans. These solutions can address GPU availability challenges when you need short-term capacity for load testing, model validation, time-bound workshops, or preparing inference capacity ahead of a release.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-07T15:59:50+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Overcoming reward signal challenges: Verifiable rewards-based reinforcement learning with GRPO on SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/overcoming-reward-signal-challenges-verifiable-rewards-based-reinforcement-learning-with-grpo-on-sagemaker-ai/",
+    "summary": "In this post, you will learn how to implement reinforcement learning with verifiable rewards (RLVR) to introduce verification and transparency into reward signals to improve training performance. This approach works best when outputs can be objectively verified for correctness, such as in mathematical reasoning, code generation, or symbolic manipulation tasks. You will also learn how to layer techniques like Group Relative Policy Optimization (GRPO) and few-shot examples to further improve resul",
+    "source": "AWS ML Blog",
+    "date": "2026-05-07T15:53:30+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Notes from inside China's AI labs",
+    "url": "https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs",
+    "summary": "Lessons from my trip to talk to most of the leading AI labs in China.",
+    "source": "Interconnects",
+    "date": "2026-05-07T15:42:43+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-07T15:27:53+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
     "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
     "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
     "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100K equity-free, and more opportunities for major scaling impact. Pre-Series A founders — and anyone who knows a startup worth backing — this is your reminder: the deadline is approaching fast, and the […]",
@@ -106,12 +586,42 @@
     "category": "models_research"
   },
   {
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+    "source": "OpenAI Blog",
+    "date": "2026-05-07T13:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+    "summary": "Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI agents to instantly access and pay for what they use. AgentCore Payments was developed in partnership with Coinbase and Stripe.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-07T12:55:17+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
     "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
     "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
     "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
     "source": "TechCrunch AI",
     "date": "2026-05-07T12:20:04+00:00",
     "category": "other"
+  },
+  {
+    "title": "AI Is Starting to Build Better AI",
+    "url": "https://spectrum.ieee.org/recursive-self-improvement",
+    "summary": "The field of artificial intelligence was built on the premise that machines might someday improve themselves. In 1966, the English mathematician I. J. Good wrote that “an ultraintelligent machine could design even better machines; there would then unquestionably be an ‘intelligence explosion,’ and the intelligence of man would be left far behind.” AI researchers have long seen recursive self-improvement, or RSI, as something to both desire and fear. Today, advances in AI are raising the question",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-05-07T12:00:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
   },
   {
     "title": "feat: Add Mimo v2.5 model support by AesSedai · Pull Request #22493 · ggml-org/llama.cpp",
@@ -160,6 +670,16 @@
     "source": "Reddit r/artificial",
     "date": "2026-05-07T10:16:18+00:00",
     "category": "other"
+  },
+  {
+    "title": "Advancing voice intelligence with new models in the API",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+    "source": "OpenAI Blog",
+    "date": "2026-05-07T10:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
   },
   {
     "title": "What should I do about automation in the short term?",
@@ -266,6 +786,36 @@
     "category": "business_investment"
   },
   {
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "source": "OpenAI Blog",
+    "date": "2026-05-07T00:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+    "source": "OpenAI Blog",
+    "date": "2026-05-07T00:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
+    "title": "Simplex rethinks software development with Codex",
+    "url": "https://openai.com/index/simplex",
+    "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+    "source": "OpenAI Blog",
+    "date": "2026-05-07T00:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
+  },
+  {
     "title": "Musk’s biggest loyalist became his biggest liability",
     "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
     "summary": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testified under oath that she is the mother of four of Musk's children, was… what's the best way to […]",
@@ -288,6 +838,16 @@
     "source": "Bloomberg Tech",
     "date": "2026-05-06T22:55:29+00:00",
     "category": "policy_regulation"
+  },
+  {
+    "title": "Chatbots Need Guardrails to Prevent Delusions and Psychosis",
+    "url": "https://spectrum.ieee.org/mental-health-chatbot-guardrails",
+    "summary": "Millions of people worldwide are turning to chatbots like ChatGPT or Claude, and a proliferating class of specialized AI companionship apps for friendship, therapy, or even romance. While some users report psychological benefits from these simulated relationships, research has also shown the relationships can reinforce or amplify delusions, particularly among users already vulnerable to psychosis. AIs have been linked to multiple suicides, including the death of a Florida teenager who had a mont",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-05-06T22:11:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-08"
   },
   {
     "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
