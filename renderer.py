@@ -231,7 +231,10 @@ def render_html(articles: list[dict], highlights: list[dict],
         slot_date = article.get("_slot_date") or article["date"].strftime("%Y-%m-%d")
         by_slot[f"{slot_date}__{slot}"].append(article)
 
-    sorted_slots = sorted(by_slot.keys(), reverse=True)
+    def _slot_sort_key(k: str) -> tuple:
+        d, s = k.split("__", 1)
+        return (d, 1 if s == "afternoon" else 0)
+    sorted_slots = sorted(by_slot.keys(), key=_slot_sort_key, reverse=True)
 
     slots_data = []
     for slot_key in sorted_slots:
