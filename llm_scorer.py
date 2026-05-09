@@ -101,6 +101,97 @@ def get_article_llm_score(article: dict, llm_map: dict) -> float:
     return llm_map.get(key, 0.0)
 
 
+_DESCRIPTION_PROMPT = """\
+You are an AI news editor writing for Italian readers. For each headline below, \
+write ONE description in Italian of at most 140 characters (spaces included) that \
+explains what the news is about. Be specific: mention companies, products, numbers \
+when relevant. No filler phrases like "un articolo su" or "questa notizia riguarda".
+
+Headlines:
+{headlines}
+
+Reply ONLY with a JSON array: [{{"i":0,"d":"descrizione"}},...]
+where "i" is the 0-based index and "d" is the Italian description (max 140 chars). No other text."""
+
+_WEEKLY_TOOLS_PROMPT = """\
+You are an AI product editor writing for Italian readers. For each headline below \
+about an AI tool launch or feature update, write ONE description in Italian of at \
+most 100 characters (spaces included) that explains what the tool/feature does or \
+what changed. Be specific and factual. No filler phrases.
+
+Headlines:
+{headlines}
+
+Reply ONLY with a JSON array: [{{"i":0,"d":"descrizione"}},...]
+where "i" is the 0-based index and "d" is the Italian description (max 100 chars). No other text."""
+
+
+def build_top7_descriptions(highlights: list[dict]) -> None:
+    """
+    Generates 140-char Italian descriptions for the Top 7 highlights.
+    Adds '_description' key to each article dict in-place.
+    Silently skips if GEMINI_API_KEY is not set or API call fails.
+    """
+    if not GEMINI_API_KEY or not highlights:
+        return
+    headlines = "\n".join(f"{i}. {a['title']}" for i, a in enumerate(highlights))
+    try:
+        raw = _gemini_call(_DESCRIPTION_PROMPT.format(headlines=headlines), max_tokens=700)
+        results = _parse_json_response(raw)
+        for item in results:
+            idx = item.get("i")
+            desc = str(item.get("d", "")).strip()
+            if idx is not None and 0 <= idx < len(highlights) and desc:
+                highlights[idx]["_description"] = desc[:140]
+        logger.info(f"Top 7 descriptions: {sum(1 for a in highlights if a.get('_description'))} generated")
+    except Exception as exc:
+        logger.warning(f"Top 7 descriptions failed: {exc}")
+
+
+def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map: dict) -> list[dict]:
+    """
+    Picks the top 5 tools_products articles from the past 7 days and generates descriptions.
+    Returns a list of {title, url, source, description} dicts.
+    """
+    if not GEMINI_API_KEY:
+        logger.info("GEMINI_API_KEY not set — weekly tools section skipped")
+        return []
+
+    from datetime import timedelta
+    from renderer import _score as compute_score
+
+    now = datetime.now(timezone.utc)
+    tools = [
+        a for a in articles
+        if a.get("category") == "tools_products"
+        and (now - a["date"]) < timedelta(days=7)
+    ]
+    if not tools:
+        logger.info("Weekly tools: no tools_products articles in past 7 days")
+        return []
+
+    scored = sorted(tools, key=lambda a: compute_score(a, now, traction_map, llm_map), reverse=True)[:5]
+    headlines = "\n".join(f"{i}. {a['title']}" for i, a in enumerate(scored))
+    try:
+        raw = _gemini_call(_WEEKLY_TOOLS_PROMPT.format(headlines=headlines), max_tokens=400)
+        results = _parse_json_response(raw)
+        desc_map = {item["i"]: str(item.get("d", "")).strip() for item in results if "i" in item}
+        output = [
+            {
+                "title":       a["title"],
+                "url":         a["url"],
+                "source":      a["source"],
+                "description": desc_map.get(i, "")[:100],
+            }
+            for i, a in enumerate(scored)
+        ]
+        logger.info(f"Weekly tools section: {len(output)} items generated")
+        return output
+    except Exception as exc:
+        logger.warning(f"Weekly tools section failed: {exc}")
+        return []
+
+
 _DEDUP_PROMPT = """\
 You are an AI news editor. The headlines below were all published on the same day.
 Identify groups of headlines that cover THE EXACT SAME event or announcement \

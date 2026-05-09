@@ -8,6 +8,7 @@ from datetime import datetime, timezone, timedelta
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 _RUN_FLAG = os.path.join(BASE_DIR, "cache", "last_run.txt")
 _PREV_HIGHLIGHTS_FILE = os.path.join(BASE_DIR, "cache", "last_highlights.json")
+_WEEKLY_TOOLS_FILE = os.path.join(BASE_DIR, "cache", "weekly_tools.json")
 
 
 def _load_prev_highlight_urls() -> set[str]:
@@ -84,6 +85,25 @@ def _fetch_window_hours() -> float:
         return 26.0  # first ever run: default lookback
     elapsed_hours = (now - latest).total_seconds() / 3600
     return max(6.0, min(48.0, elapsed_hours + 2.0))
+
+
+def _load_weekly_tools() -> list:
+    try:
+        with open(_WEEKLY_TOOLS_FILE) as f:
+            return json.load(f)
+    except (FileNotFoundError, ValueError):
+        return []
+
+
+def _save_weekly_tools(tools: list):
+    os.makedirs(os.path.dirname(_WEEKLY_TOOLS_FILE), exist_ok=True)
+    with open(_WEEKLY_TOOLS_FILE, "w") as f:
+        json.dump(tools, f, ensure_ascii=False, indent=2)
+
+
+def _is_monday_morning() -> bool:
+    now = datetime.now(timezone.utc)
+    return now.weekday() == 0 and now.hour < 12
 
 
 def setup_logging():
@@ -204,7 +224,19 @@ def main():
     highlight_pool = run_top20 if len(run_top20) >= 7 else display
     highlights = pick_highlights(highlight_pool, traction_map, llm_map)
 
-    html = render_html(display, highlights, traction_history)
+    # 140-char Italian descriptions for Top 7 (1 Gemini call)
+    from llm_scorer import build_top7_descriptions, build_weekly_tools_section
+    build_top7_descriptions(highlights)
+
+    # Weekly tools section — rebuilt every Monday morning, cached for rest of the week
+    if _is_monday_morning():
+        weekly_tools = build_weekly_tools_section(display, traction_map, llm_map)
+        _save_weekly_tools(weekly_tools)
+        logger.info(f"Weekly tools section updated: {len(weekly_tools)} items")
+    else:
+        weekly_tools = _load_weekly_tools()
+
+    html = render_html(display, highlights, traction_history, weekly_tools)
     output_path = write_output(html)
 
     from notifier import send_highlights

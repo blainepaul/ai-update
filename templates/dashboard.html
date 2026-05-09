@@ -7,7 +7,6 @@
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="apple-touch-icon" href="favicon.png">
   <style>
-    /* ── Tokens: light mode (default, datapizza-inspired) ── */
     :root {
       --bg:           #F8FAFC;
       --surface:      #FFFFFF;
@@ -23,9 +22,9 @@
       --shadow:       0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.05);
       --shadow-hover: 0 4px 12px rgba(0,0,0,0.10), 0 2px 4px rgba(0,0,0,0.06);
       --rank-color:   #7C3AED;
+      --tools-accent: #0ea5e9;
+      --tools-dim:    rgba(14,165,233,0.08);
     }
-
-    /* ── Tokens: dark mode ── */
     [data-theme="dark"] {
       --bg:           #0f1117;
       --surface:      #1a1d27;
@@ -41,6 +40,8 @@
       --shadow:       none;
       --shadow-hover: none;
       --rank-color:   #a78bfa;
+      --tools-accent: #38bdf8;
+      --tools-dim:    rgba(56,189,248,0.10);
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -69,16 +70,9 @@
       box-shadow: var(--shadow);
     }
     .header-left { display: flex; align-items: center; gap: 1rem; }
-    .header-title {
-      font-size: 1.15rem;
-      font-weight: 800;
-      color: var(--accent);
-      letter-spacing: -0.03em;
-    }
+    .header-title { font-size: 1.15rem; font-weight: 800; color: var(--accent); letter-spacing: -0.03em; }
     .header-right { display: flex; align-items: center; gap: 1.2rem; }
     .header-meta { font-size: 0.73rem; color: var(--muted); text-align: right; line-height: 1.5; }
-
-    /* ── Theme toggle ── */
     .theme-toggle {
       background: var(--surface-hover);
       border: 1px solid var(--border);
@@ -95,14 +89,16 @@
     }
     .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
-    /* ── Date nav ── */
+    /* ── Nav ── */
     nav {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
       padding: 0.5rem 2rem;
       display: flex;
       gap: 0.35rem;
-      flex-wrap: wrap;
+      align-items: center;
+      flex-wrap: nowrap;
+      overflow-x: auto;
       position: sticky;
       top: 53px;
       z-index: 100;
@@ -117,19 +113,45 @@
       border: 1px solid var(--border);
       transition: color 0.15s, border-color 0.15s, background 0.15s;
       white-space: nowrap;
+      flex-shrink: 0;
     }
-    nav a:hover, nav a.active {
-      border-color: var(--accent);
-      color: var(--accent);
-      background: var(--accent-dim);
-    }
+    nav a:hover, nav a.active { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
 
-    /* ── Highlights ── */
-    .highlights-section {
-      max-width: 1400px;
-      margin: 2rem auto 0;
-      padding: 0 2rem;
+    /* History dropdown */
+    .nav-more { position: relative; flex-shrink: 0; }
+    .nav-more-btn {
+      font-size: 0.75rem;
+      font-weight: 500;
+      padding: 0.2rem 0.65rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--surface-hover);
+      color: var(--muted);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
     }
+    .nav-more-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .nav-history {
+      display: none;
+      flex-direction: column;
+      gap: 0.2rem;
+      position: absolute;
+      top: calc(100% + 6px);
+      left: 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.4rem;
+      min-width: 220px;
+      z-index: 300;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+    }
+    .nav-history.open { display: flex; }
+    .nav-history a { border-radius: 6px; }
+
+    /* ── Top 7 ── */
+    .highlights-section { max-width: 1400px; margin: 2rem auto 0; padding: 0 2rem; }
     .highlights-inner {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -145,30 +167,20 @@
       border-bottom: 1px solid var(--border);
       background: var(--accent-dim);
     }
-    .highlights-header h2 {
-      font-size: 0.88rem;
-      font-weight: 700;
-      color: var(--accent);
-      letter-spacing: -0.01em;
-    }
+    .highlights-header h2 { font-size: 0.88rem; font-weight: 700; color: var(--accent); letter-spacing: -0.01em; }
     .highlights-list { list-style: none; }
     .highlight-item {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       gap: 1rem;
       padding: 0.85rem 1.4rem;
       border-bottom: 1px solid var(--border);
       transition: background 0.15s;
+      position: relative;
     }
     .highlight-item:last-child { border-bottom: none; }
     .highlight-item:hover { background: var(--surface-hover); }
-    .highlight-rank {
-      font-size: 0.8rem;
-      font-weight: 800;
-      color: var(--rank-color);
-      min-width: 1.6rem;
-      opacity: 0.7;
-    }
+    .highlight-rank { font-size: 0.8rem; font-weight: 800; color: var(--rank-color); min-width: 1.6rem; opacity: 0.7; padding-top: 0.1rem; }
     .highlight-body { flex: 1; min-width: 0; }
     .highlight-body a {
       text-decoration: none;
@@ -178,40 +190,88 @@
       line-height: 1.45;
     }
     .highlight-body a:hover { color: var(--accent); }
+    .highlight-desc {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-top: 0.25rem;
+      line-height: 1.5;
+    }
     .highlight-meta {
       display: flex;
       gap: 0.4rem;
       align-items: center;
-      margin-top: 0.25rem;
+      margin-top: 0.3rem;
       flex-wrap: wrap;
     }
     .highlight-source {
-      font-size: 0.67rem;
-      color: var(--muted);
-      background: var(--bg);
-      border: 1px solid var(--border);
-      padding: 0.05rem 0.5rem;
-      border-radius: 999px;
+      font-size: 0.67rem; color: var(--muted);
+      background: var(--bg); border: 1px solid var(--border);
+      padding: 0.05rem 0.5rem; border-radius: 999px;
     }
     .highlight-cat {
-      font-size: 0.67rem;
-      color: var(--accent);
-      background: var(--accent-dim);
-      border: 1px solid transparent;
-      padding: 0.05rem 0.5rem;
-      border-radius: 999px;
+      font-size: 0.67rem; color: var(--accent);
+      background: var(--accent-dim); border: 1px solid transparent;
+      padding: 0.05rem 0.5rem; border-radius: 999px;
     }
-    .highlight-trend {
+    .highlight-right {
       display: flex;
       flex-direction: column;
       align-items: flex-end;
-      gap: 3px;
+      gap: 6px;
       flex-shrink: 0;
-      padding-left: 0.75rem;
+      padding-left: 0.5rem;
     }
+    .highlight-trend { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
     .trend-up   { font-size: 0.8rem; color: #16a34a; font-weight: 700; }
     .trend-down { font-size: 0.8rem; color: #dc2626; font-weight: 700; }
     .trend-flat { font-size: 0.8rem; color: var(--muted); }
+
+    /* ── Weekly tools ── */
+    .weekly-section { max-width: 1400px; margin: 1.5rem auto 0; padding: 0 2rem; }
+    .weekly-inner {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+    .weekly-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      padding: 0.85rem 1.4rem;
+      border-bottom: 1px solid var(--border);
+      background: var(--tools-dim);
+    }
+    .weekly-header h2 { font-size: 0.88rem; font-weight: 700; color: var(--tools-accent); }
+    .weekly-list { list-style: none; display: flex; flex-wrap: wrap; }
+    .weekly-item {
+      flex: 1 1 280px;
+      padding: 0.85rem 1.2rem;
+      border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+    .weekly-item:hover { background: var(--surface-hover); }
+    .weekly-item:nth-child(5n), .weekly-item:last-child { border-right: none; }
+    .weekly-item a {
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 600;
+      font-size: 0.84rem;
+      line-height: 1.4;
+    }
+    .weekly-item a:hover { color: var(--tools-accent); }
+    .weekly-item .tool-desc { font-size: 0.75rem; color: var(--muted); line-height: 1.5; }
+    .weekly-item .tool-source {
+      font-size: 0.65rem; color: var(--muted);
+      background: var(--bg); border: 1px solid var(--border);
+      padding: 0.04rem 0.45rem; border-radius: 999px;
+      width: fit-content; margin-top: auto;
+    }
 
     /* ── Stats bar ── */
     .stats-bar { max-width: 1400px; margin: 1.5rem auto 0; padding: 0 2rem; }
@@ -226,25 +286,11 @@
       box-shadow: var(--shadow);
     }
     .stat { display: flex; flex-direction: column; gap: 0.1rem; }
-    .stat .value {
-      font-size: 1.5rem;
-      font-weight: 800;
-      color: var(--accent);
-      line-height: 1;
-      letter-spacing: -0.03em;
-    }
-    .stat .label {
-      font-size: 0.68rem;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      font-weight: 500;
-    }
+    .stat .value { font-size: 1.5rem; font-weight: 800; color: var(--accent); line-height: 1; letter-spacing: -0.03em; }
+    .stat .label { font-size: 0.68rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 500; }
 
-    /* ── Main ── */
+    /* ── Main content ── */
     main { max-width: 1400px; margin: 0 auto; padding: 2rem; }
-
-    /* ── Day block ── */
     .day-block { margin-bottom: 3rem; }
     .day-header {
       display: flex;
@@ -261,43 +307,22 @@
     .day-header.today { background: var(--today); border-color: var(--accent); }
     .day-label { font-size: 0.9rem; font-weight: 700; color: var(--text); }
     .day-count {
-      font-size: 0.7rem;
-      color: var(--muted);
-      background: var(--bg);
-      border: 1px solid var(--border);
-      padding: 0.1rem 0.55rem;
-      border-radius: 999px;
-      margin-left: auto;
-      font-weight: 500;
+      font-size: 0.7rem; color: var(--muted);
+      background: var(--bg); border: 1px solid var(--border);
+      padding: 0.1rem 0.55rem; border-radius: 999px;
+      margin-left: auto; font-weight: 500;
     }
-
-    /* ── Category section ── */
     .cat-section { margin-bottom: 1.75rem; padding-left: 0.25rem; }
-    .cat-header {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 0.8rem;
-      padding-bottom: 0.4rem;
-      border-bottom: 1px solid var(--border);
-    }
+    .cat-header { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.8rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
     .cat-header h3 { font-size: 0.8rem; font-weight: 700; color: var(--accent); }
     .cat-count {
-      font-size: 0.67rem;
-      color: var(--muted);
-      background: var(--bg);
-      border: 1px solid var(--border);
-      padding: 0.06rem 0.45rem;
-      border-radius: 999px;
-      font-weight: 500;
+      font-size: 0.67rem; color: var(--muted);
+      background: var(--bg); border: 1px solid var(--border);
+      padding: 0.06rem 0.45rem; border-radius: 999px; font-weight: 500;
     }
 
-    /* ── Card grid ── */
-    .articles-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 0.85rem;
-    }
+    /* ── Cards ── */
+    .articles-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0.85rem; }
     .article-card {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -309,77 +334,83 @@
       transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
       box-shadow: var(--shadow);
     }
-    .article-card:hover {
-      border-color: var(--accent);
-      transform: translateY(-2px);
-      box-shadow: var(--shadow-hover);
-    }
-    .article-card a.title {
-      text-decoration: none;
-      color: var(--text);
-      font-weight: 600;
-      font-size: 0.84rem;
-      line-height: 1.45;
-    }
+    .article-card:hover { border-color: var(--accent); transform: translateY(-2px); box-shadow: var(--shadow-hover); }
+    .article-card a.title { text-decoration: none; color: var(--text); font-weight: 600; font-size: 0.84rem; line-height: 1.45; }
     .article-card a.title:hover { color: var(--accent); }
     .article-card .summary {
-      font-size: 0.75rem;
-      color: var(--muted);
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      line-height: 1.55;
-      flex: 1;
+      font-size: 0.75rem; color: var(--muted);
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+      overflow: hidden; line-height: 1.55; flex: 1;
     }
-    .card-meta {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: auto;
-    }
+    .card-meta { display: flex; justify-content: space-between; align-items: center; margin-top: auto; gap: 0.4rem; }
     .source-badge {
-      font-size: 0.67rem;
-      color: var(--muted);
-      background: var(--bg);
-      border: 1px solid var(--border);
-      padding: 0.06rem 0.5rem;
-      border-radius: 999px;
-      white-space: nowrap;
-      max-width: 150px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      font-weight: 500;
+      font-size: 0.67rem; color: var(--muted);
+      background: var(--bg); border: 1px solid var(--border);
+      padding: 0.06rem 0.5rem; border-radius: 999px;
+      white-space: nowrap; max-width: 140px;
+      overflow: hidden; text-overflow: ellipsis; font-weight: 500;
     }
     .article-time { font-size: 0.67rem; color: var(--muted); white-space: nowrap; }
-    .new-badge {
-      font-size: 0.6rem;
-      font-weight: 800;
-      color: #fff;
-      background: #16a34a;
-      padding: 0.1rem 0.45rem;
-      border-radius: 999px;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      flex-shrink: 0;
-    }
 
-    /* ── Footer ── */
-    footer {
-      text-align: center;
-      padding: 2.5rem 2rem;
+    /* ── Share button ── */
+    .share-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.05rem 0.45rem;
+      cursor: pointer;
       font-size: 0.7rem;
       color: var(--muted);
-      border-top: 1px solid var(--border);
-      margin-top: 1rem;
+      flex-shrink: 0;
+      transition: border-color 0.15s, color 0.15s, background 0.15s;
+      line-height: 1.6;
     }
+    .share-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+
+    /* Share popover */
+    .share-popover {
+      display: none;
+      position: fixed;
+      z-index: 9999;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 0.4rem;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+      flex-direction: column;
+      gap: 0.15rem;
+      min-width: 170px;
+    }
+    .share-popover.open { display: flex; }
+    .share-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.4rem 0.65rem;
+      border-radius: 8px;
+      font-size: 0.78rem;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+      text-align: left;
+      transition: background 0.1s;
+    }
+    .share-item:hover { background: var(--surface-hover); }
+
+    /* ── Footer ── */
+    footer { text-align: center; padding: 2.5rem 2rem; font-size: 0.7rem; color: var(--muted); border-top: 1px solid var(--border); margin-top: 1rem; }
 
     @media (max-width: 640px) {
       header { padding: 0.75rem 1rem; }
       nav { padding: 0.45rem 1rem; top: 58px; }
-      main, .stats-bar, .highlights-section { padding: 1rem; }
+      main, .stats-bar, .highlights-section, .weekly-section { padding: 1rem; }
       .articles-grid { grid-template-columns: 1fr; }
       .header-meta { display: none; }
+      .weekly-item { flex-basis: 100%; border-right: none; }
     }
   </style>
 </head>
@@ -404,12 +435,29 @@
 <nav id="top">
   <a href="#top">Tutti</a>
   {% for slot in slots %}
-    <a href="#slot-{{ loop.index }}">
-      {{ slot.icon }} {{ slot.label }} ({{ slot.total }}){% if slot.new_count %} <span style="color:var(--accent)">+{{ slot.new_count }}</span>{% endif %}
-    </a>
+    {% if loop.index <= 2 %}
+      <a href="#slot-{{ loop.index }}">{{ slot.icon }} {{ slot.label }} ({{ slot.total }})</a>
+    {% endif %}
   {% endfor %}
+  {% if slots|length > 2 %}
+    <div class="nav-more" id="nav-more">
+      <button class="nav-more-btn" onclick="toggleHistory(event)">
+        Storico ({{ slots|length - 2 }}) ▾
+      </button>
+      <div class="nav-history" id="nav-history">
+        {% for slot in slots %}
+          {% if loop.index > 2 %}
+            <a href="#slot-{{ loop.index }}" onclick="closeHistory()">
+              {{ slot.icon }} {{ slot.label }} ({{ slot.total }})
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
 </nav>
 
+<!-- Top 7 -->
 <section class="highlights-section">
   <div class="highlights-inner">
     <div class="highlights-header">
@@ -422,26 +470,68 @@
           <span class="highlight-rank">#{{ loop.index }}</span>
           <div class="highlight-body">
             <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">{{ article.title }}</a>
+            {% if article._description is defined and article._description %}
+              <p class="highlight-desc">{{ article._description }}</p>
+            {% endif %}
             <div class="highlight-meta">
               <span class="highlight-source">{{ article.source }}</span>
               <span class="highlight-cat">{{ icons[article.category] }} {{ labels[article.category] }}</span>
-              {% if article._is_new %}<span class="new-badge">new</span>{% endif %}
             </div>
           </div>
-          {% if article._sparkline %}
-            <div class="highlight-trend">
-              {{ article._sparkline | safe }}
-              {% if article._trend_arrow %}
-                <span class="{{ article._trend_class }}">{{ article._trend_arrow }}</span>
-              {% endif %}
-            </div>
-          {% endif %}
+          <div class="highlight-right">
+            {% if article._sparkline %}
+              <div class="highlight-trend">
+                {{ article._sparkline | safe }}
+                {% if article._trend_arrow %}
+                  <span class="{{ article._trend_class }}">{{ article._trend_arrow }}</span>
+                {% endif %}
+              </div>
+            {% endif %}
+            <button class="share-btn"
+              data-url="{{ article.url | e }}"
+              data-title="{{ article.title | e }}"
+              data-desc="{{ (article._description | default('')) | e }}"
+              onclick="openShare(this, event)"
+              title="Condividi">↗</button>
+          </div>
         </li>
       {% endfor %}
     </ol>
   </div>
 </section>
 
+<!-- Weekly tools -->
+{% if weekly_tools %}
+<section class="weekly-section">
+  <div class="weekly-inner">
+    <div class="weekly-header">
+      <span>🛠️</span>
+      <h2>Last week's new tools &amp; features</h2>
+    </div>
+    <ul class="weekly-list">
+      {% for tool in weekly_tools %}
+        <li class="weekly-item">
+          <a href="{{ tool.url }}" target="_blank" rel="noopener noreferrer">{{ tool.title }}</a>
+          {% if tool.description %}
+            <p class="tool-desc">{{ tool.description }}</p>
+          {% endif %}
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:0.4rem">
+            <span class="tool-source">{{ tool.source }}</span>
+            <button class="share-btn"
+              data-url="{{ tool.url | e }}"
+              data-title="{{ tool.title | e }}"
+              data-desc="{{ (tool.description | default('')) | e }}"
+              onclick="openShare(this, event)"
+              title="Condividi">↗</button>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+{% endif %}
+
+<!-- Stats -->
 <div class="stats-bar">
   <div class="stats-inner">
     <div class="stat">
@@ -462,13 +552,9 @@
 <main>
   {% for slot in slots %}
     <section class="day-block" id="slot-{{ loop.index }}">
-
       <div class="day-header {% if slot.is_today %}today{% endif %}">
         <span>{{ slot.icon }}</span>
         <span class="day-label">{{ slot.label }}</span>
-        {% if slot.new_count %}
-          <span class="new-badge" style="margin-left:0.4rem">+{{ slot.new_count }} new</span>
-        {% endif %}
         <span class="day-count">{{ slot.total }} articoli</span>
       </div>
 
@@ -492,7 +578,12 @@
                   <div class="card-meta">
                     <span class="source-badge">{{ article.source }}</span>
                     <span class="article-time">{{ article.date.strftime('%H:%M') }}</span>
-                    {% if article._is_new %}<span class="new-badge">new</span>{% endif %}
+                    <button class="share-btn"
+                      data-url="{{ article.url | e }}"
+                      data-title="{{ article.title | e }}"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
                   </div>
                 </article>
               {% endfor %}
@@ -500,7 +591,6 @@
           </div>
         {% endif %}
       {% endfor %}
-
     </section>
   {% endfor %}
 </main>
@@ -509,24 +599,105 @@
   Generato il {{ generated_at }} — AI Update · ultimi 7 giorni
 </footer>
 
+<!-- Share popover (single global instance) -->
+<div class="share-popover" id="share-popover">
+  <button class="share-item" id="sh-copy"      onclick="doShareAction('copy')">📋 Copia link</button>
+  <a      class="share-item" id="sh-wa"         href="#" target="_blank" rel="noopener">💬 WhatsApp</a>
+  <a      class="share-item" id="sh-tg"         href="#" target="_blank" rel="noopener">✈️ Telegram</a>
+  <a      class="share-item" id="sh-x"          href="#" target="_blank" rel="noopener">𝕏 X</a>
+  <a      class="share-item" id="sh-li"         href="#" target="_blank" rel="noopener">💼 LinkedIn</a>
+  <a      class="share-item" id="sh-fb"         href="#" target="_blank" rel="noopener">📘 Facebook</a>
+  <button class="share-item" id="sh-ig"         onclick="doShareAction('instagram')">📸 Copia per Instagram</button>
+</div>
+
 <script>
-  const html = document.documentElement;
+  /* ── Theme ── */
+  const html  = document.documentElement;
   const btn   = document.getElementById('theme-toggle');
   const icon  = document.getElementById('theme-icon');
   const label = document.getElementById('theme-label');
-
   function applyTheme(t) {
     html.setAttribute('data-theme', t);
     icon.textContent  = t === 'dark' ? '☀️' : '🌙';
     label.textContent = t === 'dark' ? 'Light' : 'Dark';
     localStorage.setItem('ai-update-theme', t);
   }
-
-  // Restore saved preference, default to dark
   applyTheme(localStorage.getItem('ai-update-theme') || 'dark');
+  btn.addEventListener('click', () => applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'));
 
-  btn.addEventListener('click', () => {
-    applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  /* ── History nav dropdown ── */
+  function toggleHistory(e) {
+    e.stopPropagation();
+    document.getElementById('nav-history').classList.toggle('open');
+  }
+  function closeHistory() {
+    document.getElementById('nav-history')?.classList.remove('open');
+  }
+  document.addEventListener('click', e => {
+    if (!e.target.closest('#nav-more')) closeHistory();
+  });
+
+  /* ── Share ── */
+  let _shareUrl = '', _shareText = '';
+
+  function openShare(btn, e) {
+    e.stopPropagation();
+    const url   = btn.dataset.url;
+    const title = btn.dataset.title;
+    const desc  = btn.dataset.desc || '';
+
+    _shareUrl  = url;
+    _shareText = desc ? `${title}\n${desc}\n${url}` : `${title}\n${url}`;
+
+    const encUrl  = encodeURIComponent(url);
+    const encFull = encodeURIComponent(_shareText);
+    const encShort = encodeURIComponent(desc ? `${title}\n${desc}` : title);
+
+    document.getElementById('sh-wa').href = `https://wa.me/?text=${encFull}`;
+    document.getElementById('sh-tg').href = `https://t.me/share/url?url=${encUrl}&text=${encShort}`;
+    document.getElementById('sh-x').href  = `https://twitter.com/intent/tweet?url=${encUrl}&text=${encShort}`;
+    document.getElementById('sh-li').href = `https://www.linkedin.com/sharing/share-offsite/?url=${encUrl}`;
+    document.getElementById('sh-fb').href = `https://www.facebook.com/sharer/sharer.php?u=${encUrl}`;
+
+    const popover = document.getElementById('share-popover');
+    popover.classList.add('open');
+
+    // Position near button, keep within viewport
+    const rect = btn.getBoundingClientRect();
+    let top  = rect.bottom + window.scrollY + 6;
+    let left = rect.left   + window.scrollX;
+    const pw = 178;
+    if (left + pw > window.innerWidth - 8) left = window.innerWidth - pw - 8;
+    popover.style.top  = top + 'px';
+    popover.style.left = left + 'px';
+  }
+
+  function doShareAction(platform) {
+    if (platform === 'copy') {
+      navigator.clipboard.writeText(_shareUrl).then(() => {
+        const el = document.getElementById('sh-copy');
+        const orig = el.textContent;
+        el.textContent = '✅ Copiato!';
+        setTimeout(() => { el.textContent = orig; }, 1500);
+      });
+    } else if (platform === 'instagram') {
+      navigator.clipboard.writeText(_shareText).then(() => {
+        const el = document.getElementById('sh-ig');
+        const orig = el.textContent;
+        el.textContent = '✅ Copiato!';
+        setTimeout(() => { el.textContent = orig; closeSharePopover(); }, 1500);
+      });
+    }
+  }
+
+  function closeSharePopover() {
+    document.getElementById('share-popover').classList.remove('open');
+  }
+
+  document.addEventListener('click', e => {
+    if (!e.target.closest('.share-btn') && !e.target.closest('#share-popover')) {
+      closeSharePopover();
+    }
   });
 </script>
 

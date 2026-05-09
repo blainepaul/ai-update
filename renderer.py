@@ -209,15 +209,18 @@ def _slot_label(slot_date: str, slot: str) -> str:
     dt = datetime.strptime(slot_date, "%Y-%m-%d")
     today = datetime.now(timezone.utc).date()
     delta = (today - dt.date()).days
-    day_prefix = {0: "Oggi", 1: "Ieri"}.get(delta, "")
-    date_str = f"{DAYS_IT[dt.weekday()]} {dt.day} {MONTHS_IT[dt.month]}"
-    slot_str = _SLOT_LABELS.get(slot, "")
-    if day_prefix:
-        return f"{day_prefix} — {slot_str}" if slot_str else day_prefix
-    return f"{slot_str} — {date_str}" if slot_str else date_str
+    is_morning = slot == "morning"
+    if delta == 0:
+        return "Stamattina" if is_morning else "Oggi pomeriggio"
+    if delta == 1:
+        return "Ieri mattina" if is_morning else "Ieri pomeriggio"
+    slot_str = "mattina" if is_morning else "pomeriggio"
+    return f"{dt.day} {MONTHS_IT[dt.month]} {slot_str}"
 
 
-def render_html(articles: list[dict], highlights: list[dict], traction_history: dict | None = None) -> str:
+def render_html(articles: list[dict], highlights: list[dict],
+                traction_history: dict | None = None,
+                weekly_tools: list[dict] | None = None) -> str:
     now = datetime.now(timezone.utc)
 
     # Group by run slot (date + morning/afternoon).
@@ -279,6 +282,7 @@ def render_html(articles: list[dict], highlights: list[dict], traction_history: 
     return template.render(
         highlights=highlights,
         slots=slots_data,
+        weekly_tools=weekly_tools or [],
         category_order=CATEGORIES,
         labels=CATEGORY_LABELS,
         icons=CATEGORY_ICONS,
