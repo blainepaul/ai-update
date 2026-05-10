@@ -15,6 +15,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: ai-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -48,4 +52,5 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add cache/articles.json cache/last_notified.txt cache/last_run.txt cache/traction_history.json cache/last_highlights.json cache/weekly_tools.json docs/index.html
           git diff --staged --quiet || git commit -m "news: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push
