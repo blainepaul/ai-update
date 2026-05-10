@@ -813,10 +813,11 @@
     popover.classList.add('open');
 
     const rect = btn.getBoundingClientRect();
-    let top  = rect.bottom + window.scrollY + 6;
-    let left = rect.left   + window.scrollX;
+    let top  = rect.bottom + 6;
+    let left = rect.left;
     const pw = 178;
     if (left + pw > window.innerWidth - 8) left = window.innerWidth - pw - 8;
+    if (top + 220 > window.innerHeight) top = rect.top - 220;
     popover.style.top  = top + 'px';
     popover.style.left = left + 'px';
   }

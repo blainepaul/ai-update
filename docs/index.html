@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Update — 2026-05-10 09:48 UTC</title>
+  <title>AI Update — 2026-05-10 09:52 UTC</title>
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="apple-touch-icon" href="favicon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -575,7 +575,7 @@
   </div>
   <div class="header-right">
     <div class="header-meta">
-      Aggiornato 2026-05-10 09:48 UTC<br>
+      Aggiornato 2026-05-10 09:52 UTC<br>
       222 articoli · 21 fonti
     </div>
     <button class="theme-toggle" id="theme-toggle" title="Cambia tema">
@@ -3315,7 +3315,7 @@
 </main>
 
 <footer>
-  Generato il 2026-05-10 09:48 UTC — AI Update · ultimi 7 giorni
+  Generato il 2026-05-10 09:52 UTC — AI Update · ultimi 7 giorni
 </footer>
 
 <!-- Share popover (single global instance) -->
@@ -3382,10 +3382,11 @@
     popover.classList.add('open');
 
     const rect = btn.getBoundingClientRect();
-    let top  = rect.bottom + window.scrollY + 6;
-    let left = rect.left   + window.scrollX;
+    let top  = rect.bottom + 6;
+    let left = rect.left;
     const pw = 178;
     if (left + pw > window.innerWidth - 8) left = window.innerWidth - pw - 8;
+    if (top + 220 > window.innerHeight) top = rect.top - 220;
     popover.style.top  = top + 'px';
     popover.style.left = left + 'px';
   }
