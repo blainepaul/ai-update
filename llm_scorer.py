@@ -239,14 +239,23 @@ def dedup_with_llm(articles: list[dict]) -> list[dict]:
         from renderer import dedup_articles
         return dedup_articles(articles)
 
+    from renderer import dedup_articles as kw_dedup
+
     by_day: defaultdict[str, list[dict]] = defaultdict(list)
     for a in articles:
         by_day[a["date"].strftime("%Y-%m-%d")].append(a)
+
+    # LLM dedup only for today — older days use fast keyword dedup (no API quota spent)
+    today_key = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     kept: list[dict] = []
     total_removed = 0
 
     for day_key, day_arts in by_day.items():
+        if day_key != today_key:
+            kept.extend(kw_dedup(day_arts))
+            continue
+
         if len(day_arts) <= 1:
             kept.extend(day_arts)
             continue
@@ -288,5 +297,5 @@ def dedup_with_llm(articles: list[dict]) -> list[dict]:
         total_removed += removed
         kept.extend(a for i, a in enumerate(day_arts) if i not in drop_ids)
 
-    logger.info(f"LLM dedup: removed {total_removed} duplicates across {len(by_day)} days")
+    logger.info(f"LLM dedup: removed {total_removed} duplicates (LLM for today, keyword for older days)")
     return kept
