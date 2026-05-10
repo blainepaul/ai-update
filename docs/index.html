@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Update — 2026-05-10 09:53 UTC</title>
+  <title>AI Update — 2026-05-10 09:58 UTC</title>
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="apple-touch-icon" href="favicon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -572,12 +572,14 @@
         scrollbar-width: none;
       }
       nav::-webkit-scrollbar { display: none; }
+      .nav-slot-2 { display: none; }
       .nav-history {
         position: fixed;
-        top: auto;
-        left: 1rem;
-        right: 1rem;
+        left: 0.75rem;
+        right: 0.75rem;
         min-width: unset;
+        max-height: 55vh;
+        overflow-y: auto;
       }
 
       /* Sections */
@@ -630,7 +632,7 @@
   </div>
   <div class="header-right">
     <div class="header-meta">
-      Aggiornato 2026-05-10 09:53 UTC<br>
+      Aggiornato 2026-05-10 09:58 UTC<br>
       222 articoli · 21 fonti
     </div>
     <button class="theme-toggle" id="theme-toggle" title="Cambia tema">
@@ -648,7 +650,7 @@
     
   
     
-      <a href="#slot-2">🌅 Ieri mattina (20)</a>
+      <a href="#slot-2" class="nav-slot-2">🌅 Ieri mattina (20)</a>
     
   
     
@@ -3370,7 +3372,7 @@
 </main>
 
 <footer>
-  Generato il 2026-05-10 09:53 UTC — AI Update · ultimi 7 giorni
+  Generato il 2026-05-10 09:58 UTC — AI Update · ultimi 7 giorni
 </footer>
 
 <!-- Share popover (single global instance) -->
@@ -3402,7 +3404,12 @@
   /* ── History nav dropdown ── */
   function toggleHistory(e) {
     e.stopPropagation();
-    document.getElementById('nav-history').classList.toggle('open');
+    const hist = document.getElementById('nav-history');
+    hist.classList.toggle('open');
+    if (window.innerWidth <= 640 && hist.classList.contains('open')) {
+      const navBottom = document.querySelector('nav').getBoundingClientRect().bottom;
+      hist.style.top = (navBottom + 4) + 'px';
+    }
   }
   function closeHistory() {
     document.getElementById('nav-history')?.classList.remove('open');

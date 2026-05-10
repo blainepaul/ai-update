@@ -572,12 +572,14 @@
         scrollbar-width: none;
       }
       nav::-webkit-scrollbar { display: none; }
+      .nav-slot-2 { display: none; }
       .nav-history {
         position: fixed;
-        top: auto;
-        left: 1rem;
-        right: 1rem;
+        left: 0.75rem;
+        right: 0.75rem;
         min-width: unset;
+        max-height: 55vh;
+        overflow-y: auto;
       }
 
       /* Sections */
@@ -644,7 +646,7 @@
   <a href="#top">Tutti</a>
   {% for slot in slots %}
     {% if loop.index <= 2 %}
-      <a href="#slot-{{ loop.index }}">{{ slot.icon }} {{ slot.label }} ({{ slot.total }})</a>
+      <a href="#slot-{{ loop.index }}"{% if loop.index == 2 %} class="nav-slot-2"{% endif %}>{{ slot.icon }} {{ slot.label }} ({{ slot.total }})</a>
     {% endif %}
   {% endfor %}
   {% if slots|length > 2 %}
@@ -833,7 +835,12 @@
   /* ── History nav dropdown ── */
   function toggleHistory(e) {
     e.stopPropagation();
-    document.getElementById('nav-history').classList.toggle('open');
+    const hist = document.getElementById('nav-history');
+    hist.classList.toggle('open');
+    if (window.innerWidth <= 640 && hist.classList.contains('open')) {
+      const navBottom = document.querySelector('nav').getBoundingClientRect().bottom;
+      hist.style.top = (navBottom + 4) + 'px';
+    }
   }
   function closeHistory() {
     document.getElementById('nav-history')?.classList.remove('open');
