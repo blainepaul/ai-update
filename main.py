@@ -228,13 +228,14 @@ def main():
     from llm_scorer import build_top7_descriptions, build_weekly_tools_section
     build_top7_descriptions(highlights)
 
-    # Weekly tools section — rebuilt every Monday morning, cached for rest of the week
-    if _is_monday_morning():
+    # Weekly tools section — rebuilt every Monday morning (or if cache is empty)
+    cached_tools = _load_weekly_tools()
+    if _is_monday_morning() or not cached_tools:
         weekly_tools = build_weekly_tools_section(display, traction_map, llm_map)
         _save_weekly_tools(weekly_tools)
         logger.info(f"Weekly tools section updated: {len(weekly_tools)} items")
     else:
-        weekly_tools = _load_weekly_tools()
+        weekly_tools = cached_tools
 
     html = render_html(display, highlights, traction_history, weekly_tools)
     output_path = write_output(html)
