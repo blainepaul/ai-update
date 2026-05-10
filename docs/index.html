@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Update — 2026-05-10 09:32 UTC</title>
+  <title>AI Update — 2026-05-10 09:38 UTC</title>
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="apple-touch-icon" href="favicon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -28,6 +28,7 @@
       --tools-accent: #0891B2;
       --tools-dim:    rgba(8,145,178,0.07);
       --dot-color:    #D4D9E3;
+      --grid-line:    rgba(29,63,191,0.055);
     }
     [data-theme="dark"] {
       --bg:           #0D1117;
@@ -47,12 +48,17 @@
       --tools-accent: #38BDF8;
       --tools-dim:    rgba(56,189,248,0.10);
       --dot-color:    #1C2333;
+      --grid-line:    rgba(107,143,235,0.07);
     }
 
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
     body {
-      background: var(--bg);
+      background-color: var(--bg);
+      background-image:
+        linear-gradient(var(--grid-line) 1px, transparent 1px),
+        linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+      background-size: 28px 28px;
       color: var(--text);
       font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       font-size: 15px;
@@ -560,7 +566,7 @@
   </div>
   <div class="header-right">
     <div class="header-meta">
-      Aggiornato 2026-05-10 09:32 UTC<br>
+      Aggiornato 2026-05-10 09:38 UTC<br>
       222 articoli · 21 fonti
     </div>
     <button class="theme-toggle" id="theme-toggle" title="Cambia tema">
@@ -3300,7 +3306,7 @@
 </main>
 
 <footer>
-  Generato il 2026-05-10 09:32 UTC — AI Update · ultimi 7 giorni
+  Generato il 2026-05-10 09:38 UTC — AI Update · ultimi 7 giorni
 </footer>
 
 <!-- Share popover (single global instance) -->
