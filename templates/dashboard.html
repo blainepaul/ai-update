@@ -556,13 +556,68 @@
     }
 
     @media (max-width: 640px) {
-      header { padding: 0.75rem 1rem; }
-      nav { padding: 0.45rem 1rem; top: 65px; }
-      main, .stats-bar, .highlights-section, .weekly-section { padding: 1rem; }
+      /* Header */
+      header { padding: 0.7rem 1rem; }
       .header-meta { display: none; }
+      .header-logo { width: 28px; height: 28px; }
+      .header-title { font-size: 1rem; }
+      .theme-toggle { padding: 0.25rem 0.6rem; font-size: 0.7rem; }
+
+      /* Nav — scrollabile orizzontalmente, dropdown fixed */
+      nav {
+        padding: 0.4rem 1rem;
+        top: 54px;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      nav::-webkit-scrollbar { display: none; }
+      .nav-history {
+        position: fixed;
+        top: auto;
+        left: 1rem;
+        right: 1rem;
+        min-width: unset;
+      }
+
+      /* Sections */
+      .highlights-section,
+      .weekly-section,
+      .stats-bar { margin-top: 1rem; padding: 0 0.75rem; }
+      main { padding: 1rem 0.75rem; }
+
+      /* Top 7 */
+      .highlights-inner, .weekly-inner { border-radius: 14px; }
+      .highlights-header, .weekly-header { padding: 0.75rem 1rem; }
+      .highlight-item { padding: 0.85rem 1rem; gap: 0.65rem; }
+      .highlight-rank { font-size: 1.5rem; min-width: 2rem; }
+      .highlight-body a { font-size: 0.875rem; }
+      .highlight-desc { font-size: 0.75rem; margin-top: 0.2rem; }
+      .highlight-meta { margin-top: 0.35rem; }
+      .highlight-trend { display: none; }
+
+      /* Weekly tools */
       .weekly-item { flex-basis: 100%; border-right: none; }
-      .highlight-rank { font-size: 1.5rem; min-width: 2.2rem; }
+      .weekly-item:last-child { border-bottom: none; }
+
+      /* Stats */
+      .stats-inner { gap: 1.5rem; padding: 0.85rem 1.1rem; }
+      .stat .value { font-size: 1.5rem; }
+
+      /* Day/category headers */
+      .day-block { margin-bottom: 2.25rem; }
+      .day-header { padding: 0.6rem 0.9rem; border-radius: 10px; margin-bottom: 1.25rem; }
+      .day-label { font-size: 0.85rem; }
+      .cat-section { margin-bottom: 1.5rem; }
+
+      /* Article rows */
+      .article-row { padding: 0.5rem 0.25rem; gap: 0.5rem; }
+      .article-row a.title { font-size: 0.84rem; }
       .article-time { display: none; }
+      .source-badge { max-width: 85px; }
+
+      /* Share popover */
+      .share-popover { min-width: 160px; }
     }
   </style>
 </head>
