@@ -607,7 +607,7 @@
   <a      class="share-item" id="sh-x"          href="#" target="_blank" rel="noopener">𝕏 X</a>
   <a      class="share-item" id="sh-li"         href="#" target="_blank" rel="noopener">💼 LinkedIn</a>
   <a      class="share-item" id="sh-fb"         href="#" target="_blank" rel="noopener">📘 Facebook</a>
-  <button class="share-item" id="sh-ig"         onclick="doShareAction('instagram')">📸 Copia per Instagram</button>
+  <button class="share-item" id="sh-ig"         onclick="doShareAction('instagram')">📸 Instagram DM</button>
 </div>
 
 <script>
@@ -684,8 +684,16 @@
       navigator.clipboard.writeText(_shareText).then(() => {
         const el = document.getElementById('sh-ig');
         const orig = el.textContent;
-        el.textContent = '✅ Copiato!';
-        setTimeout(() => { el.textContent = orig; closeSharePopover(); }, 1500);
+        el.textContent = '✅ Copiato — apri IG';
+        setTimeout(() => { el.textContent = orig; closeSharePopover(); }, 1800);
+        // Try app deep link first, fall back to web inbox
+        const appLink = 'instagram://direct/new';
+        const webLink = 'https://www.instagram.com/direct/inbox/';
+        const start = Date.now();
+        window.location = appLink;
+        setTimeout(() => {
+          if (Date.now() - start < 2000) window.open(webLink, '_blank');
+        }, 1200);
       });
     }
   }
