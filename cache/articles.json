@@ -1,5 +1,295 @@
 [
   {
+    "title": "Manufacturing intelligence with Amazon Nova Multimodal Embeddings",
+    "url": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
+    "summary": "In this post, we build a multimodal retrieval system for aerospace manufacturing documents using Amazon Nova Multimodal Embeddings on Amazon Bedrock and Amazon S3 Vectors. We evaluate the system on 26 manufacturing queries and compare generation quality between a text-only pipeline and the multimodal pipeline.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-11T17:08:24+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Update Your iPhone Now for Better Encrypted Messaging With Android",
+    "url": "https://www.wired.com/story/update-your-iphone-now-for-better-encrypted-messaging-with-android/",
+    "summary": "As part of the iOS 26.5 update, Apple’s Messages app can now encrypt texts between some iPhone and Android smartphones.",
+    "source": "Wired",
+    "date": "2026-05-11T17:06:53+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "How Miro uses Amazon Bedrock to boost software bug routing accuracy and improve time-to-resolution from days to hours",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/",
+    "summary": "In this post, we dive deep into the architecture and techniques we used to improve Miro’s bug routing, achieving six times fewer team reassignments and five times shorter time-to-resolution powered by Amazon Bedrock.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-11T17:03:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "summary": "Digg returns (again) as another place to read AI news.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-11T17:02:35+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "The rise of ‘Stacey face’: How AI enhancements are warping our beauty standards",
+    "url": "https://www.the-independent.com/life-style/stacey-stacy-becky-looksmaxxing-for-women-b2972911.html?utm_source=reddit&utm_medium=social&utm_campaign=artificial",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-11T16:54:23+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Cybercriminals Are Making Powerful Hacking Tools With AI, Google Warns",
+    "url": "https://www.forbes.com/sites/thomasbrewster/2026/05/11/cybercriminals-make-powerful-zero-day-hack-with-ai-google-warns/?utm_campaign=forbes&utm_medium=social&utm_source=reddit",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-11T16:51:49+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Sparite due cinture di Raffaella Carrà dalla mostra nelle Marche",
+    "url": "https://www.ansa.it/marche/notizie/2026/05/11/sparite-due-cinture-di-raffaella-carra-dalla-mostra-nelle-marche_824efe59-10f2-4f6e-9abe-a9359414701b.html",
+    "summary": "Indagini in corso a San Benedetto del Tronto. Collezionisti: \"sono la storia della tv\"",
+    "source": "ANSA Tech",
+    "date": "2026-05-11T18:38:20+02:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Google stopped a zero-day hack that it says was developed with AI",
+    "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed […]",
+    "source": "The Verge AI",
+    "date": "2026-05-11T12:09:42-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Amazon Quick: Accelerating the path from enterprise data to AI-powered decisions",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/",
+    "summary": "Amazon Quick helps turn your large enterprise data into fast and accurate AI-powered decisions. In this post, you will learn about five new capabilities of Amazon Quick that accelerate how data professionals deliver trusted AI-powered insights at enterprise scale.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-11T15:56:33+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Claude Mythos Opens The Cybersecurity Pandora's box",
+    "url": "https://shiftmag.dev/claude-mythos-opens-the-cybersecurity-pandoras-box-9622/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-11T15:50:56+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Unhcr, l'appello di Laura Adriani per la campagna 'Torniamo a sentire'",
+    "url": "https://www.ansa.it/sito/videogallery/mondo/2026/05/11/unhcr-lappello-di-laura-adriani-per-la-campagna-torniamo-a-sentire_ed1e4649-bc73-46a2-92bb-9421259e9d93.html",
+    "summary": "Iniziativa in Repubblica del Congo e Burundi. L'attrice: \"Qui la situazione e' tragica\"",
+    "source": "ANSA Tech",
+    "date": "2026-05-11T17:02:59+02:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "AI automates HR compliance, except for the area tech companies need",
+    "url": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
+    "summary": "Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate employee churn before it happens. HR tech stacks now offer automated solutions for nearly every regulatory requirement – from GDPR data requests to workplace safety reporting. But there is one glaring exception. For UK […] The post AI automates HR compliance, except for the area tech companies need appea",
+    "source": "AI News (AIN)",
+    "date": "2026-05-11T14:34:05+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Joanna Stern is not a robot, but she lived with them",
+    "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+    "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that because Joanna […]",
+    "source": "The Verge AI",
+    "date": "2026-05-11T10:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Google Says Hacker Used Mythos-Like AI for Software Tool Exploit",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-11/hackers-used-ai-to-build-zero-day-attack-google-researchers-say",
+    "summary": "Security researchers at Alphabet Inc.’s Google said they believe a cybercrime group used artificial intelligence to create a hacking tool that can bypass defenses in a widely-used tool to administer computer systems.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-11T13:02:13+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-11T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "OpenAI to Buy Consulting Firm for JV With Private Equity",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-11/openai-to-buy-consulting-firm-for-private-equity-joint-venture",
+    "summary": "OpenAI will acquire a consulting company to contribute to a new private equity-backed joint venture to help drive adoption of its artificial intelligence software across more businesses.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-11T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Una gigafactory AI in Italia? Un bel sogno, ma gli ostacoli sono tanti",
+    "url": "https://www.agendadigitale.eu/infrastrutture/una-gigafactory-ai-in-italia-un-bel-sogno-ma-gli-ostacoli-sono-tanti/",
+    "summary": "L’Italia presenta una candidatura unitaria per una gigafactory AI europea, ma tra fabbisogno energetico, limiti della rete, copertura finanziaria ridotta e adozione ancora debole dell’intelligenza artificiale nelle imprese, il progetto mostra un divario netto tra ambizione politica e condizioni industriali necessarie L'articolo Una gigafactory AI in Italia? Un bel sogno, ma gli ostacoli sono tanti proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-11T12:50:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "How many AI assistants actually work across multiple tools/apps?",
+    "url": "/r/AI_Agents/comments/1ta20ot/how_many_ai_assistants_actually_work_across/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-11T12:36:58+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "L’Europa fuori dal tavolo AI: così USA e Cina decidono il futuro",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/leuropa-fuori-dal-tavolo-usa-e-cina-decidono-il-futuro-dellai/",
+    "summary": "Il summit di Pechino del 14-15 maggio introduce l'AI come dossier strategico autonomo nei rapporti USA-Cina. Il modello Mythos di Anthropic ha accelerato la crisi di governance. L'Europa, pur dotata di AI Act, rischia di restare esclusa dai negoziati che contano L'articolo L’Europa fuori dal tavolo AI: così USA e Cina decidono il futuro proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-11T12:33:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Ohio House bill introduced to prohibit personhood of AI",
+    "url": "https://www.thepostathens.com/article/2025/11/ohio-house-bill-469-prohibit-ai-personhood",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-11T12:28:19+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "AI Chipmaker Cerebras Seeks $4.8 Billion in Upsized US IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-11/ai-chipmaker-cerebras-systems-seeks-4-8-billion-in-upsized-ipo",
+    "summary": "Cerebras Systems Inc. increased the size of its initial public offering, now seeking to raise as much as $4.8 billion, as demand for the artificial intelligence chipmaker and data center operator’s shares continues to build.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-11T12:23:28+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Musica generata dall’AI, piattaforme e distributori alzano il muro",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/musica-generata-dallai-piattaforme-e-distributori-alzano-il-muro/",
+    "summary": "Deezer, Believe, Tencent Music e Spotify rafforzano strumenti e policy contro i brani generati dall’intelligenza artificiale, tra rilevazione dei contenuti Gen AI, blocchi alla distribuzione, badge di autenticità e nuove misure collegate all’AI Act europeo L'articolo Musica generata dall’AI, piattaforme e distributori alzano il muro proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-11T12:18:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Educare all’IA, perché la scuola deve formare adolescenti consapevoli",
+    "url": "https://www.agendadigitale.eu/scuola-digitale/educare-allia-perche-la-scuola-deve-formare-adolescenti-consapevoli/",
+    "summary": "L’intelligenza artificiale è già parte della vita quotidiana degli adolescenti. La scuola è chiamata a formare cittadini capaci di comprenderne limiti, rischi e opportunità, mentre il dibattito etico coinvolge anche la Chiesa cattolica, il tema della coscienza e il futuro della democrazia L'articolo Educare all’IA, perché la scuola deve formare adolescenti consapevoli proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-11T12:05:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Novo Hands Over Parkinson’s Therapy to Zuckerberg-Backed Startup",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-11/novo-hands-over-parkinson-s-therapy-to-zuckerberg-backed-startup",
+    "summary": "Novo Nordisk A/S agreed to hand over an experimental therapy for Parkinson’s disease to a Mark Zuckerberg-backed AI startup to potentially speed its development.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-11T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Can AI Drive Armenia’s Digital Reindustrialization?",
+    "url": "https://seoulinstitute.com/can-ai-drive-armenias-digital-reindustrialization/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-11T11:58:22+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Digital Omnibus sull’AI: l’effetto della semplificazione UE",
+    "url": "https://www.agendadigitale.eu/sicurezza/digital-omnibus-sullai-nuove-regole-per-i-sistemi-ad-alto-rischio/",
+    "summary": "L’accordo provvisorio sul Digital Omnibus VII modifica l’applicazione dell’AI Act ai sistemi di IA ad alto rischio, rinviando alcuni obblighi, ridefinendo il ruolo dei macchinari e introducendo un meccanismo per limitare specifici requisiti quando la normativa settoriale garantisce protezioni equivalenti L'articolo Digital Omnibus sull’AI: l’effetto della semplificazione UE proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-11T11:25:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Caso Minetti,  i magistrati valutano interrogatori all'estero",
+    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/05/11/caso-minetti-i-magistrati-valutano-interrogatori-allestero-_9a80325f-d032-4bb1-aa02-95ec1e5b6fed.html",
+    "summary": "In merito alle nuove verifiche sugli elementi che hanno portato alla grazia per l'ex deputata regionale",
+    "source": "ANSA Tech",
+    "date": "2026-05-11T13:17:55+02:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Behind the Claude Frenzy That Ate Up All the Mac Minis",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-11/why-claude-ai-agents-are-driving-record-mac-mini-demand",
+    "summary": "Apple’s entry-level desktop has become a vital piece of equipment for people using tools like OpenClaw to roll their own AIs for professional and personal tasks.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-11T10:30:08+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "A $400 AI Bet That’s Actually a High-Stakes Wager on the Future of Work",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-11/ai-related-job-displacement-isn-t-being-planned-for-enough-economists-say",
+    "summary": "Two prominent economists differ on how quickly artificial intelligence will reshape the US job market.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-11T10:00:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
     "title": "OpenAI Campus Network: Student club interest form",
     "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
@@ -17,6 +307,26 @@
     "date": "2026-05-11T10:00:00+00:00",
     "category": "other",
     "_slot": "morning",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "CUDA Proves Nvidia Is a Software Company",
+    "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+    "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+    "source": "Wired",
+    "date": "2026-05-11T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-11"
+  },
+  {
+    "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
+    "url": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
+    "summary": "Bain & Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The estimate comes from the second report in Bain’s five-part series on the software industry in the age of AI. The report examines […] The post Bain sees US$100 billion SaaS market in agentic AI automation appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-05-11T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
     "_slot_date": "2026-05-11"
   },
   {
