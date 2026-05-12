@@ -1,5 +1,395 @@
 [
   {
+    "title": "Threads tests a Meta AI integration that works similarly to Grok",
+    "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+    "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-12T16:34:36+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
+    "summary": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege ChatGPT \"encouraged\" the teen to \"consume a combination of substances that any licensed medical professional would have recognized as deadly,\" resulting in his […]",
+    "source": "The Verge AI",
+    "date": "2026-05-12T12:30:33-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Sam Altman takes the stand in trial against Elon Musk",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+    "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant in the trial brought by Musk. Altman, Brockman, and Musk were all part of the initial founding team at OpenAI, with Musk investing up […]",
+    "source": "The Verge AI",
+    "date": "2026-05-12T12:05:20-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
+    "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, including giving AI systems full permission […]",
+    "source": "The Verge AI",
+    "date": "2026-05-12T12:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "How open model ecosystems compound",
+    "url": "https://www.interconnects.ai/p/how-open-model-ecosystems-compound",
+    "summary": "Further reflections on China's high-participation, open-first AI ecosystem.",
+    "source": "Interconnects",
+    "date": "2026-05-12T15:54:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Automate schema generation for intelligent document processing",
+    "url": "https://aws.amazon.com/blogs/machine-learning/automate-schema-generation-for-intelligent-document-processing/",
+    "summary": "In this post, we'll show you how our multi-document discovery feature solves this problem. It serves as an automated pre-processing step, analyzing unknown documents, clustering them by type, and generating schemas ready for the IDP Accelerator. You'll learn how the new capability uses visual embeddings for automatic clustering and agents for schema generation. We'll also walk you through running the solution on your own document collections.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-12T15:54:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Google detects hackers using AI-generated code to bypass 2FA with zero-day vulnerability",
+    "url": "https://www.pcguide.com/news/google-detects-hackers-using-ai-generated-code-to-bypass-2fa-with-zero-day-vulnerability/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-12T15:54:03+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Rivian’s AI-powered voice assistant is ready to roll",
+    "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
+    "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a year, or are in an […]",
+    "source": "The Verge AI",
+    "date": "2026-05-12T11:51:38-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Navigating EU AI Act requirements for LLM fine-tuning on Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/navigating-eu-ai-act-requirements-for-llm-fine-tuning-on-amazon-sagemaker-ai/",
+    "summary": "In this post, we show you how to set up FLOPs tracking during LLM fine-tuning using the open source Fine-Tuning FLOPs Meter toolkit on Amazon SageMaker AI. You learn how to determine your compliance status with a single configuration flag and generate audit-ready documentation.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-12T15:48:52+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Meta deve pagare gli editori, la Corte Ue dà ragione all'Italia",
+    "url": "https://www.ansa.it/sito/notizie/mondo/2026/05/12/meta-deve-pagare-gli-editori-la-corte-ue-da-ragione-allitalia_dd4ab9af-f947-4975-8c4b-829cd77bea87.html",
+    "summary": "Soddisfazione di Fieg e Agcom. Colosso tech: 'Nessun pagamento senza l'uso delle notizie'",
+    "source": "ANSA Tech",
+    "date": "2026-05-12T17:42:26+02:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+    "url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+    "summary": "Joe Rose, president at strategic technology provider JBS Dev, wants to cut through one of the myths of working with generative and agentic AI systems. “It’s a common misconception that your data has to be perfect before you do any of these types of workloads,” he explains. As a recent article in AI Fieldbook outlines, […] The post JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-05-12T15:37:43+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "L'indagine sul piano pandemico, prescritte le accuse a Guerra",
+    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/05/12/indagine-su-piano-pandemico-2006-prescritte-le-accuse-per-ranieri-guerra-e-altri_ee53f29a-6ca8-470e-9a27-cabfc335ee9a.html",
+    "summary": "Inchiesta su atto del 2006, l'accusa anche per altri due era di rifiuto di atti di ufficio",
+    "source": "ANSA Tech",
+    "date": "2026-05-12T17:12:49+02:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "JPMorgan’s Dimon Weighs In on Markets, Iran War and AI",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-12/jpmorgan-s-dimon-weighs-in-on-markets-iran-war-and-ai-video",
+    "summary": "JPMorgan Chase Chair and CEO Jamie Dimon discusses the state of global financial markets and the impact of the conflict in Iran. Speaking with Bloomberg’s Francine Lacqua on “Bloomberg Open Interest,” Dimon also comments on the use of artificial intelligence and European banking regulations.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-12T14:50:49+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Demis Hassabis's Isomorphic Labs announces Series B investment round with $2.1B in new funding",
+    "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-12T14:50:32+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
+    "url": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-12T14:38:52+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+    "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+    "summary": "A malicious Hugging Face repository that posed as an OpenAI release delivered infostealer malware to Windows machines and recorded about 244,000 downloads before removal, according to research from AI security firm HiddenLayer. The number of downloads may have been artificially inflated by the attackers to make the model seem more popular, so the extent of […] The post Hugging Face hosted malicious software masquerading as OpenAI release appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-05-12T13:52:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Update: I found a way to let ChatGPT, Claude and Gemini debate each other, Reddit loved it (100k views), here's an update on the experiment",
+    "url": "https://rauno.ai",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-12T13:43:09+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Tech Firm CGI Picks Tim Hurlebaus as CEO After AI Fears Crush Share Price",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-12/tech-firm-cgi-picks-hurlebaus-as-ceo-after-ai-fears-crush-share-price",
+    "summary": "Shares of Canadian IT consulting firm CGI Inc. extended their losses over 40% in one year after it appointed a new chief executive officer, a slump largely due to concerns about disruption from artificial intelligence upstarts such as Anthropic PBC.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-12T13:16:18+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Dessn raises $6M for its production focused design tool",
+    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-12T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp/pull/21152",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-12T12:57:10+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
+    "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+    "summary": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined  SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialized agents with security and governance controls.",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-12T12:30:56+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "SAP Invests in AI Automation Startup N8n at $5.2 Billion Value",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-12/sap-invests-in-ai-automation-startup-n8n-at-5-2-billion-value",
+    "summary": "SAP SE is investing in workflow automation platform n8n, doubling the startup’s valuation to $5.2 billion, as the German software giant builds out its artificial intelligence offering.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-12T12:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Agenti AI nelle aziende: perché solo pochi creano vero valore",
+    "url": "https://www.agendadigitale.eu/industry-4-0/agenti-ai-nelle-aziende-perche-solo-pochi-creano-vero-valore/",
+    "summary": "Il report KPMG Global AI Pulse fotografa investimenti, adozione e sfide dell’intelligenza artificiale nelle grandi aziende globali. Gli agenti AI accelerano, ma il valore concreto resta concentrato tra le organizzazioni capaci di scalarli, governarli e accompagnare la trasformazione della forza lavoro L'articolo Agenti AI nelle aziende: perché solo pochi creano vero valore proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-12T12:26:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Your Next AI Query May Travel Where the Power Is",
+    "url": "https://spectrum.ieee.org/distributed-inference-data-centers",
+    "summary": "The rise of electricity-guzzling data centers has forced the artificial intelligence industry to get creative about finding power. One of the latest ideas: Build micro data centers next to utility substations and operate them in concert, shifting the computation around based on power availability. That’s the approach Nvidia and its collaborators are taking in a new pilot project they plan to build later this year. They’ll construct about 25 of these small data centers, each ranging from 5 to 20 ",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-05-12T12:00:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Hollywood fissa le sue regole sull’AI generativa: cosa cambia",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/hollywood-fissa-le-sue-regole-sullai-generativa-cosa-cambia/",
+    "summary": "Oscar e Golden Globes introducono nuove regole sull’uso dell’AI generativa nelle opere creative. Tra principio binario, proporzionalità, obblighi di disclosure e caso Val Kilmer, Hollywood anticipa una regolazione privata che dialoga con l’AI Act europeo e apre nuovi interrogativi sul lavoro creativo L'articolo Hollywood fissa le sue regole sull’AI generativa: cosa cambia proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-12T12:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Digital Omnibus, perché l’AI Act cambia prima ancora di entrare in vigore",
+    "url": "https://www.agendadigitale.eu/sicurezza/digital-omnibus-lai-act-cambia-prima-di-entrare-davvero-in-vigore/",
+    "summary": "Consiglio e Parlamento europeo hanno raggiunto un accordo provvisorio sul Digital Omnibus, con modifiche mirate all’AI Act. Nuove scadenze per i sistemi ad alto rischio, obblighi rinviati, una pratica vietata aggiuntiva e dubbi sul rischio di semplificazione normativa sistematica L'articolo Digital Omnibus, perché l’AI Act cambia prima ancora di entrare in vigore proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-12T11:50:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-12T11:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "JPMorgan's Sanjay Jhamna: Software Shock is Over",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-12/jpmorgan-s-sanjay-jhamna-software-shock-is-over-video",
+    "summary": "Private credit may have been hit by negative headlines, but inflows are unquestionably strong, says Sanjay Jhamna, Head of Global Credit Trading at JPMorgan. He says the fact that recent AI model releases did not result in a negative market reaction shows that the shock has passed for the software sector. Jhamna joined \"The Pulse with Francine Lacqua\" at the JPMorgan's Global Markets Conference in Paris. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-12T11:07:59+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Nvidia’s Absence From China Trip Shows Trump Hand: Tech In Depth",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-12/nvidia-s-jensen-huang-misses-out-on-trump-s-china-summit-entourage",
+    "summary": "It’s not easy to remain in the president’s ever-rotating orbit",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-12T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Some Women Are Obsessively Testing Their Vaginas to Optimize Them",
+    "url": "https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/",
+    "summary": "Biohacker Bryan Johnson recently bragged about his girlfriend's “top 1%” vagina as the at-home vaginal microbiome test industry is thriving. But experts are skeptical.",
+    "source": "Wired",
+    "date": "2026-05-12T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support",
+    "url": "https://www.wired.com/review/epson-lifestudio-grand-plus/",
+    "summary": "The Lifestudio Grand Plus isn’t without quirks, but the ultrashort-throw home cinema projector delivers a rich picture quality in movies and games, up to a 150-inch screen size.",
+    "source": "Wired",
+    "date": "2026-05-12T10:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Vertical intelligence in sanità, perché l’AI deve diventare specialistica",
+    "url": "https://www.agendadigitale.eu/sanita/vertical-intelligence-in-sanita-perche-lai-deve-diventare-specialistica/",
+    "summary": "La vertical intelligence propone un uso dell’intelligenza artificiale costruito sui domini clinici, dai percorsi cardiovascolari all’oncologia. Sistemi specializzati, dati validati, governance e tracciabilità possono rendere le decisioni sanitarie più coerenti, misurabili, eque e sostenibili L'articolo Vertical intelligence in sanità, perché l’AI deve diventare specialistica proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-12T10:29:04+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "LawZero - Joshua Bengio's vision for solving AI alignment by building AI oracles",
+    "url": "https://lawzero.org/en",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-12T10:15:51+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Japan: World-first fully automated medicine lab with humanoids, robots and no humans - The university plans 2,000 research robots by 2040 to automate experiments, cell culture, and scientific discovery.",
+    "url": "https://interestingengineering.com/ai-robotics/japan-unmanned-lab-robots-ai-automation-aist",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-12T10:10:36+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "What Happens When You Try to Treat OCD With Psilocybin",
+    "url": "https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/",
+    "summary": "Colloquially, OCD is known as the doubting disorder. In his new book How to Not Know, Simone Stolzoff explores whether treating that uncertainty with magic mushrooms can help people through it.",
+    "source": "Wired",
+    "date": "2026-05-12T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Diagnostica computazionale, AI e modelli 3D nella sanità italiana",
+    "url": "https://www.agendadigitale.eu/sanita/diagnostica-computazionale-ai-e-modelli-3d-nella-sanita-italiana/",
+    "summary": "La crescita degli esami di imaging aumenta pressione su radiologi, liste d’attesa e percorsi di follow-up. Sensori ottici, LiDAR, modelli tridimensionali e intelligenza artificiale aprono una fase nuova, in cui la diagnostica computazionale affianca la radiologia tradizionale e sostiene monitoraggio, prevenzione e medicina personalizzata L'articolo Diagnostica computazionale, AI e modelli 3D nella sanità italiana proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-12T09:44:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "feat: add MiMo v2.5 vision by AesSedai · Pull Request #22883 · ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp/pull/22883",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-12T09:42:05+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Goldman Says Trend Toward Non-US Debt Is Accelerating",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-12/goldman-says-trend-toward-non-us-debt-is-accelerating-video",
+    "summary": "Amanda Lynam, chief credit strategist at Goldman Sachs, says the scale of investment in artificial intelligence is forcing corporates to increasingly diversify their funding outside the US. She speaks on Bloomberg Television. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-12T09:19:09+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
+    "title": "Laserfiche unveils AI agents for natural language workflows",
+    "url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
+    "summary": "Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche’s integrated security rules and compliance requirements, helping ensure all sensitive data remains protected. Karl Chan, CEO of Laserfiche, said, “The introduction of AI Agents to content management signals a change in how we handle […] The post Laserfiche unveils AI agents for natural language workflows appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-05-12T08:57:13+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-12"
+  },
+  {
     "title": "Hantavirus, il paziente del Veneto è negativo al virus. In quarantena 12 dipendenti di un ospedale dei Paesi Bassi",
     "url": "https://www.ansa.it/sito/notizie/mondo/2026/05/12/hantavirus-il-paziente-del-veneto-e-negativo-al-virus.-in-quarantena-12-dipendenti-di-un-ospedale-dei_8fb7c143-0f00-4339-a53d-82a9971d394a.html",
     "summary": "Ieri altri tre contagi: una francese, un americano e uno spagnolo, erano sulla nave. I 2 voli con i passeggeri e l'equipaggio della Hondius arrivati nei Paesi Bassi",
