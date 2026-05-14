@@ -122,16 +122,19 @@ from the past 7 days. Your task:
 releases, or significant feature updates. Exclude pure news/analysis/funding \
 stories that don't describe a specific tool or feature a user can actually use.
 2. For each selected headline, provide:
-   - A description in Italian of at most 140 characters (spaces included). Specific and factual. No filler phrases.
-   - A category key from: productivity, audio, video, images, code, writing, search, agents, data, other
+   - d: description in Italian of at most 140 characters (spaces included). Specific and factual. No filler phrases.
+   - c: category key from: productivity, audio, video, images, code, writing, search, agents, data, other
+   - u: the official URL where users can access, install, or read the official \
+announcement of the tool/feature (e.g. openai.com/blog/..., anthropic.com/news/..., \
+platform.openai.com, gemini.google.com, etc.). If you are not confident about the \
+exact URL, return null.
 
 Headlines:
 {headlines}
 
-Reply ONLY with a JSON array of exactly 7 objects (fewer if fewer qualify): \
-[{{"i":0,"d":"descrizione","c":"category"}},...]
-where "i" is the 0-based index from the list above, "d" is the Italian description \
-(max 140 chars), and "c" is the category key. No other text."""
+Reply ONLY with a JSON array of up to 7 objects: \
+[{{"i":0,"d":"descrizione","c":"category","u":"https://... or null"}},...]
+where "i" is the 0-based index from the list above. No other text."""
 
 
 def build_top7_descriptions(highlights: list[dict]) -> None:
@@ -211,9 +214,15 @@ def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map
             if idx is None or not (0 <= idx < len(scored)):
                 continue
             a = scored[idx]
+            official_url = item.get("u")
+            url = (
+                official_url
+                if official_url and isinstance(official_url, str) and official_url.startswith("http")
+                else a["url"]
+            )
             output.append({
                 "title":       a["title"],
-                "url":         a["url"],
+                "url":         url,
                 "source":      a["source"],
                 "description": str(item.get("d", "")).strip()[:140],
                 "category":    item.get("c", "other"),
