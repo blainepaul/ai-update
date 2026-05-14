@@ -115,15 +115,15 @@ where "i" is the 0-based index and "d" is the Italian description (max 140 chars
 
 _WEEKLY_TOOLS_PROMPT = """\
 You are an AI product editor writing for Italian readers. For each headline below \
-about an AI tool launch or feature update, write ONE description in Italian of at \
-most 100 characters (spaces included) that explains what the tool/feature does or \
-what changed. Be specific and factual. No filler phrases.
+about an AI tool launch or feature update, provide:
+1. A description in Italian of at most 140 characters (spaces included). Be specific and factual. No filler phrases.
+2. A category key chosen from: productivity, audio, video, images, code, writing, search, agents, data, other
 
 Headlines:
 {headlines}
 
-Reply ONLY with a JSON array: [{{"i":0,"d":"descrizione"}},...]
-where "i" is the 0-based index and "d" is the Italian description (max 100 chars). No other text."""
+Reply ONLY with a JSON array: [{{"i":0,"d":"descrizione","c":"category"}},...]
+where "d" is the Italian description (max 140 chars) and "c" is the category key. No other text."""
 
 
 def build_top7_descriptions(highlights: list[dict]) -> None:
@@ -170,18 +170,22 @@ def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map
         logger.info("Weekly tools: no tools_products articles in past 7 days")
         return []
 
-    scored = sorted(tools, key=lambda a: compute_score(a, now, traction_map, llm_map), reverse=True)[:5]
+    scored = sorted(tools, key=lambda a: compute_score(a, now, traction_map, llm_map), reverse=True)[:7]
     headlines = "\n".join(f"{i}. {a['title']}" for i, a in enumerate(scored))
     try:
-        raw = _gemini_call(_WEEKLY_TOOLS_PROMPT.format(headlines=headlines), max_tokens=400)
+        raw = _gemini_call(_WEEKLY_TOOLS_PROMPT.format(headlines=headlines), max_tokens=700)
         results = _parse_json_response(raw)
-        desc_map = {item["i"]: str(item.get("d", "")).strip() for item in results if "i" in item}
+        desc_map = {
+            item["i"]: {"d": str(item.get("d", "")).strip(), "c": item.get("c", "other")}
+            for item in results if "i" in item
+        }
         output = [
             {
                 "title":       a["title"],
                 "url":         a["url"],
                 "source":      a["source"],
-                "description": desc_map.get(i, "")[:100],
+                "description": desc_map.get(i, {}).get("d", "")[:140],
+                "category":    desc_map.get(i, {}).get("c", "other"),
             }
             for i, a in enumerate(scored)
         ]

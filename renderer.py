@@ -4,7 +4,7 @@ import logging
 from collections import defaultdict
 from datetime import datetime, timezone, timedelta
 from jinja2 import Environment, FileSystemLoader
-from config import CATEGORIES, CATEGORY_LABELS, CATEGORY_ICONS
+from config import CATEGORIES, CATEGORY_LABELS, CATEGORY_ICONS, TOOL_CATEGORY_LABELS, TOOL_CATEGORY_ICONS
 from traction import get_article_history
 
 logger = logging.getLogger(__name__)
@@ -289,6 +289,8 @@ def render_html(articles: list[dict], highlights: list[dict],
         category_order=CATEGORIES,
         labels=CATEGORY_LABELS,
         icons=CATEGORY_ICONS,
+        tool_labels=TOOL_CATEGORY_LABELS,
+        tool_icons=TOOL_CATEGORY_ICONS,
         total_articles=len(articles),
         total_sources=active_sources,
         total_slots=len(slots_data),

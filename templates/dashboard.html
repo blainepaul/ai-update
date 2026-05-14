@@ -184,6 +184,29 @@
     .nav-history.open { display: flex; }
     .nav-history a { border-radius: 8px; }
 
+    /* ── Top section wrapper (Top 7 + Weekly Tools side by side) ── */
+    .top-section {
+      max-width: 1200px;
+      margin: 2.5rem auto 0;
+      padding: 0 2rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 1.5rem;
+    }
+    .top-section > .highlights-section {
+      flex: 1 1 0;
+      min-width: 0;
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+    .top-section > .weekly-section {
+      flex: 0 0 360px;
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+
     /* ── Top 7 ── */
     .highlights-section { max-width: 1200px; margin: 2.5rem auto 0; padding: 0 2rem; }
     .highlights-inner {
@@ -320,18 +343,17 @@
       letter-spacing: 0.1em;
       text-transform: uppercase;
     }
-    .weekly-list { list-style: none; display: flex; flex-wrap: wrap; }
+    .weekly-list { list-style: none; }
     .weekly-item {
-      flex: 1 1 240px;
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
       padding: 1rem 1.4rem;
-      border-right: 1px solid var(--border);
       border-bottom: 1px solid var(--border);
       transition: background 0.15s;
-      display: flex;
-      flex-direction: column;
-      gap: 0.4rem;
       position: relative;
     }
+    .weekly-item:last-child { border-bottom: none; }
     .weekly-item::before {
       content: '';
       position: absolute;
@@ -339,30 +361,58 @@
       width: 3px;
       background: transparent;
       transition: background 0.2s;
+      border-radius: 0 2px 2px 0;
     }
     .weekly-item:hover { background: var(--surface-hover); }
     .weekly-item:hover::before { background: var(--tools-accent); }
-    .weekly-item:nth-child(5n), .weekly-item:last-child { border-right: none; }
-    .weekly-item a {
+    .weekly-rank {
+      font-size: 1.8rem;
+      font-weight: 900;
+      color: var(--border);
+      min-width: 2.4rem;
+      line-height: 1;
+      padding-top: 0.1rem;
+      letter-spacing: -0.05em;
+      user-select: none;
+      transition: color 0.2s;
+      flex-shrink: 0;
+    }
+    .weekly-item:hover .weekly-rank { color: var(--tools-accent); }
+    .weekly-body { flex: 1; min-width: 0; }
+    .weekly-body a {
       text-decoration: none;
       color: var(--text);
       font-weight: 700;
-      font-size: 0.85rem;
-      line-height: 1.4;
+      font-size: 0.88rem;
+      line-height: 1.45;
       transition: color 0.15s;
+      display: block;
     }
-    .weekly-item a:hover { color: var(--tools-accent); }
-    .weekly-item .tool-desc { font-size: 0.76rem; color: var(--muted); line-height: 1.55; }
-    .weekly-item .tool-source {
-      font-size: 0.63rem;
+    .weekly-body a:hover { color: var(--tools-accent); }
+    .tool-desc { font-size: 0.77rem; color: var(--muted); line-height: 1.55; margin-top: 0.3rem; }
+    .tool-meta {
+      display: flex;
+      gap: 0.4rem;
+      align-items: center;
+      margin-top: 0.45rem;
+      flex-wrap: wrap;
+    }
+    .tool-cat {
+      font-size: 0.64rem;
+      font-weight: 600;
+      color: var(--tools-accent);
+      background: var(--tools-dim);
+      padding: 0.06rem 0.55rem;
+      border-radius: 999px;
+    }
+    .tool-source {
+      font-size: 0.64rem;
       font-weight: 600;
       color: var(--muted);
       background: var(--bg);
       border: 1px solid var(--border);
-      padding: 0.04rem 0.5rem;
+      padding: 0.06rem 0.55rem;
       border-radius: 999px;
-      width: fit-content;
-      margin-top: auto;
     }
 
     /* ── Stats bar ── */
@@ -583,8 +633,14 @@
       }
 
       /* Sections */
-      .highlights-section,
-      .weekly-section,
+      .top-section {
+        flex-direction: column;
+        margin-top: 1rem;
+        padding: 0 0.75rem;
+        gap: 1rem;
+      }
+      .top-section > .highlights-section,
+      .top-section > .weekly-section { flex: none; width: 100%; }
       .stats-bar { margin-top: 1rem; padding: 0 0.75rem; }
       main { padding: 1rem 0.75rem; }
 
@@ -599,8 +655,7 @@
       .highlight-trend { display: none; }
 
       /* Weekly tools */
-      .weekly-item { flex-basis: 100%; border-right: none; }
-      .weekly-item:last-child { border-bottom: none; }
+      .weekly-rank { font-size: 1.4rem; min-width: 1.9rem; }
 
       /* Stats */
       .stats-inner { gap: 1.5rem; padding: 0.85rem 1.1rem; }
@@ -667,6 +722,8 @@
   {% endif %}
 </nav>
 
+<div class="top-section">
+
 <!-- Top 7 -->
 <section class="highlights-section">
   <div class="highlights-inner">
@@ -716,30 +773,37 @@
   <div class="weekly-inner">
     <div class="weekly-header">
       <span>🛠️</span>
-      <h2>Last week's new tools &amp; features</h2>
+      <h2>Tool &amp; Feature della settimana</h2>
     </div>
     <ul class="weekly-list">
       {% for tool in weekly_tools %}
+        {% set cat = tool.category | default('other') %}
         <li class="weekly-item">
-          <a href="{{ tool.url }}" target="_blank" rel="noopener noreferrer">{{ tool.title }}</a>
-          {% if tool.description %}
-            <p class="tool-desc">{{ tool.description }}</p>
-          {% endif %}
-          <div style="display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:0.4rem">
-            <span class="tool-source">{{ tool.source }}</span>
-            <button class="share-btn"
-              data-url="{{ tool.url | e }}"
-              data-title="{{ tool.title | e }}"
-              data-desc="{{ (tool.description | default('')) | e }}"
-              onclick="openShare(this, event)"
-              title="Condividi">↗</button>
+          <span class="weekly-rank">0{{ loop.index }}</span>
+          <div class="weekly-body">
+            <a href="{{ tool.url }}" target="_blank" rel="noopener noreferrer">{{ tool.title }}</a>
+            {% if tool.description %}
+              <p class="tool-desc">{{ tool.description }}</p>
+            {% endif %}
+            <div class="tool-meta">
+              <span class="tool-cat">{{ tool_icons[cat] }} {{ tool_labels[cat] }}</span>
+              <span class="tool-source">{{ tool.source }}</span>
+            </div>
           </div>
+          <button class="share-btn"
+            data-url="{{ tool.url | e }}"
+            data-title="{{ tool.title | e }}"
+            data-desc="{{ (tool.description | default('')) | e }}"
+            onclick="openShare(this, event)"
+            title="Condividi">↗</button>
         </li>
       {% endfor %}
     </ul>
   </div>
 </section>
 {% endif %}
+
+</div><!-- /top-section -->
 
 <!-- Stats -->
 <div class="stats-bar">

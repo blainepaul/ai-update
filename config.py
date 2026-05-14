@@ -51,7 +51,6 @@ FEEDS = [
     {"name": "Ars Technica",     "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
     {"name": "AI News (AIN)",    "url": "https://www.artificialintelligence-news.com/feed/"},
     {"name": "Bloomberg Tech",   "url": "https://feeds.bloomberg.com/technology/news.rss"},
-    {"name": "ANSA Tech",        "url": "https://www.ansa.it/sito/ansait_rss.xml"},
     # Official AI company blogs
     {"name": "OpenAI Blog",      "url": "https://openai.com/blog/rss.xml"},
     {"name": "Anthropic Blog",   "url": "https://www.anthropic.com/rss.xml"},
@@ -82,7 +81,7 @@ FEEDS = [
 
 # Feeds that are NOT AI-specific and need keyword filtering
 GENERIC_FEEDS = {
-    "ANSA Tech", "Bloomberg Tech", "MIT Tech Review", "Wired", "Ars Technica",
+    "Bloomberg Tech", "MIT Tech Review", "Wired", "Ars Technica",
     "IEEE Spectrum AI", "Fortune AI", "Wired Italia", "Agenda Digitale",
     "NVIDIA Blog",  # covers GPU/hardware broadly, filter to AI topics
 }
@@ -125,6 +124,33 @@ AI_KEYWORDS = [
     "intelligenza artificiale", "apprendimento automatico",
     "modello linguistico", "rete neurale",
 ]
+
+# --- Tool categories (weekly tools section) ---
+TOOL_CATEGORY_LABELS = {
+    "productivity": "Produttività",
+    "audio":        "Audio",
+    "video":        "Video",
+    "images":       "Immagini",
+    "code":         "Codice",
+    "writing":      "Scrittura",
+    "search":       "Ricerca",
+    "agents":       "Agenti",
+    "data":         "Dati",
+    "other":        "Altro",
+}
+
+TOOL_CATEGORY_ICONS = {
+    "productivity": "⚡",
+    "audio":        "🎙️",
+    "video":        "🎬",
+    "images":       "🖼️",
+    "code":         "💻",
+    "writing":      "✍️",
+    "search":       "🔍",
+    "agents":       "🤖",
+    "data":         "📊",
+    "other":        "📌",
+}
 
 # --- Fetcher settings ---
 MAX_ARTICLES_PER_FEED = 15

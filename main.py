@@ -8,6 +8,7 @@ from datetime import datetime, timezone, timedelta
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 _RUN_FLAG = os.path.join(BASE_DIR, "cache", "last_run.txt")
 _PREV_HIGHLIGHTS_FILE = os.path.join(BASE_DIR, "cache", "last_highlights.json")
+_RENDERED_HIGHLIGHTS_FILE = os.path.join(BASE_DIR, "cache", "highlights_rendered.json")
 _WEEKLY_TOOLS_FILE = os.path.join(BASE_DIR, "cache", "weekly_tools.json")
 
 
@@ -23,6 +24,32 @@ def _save_highlight_urls(highlights: list[dict]):
     os.makedirs(os.path.dirname(_PREV_HIGHLIGHTS_FILE), exist_ok=True)
     with open(_PREV_HIGHLIGHTS_FILE, "w") as f:
         json.dump([a["url"] for a in highlights], f)
+
+
+def _save_rendered_highlights(highlights: list[dict]):
+    """Persist full highlights (including _description) for cache-based re-renders."""
+    os.makedirs(os.path.dirname(_RENDERED_HIGHLIGHTS_FILE), exist_ok=True)
+    serializable = []
+    for a in highlights:
+        h = {k: v for k, v in a.items() if k not in ("_sparkline",)}
+        if isinstance(h.get("date"), datetime):
+            h["date"] = h["date"].isoformat()
+        serializable.append(h)
+    with open(_RENDERED_HIGHLIGHTS_FILE, "w", encoding="utf-8") as f:
+        json.dump(serializable, f, ensure_ascii=False, indent=2)
+
+
+def _load_rendered_highlights() -> list[dict]:
+    try:
+        with open(_RENDERED_HIGHLIGHTS_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        for h in data:
+            if isinstance(h.get("date"), str):
+                dt = datetime.fromisoformat(h["date"])
+                h["date"] = dt if dt.tzinfo else dt.replace(tzinfo=timezone.utc)
+        return data
+    except (FileNotFoundError, ValueError):
+        return []
 
 
 def _current_slot() -> str:
@@ -227,6 +254,7 @@ def main():
     # 140-char Italian descriptions for Top 7 (1 Gemini call)
     from llm_scorer import build_top7_descriptions, build_weekly_tools_section
     build_top7_descriptions(highlights)
+    _save_rendered_highlights(highlights)
 
     # Weekly tools section — rebuilt every Monday morning (or if cache is empty)
     cached_tools = _load_weekly_tools()

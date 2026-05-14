@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Update — 2026-05-10 10:00 UTC</title>
+  <title>AI Update — 2026-05-14 09:26 UTC</title>
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="apple-touch-icon" href="favicon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -184,6 +184,29 @@
     .nav-history.open { display: flex; }
     .nav-history a { border-radius: 8px; }
 
+    /* ── Top section wrapper (Top 7 + Weekly Tools side by side) ── */
+    .top-section {
+      max-width: 1200px;
+      margin: 2.5rem auto 0;
+      padding: 0 2rem;
+      display: flex;
+      align-items: flex-start;
+      gap: 1.5rem;
+    }
+    .top-section > .highlights-section {
+      flex: 1 1 0;
+      min-width: 0;
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+    .top-section > .weekly-section {
+      flex: 0 0 360px;
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+
     /* ── Top 7 ── */
     .highlights-section { max-width: 1200px; margin: 2.5rem auto 0; padding: 0 2rem; }
     .highlights-inner {
@@ -320,18 +343,17 @@
       letter-spacing: 0.1em;
       text-transform: uppercase;
     }
-    .weekly-list { list-style: none; display: flex; flex-wrap: wrap; }
+    .weekly-list { list-style: none; }
     .weekly-item {
-      flex: 1 1 240px;
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
       padding: 1rem 1.4rem;
-      border-right: 1px solid var(--border);
       border-bottom: 1px solid var(--border);
       transition: background 0.15s;
-      display: flex;
-      flex-direction: column;
-      gap: 0.4rem;
       position: relative;
     }
+    .weekly-item:last-child { border-bottom: none; }
     .weekly-item::before {
       content: '';
       position: absolute;
@@ -339,30 +361,58 @@
       width: 3px;
       background: transparent;
       transition: background 0.2s;
+      border-radius: 0 2px 2px 0;
     }
     .weekly-item:hover { background: var(--surface-hover); }
     .weekly-item:hover::before { background: var(--tools-accent); }
-    .weekly-item:nth-child(5n), .weekly-item:last-child { border-right: none; }
-    .weekly-item a {
+    .weekly-rank {
+      font-size: 1.8rem;
+      font-weight: 900;
+      color: var(--border);
+      min-width: 2.4rem;
+      line-height: 1;
+      padding-top: 0.1rem;
+      letter-spacing: -0.05em;
+      user-select: none;
+      transition: color 0.2s;
+      flex-shrink: 0;
+    }
+    .weekly-item:hover .weekly-rank { color: var(--tools-accent); }
+    .weekly-body { flex: 1; min-width: 0; }
+    .weekly-body a {
       text-decoration: none;
       color: var(--text);
       font-weight: 700;
-      font-size: 0.85rem;
-      line-height: 1.4;
+      font-size: 0.88rem;
+      line-height: 1.45;
       transition: color 0.15s;
+      display: block;
     }
-    .weekly-item a:hover { color: var(--tools-accent); }
-    .weekly-item .tool-desc { font-size: 0.76rem; color: var(--muted); line-height: 1.55; }
-    .weekly-item .tool-source {
-      font-size: 0.63rem;
+    .weekly-body a:hover { color: var(--tools-accent); }
+    .tool-desc { font-size: 0.77rem; color: var(--muted); line-height: 1.55; margin-top: 0.3rem; }
+    .tool-meta {
+      display: flex;
+      gap: 0.4rem;
+      align-items: center;
+      margin-top: 0.45rem;
+      flex-wrap: wrap;
+    }
+    .tool-cat {
+      font-size: 0.64rem;
+      font-weight: 600;
+      color: var(--tools-accent);
+      background: var(--tools-dim);
+      padding: 0.06rem 0.55rem;
+      border-radius: 999px;
+    }
+    .tool-source {
+      font-size: 0.64rem;
       font-weight: 600;
       color: var(--muted);
       background: var(--bg);
       border: 1px solid var(--border);
-      padding: 0.04rem 0.5rem;
+      padding: 0.06rem 0.55rem;
       border-radius: 999px;
-      width: fit-content;
-      margin-top: auto;
     }
 
     /* ── Stats bar ── */
@@ -583,8 +633,14 @@
       }
 
       /* Sections */
-      .highlights-section,
-      .weekly-section,
+      .top-section {
+        flex-direction: column;
+        margin-top: 1rem;
+        padding: 0 0.75rem;
+        gap: 1rem;
+      }
+      .top-section > .highlights-section,
+      .top-section > .weekly-section { flex: none; width: 100%; }
       .stats-bar { margin-top: 1rem; padding: 0 0.75rem; }
       main { padding: 1rem 0.75rem; }
 
@@ -599,8 +655,7 @@
       .highlight-trend { display: none; }
 
       /* Weekly tools */
-      .weekly-item { flex-basis: 100%; border-right: none; }
-      .weekly-item:last-child { border-bottom: none; }
+      .weekly-rank { font-size: 1.4rem; min-width: 1.9rem; }
 
       /* Stats */
       .stats-inner { gap: 1.5rem; padding: 0.85rem 1.1rem; }
@@ -632,8 +687,8 @@
   </div>
   <div class="header-right">
     <div class="header-meta">
-      Aggiornato 2026-05-10 10:00 UTC<br>
-      222 articoli · 21 fonti
+      Aggiornato 2026-05-14 09:26 UTC<br>
+      212 articoli · 20 fonti
     </div>
     <button class="theme-toggle" id="theme-toggle" title="Cambia tema">
       <span id="theme-icon">🌙</span>
@@ -646,11 +701,11 @@
   <a href="#top">Tutti</a>
   
     
-      <a href="#slot-1">🌅 Stamattina (16)</a>
+      <a href="#slot-1">🌅 10 Maggio mattina (13)</a>
     
   
     
-      <a href="#slot-2" class="nav-slot-2">🌅 Ieri mattina (20)</a>
+      <a href="#slot-2" class="nav-slot-2">🌅 9 Maggio mattina (20)</a>
     
   
     
@@ -717,6 +772,8 @@
   
 </nav>
 
+<div class="top-section">
+
 <!-- Top 7 -->
 <section class="highlights-section">
   <div class="highlights-inner">
@@ -729,19 +786,21 @@
         <li class="highlight-item">
           <span class="highlight-rank">01</span>
           <div class="highlight-body">
-            <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener noreferrer">Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!</a>
+            <a href="https://openai.com/index/singular-bank" target="_blank" rel="noopener noreferrer">Singular Bank helps bankers move fast with ChatGPT and Codex</a>
+            
+              <p class="highlight-desc">Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, por</p>
             
             <div class="highlight-meta">
-              <span class="highlight-source">Reddit r/LocalLLaMA</span>
-              <span class="highlight-cat">📌 Altro</span>
+              <span class="highlight-source">OpenAI Blog</span>
+              <span class="highlight-cat">🛠️ Strumenti & Prodotti</span>
             </div>
           </div>
           <div class="highlight-right">
             
             <button class="share-btn"
-              data-url="https://github.com/taylorwilsdon/google_workspace_mcp"
-              data-title="Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!"
-              data-desc=""
+              data-url="https://openai.com/index/singular-bank"
+              data-title="Singular Bank helps bankers move fast with ChatGPT and Codex"
+              data-desc="Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, por"
               onclick="openShare(this, event)"
               title="Condividi">↗</button>
           </div>
@@ -750,19 +809,21 @@
         <li class="highlight-item">
           <span class="highlight-rank">02</span>
           <div class="highlight-body">
-            <a href="https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review" target="_blank" rel="noopener noreferrer">ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review</a>
+            <a href="https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade" target="_blank" rel="noopener noreferrer">Google Home&#8217;s Gemini AI can handle more complicated requests</a>
+            
+              <p class="highlight-desc">Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has u</p>
             
             <div class="highlight-meta">
-              <span class="highlight-source">Bloomberg Tech</span>
-              <span class="highlight-cat">🛡️ Etica & Sicurezza</span>
+              <span class="highlight-source">The Verge AI</span>
+              <span class="highlight-cat">🧠 Modelli & Ricerca</span>
             </div>
           </div>
           <div class="highlight-right">
             
             <button class="share-btn"
-              data-url="https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review"
-              data-title="ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review"
-              data-desc=""
+              data-url="https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
+              data-title="Google Home&amp;#8217;s Gemini AI can handle more complicated requests"
+              data-desc="Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has u"
               onclick="openShare(this, event)"
               title="Condividi">↗</button>
           </div>
@@ -771,19 +832,21 @@
         <li class="highlight-item">
           <span class="highlight-rank">03</span>
           <div class="highlight-body">
-            <a href="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper" target="_blank" rel="noopener noreferrer">"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support"</a>
+            <a href="https://openai.com/index/introducing-chatgpt-futures-class-of-2026" target="_blank" rel="noopener noreferrer">Introducing ChatGPT Futures: Class of 2026</a>
+            
+              <p class="highlight-desc">Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this gen</p>
             
             <div class="highlight-meta">
-              <span class="highlight-source">HuggingFace Blog</span>
-              <span class="highlight-cat">📌 Altro</span>
+              <span class="highlight-source">OpenAI Blog</span>
+              <span class="highlight-cat">🛠️ Strumenti & Prodotti</span>
             </div>
           </div>
           <div class="highlight-right">
             
             <button class="share-btn"
-              data-url="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
-              data-title="&#34;OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support&#34;"
-              data-desc=""
+              data-url="https://openai.com/index/introducing-chatgpt-futures-class-of-2026"
+              data-title="Introducing ChatGPT Futures: Class of 2026"
+              data-desc="Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this gen"
               onclick="openShare(this, event)"
               title="Condividi">↗</button>
           </div>
@@ -792,19 +855,21 @@
         <li class="highlight-item">
           <span class="highlight-rank">04</span>
           <div class="highlight-body">
-            <a href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/" target="_blank" rel="noopener noreferrer">Nvidia has already committed $40B to equity AI deals this year</a>
+            <a href="https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/" target="_blank" rel="noopener noreferrer">Google tests Remy AI agent for Gemini as focus turns to user control</a>
+            
+              <p class="highlight-desc">Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in</p>
             
             <div class="highlight-meta">
-              <span class="highlight-source">TechCrunch AI</span>
-              <span class="highlight-cat">📌 Altro</span>
+              <span class="highlight-source">AI News</span>
+              <span class="highlight-cat">🧠 Modelli & Ricerca</span>
             </div>
           </div>
           <div class="highlight-right">
             
             <button class="share-btn"
-              data-url="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
-              data-title="Nvidia has already committed $40B to equity AI deals this year"
-              data-desc=""
+              data-url="https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
+              data-title="Google tests Remy AI agent for Gemini as focus turns to user control"
+              data-desc="Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in"
               onclick="openShare(this, event)"
               title="Condividi">↗</button>
           </div>
@@ -813,19 +878,21 @@
         <li class="highlight-item">
           <span class="highlight-rank">05</span>
           <div class="highlight-body">
-            <a href="https://github.com/ggml-org/llama.cpp/pull/20275" target="_blank" rel="noopener noreferrer">model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp</a>
+            <a href="https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/" target="_blank" rel="noopener noreferrer">Snap says its $400M deal with Perplexity ‘amicably ended’</a>
+            
+              <p class="highlight-desc">The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.</p>
             
             <div class="highlight-meta">
-              <span class="highlight-source">Reddit r/LocalLLaMA</span>
-              <span class="highlight-cat">🧠 Modelli & Ricerca</span>
+              <span class="highlight-source">TechCrunch AI</span>
+              <span class="highlight-cat">🛠️ Strumenti & Prodotti</span>
             </div>
           </div>
           <div class="highlight-right">
             
             <button class="share-btn"
-              data-url="https://github.com/ggml-org/llama.cpp/pull/20275"
-              data-title="model: add sarvam_moe architecture support by sumitchatterjee13 · Pull Request #20275 · ggml-org/llama.cpp"
-              data-desc=""
+              data-url="https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
+              data-title="Snap says its $400M deal with Perplexity ‘amicably ended’"
+              data-desc="The deal, announced last November, would have seen Perplexity&#39;s AI search engine integrated directly into Snapchat."
               onclick="openShare(this, event)"
               title="Condividi">↗</button>
           </div>
@@ -834,19 +901,21 @@
         <li class="highlight-item">
           <span class="highlight-rank">06</span>
           <div class="highlight-body">
-            <a href="https://restofworld.org/2026/ai-optimism-asia/" target="_blank" rel="noopener noreferrer">Asia is excited about AI, the U.S. not so much</a>
+            <a href="https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand" target="_blank" rel="noopener noreferrer">Anthropic Inks Computing Deal With SpaceX to Meet AI Demand</a>
+            
+              <p class="highlight-desc">Anthropic PBC has signed an agreement with Elon Musk’s SpaceX to bolster computing resources and meet surging demand for its Claude artifici</p>
             
             <div class="highlight-meta">
-              <span class="highlight-source">Reddit r/singularity</span>
-              <span class="highlight-cat">📌 Altro</span>
+              <span class="highlight-source">Bloomberg Tech</span>
+              <span class="highlight-cat">🧠 Modelli & Ricerca</span>
             </div>
           </div>
           <div class="highlight-right">
             
             <button class="share-btn"
-              data-url="https://restofworld.org/2026/ai-optimism-asia/"
-              data-title="Asia is excited about AI, the U.S. not so much"
-              data-desc=""
+              data-url="https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand"
+              data-title="Anthropic Inks Computing Deal With SpaceX to Meet AI Demand"
+              data-desc="Anthropic PBC has signed an agreement with Elon Musk’s SpaceX to bolster computing resources and meet surging demand for its Claude artifici"
               onclick="openShare(this, event)"
               title="Condividi">↗</button>
           </div>
@@ -855,19 +924,21 @@
         <li class="highlight-item">
           <span class="highlight-rank">07</span>
           <div class="highlight-body">
-            <a href="https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/09/fragilita-umane-e-rinascita-i-22-in-corsa-a-cannes-in-unedizione-senza-italia_06b42411-7f89-4569-86b7-6a76aa0d0d31.html" target="_blank" rel="noopener noreferrer">Fragilità umane e rinascita, i 22 in corsa a Cannes in un'edizione senza Italia</a>
+            <a href="https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts" target="_blank" rel="noopener noreferrer">OpenClaw and Claude can put your AI-generated podcasts in Spotify</a>
+            
+              <p class="highlight-desc">Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the ki</p>
             
             <div class="highlight-meta">
-              <span class="highlight-source">ANSA Tech</span>
-              <span class="highlight-cat">📌 Altro</span>
+              <span class="highlight-source">The Verge AI</span>
+              <span class="highlight-cat">🧠 Modelli & Ricerca</span>
             </div>
           </div>
           <div class="highlight-right">
             
             <button class="share-btn"
-              data-url="https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/09/fragilita-umane-e-rinascita-i-22-in-corsa-a-cannes-in-unedizione-senza-italia_06b42411-7f89-4569-86b7-6a76aa0d0d31.html"
-              data-title="Fragilità umane e rinascita, i 22 in corsa a Cannes in un&#39;edizione senza Italia"
-              data-desc=""
+              data-url="https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts"
+              data-title="OpenClaw and Claude can put your AI-generated podcasts in Spotify"
+              data-desc="Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you&#39;re the ki"
               onclick="openShare(this, event)"
               title="Condividi">↗</button>
           </div>
@@ -879,12 +950,152 @@
 
 <!-- Weekly tools -->
 
+<section class="weekly-section">
+  <div class="weekly-inner">
+    <div class="weekly-header">
+      <span>🛠️</span>
+      <h2>Tool &amp; Feature della settimana</h2>
+    </div>
+    <ul class="weekly-list">
+      
+        
+        <li class="weekly-item">
+          <span class="weekly-rank">01</span>
+          <div class="weekly-body">
+            <a href="https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification" target="_blank" rel="noopener noreferrer">ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns</a>
+            
+              <p class="tool-desc">OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safe</p>
+            
+            <div class="tool-meta">
+              <span class="tool-cat">💻 Codice</span>
+              <span class="tool-source">The Verge AI</span>
+            </div>
+          </div>
+          <button class="share-btn"
+            data-url="https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"
+            data-title="ChatGPT&amp;#8217;s &amp;#8216;Trusted Contact&amp;#8217; will alert loved ones of safety concerns"
+            data-desc="OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safe"
+            onclick="openShare(this, event)"
+            title="Condividi">↗</button>
+        </li>
+      
+        
+        <li class="weekly-item">
+          <span class="weekly-rank">02</span>
+          <div class="weekly-body">
+            <a href="https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/" target="_blank" rel="noopener noreferrer">OpenAI launches new voice intelligence features in its API</a>
+            
+              <p class="tool-desc">The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fie</p>
+            
+            <div class="tool-meta">
+              <span class="tool-cat">🎙️ Audio</span>
+              <span class="tool-source">TechCrunch AI</span>
+            </div>
+          </div>
+          <button class="share-btn"
+            data-url="https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+            data-title="OpenAI launches new voice intelligence features in its API"
+            data-desc="The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fie"
+            onclick="openShare(this, event)"
+            title="Condividi">↗</button>
+        </li>
+      
+        
+        <li class="weekly-item">
+          <span class="weekly-rank">03</span>
+          <div class="weekly-body">
+            <a href="https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/" target="_blank" rel="noopener noreferrer">OpenAI introduces new â€˜Trusted Contactâ€™ safeguard for cases of possible self-harm</a>
+            
+              <p class="tool-desc">The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.</p>
+            
+            <div class="tool-meta">
+              <span class="tool-cat">⚡ Produttività</span>
+              <span class="tool-source">TechCrunch AI</span>
+            </div>
+          </div>
+          <button class="share-btn"
+            data-url="https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+            data-title="OpenAI introduces new â€˜Trusted Contactâ€™ safeguard for cases of possible self-harm"
+            data-desc="The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
+            onclick="openShare(this, event)"
+            title="Condividi">↗</button>
+        </li>
+      
+        
+        <li class="weekly-item">
+          <span class="weekly-rank">04</span>
+          <div class="weekly-body">
+            <a href="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/" target="_blank" rel="noopener noreferrer">ChatGPT Has â€˜Goblinâ€™ Mania in the US. In China It Will â€˜Catch You Steadilyâ€™</a>
+            
+              <p class="tool-desc">OpenAIâ€™s chatbot has some weird linguistic tics in Chinese that are driving users crazy.</p>
+            
+            <div class="tool-meta">
+              <span class="tool-cat">⚡ Produttività</span>
+              <span class="tool-source">Wired</span>
+            </div>
+          </div>
+          <button class="share-btn"
+            data-url="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"
+            data-title="ChatGPT Has â€˜Goblinâ€™ Mania in the US. In China It Will â€˜Catch You Steadilyâ€™"
+            data-desc="OpenAIâ€™s chatbot has some weird linguistic tics in Chinese that are driving users crazy."
+            onclick="openShare(this, event)"
+            title="Condividi">↗</button>
+        </li>
+      
+        
+        <li class="weekly-item">
+          <span class="weekly-rank">05</span>
+          <div class="weekly-body">
+            <a href="https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/" target="_blank" rel="noopener noreferrer">Perplexityâ€™s Personal Computer is now available to everyone on Mac</a>
+            
+              <p class="tool-desc">Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.</p>
+            
+            <div class="tool-meta">
+              <span class="tool-cat">🤖 Agenti</span>
+              <span class="tool-source">TechCrunch AI</span>
+            </div>
+          </div>
+          <button class="share-btn"
+            data-url="https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+            data-title="Perplexityâ€™s Personal Computer is now available to everyone on Mac"
+            data-desc="Perplexity&#39;s Personal Computer brings AI agents to your Mac, and is now open to everyone."
+            onclick="openShare(this, event)"
+            title="Condividi">↗</button>
+        </li>
+      
+        
+        <li class="weekly-item">
+          <span class="weekly-rank">06</span>
+          <div class="weekly-body">
+            <a href="https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/" target="_blank" rel="noopener noreferrer">Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe</a>
+            
+              <p class="tool-desc">Today, we're announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI ag</p>
+            
+            <div class="tool-meta">
+              <span class="tool-cat">💻 Codice</span>
+              <span class="tool-source">AWS ML Blog</span>
+            </div>
+          </div>
+          <button class="share-btn"
+            data-url="https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/"
+            data-title="Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe"
+            data-desc="Today, we&#39;re announcing a preview of Amazon Bedrock AgentCore Payments, a new set of features in Amazon Bedrock AgentCore that enables AI ag"
+            onclick="openShare(this, event)"
+            title="Condividi">↗</button>
+        </li>
+      
+    </ul>
+  </div>
+</section>
+
+
+</div><!-- /top-section -->
 
 <!-- Stats -->
 <div class="stats-bar">
   <div class="stats-inner">
     <div class="stat">
-      <span class="value">222</span>
+      <span class="value">212</span>
       <span class="label">Articoli totali</span>
     </div>
     <div class="stat">
@@ -892,7 +1103,7 @@
       <span class="label">Run archiviate</span>
     </div>
     <div class="stat">
-      <span class="value">21</span>
+      <span class="value">20</span>
       <span class="label">Fonti attive</span>
     </div>
   </div>
@@ -901,10 +1112,10 @@
 <main>
   
     <section class="day-block" id="slot-1">
-      <div class="day-header today">
+      <div class="day-header ">
         <span>🌅</span>
-        <span class="day-label">Stamattina</span>
-        <span class="day-count">16 articoli</span>
+        <span class="day-label">10 Maggio mattina</span>
+        <span class="day-count">13 articoli</span>
       </div>
 
       
@@ -997,57 +1208,9 @@
             <div class="cat-header">
               <span>📌</span>
               <h3>Altro</h3>
-              <span class="cat-count">13</span>
+              <span class="cat-count">10</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener noreferrer">
-                    Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/LocalLLaMA</span>
-                    <span class="article-time">22:08</span>
-                    <button class="share-btn"
-                      data-url="https://github.com/taylorwilsdon/google_workspace_mcp"
-                      data-title="Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper" target="_blank" rel="noopener noreferrer">
-                    "OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support"
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">HuggingFace Blog</span>
-                    <span class="article-time">18:09</span>
-                    <button class="share-btn"
-                      data-url="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
-                      data-title="&#34;OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support&#34;"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/" target="_blank" rel="noopener noreferrer">
-                    Nvidia has already committed $40B to equity AI deals this year
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">TechCrunch AI</span>
-                    <span class="article-time">14:43</span>
-                    <button class="share-btn"
-                      data-url="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
-                      data-title="Nvidia has already committed $40B to equity AI deals this year"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://restofworld.org/2026/ai-optimism-asia/" target="_blank" rel="noopener noreferrer">
@@ -1059,38 +1222,6 @@
                     <button class="share-btn"
                       data-url="https://restofworld.org/2026/ai-optimism-asia/"
                       data-title="Asia is excited about AI, the U.S. not so much"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/09/fragilita-umane-e-rinascita-i-22-in-corsa-a-cannes-in-unedizione-senza-italia_06b42411-7f89-4569-86b7-6a76aa0d0d31.html" target="_blank" rel="noopener noreferrer">
-                    Fragilità umane e rinascita, i 22 in corsa a Cannes in un'edizione senza Italia
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">10:29</span>
-                    <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/09/fragilita-umane-e-rinascita-i-22-in-corsa-a-cannes-in-unedizione-senza-italia_06b42411-7f89-4569-86b7-6a76aa0d0d31.html"
-                      data-title="Fragilità umane e rinascita, i 22 in corsa a Cannes in un&#39;edizione senza Italia"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/videogallery/italia/2026/05/09/sindaco-di-garlasco-grave-danno-dimmagine-difficile-da-eliminare_2f2032e4-2d1e-4fba-ae51-3b43b884f9bd.html" target="_blank" rel="noopener noreferrer">
-                    Il sindaco di Garlasco: "Danno d'immagine difficile da eliminare. Per Chiara vogliamo verità"
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">10:18</span>
-                    <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/videogallery/italia/2026/05/09/sindaco-di-garlasco-grave-danno-dimmagine-difficile-da-eliminare_2f2032e4-2d1e-4fba-ae51-3b43b884f9bd.html"
-                      data-title="Il sindaco di Garlasco: &#34;Danno d&#39;immagine difficile da eliminare. Per Chiara vogliamo verità&#34;"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -1130,6 +1261,22 @@
                 </li>
               
                 <li class="article-row">
+                  <a class="title" href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener noreferrer">
+                    Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/LocalLLaMA</span>
+                    <span class="article-time">22:08</span>
+                    <button class="share-btn"
+                      data-url="https://github.com/taylorwilsdon/google_workspace_mcp"
+                      data-title="Exactly a year ago, I started working on an MCP server I launched on reddit that became by far my most active open source project!"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
                   <a class="title" href="https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" target="_blank" rel="noopener noreferrer">
                     So you’ve heard these AI terms and nodded along; let’s fix that
                   </a>
@@ -1162,15 +1309,31 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/notizie/cronaca/2026/05/09/garlasco-le-anomalie-della-prima-indagine-su-sempio-finira-presto_e3ee7f0b-e8d5-4a87-9cd9-a47fcca1d78b.html" target="_blank" rel="noopener noreferrer">
-                    Garlasco: le anomalie della prima indagine su Sempio, 'finirà presto'
+                  <a class="title" href="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper" target="_blank" rel="noopener noreferrer">
+                    "OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support"
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">20:19</span>
+                    <span class="source-badge">HuggingFace Blog</span>
+                    <span class="article-time">18:09</span>
                     <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/notizie/cronaca/2026/05/09/garlasco-le-anomalie-della-prima-indagine-su-sempio-finira-presto_e3ee7f0b-e8d5-4a87-9cd9-a47fcca1d78b.html"
-                      data-title="Garlasco: le anomalie della prima indagine su Sempio, &#39;finirà presto&#39;"
+                      data-url="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+                      data-title="&#34;OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support&#34;"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/" target="_blank" rel="noopener noreferrer">
+                    Nvidia has already committed $40B to equity AI deals this year
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">TechCrunch AI</span>
+                    <span class="article-time">14:43</span>
+                    <button class="share-btn"
+                      data-url="https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+                      data-title="Nvidia has already committed $40B to equity AI deals this year"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -1218,7 +1381,7 @@
     <section class="day-block" id="slot-2">
       <div class="day-header ">
         <span>🌅</span>
-        <span class="day-label">Ieri mattina</span>
+        <span class="day-label">9 Maggio mattina</span>
         <span class="day-count">20 articoli</span>
       </div>
 
@@ -1228,25 +1391,9 @@
             <div class="cat-header">
               <span>🧠</span>
               <h3>Modelli & Ricerca</h3>
-              <span class="cat-count">2</span>
+              <span class="cat-count">1</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://huggingface.co/blog/allenai/emo" target="_blank" rel="noopener noreferrer">
-                    EMO: Pretraining mixture of experts for emergent modularity
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">HuggingFace Blog</span>
-                    <span class="article-time">16:03</span>
-                    <button class="share-btn"
-                      data-url="https://huggingface.co/blog/allenai/emo"
-                      data-title="EMO: Pretraining mixture of experts for emergent modularity"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://bengoertzel.substack.com/p/playing-around-with-the-arc-agi-3?utm_campaign=post&showWelcomeOnShare=true" target="_blank" rel="noopener noreferrer">
@@ -1304,7 +1451,7 @@
             <div class="cat-header">
               <span>💼</span>
               <h3>Business & Investimenti</h3>
-              <span class="cat-count">3</span>
+              <span class="cat-count">6</span>
             </div>
             <ul class="articles-list">
               
@@ -1318,6 +1465,22 @@
                     <button class="share-btn"
                       data-url="https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
                       data-title="Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/ai-chipmaker-cerebras-is-said-to-plan-raising-ipo-price-range" target="_blank" rel="noopener noreferrer">
+                    AI Chipmaker Cerebras Is Said to Plan Raising IPO Price Range
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">18:59</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/ai-chipmaker-cerebras-is-said-to-plan-raising-ipo-price-range"
+                      data-title="AI Chipmaker Cerebras Is Said to Plan Raising IPO Price Range"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -1356,6 +1519,38 @@
                   </div>
                 </li>
               
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/videos/2026-05-08/gamma-ceo-larry-jackson-on-music-career-ye-s-comeback-video" target="_blank" rel="noopener noreferrer">
+                    gamma. CEO Larry Jackson on Music Career, Ye's Comeback
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">17:41</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/videos/2026-05-08/gamma-ceo-larry-jackson-on-music-career-ye-s-comeback-video"
+                      data-title="gamma. CEO Larry Jackson on Music Career, Ye&#39;s Comeback"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games" target="_blank" rel="noopener noreferrer">
+                    PlayStation sees AI as a ‘powerful tool’ to help make games
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">The Verge AI</span>
+                    <span class="article-time">12:30</span>
+                    <button class="share-btn"
+                      data-url="https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games"
+                      data-title="PlayStation sees AI as a ‘powerful tool’ to help make games"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
             </ul>
           </div>
         
@@ -1371,41 +1566,9 @@
             <div class="cat-header">
               <span>📌</span>
               <h3>Altro</h3>
-              <span class="cat-count">14</span>
+              <span class="cat-count">12</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai" target="_blank" rel="noopener noreferrer">
-                    Anthropic Inks $1.8 Billion Computing Deal With Akamai
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">17:55</span>
-                    <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai"
-                      data-title="Anthropic Inks $1.8 Billion Computing Deal With Akamai"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding" target="_blank" rel="noopener noreferrer">
-                    Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">18:39</span>
-                    <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding"
-                      data-title="Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp" target="_blank" rel="noopener noreferrer">
@@ -1417,70 +1580,6 @@
                     <button class="share-btn"
                       data-url="https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp"
                       data-title="ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/nvidia-names-goldman-sachs-veteran-suzanne-nora-johnson-to-board" target="_blank" rel="noopener noreferrer">
-                    Nvidia Names Goldman Sachs Veteran Suzanne Nora Johnson to Board
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">21:00</span>
-                    <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/nvidia-names-goldman-sachs-veteran-suzanne-nora-johnson-to-board"
-                      data-title="Nvidia Names Goldman Sachs Veteran Suzanne Nora Johnson to Board"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b" target="_blank" rel="noopener noreferrer">
-                    CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">HuggingFace Blog</span>
-                    <span class="article-time">17:41</span>
-                    <button class="share-btn"
-                      data-url="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
-                      data-title="CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/notizie/mondo/2026/05/09/medio-oriente-trump-attende-la-risposta-di-teheran-accordo-subito-o-colpiremo_048b3b65-27ca-4177-a440-493814bc2359.html" target="_blank" rel="noopener noreferrer">
-                    Medio Oriente, Trump: 'Attendo la risposta dell'Iran all'ultima proposta stanotte' - LIVEBLOG
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">09:39</span>
-                    <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/notizie/mondo/2026/05/09/medio-oriente-trump-attende-la-risposta-di-teheran-accordo-subito-o-colpiremo_048b3b65-27ca-4177-a440-493814bc2359.html"
-                      data-title="Medio Oriente, Trump: &#39;Attendo la risposta dell&#39;Iran all&#39;ultima proposta stanotte&#39; - LIVEBLOG"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/notizie/mondo/2026/05/09/hantavirus-individuata-in-catalogna-una-donna-entrata-in-contatto-con-virus_3e1d2873-0610-47e7-9ec3-6a3c67b8699c.html" target="_blank" rel="noopener noreferrer">
-                    In Catalogna una donna entrata in contatto con una passeggera della Hondius contagiata dall'hantavirus
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">07:37</span>
-                    <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/notizie/mondo/2026/05/09/hantavirus-individuata-in-catalogna-una-donna-entrata-in-contatto-con-virus_3e1d2873-0610-47e7-9ec3-6a3c67b8699c.html"
-                      data-title="In Catalogna una donna entrata in contatto con una passeggera della Hondius contagiata dall&#39;hantavirus"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -1552,6 +1651,22 @@
                 </li>
               
                 <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/nvidia-names-goldman-sachs-veteran-suzanne-nora-johnson-to-board" target="_blank" rel="noopener noreferrer">
+                    Nvidia Names Goldman Sachs Veteran Suzanne Nora Johnson to Board
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">21:00</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/nvidia-names-goldman-sachs-veteran-suzanne-nora-johnson-to-board"
+                      data-title="Nvidia Names Goldman Sachs Veteran Suzanne Nora Johnson to Board"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
                   <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings" target="_blank" rel="noopener noreferrer">
                     Momentum Trade at New Extremes Is Drawing Wall Street Warnings
                   </a>
@@ -1584,15 +1699,63 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/veneto/notizie/2026/05/08/a-venezia-una-ventenne-in-cura-per-dipendenza-da-intelligenza-artificiale_d1da5bae-03ad-4749-96ca-49010d7ab520.html" target="_blank" rel="noopener noreferrer">
-                    A Venezia una ventenne in cura per 'dipendenza da Intelligenza artificiale'
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding" target="_blank" rel="noopener noreferrer">
+                    Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">21:01</span>
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">18:39</span>
                     <button class="share-btn"
-                      data-url="https://www.ansa.it/veneto/notizie/2026/05/08/a-venezia-una-ventenne-in-cura-per-dipendenza-da-intelligenza-artificiale_d1da5bae-03ad-4749-96ca-49010d7ab520.html"
-                      data-title="A Venezia una ventenne in cura per &#39;dipendenza da Intelligenza artificiale&#39;"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding"
+                      data-title="Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai" target="_blank" rel="noopener noreferrer">
+                    Anthropic Inks $1.8 Billion Computing Deal With Akamai
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">17:55</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai"
+                      data-title="Anthropic Inks $1.8 Billion Computing Deal With Akamai"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b" target="_blank" rel="noopener noreferrer">
+                    CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">HuggingFace Blog</span>
+                    <span class="article-time">17:41</span>
+                    <button class="share-btn"
+                      data-url="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b"
+                      data-title="CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4" target="_blank" rel="noopener noreferrer">
+                    CFS - Conditional Field Subtraction
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/artificial</span>
+                    <span class="article-time">17:13</span>
+                    <button class="share-btn"
+                      data-url="https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4"
+                      data-title="CFS - Conditional Field Subtraction"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -1618,7 +1781,7 @@
             <div class="cat-header">
               <span>🧠</span>
               <h3>Modelli & Ricerca</h3>
-              <span class="cat-count">2</span>
+              <span class="cat-count">1</span>
             </div>
             <ul class="articles-list">
               
@@ -1638,22 +1801,6 @@
                   </div>
                 </li>
               
-                <li class="article-row">
-                  <a class="title" href="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa" target="_blank" rel="noopener noreferrer">
-                    MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">HuggingFace Blog</span>
-                    <span class="article-time">07:54</span>
-                    <button class="share-btn"
-                      data-url="https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa"
-                      data-title="MedQA: Fine-Tuning a Clinical AI on AMD ROCm — No CUDA Required"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
             </ul>
           </div>
         
@@ -1665,7 +1812,7 @@
             <div class="cat-header">
               <span>⚖️</span>
               <h3>Policy & Regolamentazione</h3>
-              <span class="cat-count">2</span>
+              <span class="cat-count">5</span>
             </div>
             <ul class="articles-list">
               
@@ -1701,6 +1848,54 @@
                   </div>
                 </li>
               
+                <li class="article-row">
+                  <a class="title" href="https://www.agendadigitale.eu/industry-4-0/lue-semplifica-lai-act-meno-burocrazia-o-meno-diritti-per-tutti/" target="_blank" rel="noopener noreferrer">
+                    L’UE semplifica l’AI Act: meno burocrazia o meno diritti per tutti?
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">12:51</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/industry-4-0/lue-semplifica-lai-act-meno-burocrazia-o-meno-diritti-per-tutti/"
+                      data-title="L’UE semplifica l’AI Act: meno burocrazia o meno diritti per tutti?"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/chi-fa-cosa-nellai-nuovi-profili-chiave-e-uno-standard-italiano/" target="_blank" rel="noopener noreferrer">
+                    Lavorare con l’AI, quali sono i profili chiave: lo standard Uni italiano
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">12:26</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/chi-fa-cosa-nellai-nuovi-profili-chiave-e-uno-standard-italiano/"
+                      data-title="Lavorare con l’AI, quali sono i profili chiave: lo standard Uni italiano"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/uni-11621-8-litalia-mappa-i-profili-professionali-dellai-cosa-cambia-per-pa-e-imprese/" target="_blank" rel="noopener noreferrer">
+                    UNI 11621-8, l’Italia mappa i profili professionali dell’AI: cosa cambia per PA e imprese
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">12:25</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/uni-11621-8-litalia-mappa-i-profili-professionali-dellai-cosa-cambia-per-pa-e-imprese/"
+                      data-title="UNI 11621-8, l’Italia mappa i profili professionali dell’AI: cosa cambia per PA e imprese"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
             </ul>
           </div>
         
@@ -1710,7 +1905,7 @@
             <div class="cat-header">
               <span>💼</span>
               <h3>Business & Investimenti</h3>
-              <span class="cat-count">3</span>
+              <span class="cat-count">2</span>
             </div>
             <ul class="articles-list">
               
@@ -1724,22 +1919,6 @@
                     <button class="share-btn"
                       data-url="https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/"
                       data-title="The “people’s airline” and the enterprise AI gold rush"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/intel-ceo-who-won-over-trump-and-musk-now-needs-a-breakthrough" target="_blank" rel="noopener noreferrer">
-                    Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">10:15</span>
-                    <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/intel-ceo-who-won-over-trump-and-musk-now-needs-a-breakthrough"
-                      data-title="Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -1777,73 +1956,9 @@
             <div class="cat-header">
               <span>📌</span>
               <h3>Altro</h3>
-              <span class="cat-count">13</span>
+              <span class="cat-count">12</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/videos/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-video" target="_blank" rel="noopener noreferrer">
-                    SoftBank Cuts Target for OpenAI Margin Loan by 40%
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">10:14</span>
-                    <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/videos/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-video"
-                      data-title="SoftBank Cuts Target for OpenAI Margin Loan by 40%"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://blocknow.com/anthropic-1-trillion-valuation-jd-vance-ai-call/" target="_blank" rel="noopener noreferrer">
-                    Anthropic Eyes $50B as JD Vance Quietly Calls Musk and Altman on US Banks
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/artificial</span>
-                    <span class="article-time">09:39</span>
-                    <button class="share-btn"
-                      data-url="https://blocknow.com/anthropic-1-trillion-valuation-jd-vance-ai-call/"
-                      data-title="Anthropic Eyes $50B as JD Vance Quietly Calls Musk and Altman on US Banks"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://blog.google/company-news/inside-google/company-announcements/the-small-brief/" target="_blank" rel="noopener noreferrer">
-                    See what happens when creative legends use AI to make ads for small businesses
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Google AI Blog</span>
-                    <span class="article-time">15:00</span>
-                    <button class="share-btn"
-                      data-url="https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
-                      data-title="See what happens when creative legends use AI to make ads for small businesses"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration" target="_blank" rel="noopener noreferrer">
-                    AMD's local, open-source AI can now easily interact with your Gmail
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/artificial</span>
-                    <span class="article-time">13:15</span>
-                    <button class="share-btn"
-                      data-url="https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration"
-                      data-title="AMD&#39;s local, open-source AI can now easily interact with your Gmail"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test" target="_blank" rel="noopener noreferrer">
@@ -1878,6 +1993,22 @@
                 </li>
               
                 <li class="article-row">
+                  <a class="title" href="https://blog.google/company-news/inside-google/company-announcements/the-small-brief/" target="_blank" rel="noopener noreferrer">
+                    See what happens when creative legends use AI to make ads for small businesses
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Google AI Blog</span>
+                    <span class="article-time">15:00</span>
+                    <button class="share-btn"
+                      data-url="https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
+                      data-title="See what happens when creative legends use AI to make ads for small businesses"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
                   <a class="title" href="https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/" target="_blank" rel="noopener noreferrer">
                     RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist
                   </a>
@@ -1887,22 +2018,6 @@
                     <button class="share-btn"
                       data-url="https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/"
                       data-title="RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/notizie/cronaca/2026/05/08/sempio-stasi-ha-chiesto-la-riapertura-dellindagine-su-di-me-mamma-in-panico_4674a6cf-9907-4d2d-b2ee-c959fd0a40e6.html" target="_blank" rel="noopener noreferrer">
-                    Sempio intercettato: 'Chiara non doveva mettere giù il telefono'
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">16:22</span>
-                    <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/notizie/cronaca/2026/05/08/sempio-stasi-ha-chiesto-la-riapertura-dellindagine-su-di-me-mamma-in-panico_4674a6cf-9907-4d2d-b2ee-c959fd0a40e6.html"
-                      data-title="Sempio intercettato: &#39;Chiara non doveva mettere giù il telefono&#39;"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -1926,22 +2041,6 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/notizie/cronaca/2026/05/08/il-papa-basta-guerre-non-possiamo-rassegnarci-alle-immagini-di-morte_c4786940-9d0c-4d8e-ace7-05e689ea9a2a.html" target="_blank" rel="noopener noreferrer">
-                    Il Papa: 'Basta guerre, non possiamo rassegnarci alle immagini di morte'
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">15:54</span>
-                    <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/notizie/cronaca/2026/05/08/il-papa-basta-guerre-non-possiamo-rassegnarci-alle-immagini-di-morte_c4786940-9d0c-4d8e-ace7-05e689ea9a2a.html"
-                      data-title="Il Papa: &#39;Basta guerre, non possiamo rassegnarci alle immagini di morte&#39;"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
                   <a class="title" href="https://www.livescience.com/space/exoplanets/scientists-identify-10-000-impossible-exoplanet-candidates-potentially-tripling-the-number-of-known-alien-worlds?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer">
                     Scientists identified over 10,000 new exoplanet candidates using AI
                   </a>
@@ -1958,22 +2057,6 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.ansa.it/sito/notizie/mondo/2026/05/08/segnalato-nuovo-caso-sospetto-di-hantavirus-non-era-sulla-nave_a0bbfa74-57c8-4c0f-b87a-7a85b9139dfd.html" target="_blank" rel="noopener noreferrer">
-                    Segnalato nuovo caso sospetto di hantavirus, non era sulla nave
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">ANSA Tech</span>
-                    <span class="article-time">15:25</span>
-                    <button class="share-btn"
-                      data-url="https://www.ansa.it/sito/notizie/mondo/2026/05/08/segnalato-nuovo-caso-sospetto-di-hantavirus-non-era-sulla-nave_a0bbfa74-57c8-4c0f-b87a-7a85b9139dfd.html"
-                      data-title="Segnalato nuovo caso sospetto di hantavirus, non era sulla nave"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
                   <a class="title" href="https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/" target="_blank" rel="noopener noreferrer">
                     Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI
                   </a>
@@ -1983,6 +2066,86 @@
                     <button class="share-btn"
                       data-url="https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/"
                       data-title="Halliburton enhances seismic workflow creation with Amazon Bedrock and Generative AI"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration" target="_blank" rel="noopener noreferrer">
+                    AMD's local, open-source AI can now easily interact with your Gmail
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/artificial</span>
+                    <span class="article-time">13:15</span>
+                    <button class="share-btn"
+                      data-url="https://www.phoronix.com/news/AMD-GAIA-Gmail-Integration"
+                      data-title="AMD&#39;s local, open-source AI can now easily interact with your Gmail"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://techxplore.com/news/2026-05-3d-mind-flexible-device-brain.html" target="_blank" rel="noopener noreferrer">
+                    3D-MIND: A flexible device that can be integrated with living brain cells
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/singularity</span>
+                    <span class="article-time">12:53</span>
+                    <button class="share-btn"
+                      data-url="https://techxplore.com/news/2026-05-3d-mind-flexible-device-brain.html"
+                      data-title="3D-MIND: A flexible device that can be integrated with living brain cells"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness" target="_blank" rel="noopener noreferrer">
+                    Nanoleaf bets its future on robots, red light therapy, and AI
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/artificial</span>
+                    <span class="article-time">12:40</span>
+                    <button class="share-btn"
+                      data-url="https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness"
+                      data-title="Nanoleaf bets its future on robots, red light therapy, and AI"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.agendadigitale.eu/mercati-digitali/turismodigitale/lia-nel-turismo-corre-ma-non-per-tutti-la-mappa-italiana-e-globale/" target="_blank" rel="noopener noreferrer">
+                    L’IA nel turismo corre, ma non per tutti: la mappa italiana e globale
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">12:35</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/mercati-digitali/turismodigitale/lia-nel-turismo-corre-ma-non-per-tutti-la-mappa-italiana-e-globale/"
+                      data-title="L’IA nel turismo corre, ma non per tutti: la mappa italiana e globale"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.agendadigitale.eu/sicurezza/perche-lai-sta-cambiando-il-concetto-stesso-di-sicurezza-nazionale/" target="_blank" rel="noopener noreferrer">
+                    Perché l’AI sta cambiando il concetto stesso di sicurezza nazionale
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">12:15</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/sicurezza/perche-lai-sta-cambiando-il-concetto-stesso-di-sicurezza-nazionale/"
+                      data-title="Perché l’AI sta cambiando il concetto stesso di sicurezza nazionale"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2008,20 +2171,20 @@
             <div class="cat-header">
               <span>🧠</span>
               <h3>Modelli & Ricerca</h3>
-              <span class="cat-count">4</span>
+              <span class="cat-count">2</span>
             </div>
             <ul class="articles-list">
               
                 <li class="article-row">
-                  <a class="title" href="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber" target="_blank" rel="noopener noreferrer">
-                    Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber
+                  <a class="title" href="https://skymizer.ai/skymizer-announces-htx301-reinventing-on-prem-ai-inference/" target="_blank" rel="noopener noreferrer">
+                    Taiwanese company Skymizer announces HTX301 - PCIE inference card with 384GB of Memory at ~240 Watts
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">13:00</span>
+                    <span class="source-badge">Reddit r/LocalLLaMA</span>
+                    <span class="article-time">01:36</span>
                     <button class="share-btn"
-                      data-url="https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
-                      data-title="Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber"
+                      data-url="https://skymizer.ai/skymizer-announces-htx301-reinventing-on-prem-ai-inference/"
+                      data-title="Taiwanese company Skymizer announces HTX301 - PCIE inference card with 384GB of Memory at ~240 Watts"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2029,47 +2192,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/" target="_blank" rel="noopener noreferrer">
-                    How to Disable Google's Gemini in Chrome
+                  <a class="title" href="https://www.zyphra.com/post/zaya1-74b-preview" target="_blank" rel="noopener noreferrer">
+                    ZAYA1-74B-Preview: Scaling Pretraining on AMD
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">Wired</span>
-                    <span class="article-time">20:31</span>
+                    <span class="source-badge">Reddit r/LocalLLaMA</span>
+                    <span class="article-time">22:50</span>
                     <button class="share-btn"
-                      data-url="https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/"
-                      data-title="How to Disable Google&#39;s Gemini in Chrome"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/" target="_blank" rel="noopener noreferrer">
-                    New OpenAI Voice models: GPT-Realtime-2, Translate, and Whisper
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/singularity</span>
-                    <span class="article-time">17:47</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/"
-                      data-title="New OpenAI Voice models: GPT-Realtime-2, Translate, and Whisper"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api" target="_blank" rel="noopener noreferrer">
-                    Advancing voice intelligence with new models in the API
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">10:00</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
-                      data-title="Advancing voice intelligence with new models in the API"
+                      data-url="https://www.zyphra.com/post/zaya1-74b-preview"
+                      data-title="ZAYA1-74B-Preview: Scaling Pretraining on AMD"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2085,57 +2216,9 @@
             <div class="cat-header">
               <span>🛠️</span>
               <h3>Strumenti & Prodotti</h3>
-              <span class="cat-count">8</span>
+              <span class="cat-count">1</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/testing-ads-in-chatgpt" target="_blank" rel="noopener noreferrer">
-                    Testing ads in ChatGPT
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">00:00</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/testing-ads-in-chatgpt"
-                      data-title="Testing ads in ChatGPT"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/introducing-trusted-contact-in-chatgpt" target="_blank" rel="noopener noreferrer">
-                    Introducing Trusted Contact in ChatGPT
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">00:00</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/introducing-trusted-contact-in-chatgpt"
-                      data-title="Introducing Trusted Contact in ChatGPT"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification" target="_blank" rel="noopener noreferrer">
-                    ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">The Verge AI</span>
-                    <span class="article-time">14:00</span>
-                    <button class="share-btn"
-                      data-url="https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification"
-                      data-title="ChatGPT&amp;#8217;s &amp;#8216;Trusted Contact&amp;#8217; will alert loved ones of safety concerns"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/" target="_blank" rel="noopener noreferrer">
@@ -2153,16 +2236,29 @@
                   </div>
                 </li>
               
+            </ul>
+          </div>
+        
+      
+        
+          <div class="cat-section">
+            <div class="cat-header">
+              <span>⚖️</span>
+              <h3>Policy & Regolamentazione</h3>
+              <span class="cat-count">4</span>
+            </div>
+            <ul class="articles-list">
+              
                 <li class="article-row">
-                  <a class="title" href="https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/" target="_blank" rel="noopener noreferrer">
-                    OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm
+                  <a class="title" href="https://www.agendadigitale.eu/sicurezza/privacy/accordo-su-digital-omnibus-cosi-leuropa-rinvia-gli-obblighi-ai-act/" target="_blank" rel="noopener noreferrer">
+                    Accordo su Digital Omnibus, così l’Europa rinvia gli obblighi AI Act
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">TechCrunch AI</span>
-                    <span class="article-time">20:20</span>
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">07:27</span>
                     <button class="share-btn"
-                      data-url="https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
-                      data-title="OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm"
+                      data-url="https://www.agendadigitale.eu/sicurezza/privacy/accordo-su-digital-omnibus-cosi-leuropa-rinvia-gli-obblighi-ai-act/"
+                      data-title="Accordo su Digital Omnibus, così l’Europa rinvia gli obblighi AI Act"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2170,47 +2266,47 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/" target="_blank" rel="noopener noreferrer">
-                    ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’
+                  <a class="title" href="https://www.agendadigitale.eu/cultura-digitale/nuove-assunzioni-governare-lai-per-non-chiudere-la-porta-ai-giovani/" target="_blank" rel="noopener noreferrer">
+                    Nuove assunzioni: governare l’AI per non chiudere la porta ai giovani
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">06:34</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/cultura-digitale/nuove-assunzioni-governare-lai-per-non-chiudere-la-porta-ai-giovani/"
+                      data-title="Nuove assunzioni: governare l’AI per non chiudere la porta ai giovani"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works" target="_blank" rel="noopener noreferrer">
+                    Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/artificial</span>
+                    <span class="article-time">06:23</span>
+                    <button class="share-btn"
+                      data-url="https://futurism.com/artificial-intelligence/marc-andreessen-mocked-ai-works"
+                      data-title="Marc Andreessen Mocked for Accidentally Revealing That He Seems to Have a Deep Misunderstanding of How AI Actually Works"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/" target="_blank" rel="noopener noreferrer">
+                    Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained
                   </a>
                   <div class="row-meta">
                     <span class="source-badge">Wired</span>
-                    <span class="article-time">16:25</span>
+                    <span class="article-time">21:37</span>
                     <button class="share-btn"
-                      data-url="https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"
-                      data-title="ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/simplex" target="_blank" rel="noopener noreferrer">
-                    Simplex rethinks software development with Codex
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">00:00</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/simplex"
-                      data-title="Simplex rethinks software development with Codex"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://spectrum.ieee.org/mental-health-chatbot-guardrails" target="_blank" rel="noopener noreferrer">
-                    Chatbots Need Guardrails to Prevent Delusions and Psychosis
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">IEEE Spectrum AI</span>
-                    <span class="article-time">22:11</span>
-                    <button class="share-btn"
-                      data-url="https://spectrum.ieee.org/mental-health-chatbot-guardrails"
-                      data-title="Chatbots Need Guardrails to Prevent Delusions and Psychosis"
+                      data-url="https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/"
+                      data-title="Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2222,26 +2318,24 @@
         
       
         
-      
-        
           <div class="cat-section">
             <div class="cat-header">
               <span>💼</span>
               <h3>Business & Investimenti</h3>
-              <span class="cat-count">2</span>
+              <span class="cat-count">5</span>
             </div>
             <ul class="articles-list">
               
                 <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-07/nvidia-to-invest-up-to-2-1-billion-in-data-center-firm-iren" target="_blank" rel="noopener noreferrer">
-                    Nvidia to Invest Up to $2.1 Billion in Data Center Firm IREN
+                  <a class="title" href="https://www.bloomberg.com/news/videos/2026-05-08/wayve-ceo-on-tesla-waymo-future-of-self-driving-cars" target="_blank" rel="noopener noreferrer">
+                    Wayve CEO on Tesla, Waymo, Future of Self-Driving Cars
                   </a>
                   <div class="row-meta">
                     <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">20:50</span>
+                    <span class="article-time">07:30</span>
                     <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-07/nvidia-to-invest-up-to-2-1-billion-in-data-center-firm-iren"
-                      data-title="Nvidia to Invest Up to $2.1 Billion in Data Center Firm IREN"
+                      data-url="https://www.bloomberg.com/news/videos/2026-05-08/wayve-ceo-on-tesla-waymo-future-of-self-driving-cars"
+                      data-title="Wayve CEO on Tesla, Waymo, Future of Self-Driving Cars"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2249,15 +2343,63 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster" target="_blank" rel="noopener noreferrer">
-                    Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster
+                  <a class="title" href="https://www.bloomberg.com/news/videos/2026-05-08/ai-is-reshaping-self-driving-cars-wayve-ceo-says" target="_blank" rel="noopener noreferrer">
+                    AI Is Reshaping Self-Driving Cars, Wayve CEO Says
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">The Verge AI</span>
-                    <span class="article-time">15:55</span>
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">07:30</span>
                     <button class="share-btn"
-                      data-url="https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster"
-                      data-title="Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster"
+                      data-url="https://www.bloomberg.com/news/videos/2026-05-08/ai-is-reshaping-self-driving-cars-wayve-ceo-says"
+                      data-title="AI Is Reshaping Self-Driving Cars, Wayve CEO Says"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/videos/2026-05-08/earnings-resilience-amid-iran-risk-markets-snapshot-video" target="_blank" rel="noopener noreferrer">
+                    Earnings Resilience Amid Iran Risk: Markets Snapshot
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">06:02</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/videos/2026-05-08/earnings-resilience-amid-iran-risk-markets-snapshot-video"
+                      data-title="Earnings Resilience Amid Iran Risk: Markets Snapshot"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/baidu-s-ai-chip-unit-plans-dual-ipo-in-shanghai-and-hong-kong" target="_blank" rel="noopener noreferrer">
+                    Baidu’s AI Chip Unit Plans Dual IPO in Shanghai and Hong Kong
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">04:41</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/baidu-s-ai-chip-unit-plans-dual-ipo-in-shanghai-and-hong-kong"
+                      data-title="Baidu’s AI Chip Unit Plans Dual IPO in Shanghai and Hong Kong"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/nvidia-ceo-says-he-would-join-trump-s-china-trip-if-invited" target="_blank" rel="noopener noreferrer">
+                    Nvidia CEO Says He Would Join Trump’s China Trip If Invited
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">00:18</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/nvidia-ceo-says-he-would-join-trump-s-china-trip-if-invited"
+                      data-title="Nvidia CEO Says He Would Join Trump’s China Trip If Invited"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2279,20 +2421,52 @@
             <div class="cat-header">
               <span>📌</span>
               <h3>Altro</h3>
-              <span class="cat-count">6</span>
+              <span class="cat-count">8</span>
             </div>
             <ul class="articles-list">
               
                 <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-07/softbank-rally-hinges-on-openai-growth-easing-balance-sheet-fear" target="_blank" rel="noopener noreferrer">
-                    SoftBank Rally Hinges on OpenAI Growth Easing Balance Sheet Fear
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion" target="_blank" rel="noopener noreferrer">
+                    SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion
                   </a>
                   <div class="row-meta">
                     <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">22:00</span>
+                    <span class="article-time">07:15</span>
                     <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-07/softbank-rally-hinges-on-openai-growth-easing-balance-sheet-fear"
-                      data-title="SoftBank Rally Hinges on OpenAI Growth Easing Balance Sheet Fear"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-08/softbank-cuts-target-for-openai-margin-loan-by-40-to-6-billion"
+                      data-title="SoftBank Cuts Target for OpenAI Margin Loan by 40% to $6 Billion"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.agendadigitale.eu/smart-city/welfare-predittivo-la-citta-che-prevede-il-disagio-sociale-prima-che-esploda/" target="_blank" rel="noopener noreferrer">
+                    Welfare predittivo: la città che prevede il disagio sociale prima che esploda
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">07:06</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/smart-city/welfare-predittivo-la-citta-che-prevede-il-disagio-sociale-prima-che-esploda/"
+                      data-title="Welfare predittivo: la città che prevede il disagio sociale prima che esploda"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.agendadigitale.eu/industry-4-0/le-tante-ombre-di-sam-altman-a-chi-affidiamo-il-futuro-dellai/" target="_blank" rel="noopener noreferrer">
+                    Le tante ombre di Sam Altman: a chi affidiamo il futuro dell’AI?
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Agenda Digitale</span>
+                    <span class="article-time">06:38</span>
+                    <button class="share-btn"
+                      data-url="https://www.agendadigitale.eu/industry-4-0/le-tante-ombre-di-sam-altman-a-chi-affidiamo-il-futuro-dellai/"
+                      data-title="Le tante ombre di Sam Altman: a chi affidiamo il futuro dell’AI?"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2316,15 +2490,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://youtu.be/j2knrqAzYVY?si=fybH2qu0IuH2e1jB" target="_blank" rel="noopener noreferrer">
-                    Translating Claude’s thoughts into language
+                  <a class="title" href="https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/" target="_blank" rel="noopener noreferrer">
+                    Why you can never get your doctor to call you back
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">Reddit r/singularity</span>
-                    <span class="article-time">19:14</span>
+                    <span class="source-badge">TechCrunch AI</span>
+                    <span class="article-time">04:42</span>
                     <button class="share-btn"
-                      data-url="https://youtu.be/j2knrqAzYVY?si=fybH2qu0IuH2e1jB"
-                      data-title="Translating Claude’s thoughts into language"
+                      data-url="https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/"
+                      data-title="Why you can never get your doctor to call you back"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2332,15 +2506,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://deepmind.google/blog/alphaevolve-impact/" target="_blank" rel="noopener noreferrer">
-                    AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields
+                  <a class="title" href="https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/" target="_blank" rel="noopener noreferrer">
+                    Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">Reddit r/singularity</span>
-                    <span class="article-time">15:27</span>
+                    <span class="source-badge">Wired</span>
+                    <span class="article-time">01:42</span>
                     <button class="share-btn"
-                      data-url="https://deepmind.google/blog/alphaevolve-impact/"
-                      data-title="AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields"
+                      data-url="https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/"
+                      data-title="Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2348,15 +2522,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips" target="_blank" rel="noopener noreferrer">
-                    SpaceX has a $55 billion plan to build AI chips in Texas
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-07/softbank-rally-hinges-on-openai-growth-easing-balance-sheet-fear" target="_blank" rel="noopener noreferrer">
+                    SoftBank Rally Hinges on OpenAI Growth Easing Balance Sheet Fear
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">The Verge AI</span>
-                    <span class="article-time">15:26</span>
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">22:00</span>
                     <button class="share-btn"
-                      data-url="https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips"
-                      data-title="SpaceX has a $55 billion plan to build AI chips in Texas"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-07/softbank-rally-hinges-on-openai-growth-easing-balance-sheet-fear"
+                      data-title="SoftBank Rally Hinges on OpenAI Growth Easing Balance Sheet Fear"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2364,15 +2538,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.agendadigitale.eu/industry-4-0/le-tante-ombre-di-sam-altman-a-chi-affidiamo-il-futuro-dellai/" target="_blank" rel="noopener noreferrer">
-                    Le tante ombre di Sam Altman: a chi affidiamo il futuro dell’AI?
+                  <a class="title" href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/" target="_blank" rel="noopener noreferrer">
+                    guess what? if you are a chrome user, technically you are localllama member!
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">Agenda Digitale</span>
-                    <span class="article-time">06:38</span>
+                    <span class="source-badge">Reddit r/LocalLLaMA</span>
+                    <span class="article-time">21:54</span>
                     <button class="share-btn"
-                      data-url="https://www.agendadigitale.eu/industry-4-0/le-tante-ombre-di-sam-altman-a-chi-affidiamo-il-futuro-dellai/"
-                      data-title="Le tante ombre di Sam Altman: a chi affidiamo il futuro dell’AI?"
+                      data-url="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"
+                      data-title="guess what? if you are a chrome user, technically you are localllama member!"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2564,15 +2738,47 @@
             <ul class="articles-list">
               
                 <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-07/anthropic-is-making-claude-chatbot-more-appealing-to-consumers" target="_blank" rel="noopener noreferrer">
-                    Anthropic Is Making Its Claude Chatbot More Appealing to Consumers
+                  <a class="title" href="https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/" target="_blank" rel="noopener noreferrer">
+                    Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">00:13</span>
+                    <span class="source-badge">TechCrunch AI</span>
+                    <span class="article-time">14:30</span>
                     <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-07/anthropic-is-making-claude-chatbot-more-appealing-to-consumers"
-                      data-title="Anthropic Is Making Its Claude Chatbot More Appealing to Consumers"
+                      data-url="https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/"
+                      data-title="Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/" target="_blank" rel="noopener noreferrer">
+                    Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">TechCrunch AI</span>
+                    <span class="article-time">14:24</span>
+                    <button class="share-btn"
+                      data-url="https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/"
+                      data-title="Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/" target="_blank" rel="noopener noreferrer">
+                    Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/artificial</span>
+                    <span class="article-time">13:51</span>
+                    <button class="share-btn"
+                      data-url="https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/"
+                      data-title="Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2628,15 +2834,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-07/andreessen-horowitz-in-funding-round-for-swedish-ai-startup-pit" target="_blank" rel="noopener noreferrer">
-                    Andreessen Horowitz in Funding Round for Swedish AI Startup Pit
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-07/bce-beats-on-ai-powered-business-higher-revenue" target="_blank" rel="noopener noreferrer">
+                    BCE Beats on AI-Powered Business, Higher Revenue
                   </a>
                   <div class="row-meta">
                     <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">05:00</span>
+                    <span class="article-time">10:58</span>
                     <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-07/andreessen-horowitz-in-funding-round-for-swedish-ai-startup-pit"
-                      data-title="Andreessen Horowitz in Funding Round for Swedish AI Startup Pit"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-07/bce-beats-on-ai-powered-business-higher-revenue"
+                      data-title="BCE Beats on AI-Powered Business, Higher Revenue"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2644,47 +2850,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/" target="_blank" rel="noopener noreferrer">
-                    Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-07/coreweave-s-stunning-rally-creates-prove-it-moment-for-earnings" target="_blank" rel="noopener noreferrer">
+                    CoreWeave’s Stunning Rally Creates Prove-It Moment for Earnings
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">Reddit r/artificial</span>
-                    <span class="article-time">13:51</span>
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">10:30</span>
                     <button class="share-btn"
-                      data-url="https://blocknow.com/anthropic-ipo-valuation-80x-growth-spacex/"
-                      data-title="Anthropic Secures SpaceX Colossus 1 After Growing 80x to a $1.2T Valuation"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/" target="_blank" rel="noopener noreferrer">
-                    Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">TechCrunch AI</span>
-                    <span class="article-time">14:30</span>
-                    <button class="share-btn"
-                      data-url="https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/"
-                      data-title="Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/" target="_blank" rel="noopener noreferrer">
-                    Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">TechCrunch AI</span>
-                    <span class="article-time">14:24</span>
-                    <button class="share-btn"
-                      data-url="https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/"
-                      data-title="Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-07/coreweave-s-stunning-rally-creates-prove-it-moment-for-earnings"
+                      data-title="CoreWeave’s Stunning Rally Creates Prove-It Moment for Earnings"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2695,33 +2869,6 @@
           </div>
         
       
-        
-          <div class="cat-section">
-            <div class="cat-header">
-              <span>🛡️</span>
-              <h3>Etica & Sicurezza</h3>
-              <span class="cat-count">1</span>
-            </div>
-            <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://alignment.anthropic.com/2026/msm/" target="_blank" rel="noopener noreferrer">
-                    Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/artificial</span>
-                    <span class="article-time">04:06</span>
-                    <button class="share-btn"
-                      data-url="https://alignment.anthropic.com/2026/msm/"
-                      data-title="Anthropic researchers detail “model spec midtraining”, which adds a stage between pretraining and fine-tuning to improve generalization from alignment training"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-            </ul>
-          </div>
         
       
         
@@ -2760,41 +2907,9 @@
             <div class="cat-header">
               <span>📌</span>
               <h3>Altro</h3>
-              <span class="cat-count">5</span>
+              <span class="cat-count">6</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/parloa" target="_blank" rel="noopener noreferrer">
-                    Parloa builds service agents customers want to talk to
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">11:00</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/parloa"
-                      data-title="Parloa builds service agents customers want to talk to"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee?st=jvDA1b&reflink=desktopwebshare_permalink" target="_blank" rel="noopener noreferrer">
-                    Roche to buy PathAI for up to $1.05 billion to bolster AI diagnostics tools
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/artificial</span>
-                    <span class="article-time">10:16</span>
-                    <button class="share-btn"
-                      data-url="https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee?st=jvDA1b&amp;reflink=desktopwebshare_permalink"
-                      data-title="Roche to buy PathAI for up to $1.05 billion to bolster AI diagnostics tools"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/" target="_blank" rel="noopener noreferrer">
@@ -2844,6 +2959,54 @@
                   </div>
                 </li>
               
+                <li class="article-row">
+                  <a class="title" href="https://openai.com/index/parloa" target="_blank" rel="noopener noreferrer">
+                    Parloa builds service agents customers want to talk to
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">OpenAI Blog</span>
+                    <span class="article-time">11:00</span>
+                    <button class="share-btn"
+                      data-url="https://openai.com/index/parloa"
+                      data-title="Parloa builds service agents customers want to talk to"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee?st=jvDA1b&reflink=desktopwebshare_permalink" target="_blank" rel="noopener noreferrer">
+                    Roche to buy PathAI for up to $1.05 billion to bolster AI diagnostics tools
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/artificial</span>
+                    <span class="article-time">10:16</span>
+                    <button class="share-btn"
+                      data-url="https://www.wsj.com/business/deals/roche-to-buy-pathai-for-up-to-1-05-billion-to-bolster-ai-diagnostics-tools-0b4575ee?st=jvDA1b&amp;reflink=desktopwebshare_permalink"
+                      data-title="Roche to buy PathAI for up to $1.05 billion to bolster AI diagnostics tools"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="/r/accelerate/comments/1t6594n/what_should_i_do_about_automation_in_the_short/" target="_blank" rel="noopener noreferrer">
+                    What should I do about automation in the short term?
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/singularity</span>
+                    <span class="article-time">09:48</span>
+                    <button class="share-btn"
+                      data-url="/r/accelerate/comments/1t6594n/what_should_i_do_about_automation_in_the_short/"
+                      data-title="What should I do about automation in the short term?"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
             </ul>
           </div>
         
@@ -2863,57 +3026,9 @@
             <div class="cat-header">
               <span>🧠</span>
               <h3>Modelli & Ricerca</h3>
-              <span class="cat-count">5</span>
+              <span class="cat-count">3</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/" target="_blank" rel="noopener noreferrer">
-                    Google tests Remy AI agent for Gemini as focus turns to user control
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">AI News</span>
-                    <span class="article-time">10:00</span>
-                    <button class="share-btn"
-                      data-url="https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/"
-                      data-title="Google tests Remy AI agent for Gemini as focus turns to user control"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand" target="_blank" rel="noopener noreferrer">
-                    Anthropic Inks Computing Deal With SpaceX to Meet AI Demand
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Bloomberg Tech</span>
-                    <span class="article-time">16:34</span>
-                    <button class="share-btn"
-                      data-url="https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand"
-                      data-title="Anthropic Inks Computing Deal With SpaceX to Meet AI Demand"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://www.cyera.com/research/bleeding-llama-critical-unauthenticated-memory-leak-in-ollama" target="_blank" rel="noopener noreferrer">
-                    Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/LocalLLaMA</span>
-                    <span class="article-time">02:02</span>
-                    <button class="share-btn"
-                      data-url="https://www.cyera.com/research/bleeding-llama-critical-unauthenticated-memory-leak-in-ollama"
-                      data-title="Bleeding Llama: Critical Unauthenticated Memory Leak in Ollama"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/" target="_blank" rel="noopener noreferrer">
@@ -2925,6 +3040,22 @@
                     <button class="share-btn"
                       data-url="https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/"
                       data-title="Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.zyphra.com/post/zaya1-8b" target="_blank" rel="noopener noreferrer">
+                    ZAYA1-8B: Frontier intelligence density, trained on AMD
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/LocalLLaMA</span>
+                    <span class="article-time">19:43</span>
+                    <button class="share-btn"
+                      data-url="https://www.zyphra.com/post/zaya1-8b"
+                      data-title="ZAYA1-8B: Frontier intelligence density, trained on AMD"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -2956,41 +3087,9 @@
             <div class="cat-header">
               <span>🛠️</span>
               <h3>Strumenti & Prodotti</h3>
-              <span class="cat-count">4</span>
+              <span class="cat-count">2</span>
             </div>
             <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/singular-bank" target="_blank" rel="noopener noreferrer">
-                    Singular Bank helps bankers move fast with ChatGPT and Codex
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">00:00</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/singular-bank"
-                      data-title="Singular Bank helps bankers move fast with ChatGPT and Codex"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://openai.com/index/introducing-chatgpt-futures-class-of-2026" target="_blank" rel="noopener noreferrer">
-                    Introducing ChatGPT Futures: Class of 2026
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">00:00</span>
-                    <button class="share-btn"
-                      data-url="https://openai.com/index/introducing-chatgpt-futures-class-of-2026"
-                      data-title="Introducing ChatGPT Futures: Class of 2026"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/" target="_blank" rel="noopener noreferrer">
@@ -3009,15 +3108,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://openai.com/index/uber" target="_blank" rel="noopener noreferrer">
-                    Uber uses OpenAI to help people earn smarter and book faster
+                  <a class="title" href="https://www.theverge.com/tech/925559/google-project-mariner-shut-down" target="_blank" rel="noopener noreferrer">
+                    Google shuts down Project Mariner
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">00:00</span>
+                    <span class="source-badge">The Verge AI</span>
+                    <span class="article-time">17:21</span>
                     <button class="share-btn"
-                      data-url="https://openai.com/index/uber"
-                      data-title="Uber uses OpenAI to help people earn smarter and book faster"
+                      data-url="https://www.theverge.com/tech/925559/google-project-mariner-shut-down"
+                      data-title="Google shuts down Project Mariner"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -3038,15 +3137,15 @@
             <ul class="articles-list">
               
                 <li class="article-row">
-                  <a class="title" href="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit" target="_blank" rel="noopener noreferrer">
-                    Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-06/singapore-parliament-pledges-no-jobless-growth-in-ai-era-cna" target="_blank" rel="noopener noreferrer">
+                    Singapore Parliament Pledges No Jobless Growth in AI Era, CNA Reports
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">The Verge AI</span>
-                    <span class="article-time">11:37</span>
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">22:55</span>
                     <button class="share-btn"
-                      data-url="https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
-                      data-title="Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-06/singapore-parliament-pledges-no-jobless-growth-in-ai-era-cna"
+                      data-title="Singapore Parliament Pledges No Jobless Growth in AI Era, CNA Reports"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -3054,15 +3153,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/" target="_blank" rel="noopener noreferrer">
-                    US government increases AI suppliers and rethinks Anthropic’s role
+                  <a class="title" href="https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review" target="_blank" rel="noopener noreferrer">
+                    How David Sacks crashed and burned in the White House
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">AI News</span>
-                    <span class="article-time">12:23</span>
+                    <span class="source-badge">The Verge AI</span>
+                    <span class="article-time">16:18</span>
                     <button class="share-btn"
-                      data-url="https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/"
-                      data-title="US government increases AI suppliers and rethinks Anthropic’s role"
+                      data-url="https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review"
+                      data-title="How David Sacks crashed and burned in the White House"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -3094,7 +3193,7 @@
             <div class="cat-header">
               <span>💼</span>
               <h3>Business & Investimenti</h3>
-              <span class="cat-count">3</span>
+              <span class="cat-count">4</span>
             </div>
             <ul class="articles-list">
               
@@ -3131,6 +3230,22 @@
                 </li>
               
                 <li class="article-row">
+                  <a class="title" href="https://www.financership.com/deepseek-50-billion-valuation-first-fundraising-ai/" target="_blank" rel="noopener noreferrer">
+                    DeepSeek Targets $50B Valuation in First Fundraising, Escalating Global AI Race
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/singularity</span>
+                    <span class="article-time">19:00</span>
+                    <button class="share-btn"
+                      data-url="https://www.financership.com/deepseek-50-billion-valuation-first-fundraising-ai/"
+                      data-title="DeepSeek Targets $50B Valuation in First Fundraising, Escalating Global AI Race"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
                   <a class="title" href="https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/" target="_blank" rel="noopener noreferrer">
                     How Elon Musk left OpenAI, according to Greg Brockman
                   </a>
@@ -3151,33 +3266,6 @@
         
       
         
-          <div class="cat-section">
-            <div class="cat-header">
-              <span>🛡️</span>
-              <h3>Etica & Sicurezza</h3>
-              <span class="cat-count">1</span>
-            </div>
-            <ul class="articles-list">
-              
-                <li class="article-row">
-                  <a class="title" href="https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/" target="_blank" rel="noopener noreferrer">
-                    Dario Amodei spent last year warning of an AI white-collar bloodbath. Now he's changing the narrative
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">Reddit r/singularity</span>
-                    <span class="article-time">08:59</span>
-                    <button class="share-btn"
-                      data-url="https://fortune.com/2026/05/05/dario-amodei-jevons-paradox-will-ai-wipe-out-white-collar-jobs/"
-                      data-title="Dario Amodei spent last year warning of an AI white-collar bloodbath. Now he&#39;s changing the narrative"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-            </ul>
-          </div>
-        
       
         
       
@@ -3188,9 +3276,89 @@
             <div class="cat-header">
               <span>📌</span>
               <h3>Altro</h3>
-              <span class="cat-count">4</span>
+              <span class="cat-count">8</span>
             </div>
             <ul class="articles-list">
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony" target="_blank" rel="noopener noreferrer">
+                    Musk’s biggest loyalist became his biggest liability
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">The Verge AI</span>
+                    <span class="article-time">19:37</span>
+                    <button class="share-btn"
+                      data-url="https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony"
+                      data-title="Musk’s biggest loyalist became his biggest liability"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-06/musk-weighed-offering-altman-tesla-board-seat-openai-jury-told" target="_blank" rel="noopener noreferrer">
+                    Musk Weighed Offering Altman Tesla Board Seat, Jury Told
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">21:05</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-06/musk-weighed-offering-altman-tesla-board-seat-openai-jury-told"
+                      data-title="Musk Weighed Offering Altman Tesla Board Seat, Jury Told"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/articles/2026-05-06/meta-backed-scale-ai-wins-500-million-defense-department-deal" target="_blank" rel="noopener noreferrer">
+                    Meta-Backed Scale AI Wins $500 Million Defense Department Deal
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">20:19</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/articles/2026-05-06/meta-backed-scale-ai-wins-500-million-defense-department-deal"
+                      data-title="Meta-Backed Scale AI Wins $500 Million Defense Department Deal"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.bloomberg.com/news/videos/2026-05-06/blackstone-kkr-consider-google-deal-video" target="_blank" rel="noopener noreferrer">
+                    Blackstone, KKR Consider Google Deal in Surge of AI Tie-Ups
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">19:53</span>
+                    <button class="share-btn"
+                      data-url="https://www.bloomberg.com/news/videos/2026-05-06/blackstone-kkr-consider-google-deal-video"
+                      data-title="Blackstone, KKR Consider Google Deal in Surge of AI Tie-Ups"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
+              
+                <li class="article-row">
+                  <a class="title" href="https://www.fastcompany.com/91537200/texas-rebel-cheese-ai-shipping" target="_blank" rel="noopener noreferrer">
+                    A small business used AI to push back against a major shipping company—and it actually worked
+                  </a>
+                  <div class="row-meta">
+                    <span class="source-badge">Reddit r/artificial</span>
+                    <span class="article-time">18:45</span>
+                    <button class="share-btn"
+                      data-url="https://www.fastcompany.com/91537200/texas-rebel-cheese-ai-shipping"
+                      data-title="A small business used AI to push back against a major shipping company—and it actually worked"
+                      data-desc=""
+                      onclick="openShare(this, event)"
+                      title="Condividi">↗</button>
+                  </div>
+                </li>
               
                 <li class="article-row">
                   <a class="title" href="https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/" target="_blank" rel="noopener noreferrer">
@@ -3209,15 +3377,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://blog.google/products-and-platforms/products/search/gardening-tips/" target="_blank" rel="noopener noreferrer">
-                    5 gardening tips you can try right in Search
+                  <a class="title" href="https://www.bloomberg.com/news/videos/2026-05-06/apple-to-let-users-choose-rival-ai-models-video" target="_blank" rel="noopener noreferrer">
+                    Apple to Let Users Choose Rival AI Models
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">Google AI Blog</span>
-                    <span class="article-time">16:00</span>
+                    <span class="source-badge">Bloomberg Tech</span>
+                    <span class="article-time">18:13</span>
                     <button class="share-btn"
-                      data-url="https://blog.google/products-and-platforms/products/search/gardening-tips/"
-                      data-title="5 gardening tips you can try right in Search"
+                      data-url="https://www.bloomberg.com/news/videos/2026-05-06/apple-to-let-users-choose-rival-ai-models-video"
+                      data-title="Apple to Let Users Choose Rival AI Models"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -3225,31 +3393,15 @@
                 </li>
               
                 <li class="article-row">
-                  <a class="title" href="https://openai.com/index/introducing-b2b-signals" target="_blank" rel="noopener noreferrer">
-                    How frontier enterprises are building an AI advantage
+                  <a class="title" href="https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/" target="_blank" rel="noopener noreferrer">
+                    SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas
                   </a>
                   <div class="row-meta">
-                    <span class="source-badge">OpenAI Blog</span>
-                    <span class="article-time">00:00</span>
+                    <span class="source-badge">TechCrunch AI</span>
+                    <span class="article-time">17:23</span>
                     <button class="share-btn"
-                      data-url="https://openai.com/index/introducing-b2b-signals"
-                      data-title="How frontier enterprises are building an AI advantage"
-                      data-desc=""
-                      onclick="openShare(this, event)"
-                      title="Condividi">↗</button>
-                  </div>
-                </li>
-              
-                <li class="article-row">
-                  <a class="title" href="https://huggingface.co/blog/open-asr-leaderboard-private-data" target="_blank" rel="noopener noreferrer">
-                    Adding Benchmaxxer Repellant to the Open ASR Leaderboard
-                  </a>
-                  <div class="row-meta">
-                    <span class="source-badge">HuggingFace Blog</span>
-                    <span class="article-time">00:00</span>
-                    <button class="share-btn"
-                      data-url="https://huggingface.co/blog/open-asr-leaderboard-private-data"
-                      data-title="Adding Benchmaxxer Repellant to the Open ASR Leaderboard"
+                      data-url="https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
+                      data-title="SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas"
                       data-desc=""
                       onclick="openShare(this, event)"
                       title="Condividi">↗</button>
@@ -3372,7 +3524,7 @@
 </main>
 
 <footer>
-  Generato il 2026-05-10 10:00 UTC — AI Update · ultimi 7 giorni
+  Generato il 2026-05-14 09:26 UTC — AI Update · ultimi 7 giorni
 </footer>
 
 <!-- Share popover (single global instance) -->
