@@ -7,6 +7,7 @@ LLM utilities using Gemini 2.0 Flash Lite (Google AI Studio free tier: 1500 req/
 import json
 import logging
 import os
+import re
 import time
 import requests
 from collections import defaultdict
@@ -114,16 +115,23 @@ Reply ONLY with a JSON array: [{{"i":0,"d":"descrizione"}},...]
 where "i" is the 0-based index and "d" is the Italian description (max 140 chars). No other text."""
 
 _WEEKLY_TOOLS_PROMPT = """\
-You are an AI product editor writing for Italian readers. For each headline below \
-about an AI tool launch or feature update, provide:
-1. A description in Italian of at most 140 characters (spaces included). Be specific and factual. No filler phrases.
-2. A category key chosen from: productivity, audio, video, images, code, writing, search, agents, data, other
+You are an AI product editor writing for Italian readers. Below are {n} headlines \
+from the past 7 days. Your task:
+
+1. SELECT the 7 headlines that represent genuine new AI tool launches, product \
+releases, or significant feature updates. Exclude pure news/analysis/funding \
+stories that don't describe a specific tool or feature a user can actually use.
+2. For each selected headline, provide:
+   - A description in Italian of at most 140 characters (spaces included). Specific and factual. No filler phrases.
+   - A category key from: productivity, audio, video, images, code, writing, search, agents, data, other
 
 Headlines:
 {headlines}
 
-Reply ONLY with a JSON array: [{{"i":0,"d":"descrizione","c":"category"}},...]
-where "d" is the Italian description (max 140 chars) and "c" is the category key. No other text."""
+Reply ONLY with a JSON array of exactly 7 objects (fewer if fewer qualify): \
+[{{"i":0,"d":"descrizione","c":"category"}},...]
+where "i" is the 0-based index from the list above, "d" is the Italian description \
+(max 140 chars), and "c" is the category key. No other text."""
 
 
 def build_top7_descriptions(highlights: list[dict]) -> None:
@@ -148,10 +156,21 @@ def build_top7_descriptions(highlights: list[dict]) -> None:
         logger.warning(f"Top 7 descriptions failed: {exc}")
 
 
+_TOOL_KEYWORDS = re.compile(
+    r"launch|feature|update|release|introduc|announc|debut|unveil|present|integrat|"
+    r"new model|new version|now available|rolls out|ships|plugin|extension|api|sdk|"
+    r"lancia|annuncia|introduce|aggiorna|disponibil",
+    re.IGNORECASE,
+)
+
+
 def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map: dict) -> list[dict]:
     """
-    Picks the top 5 tools_products articles from the past 7 days and generates descriptions.
-    Returns a list of {title, url, source, description} dicts.
+    Picks the 7 most relevant tool/feature articles from the past 7 days.
+    Candidates come from all categories (not just tools_products) filtered by
+    tool/feature keywords, then scored; Gemini selects the final 7 and writes
+    Italian descriptions + category labels.
+    Returns a list of {title, url, source, description, category} dicts.
     """
     if not GEMINI_API_KEY:
         logger.info("GEMINI_API_KEY not set — weekly tools section skipped")
@@ -161,38 +180,49 @@ def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map
     from renderer import _score as compute_score
 
     now = datetime.now(timezone.utc)
-    tools = [
+
+    # Broad candidate pool: tools_products OR any article with launch/feature keywords
+    candidates = [
         a for a in articles
-        if a.get("category") == "tools_products"
-        and (now - a["date"]) < timedelta(days=7)
+        if (now - a["date"]) < timedelta(days=7)
+        and (
+            a.get("category") == "tools_products"
+            or _TOOL_KEYWORDS.search(a.get("title", ""))
+        )
     ]
-    if not tools:
-        logger.info("Weekly tools: no tools_products articles in past 7 days")
+
+    if not candidates:
+        logger.info("Weekly tools: no candidates in past 7 days")
         return []
 
-    scored = sorted(tools, key=lambda a: compute_score(a, now, traction_map, llm_map), reverse=True)[:7]
+    # Score and take top 30 to send to Gemini
+    scored = sorted(candidates, key=lambda a: compute_score(a, now, traction_map, llm_map), reverse=True)[:30]
     headlines = "\n".join(f"{i}. {a['title']}" for i, a in enumerate(scored))
+
     try:
-        raw = _gemini_call(_WEEKLY_TOOLS_PROMPT.format(headlines=headlines), max_tokens=700)
+        raw = _gemini_call(
+            _WEEKLY_TOOLS_PROMPT.format(n=len(scored), headlines=headlines),
+            max_tokens=900,
+        )
         results = _parse_json_response(raw)
-        desc_map = {
-            item["i"]: {"d": str(item.get("d", "")).strip(), "c": item.get("c", "other")}
-            for item in results if "i" in item
-        }
-        output = [
-            {
+        output = []
+        for item in results:
+            idx = item.get("i")
+            if idx is None or not (0 <= idx < len(scored)):
+                continue
+            a = scored[idx]
+            output.append({
                 "title":       a["title"],
                 "url":         a["url"],
                 "source":      a["source"],
-                "description": desc_map.get(i, {}).get("d", "")[:140],
-                "category":    desc_map.get(i, {}).get("c", "other"),
-            }
-            for i, a in enumerate(scored)
-        ]
-        logger.info(f"Weekly tools section: {len(output)} items generated")
-        return output
+                "description": str(item.get("d", "")).strip()[:140],
+                "category":    item.get("c", "other"),
+            })
+        logger.info(f"Weekly tools section: {len(output)} items generated from {len(scored)} candidates")
+        return output[:7]
     except Exception as exc:
         logger.warning(f"Weekly tools section failed: {exc}")
+        return []
         return []
 
 
