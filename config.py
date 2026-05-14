@@ -79,6 +79,18 @@ FEEDS = [
     {"name": "Agenda Digitale",  "url": "https://www.agendadigitale.eu/feed/"},
 ]
 
+# --- Tools-only feeds (used exclusively for the weekly tools section) ---
+# These are NOT added to the main news pipeline — fetched only by build_weekly_tools_section()
+# Only feeds verified to return entries are listed here.
+TOOLS_FEEDS = [
+    # AI tools tracking platforms
+    {"name": "Product Hunt AI",   "url": "https://www.producthunt.com/feed?category=artificial-intelligence"},
+    {"name": "HN Show HN",        "url": "https://hnrss.org/show"},
+    # Official company blogs not already in FEEDS
+    {"name": "GitHub Blog",       "url": "https://github.blog/feed/"},
+    {"name": "Cohere Blog",       "url": "https://cohere.substack.com/feed"},
+]
+
 # Feeds that are NOT AI-specific and need keyword filtering
 GENERIC_FEEDS = {
     "Bloomberg Tech", "MIT Tech Review", "Wired", "Ars Technica",

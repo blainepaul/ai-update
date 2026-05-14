@@ -11,7 +11,7 @@ import re
 import time
 import requests
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 from traction import _normalize_url
 
@@ -167,6 +167,44 @@ _TOOL_KEYWORDS = re.compile(
 )
 
 
+def _fetch_tools_feeds(max_age_days: int = 7) -> list[dict]:
+    """Fetch recent articles from TOOLS_FEEDS (tracking platforms + company pages)."""
+    import feedparser
+    from config import TOOLS_FEEDS
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
+    articles = []
+    for feed_info in TOOLS_FEEDS:
+        try:
+            feed = feedparser.parse(feed_info["url"])
+            for entry in feed.entries[:30]:
+                published = entry.get("published_parsed") or entry.get("updated_parsed")
+                if published:
+                    from calendar import timegm
+                    date = datetime.utcfromtimestamp(timegm(published)).replace(tzinfo=timezone.utc)
+                else:
+                    date = datetime.now(timezone.utc)
+                if date < cutoff:
+                    continue
+                title = entry.get("title", "").strip()
+                url = entry.get("link", "").strip()
+                if not title or not url:
+                    continue
+                articles.append({
+                    "title":    title,
+                    "url":      url,
+                    "source":   feed_info["name"],
+                    "date":     date,
+                    "summary":  entry.get("summary", ""),
+                    "category": "tools_products",
+                })
+            logger.debug(f"Tools feed '{feed_info['name']}': {len(feed.entries)} entries fetched")
+        except Exception as exc:
+            logger.warning(f"Tools feed failed ({feed_info['name']}): {exc}")
+    logger.info(f"Tools feeds: {len(articles)} articles from {len(TOOLS_FEEDS)} feeds")
+    return articles
+
+
 def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map: dict) -> list[dict]:
     """
     Picks the 7 most relevant tool/feature articles from the past 7 days.
@@ -193,6 +231,15 @@ def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map
             or _TOOL_KEYWORDS.search(a.get("title", ""))
         )
     ]
+
+    # Add fresh articles from dedicated tools feeds (Product Hunt, TAAFT, company blogs…)
+    tools_feed_articles = _fetch_tools_feeds(max_age_days=7)
+    seen_urls = {a["url"] for a in candidates}
+    for a in tools_feed_articles:
+        if a["url"] not in seen_urls:
+            candidates.append(a)
+            seen_urls.add(a["url"])
+    logger.info(f"Weekly tools candidate pool: {len(candidates)} articles total")
 
     if not candidates:
         logger.info("Weekly tools: no candidates in past 7 days")
