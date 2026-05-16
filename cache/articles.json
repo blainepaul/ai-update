@@ -1,5 +1,75 @@
 [
   {
+    "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-16T15:33:33+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
+    "summary": "When it comes to job cuts, older workers are often disproportionately affected. But a new survey of chief executive officers suggests this won’t be a given as companies adopt artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-16T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "‘The Oppenheimer’ of the AI Era",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-16/-the-oppenheimer-of-the-ai-era-video",
+    "summary": "What drives the tech titans behind the AI arms race? For some, it's the thrill of scientific discovery; for others, it's the pursuit of profit.  Through the story of DeepMind co-founder Demis Hassabis and other AI leaders, author Sebastian Mallaby explores how motivations ranging from scientific curiosity to commercial ambition and political power are shaping the future of the technology. We sat down with Mallaby to discuss the fraught and simultaneously symbiotic tension between science and cap",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-16T14:04:51+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "llama + spec: MTP Support by am17an · Pull Request #22673 · ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp/pull/22673",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-16T12:11:49+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+    "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+    "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+    "source": "Wired",
+    "date": "2026-05-16T10:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "3D-printed stretchable artery implant lowers blood pressure by 15% in early trials",
+    "url": "https://interestingengineering.com/health/soft-hydrogel-implant-blood-pressure-control",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-16T09:08:43+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Stripe's John Collison on How Agentic Commerce Will Reshape the Internet | Odd Lots",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-16/how-agentic-commerce-will-reshape-the-internet-video",
+    "summary": "The internet is made for shopping. For years, the main inputs for e-commerce transactions involved targeted ads, algorithmic recommendations, SEO, and lots of mindless scrolling. But agentic commerce might represent a sea change for e-commerce: With the rise of AI agents doing shopping on behalf of consumers, how are retailers going to adapt? John Collison, co-founder of the financial services and payment processing company Stripe, has first hand experience with all the ways e-commerce has chang",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-16T08:16:36+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-16"
+  },
+  {
     "title": "Stripe's John Collison on How Agentic Commerce Will Reshape the Internet",
     "url": "https://www.bloomberg.com/news/articles/2026-05-16/stripe-s-john-collison-on-ai-shopping-and-agentic-commerce",
     "summary": "Adapting to a world where AI agents are doing the shopping.",
@@ -3786,56 +3856,6 @@
     "source": "HuggingFace Blog",
     "date": "2026-05-09T18:09:28+00:00",
     "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-10"
-  },
-  {
-    "title": "Nvidia has already committed $40B to equity AI deals this year",
-    "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-09T14:43:30+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-10"
-  },
-  {
-    "title": "ECB’s Escrivá Says AI Risks Prompt Finance Infrastructure Review",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
-    "summary": "Central banks must review the resilience of financial infrastructure given the rise of artificial intelligence, as well as defend their role as the ultimate guarantor against risks posed by stablecoins, said European Central Bank Governing Council member José Luis Escrivá.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-09T13:22:05+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-05-10"
-  },
-  {
-    "title": "Cloudflare’s AI usage increased by 600% in the last 3 months, leading to the elimination of 1,100 jobs as part of an Agentic AI restructuring",
-    "url": "https://www.cnbc.com/2026/05/07/cloudflare-net-q1-2026-stock-earnings-layoffs.html",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-09T12:07:24+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-10"
-  },
-  {
-    "title": "Tech is turning increasingly to religion in a quest to create ethical AI",
-    "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-09T11:34:04+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-10"
-  },
-  {
-    "title": "GPT-5.5 may burn fewer tokens, but it always burns more cash",
-    "url": "https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-09T09:58:02+00:00",
-    "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-05-10"
   }
