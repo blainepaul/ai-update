@@ -260,8 +260,12 @@ def main():
     cached_tools = _load_weekly_tools()
     if _is_monday_morning() or not cached_tools:
         weekly_tools = build_weekly_tools_section(display, traction_map, llm_map)
-        _save_weekly_tools(weekly_tools)
-        logger.info(f"Weekly tools section updated: {len(weekly_tools)} items")
+        if weekly_tools:
+            _save_weekly_tools(weekly_tools)
+            logger.info(f"Weekly tools section updated: {len(weekly_tools)} items")
+        else:
+            weekly_tools = cached_tools
+            logger.warning("Weekly tools rebuild returned empty — keeping previous cache")
     else:
         weekly_tools = cached_tools
 

@@ -279,7 +279,6 @@ def build_weekly_tools_section(articles: list[dict], traction_map: dict, llm_map
     except Exception as exc:
         logger.warning(f"Weekly tools section failed: {exc}")
         return []
-        return []
 
 
 _DEDUP_PROMPT = """\
@@ -304,18 +303,31 @@ No other text."""
 
 
 def _gemini_call(prompt: str, max_tokens: int = 400) -> str:
-    """Single Gemini call, paced to respect the 30 RPM free tier."""
+    """Single Gemini call, paced to respect the 30 RPM free tier. Retries on 429."""
     time.sleep(2.5)  # pre-call delay: 2.5s → max 24 RPM, safely under 30 RPM limit
-    resp = requests.post(
-        f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
-        json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {"temperature": 0, "maxOutputTokens": max_tokens},
-        },
-        timeout=_TIMEOUT,
-    )
-    resp.raise_for_status()
-    return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
+    retry_delays = [15, 45]  # wait 15s then 45s before giving up
+    attempt = 0
+    while True:
+        resp = requests.post(
+            f"{_GEMINI_URL}?key={GEMINI_API_KEY}",
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": 0, "maxOutputTokens": max_tokens},
+            },
+            timeout=_TIMEOUT,
+        )
+        if resp.status_code == 429 and attempt < len(retry_delays):
+            try:
+                detail = resp.json().get("error", {}).get("message", "")
+            except Exception:
+                detail = resp.text[:200]
+            delay = retry_delays[attempt]
+            logger.warning(f"Gemini 429 (attempt {attempt + 1}): {detail} — retrying in {delay}s")
+            time.sleep(delay)
+            attempt += 1
+            continue
+        resp.raise_for_status()
+        return resp.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
 def dedup_with_llm(articles: list[dict]) -> list[dict]:
