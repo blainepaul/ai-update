@@ -1,5 +1,285 @@
 [
   {
+    "title": "Stripe's John Collison on How Agentic Commerce Will Reshape the Internet",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-16/stripe-s-john-collison-on-ai-shopping-and-agentic-commerce",
+    "summary": "Adapting to a world where AI agents are doing the shopping.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-16T08:00:11+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Odd Lots: Stripe’s John Collison on Agentic Commerce (Podcast)",
+    "url": "https://www.bloomberg.com/news/audio/2026-05-16/odd-lots-stripe-s-john-collison-on-agentic-commerce-podcast",
+    "summary": "The internet is made for shopping. For years, the main inputs for e-commerce transactions involved targeted ads, algorithmic recommendations, SEO, and lots of mindless scrolling. But agentic commerce might represent a sea change for e-commerce: With the rise of AI agents doing shopping on behalf of consumers, how are retailers going to adapt? John Collison, co-founder of the financial services and payment processing company Stripe, has first-hand experience with all the ways e-commerce has chang",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-16T08:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-16/europe-lacks-everything-needed-to-make-its-stock-market-a-winner",
+    "summary": "The equity story that powered European stocks has unraveled as investors seek shelter from a global energy shock and buy into the artificial intelligence frenzy.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-16T05:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Stagnationist, pro-China policy will be the death of us… “good news” my ass.",
+    "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214/text",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-16T01:34:05+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Trump Discussed Nvidia Chips With Xi Jinping | Bloomberg Tech 5/15/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-tech-5-15-2026-video",
+    "summary": "Bloomberg’s Caroline Hyde and Ed Ludlow break down the latest from Beijing after President Trump says he discussed Nvidia's H200 chips with Xi Jinping. Plus, they speak with the CEO of Figma after its earnings results defy fears that AI would disrupt the design stack. And, Caroline's conversation with OpenAI CFO Sarah Friar, who says the startup may raise more capital after completing its recent fundraising round. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-15T23:43:52+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+    "source": "MIT Tech Review",
+    "date": "2026-05-15T23:39:35+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Luce Megakernal: Why nobody is taking about this?",
+    "url": "https://github.com/Luce-Org/lucebox-hub/blob/main/megakernel",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-15T23:15:18+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "The Frontier-Only Narrative Is a Financing Story, Not an Architecture Story",
+    "url": "https://gsstk.gem98.com/en-US/blog/a0110-frontier-only-narrative-financing-not-architecture",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-15T23:11:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Global Bond Selloff Deepens as Oil Prices Rise | The Close 5/15/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-15/the-close-5-15-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Morgan Stanley’s Andrew Slimmon, China Moon Strategies President Jeff Moon, Bernstein Research’s Stacy Rasgon, Enbridge President & CEO Greg Ebel, Alberta Premier Danielle Smith, Moneta Managing Director of Global Wealth Aoifinn Devitt, JP Morgan’s Aaron Mulvihill, Kentucky Derby Winning Trainer Cherie DeVaux, Columbia Threa",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-15T23:10:41+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there is a match, YouTube alerts […]",
+    "source": "The Verge AI",
+    "date": "2026-05-15T18:25:00-04:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "The new trick exposing AI job applicants: ‘Write a poem about a frog’",
+    "url": "https://www.sfchronicle.com/tech/article/tech-jobs-ai-applicants-22261320.php",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-15T22:11:55+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "US Chip Sector Needs More Talent, Says SEMI",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-15/us-chip-sector-needs-more-talent-says-semi-video",
+    "summary": "President Trump says he discussed guardrails on AI and Nvidia's H200 chips with Chinese leader Xi Jinping during a two-day summit in Beijing. Shari Liss, vice president of global workforce development and initiatives at SEMI, joins Bloomberg’s Caroline Hyde and Ed Ludlow on \"Bloomberg Tech\" to discuss what this means for the US semiconductor sector. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-15T20:38:42+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "ArXiv will ban researchers who upload papers full of AI slop",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" left by an LLM, authors will be […]",
+    "source": "The Verge AI",
+    "date": "2026-05-15T16:38:19-04:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
+    "source": "TechCrunch AI",
+    "date": "2026-05-15T19:24:16+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Pope decries rise of AI-directed warfare, saying it leads to a spiral of annihilation",
+    "url": "https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-15T19:08:31+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "US Is Starting to See Heavy Job Losses in Roles Exposed to AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+    "summary": "Several US occupations expected to be impacted by artificial intelligence saw heavy job losses for a second year in 2025, led by customer service representatives and certain types of secretaries and salespeople.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-15T19:06:43+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Appearing Productive in The Workplace — No One's Happy",
+    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-15T18:37:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "summary": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the company is combining its products to \"invest in […]",
+    "source": "The Verge AI",
+    "date": "2026-05-15T14:21:35-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Risk reports need to address deployment-time spread of misalignment",
+    "url": "https://www.alignmentforum.org/posts/cNymohcWtGHzW7AjK/risk-reports-need-to-address-deployment-time-spread-of",
+    "summary": "Risk reports commonly use pre-deployment alignment assessments to measure misalignment risk from an internally deployed AI. However, an AI that genuinely starts out with largely benign motivations can develop widespread dangerous motivations during deployment. I think this is the most plausible route to consistent adversarial misalignment in the near future. So, AI companies and evaluators should substantively incorporate it into risk analysis and planning. In this post, I’ll briefly argue why, ",
+    "source": "AI Alignment Forum",
+    "date": "2026-05-15T18:20:21+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-15T18:14:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "EU AI Act Compliance: How to Build It Into Your Product",
+    "url": "https://shiftmag.dev/how-developers-should-build-ai-tools-so-the-eu-doesnt-lose-it-9482/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-15T18:07:12+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+    "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
+    "source": "Wired",
+    "date": "2026-05-15T17:09:17+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "summary": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Google's Gemini, and \"Grok and Roll […]",
+    "source": "The Verge AI",
+    "date": "2026-05-15T13:09:16-04:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Cerebras CEO Is Worth $3.2 Billion After Year’s Largest IPO",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-15/cerebras-ceo-worth-3-2-billion-after-year-s-largest-ipo-video",
+    "summary": "Shares of Cerebras Systems Inc. soared about 68% in Nasdaq trading in New York. It’s the year’s biggest initial public offering and gives the company a market value of roughly $67 billion. \nBailey Lipschultz, Bloomberg News Senior Equities Reporter, discusses the initial offering and how the company is differentiating itself from incumbents like Nvidia. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-15T17:07:19+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Mechanistic estimation for expectations of random products",
+    "url": "https://www.alignmentforum.org/posts/7RyAefESvb6BQ3tMz/mechanistic-estimation-for-expectations-of-random-products",
+    "summary": "We have developed some relatively general methods for mechanistic estimation competitive with sampling by studying problems that are expressible as expectations of random products . This includes several different estimation problems, such as random halfspace intersections, random #3-SAT and random permanents. In this post, we will give a high-level introduction to these methods before sharing some more detailed notes . This is intended as an interim technical update and will be relatively light",
+    "source": "AI Alignment Forum",
+    "date": "2026-05-15T16:50:43+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Building AlphaGo from scratch – Eric Jang",
+    "url": "https://youtu.be/X_ZVSPcZhtw?si=TnOB7lF2rbpYpLdn",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-15T16:49:21+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Does Trump Mobile know how many stripes are on the American flag?",
+    "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+    "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has been a momentous […]",
+    "source": "The Verge AI",
+    "date": "2026-05-15T12:47:16-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
+    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
+    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search systems into featuring content […]",
+    "source": "The Verge AI",
+    "date": "2026-05-15T12:42:59-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
+  },
+  {
     "title": "OpenAI now wants ChatGPT to access your bank accounts",
     "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
     "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutions, including Schwab, Fidelity, […]",
@@ -8,6 +288,16 @@
     "category": "tools_products",
     "_slot": "afternoon",
     "_slot_date": "2026-05-15"
+  },
+  {
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-15T16:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-16"
   },
   {
     "title": "Yann LeCun on Leaving Meta, Breaking The LLM Paradigm, & Why Hinton is Wrong",
@@ -3548,215 +3838,5 @@
     "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-05-10"
-  },
-  {
-    "title": "ByteDance Targets 25% Rise in AI Infrastructure Spending: SCMP",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
-    "summary": "ByteDance Ltd. has boosted planned spending on artificial intelligence infrastructure this year by 25% to 200 billion yuan ($29.4 billion), as memory chip costs rise and the TikTok owner ramps up its AI presence, the South China Morning Post reported on Saturday.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-09T07:23:59+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Playing Around with the ARC-AGI-3 Benchmark",
-    "url": "https://bengoertzel.substack.com/p/playing-around-with-the-arc-agi-3?utm_campaign=post&showWelcomeOnShare=true",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-09T05:14:30+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Chinese Export Growth Rebounds as War Fails to Curb Trade",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-09/chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
-    "summary": "China’s export growth rebounded more than expected despite disruptions to shipping caused by the war in Iran, as trade volumes swell due to an investment boom in artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-09T03:09:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "China’s Top Economic Planner Urges Stronger Coordination on AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-09/china-s-top-economic-planner-urges-stronger-coordination-on-ai",
-    "summary": "China’s leading economic planning agency called for stronger coordination and top-level planning in artificial intelligence development.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-09T02:32:17+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Has anyone messed around with song generation using Google's Lyria 3 Pro? This was 8 cents in API credits, and the first thing I ever generated...",
-    "url": "https://www.youtube.com/watch?v=d6TQnzzfIDs",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-09T02:00:43+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain…",
-    "source": "MIT Tech Review",
-    "date": "2026-05-08T23:59:19+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-    "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-08T22:59:05+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Nvidia Names Goldman Sachs Veteran Suzanne Nora Johnson to Board",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-08/nvidia-names-goldman-sachs-veteran-suzanne-nora-johnson-to-board",
-    "summary": "Nvidia Corp. named former Goldman Sachs Group Inc. Vice Chairman Suzanne Nora Johnson as a director, adding a finance-industry and philanthropy veteran to the chipmaker’s board.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-08T21:00:28+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Momentum Trade at New Extremes Is Drawing Wall Street Warnings",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings",
-    "summary": "The momentum trade — buy what’s winning, sell what isn’t — was already running red-hot heading into this week. Now a pause in the Iran war, strong US jobs data and another sharp rally in AI chips just piled on more fuel.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-08T20:19:34+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Intel’s comeback story is even wilder than it seems",
-    "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-    "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-08T20:02:52+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "AI Chipmaker Cerebras Is Said to Plan Raising IPO Price Range",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-08/ai-chipmaker-cerebras-is-said-to-plan-raising-ipo-price-range",
-    "summary": "Cerebras Systems Inc. is set to increase the price range of its initial public offering as soon as Monday, according to people familiar with the matter, as demand for the artificial intelligence chipmaker’s shares continues to build.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-08T18:59:08+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "All the latest updates on AI data centers",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.  From audacious plans to launch data centers into […]",
-    "source": "The Verge AI",
-    "date": "2026-05-08T14:45:08-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Google’s Isomorphic Labs to Raise Over $2 Billion in New Funding",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding",
-    "summary": "Isomorphic Labs, an AI-powered drug discovery company spun out of Alphabet Inc.’s Google DeepMind, is in advanced discussions to raise more than $2 billion in a new round of funding, according to people familiar with the plan.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-08T18:39:25+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-08T18:33:21+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Musk, Altman Management Styles Under Fire at OpenAI Trial",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-08/musk-altman-management-styles-come-under-fire-at-openai-trial",
-    "summary": "Elon Musk and Sam Altman both took a beating over their leadership styles in court testimony this week as a jury waded further into their OpenAI feud.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-08T18:17:40+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "Anthropic Inks $1.8 Billion Computing Deal With Akamai",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
-    "summary": "Anthropic PBC has signed a $1.8 billion computing deal with cloud services provider Akamai Technologies Inc. to meet surging demand for its artificial intelligence software, according to people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-08T17:55:10+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "gamma. CEO Larry Jackson on Music Career, Ye's Comeback",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-08/gamma-ceo-larry-jackson-on-music-career-ye-s-comeback-video",
-    "summary": "gamma. CEO & Co-Founder Larry Jackson discusses his career in the music industry, his relationship with Kanye West, and how artificial intelligence has changed the business. He talks with Romaine Bostick at the Milken Institute Global Conference in Beverly Hills, California. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-08T17:41:46+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-05-08T17:41:05+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "CFS - Conditional Field Subtraction",
-    "url": "https://medium.com/@mauro.dev/cfs-conditional-field-subtraction-43a3c4eb80f4",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-08T17:13:44+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
-    "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-    "summary": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generative AI has recently been showing up in bigger games - though many indie developers still reject it - and while Sony calls […]",
-    "source": "The Verge AI",
-    "date": "2026-05-08T12:30:56-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
-  },
-  {
-    "title": "You can do CUDA inference on an Apple Silicon Mac with PCI Passthrough",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-08T16:20:42+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-09"
   }
 ]
