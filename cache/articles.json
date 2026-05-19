@@ -1,5 +1,375 @@
 [
   {
+    "title": "La reputazione diventa dato: cosa cambia per i brand nell’era dell’AI",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/la-reputazione-diventa-dato-cosa-cambia-per-i-brand-nellera-dellai/",
+    "summary": "L’intelligenza artificiale sta trasformando il modo in cui utenti e algoritmi selezionano informazioni, prodotti e brand. La visibilità digitale non dipende più solo dal traffico, ma dalla capacità di essere riconosciuti come fonti affidabili, rilevanti e coerenti nei nuovi processi mediati dall’AI L'articolo La reputazione diventa dato: cosa cambia per i brand nell’era dell’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-19T09:30:41+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Sicurezza dell’AI agentica nei servizi finanziari: i controlli chiave",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/sicurezza-dellai-agentica-nei-servizi-finanziari-i-controlli-chiave/",
+    "summary": "L’AI agentica introduce nei servizi finanziari nuove esigenze di sicurezza, osservabilità e controllo degli accessi. Dai principi di progettazione alle indicazioni operative, emergono le misure necessarie per governare agenti autonomi, workflow multi-agente, audit trail, permessi granulari e supervisione umana. L'articolo Sicurezza dell’AI agentica nei servizi finanziari: i controlli chiave proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-19T09:03:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "HRM-Text: Trained on only 1k$ and 40b tokens with brain inspired hierarchical latent architecture",
+    "url": "https://github.com/sapientinc/HRM-Text",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-19T08:28:36+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "StanChart to Cut Thousands of Jobs in AI Push",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
+    "summary": "Standard Chartered said it plans to eliminate thousands of support roles over the next four years, joining the ranks of global lenders using artificial intelligence to trim headcount. “It’s not about cost cutting,\" Chief Executive Officer Bill Winters said at a press briefing in Hong Kong. \"It's about having a structurally more productive environment that is fit for future.\" Bloomberg's Tom Metcalf reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-19T07:50:35+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Mobilità condivisa, l’intelligenza artificiale guida la svolta urbana",
+    "url": "https://www.agendadigitale.eu/smart-city/mobilita-condivisa-lintelligenza-artificiale-guida-la-svolta-urbana/",
+    "summary": "L’intelligenza artificiale sta trasformando la mobilità condivisa, rendendo flotte e servizi più efficienti, sostenibili e integrati. Dalla gestione predittiva dei veicoli alla guida autonoma, la tecnologia può contribuire a ridurre emissioni, congestione e dipendenza dall’auto privata L'articolo Mobilità condivisa, l’intelligenza artificiale guida la svolta urbana proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-19T07:47:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "You Can’t Regulate Programming: How the EU AI Act May Kill Software",
+    "url": "https://programmers.fyi/you-cant-regulate-programming-how-the-eu-ai-act-may-kill-software",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-19T07:33:58+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Nasa's \" From Text To Spaceship Vision\"",
+    "url": "https://www.youtube.com/watch?v=DV_DVw0UIF0",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-19T06:40:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Sygaldry Raises $139 Million to Build Quantum Computers For AI",
+    "url": "https://thequantuminsider.com/2026/05/16/sygaldry-raises-139-million-to-build-quantum-computers-for-ai-2/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-19T06:35:58+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Fujikura Shares Plunge After Three-Year Forecast Dents AI Hope",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/fujikura-shares-plunge-after-three-year-forecast-dents-ai-hope",
+    "summary": "Fujikura Ltd. shares fell as much as 17% after its three-year forecast fell short of frothy expectations about artificial intelligence’s appetite for high-density optical-fiber networks.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-19T06:17:35+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
+    "summary": "Alphabet’s Google agreed to create an artificial intelligence cloud business with Blackstone, aiming to compete with companies like CoreWeave in a burgeoning market. The project will rely on an initial $5 billion in equity capital from Blackstone, which will become the majority owner, according to a statement Monday. Bloomberg's Neil Campling explains. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-19T05:46:43+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Australia’s Top Pension Sees Agentic AI Disrupting Its Industry",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/australia-s-top-pension-sees-agentic-ai-disrupting-its-industry",
+    "summary": "AustralianSuper, the country’s largest pension fund, said agentic artificial intelligence could transform how it serves its 3.5 million members, likening the technology’s potential impact to the disruption AI is driving across retail and consumer services.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-19T03:48:28+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Pope Leo x Anthropic: Pope Leo to issue text on human dignity and AI with Anthropic co-founder",
+    "url": "https://deadstack.net/cluster/pope-leo-to-issue-ai-encyclical-with-anthropic",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-19T03:26:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+    "url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "summary": "Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it’s sometimes the smaller considerations that need to play big – at least, in the minds of enterprise decision-makers. […] The post AI is a matter of power, infrastructure and security: TechEx North America appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-05-19T01:36:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announced on X that he will…",
+    "source": "MIT Tech Review",
+    "date": "2026-05-19T00:53:10+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
+    "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-19T00:15:43+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Meta Moves 7,000 Workers Into AI Roles Ahead of Job Cuts",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/meta-moves-7-000-workers-into-ai-roles-ahead-of-job-cuts",
+    "summary": "Meta Platforms Inc. is reassigning 7,000 workers to new jobs related to artificial intelligence, according to an internal memo, part of a broad corporate restructuring that includes planned staff reductions later this week.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-18T23:00:01+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Stocks Fall, Oil Rises as Investors Eye Bonds | The Close 5/18/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-18/the-close-5-18-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Robinhood Markets CIO Stephanie Guild, Andersen Institute’s Fabio Natalucci, Wedbush Securities’ Dan Ives, IIF President & CEO Tim Adams, Kayne Anderson Rudnick’s Julie Biel, 42 Macro Founder & CEO Darius Dale, Westly Group Founder & Managing Partner Steve Westly, Moody’s Ratings Chief Credit Officer Atsi Sheth, Morningstar’",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-18T22:34:07+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: ‘Demand Is Going Parabolic, Utterly Parabolic’",
+    "url": "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/",
+    "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs — while enterprise data queries are up to 3x faster with the Vera CPU. And 5,000 enterprises like Lilly, Samsung and Honeywell are running AI workloads on Dell AI Factories […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-18T22:28:59+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Vera Arrives: NVIDIA’s First CPU Built for Agents Lands at Top AI Labs",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "summary": "The first NVIDIA Vera CPUs arrived at three of the world's leading AI labs on Friday — Anthropic in San Francisco, OpenAI in Mission Bay, SpaceXAI in Palo Alto — followed by a delivery to Oracle Cloud Infrastructure in Santa Clara on Monday. NVIDIA Vice President of Hyperscale and High-Performance Computing Ian Buck hand-delivered them.",
+    "source": "NVIDIA Blog",
+    "date": "2026-05-18T21:48:17+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-18T21:29:31+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
+    "summary": "Artificial intelligence chip startup Tenstorrent Inc. is drawing early takeover interest from prospective buyers at a moment of renewed momentum for upstarts looking to challenge Nvidia Corp. and Advanced Micro Devices Inc.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-18T21:19:36+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Dell Scales Up the AI Supply Chain to Meet Demand",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-18/dell-scales-up-the-ai-supply-chain-to-meet-demand-video",
+    "summary": "Dell Technologies Inc. Chief Executive Officer Michael Dell and Nvidia CEO Jensen Huang talk about how they work together on Dell's AI Factory which uses servers with Nvidia chips, software and services. They speak to Bloomberg's Ed Ludlow at the Dell World conference in Las Vegas. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-18T20:35:41+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Agora-1: The Multi-Agent World Model",
+    "url": "https://odyssey.ml/introducing-agora-1",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-18T20:29:13+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-18T19:27:52+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump’s summit in China, said he expects Chinese authorities to eventually allow the import of artificial intelligence chips from the US.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-18T19:25:18+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+    "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monday after just […]",
+    "source": "The Verge AI",
+    "date": "2026-05-18T15:00:00-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Prompting Amazon Nova 2 for content moderation",
+    "url": "https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/",
+    "summary": "In this post, you learn how to prompt Amazon Nova 2 Lite for content moderation using structured and free-form approaches, grounded in the MLCommons AILuminate Assessment Standard. The prompting techniques use the AILuminate taxonomy as an example, but they work equally well with your own custom moderation policy. You can swap in your own category definitions and the prompt structure stays the same. We also benchmark the content moderation capabilities of Amazon Nova 2 Lite against several found",
+    "source": "AWS ML Blog",
+    "date": "2026-05-18T18:56:36+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Jury rules against Elon Musk in his feud with OpenAI, saying he filed his lawsuit too late",
+    "url": "https://apnews.com/article/musk-openai-trial-verdict-0b9b0bfaffe96f2c930341f52dfe4f8c",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-18T18:04:33+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "That's AI (2026)",
+    "url": "https://www.youtube.com/watch?v=mEVl0NS0vu8",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-18T18:03:58+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
+    "url": "https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-18T17:50:40+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk Loses Case Against Sam Altman Over OpenAI’s Overhaul",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/elon-musk-loses-case-against-sam-altman-to-force-openai-overhaul",
+    "summary": "A jury rejected Elon Musk’s claims that OpenAI under Sam Altman’s leadership betrayed its mission to benefit the public by morphing into a for-profit business, finding that he waited too long to sue the company.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-18T17:40:56+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+    "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+    "source": "Wired",
+    "date": "2026-05-18T17:40:30+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk loses his case against Sam Altman",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+    "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, […]",
+    "source": "The Verge AI",
+    "date": "2026-05-18T13:39:32-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "What to expect from Google this week",
+    "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
+    "source": "MIT Tech Review",
+    "date": "2026-05-18T17:35:43+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-18T17:34:43+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Aderant transforms cloud operations with Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/",
+    "summary": "In this post, we share how Aderant used the AI-powered capabilities of Amazon Quick to unify search across six vendor systems and automate documentation workflows, achieving 90 percent faster search times and 75 percent documentation acceleration, and how others can apply these approaches to their operations.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-18T17:26:40+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
+    "title": "Schiff Proposes Bill Requiring Data Centers to Pay for Own Power",
+    "url": "https://news.bgov.com/bloomberg-government-news/schiff-proposes-bill-requiring-data-centers-to-pay-for-own-power",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-18T16:59:22+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-19"
+  },
+  {
     "title": "Dell Adds 1,000 Clients for AI Servers, Targets Corporate Users",
     "url": "https://www.bloomberg.com/news/articles/2026-05-18/dell-sells-1-000-ai-servers-with-nvidia-chips-in-current-quarter",
     "summary": "Dell Technologies Inc. said it added 1,000 customers for a key AI product line in the past quarter as the company tries to capture business from traditional large businesses taking on new artificial intelligence workloads.",
@@ -3657,336 +4027,6 @@
     "date": "2026-05-12T10:00:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Diagnostica computazionale, AI e modelli 3D nella sanità italiana",
-    "url": "https://www.agendadigitale.eu/sanita/diagnostica-computazionale-ai-e-modelli-3d-nella-sanita-italiana/",
-    "summary": "La crescita degli esami di imaging aumenta pressione su radiologi, liste d’attesa e percorsi di follow-up. Sensori ottici, LiDAR, modelli tridimensionali e intelligenza artificiale aprono una fase nuova, in cui la diagnostica computazionale affianca la radiologia tradizionale e sostiene monitoraggio, prevenzione e medicina personalizzata L'articolo Diagnostica computazionale, AI e modelli 3D nella sanità italiana proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-12T09:44:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "feat: add MiMo v2.5 vision by AesSedai · Pull Request #22883 · ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/pull/22883",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-12T09:42:05+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Goldman Says Trend Toward Non-US Debt Is Accelerating",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-12/goldman-says-trend-toward-non-us-debt-is-accelerating-video",
-    "summary": "Amanda Lynam, chief credit strategist at Goldman Sachs, says the scale of investment in artificial intelligence is forcing corporates to increasingly diversify their funding outside the US. She speaks on Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-12T09:19:09+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Laserfiche unveils AI agents for natural language workflows",
-    "url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
-    "summary": "Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche’s integrated security rules and compliance requirements, helping ensure all sensitive data remains protected. Karl Chan, CEO of Laserfiche, said, “The introduction of AI Agents to content management signals a change in how we handle […] The post Laserfiche unveils AI agents for natural language workflows appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-05-12T08:57:13+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Unitree Unveils: GD01, A Manned Transformable Mecha, from $650,000",
-    "url": "https://youtu.be/oWOyUMJWptc?si=y7D1YVCe1BQcSUXY",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-12T07:20:01+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "D.Lgs. 47/2026, perché privacy e cybersecurity entrano nella governance delle imprese",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/d-lgs-47-2026-perche-privacy-e-cybersecurity-entrano-nella-governance-delle-imprese/",
-    "summary": "Il D.Lgs. 47/2026 rafforza il legame tra governance societaria, cybersecurity, intelligenza artificiale e protezione dei dati personali. Per imprese quotate, board e DPO, la compliance digitale diventa parte degli assetti organizzativi, della disclosure al mercato e dei sistemi di controllo interno L'articolo D.Lgs. 47/2026, perché privacy e cybersecurity entrano nella governance delle imprese proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-12T07:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-12T04:52:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Google: Our new initiative to apply quantum science and AI to the life sciences",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-12T04:40:28+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Why AI Matters More Than Iran War in Markets",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
-    "summary": "Global equities have rallied to record levels, fuelled by euphoria over artificial intelligence. Investors' risk appetite has held up despite volatility in energy markets caused by the war in Iran. Bloomberg Markets Live Executive Editor Mark Cudmore and Bloomberg TV Markets Producer Anthony Stephens discuss. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-12T04:02:39+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Now debunked? Paper with theorem shared 1 week before the experiment: “Fields Medal winning mathematician Timothy Gowers used GPT5.5 Pro to solve open problems”.",
-    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/#comment-540101",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-12T03:35:54+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Australia Watchdog Says Money Launderers Ramping Up AI for Scams",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-12/australia-watchdog-says-money-launderers-ramping-up-ai-for-scams",
-    "summary": "Australia’s financial crimes watchdog warned of a heightened threat of money laundering linked to artificial intelligence that has been used by crooks to scale up activities, automate processes and create fake documents.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-12T03:06:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Scientists successfully transfer longevity gene and extend lifespan from naked mole rats to mice --- Longevity heating up...",
-    "url": "/r/longevity/comments/1tako33/scientists_successfully_transfer_longevity_gene/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-12T01:36:10+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-12T00:09:01+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "L’AI nella moda: produzione, stile e sostenibilità cambiano",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/lai-nella-moda-produzione-stile-e-sostenibilita-cambiano/",
-    "summary": "L'intelligenza artificiale sta trasformando la moda in ogni fase: dalla produzione alla distribuzione, dal design al marketing. I brand adottano algoritmi predittivi, gemelli digitali e AI generativa per ridurre gli sprechi, personalizzare l'offerta e rispettare standard crescenti di sostenibilità e trasparenza verso i consumatori L'articolo L’AI nella moda: produzione, stile e sostenibilità cambiano proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-12T00:01:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
-    "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
-    "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
-    "source": "Wired",
-    "date": "2026-05-11T23:51:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Google disrupts hackers using AI to exploit an unknown weakness in a company's digital defense",
-    "url": "https://apnews.com/article/google-ai-cybersecurity-exploitation-mythos-926aea7f7dc5e0e61adce3273c55c6d4",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-11T23:31:18+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-05-11T23:18:26+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "OpenAI just released its answer to Claude Mythos",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-    "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher […]",
-    "source": "The Verge AI",
-    "date": "2026-05-11T19:05:01-04:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-    "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-11T23:04:10+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-    "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, […]",
-    "source": "The Verge AI",
-    "date": "2026-05-11T18:19:15-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Building web search-enabled agents with Strands and Exa",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/",
-    "summary": "In this post, you will learn how to set up the Exa integration in Strands Agents, understand the two core tools it exposes, and walk through real-world use cases that show how agents use web search to complete multi-step tasks.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-11T21:58:16+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Interaction Models: A Scalable Approach to Human-AI Collaboration - Thinking Machines",
-    "url": "https://thinkingmachines.ai/blog/interaction-models/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-11T21:54:26+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "GitLab Says Will Cut Jobs to Spend on Growth in ‘Agentic Era’",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-11/gitlab-says-will-cut-jobs-to-spend-on-growth-in-agentic-era",
-    "summary": "GitLab Inc., which makes software that helps developers on coding projects, said it is cutting jobs to free up money to spend on the market opportunity for artificial intelligence agents.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-11T21:31:40+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "OpenAI Daybreak (response to Mythos)",
-    "url": "https://openai.com/daybreak/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-11T21:29:22+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Mark Zuckerberg ‘Personally Authorized and Actively Encouraged’ Meta’s Massive Copyright Infringement to Train AI Systems, Publishers and Scott Turow Allege in Lawsuit",
-    "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-11T20:36:47+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "AI Chipmaker Cerebras Seeks $4.8 Billion in Upsized IPO | Bloomberg Tech 5/11/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-11/bloomberg-tech-5-11-2026-video",
-    "summary": "Bloomberg’s Caroline Hyde and Ed Ludlow discuss Cerebras’ increased IPO plans as the AI chipmaker and data center operator boosts its offering plans by one-third to as much as $4.8 billion. Plus, Circle CEO Jeremy Allaire explains what drove the company’s first-quarter revenue and his vision of an agent-led future. And, Google researchers say they have uncovered the first-ever zero-day attack built by AI.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-11T20:09:41+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Trump and Xi's meeting this week could change the course of the AI race",
-    "url": "https://www.abc.net.au/news/2026-05-12/trump-xi-beijing-summit-must-confront-ai-cold-war/106666482?utm_source=abc_news_app&utm_medium=content_shared&utm_campaign=abc_news_app&utm_content=link",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-11T20:06:46+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Microsoft Targeted $92 Billion Return on Early OpenAI Investment",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-11/microsoft-targeted-92-billion-return-on-early-openai-investment",
-    "summary": "Microsoft Corp. targeted a $92 billion return from its large early investments in OpenAI, a landmark arrangement that helped usher in the current AI era.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-11T19:28:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Sutskever Says His OpenAI Stake Worth About $7 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion",
-    "summary": "OpenAI co-founder and former chief scientist Ilya Sutskever said his stake in the ChatGPT maker is worth roughly $7 billion, making him one of the largest individual shareholders in the artificial intelligence startup.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-11T19:04:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Palantir to be granted ‘unlimited access’ to NHS patient data",
-    "url": "https://www.digitalhealth.net/2026/05/palantir-to-be-granted-unlimited-access-to-nhs-patient-data/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-11T18:50:40+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Introducing Claude Platform on AWS: Anthropic’s native platform, through your AWS account",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
-    "summary": "Today, we're excited to announce the general availability of Claude Platform on AWS. Claude Platform on AWS is a new service that gives customers direct access to Anthropic's native Claude Platform experience through their AWS account, with no separate credentials, contracts, or billing relationships required. AWS is the first cloud provider to offer access to the native Claude Platform experience. In this post, we explore how Claude Platform on AWS works and how you can start using it today.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-11T18:43:03+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Rates Just One Factor for Stablecoin Growth, Says Circle CEO",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-11/rates-just-one-factor-for-stablecoin-growth-circle-ceo-video",
-    "summary": "Stablecoin issuer Circle says it’s moving closer to a future where AI agents can make financial transactions. The company saw a 20% revenue surge in its first-quarter, though net income declined amid volatility in cryptocurrency markets. Circle CEO Jeremy Allaire speaks with Caroline Hyde and Ed Ludlow on “Bloomberg Tech.”  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-11T18:20:06+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-12"
-  },
-  {
-    "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
-    "url": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a",
-    "summary": "1.1 Tl;dr Alignment is often conceptualized as AIs helping humans achieve their goals: AIs that increase people’s agency and empowerment; AIs that are helpful, corrigible, and/or obedient; AIs that avoid manipulating people. But that last one—manipulation—points to a challenge for all these desiderata: a human’s goals are themselves under-determined and manipulable, and it’s awfully hard to pin down a principled distinction between changing people’s goals in a good way (“providing counsel”, “pro",
-    "source": "AI Alignment Forum",
-    "date": "2026-05-11T17:48:11+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
     "_slot_date": "2026-05-12"
   }
 ]
