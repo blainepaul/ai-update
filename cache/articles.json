@@ -1,5 +1,375 @@
 [
   {
+    "title": "Vibe coding is coming to your phone",
+    "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+    "summary": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps […]",
+    "source": "The Verge AI",
+    "date": "2026-05-20T13:40:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "OpenAI barrels towards IPO that may happen in September",
+    "url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-20T17:24:24+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Nvidia Earnings in Focus as SpaceX IPO Buzz Builds | Open Interest 5/20/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/open-interest-5-20-2026-video",
+    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" Nvidia earnings could determine whether the chip rally still has room to run, or reignite fears of a bubble. Goldman Sachs may take the leading role in SpaceX's mega IPO. Target tempers expectations after posting its biggest sales gain in four years. HSBC Chief Multi Asset Strategist Max Kettner, Citi US Equity Strategist Scott Chronert, FTSE Russell Head of Global Investment Research Indrani De",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T17:12:02+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Build real-time voice applications with Amazon SageMaker AI and vLLM",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/",
+    "summary": "Voice agents, live captioning, contact center analytics, and accessibility tools all depend on real-time speech-to-text, where your application streams audio in and receives transcription back simultaneously over a single persistent connection. Traditional request-response inference falls short here because transcription cannot begin until the entire audio recording has been received, adding latency that breaks the real-time […]",
+    "source": "AWS ML Blog",
+    "date": "2026-05-20T17:10:17+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Airbnb’s Chesky Says US ‘Misunderstanding’ Use of Chinese Open-Source AI Models",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/airbnb-s-chesky-says-us-misunderstanding-use-of-chinese-open-source-ai-models",
+    "summary": "Airbnb Inc. Chief Executive Officer Brian Chesky defended his company’s use of Chinese artificial intelligence models, saying US lawmakers who worry Chinese firms can access Americans’ user data are “misunderstanding” the technology.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T17:00:03+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Nvidia Faces High Bar to Sustain AI Rally",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/nvidia-faces-high-bar-to-sustain-ai-rally-video",
+    "summary": "Nvidia faces a high bar as it looks to keep the AI rally going. Goldman Sachs Semiconductor Research Analyst Jim Schneider discusses expectations ahead of the chipmaker's highly anticipated results on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T16:57:56+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "OpenAI Is Preparing to File for an IPO in the Coming Weeks",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/openai-preparing-for-ipo-filing-in-days-or-weeks-wsj-reports",
+    "summary": "OpenAI is preparing to file for an initial public offering in the coming weeks and is targeting a public debut sometime in the fall, according to a person familiar with the plan.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T16:48:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "A new experiment brings better group meetings to Google Beam",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+    "summary": "A small group meeting featuring two in-room participants and three participants on-screen.",
+    "source": "Google AI Blog",
+    "date": "2026-05-20T16:45:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "You can now remix other people’s YouTube Shorts with AI",
+    "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+    "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn a video into […]",
+    "source": "The Verge AI",
+    "date": "2026-05-20T12:41:40-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Auroch",
+    "url": "https://aurochthryx.com",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-20T16:22:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Google Search’s AI evolution includes more ads",
+    "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+    "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you search for a product, Google's Gemini AI chatbot will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a new Search box for larger, more conversational […]",
+    "source": "The Verge AI",
+    "date": "2026-05-20T12:00:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "CohereLabs/command-a-plus-05-2026-bf16 · Hugging Face",
+    "url": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-20T15:41:41+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Niantic Spatial’s Visual Positioning System Assessed “Awardable” on the Tradewinds Solutions Marketplace",
+    "url": "https://www.nianticspatial.com/blog/tradewinds-vps",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-20T15:16:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "AI search startups are blowing up",
+    "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-20T15:04:45+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Stability AI releases a new audio model that can create 6-minute songs",
+    "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-20T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "AMD Ryzen AI Halo PC will cost 3999$ with 128GB memory on board",
+    "url": "https://videocardz.com/newz/amd-ryzen-ai-halo-pc-will-cost-3999-with-128gb-memory-on-board",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-20T14:35:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "What to Watch for In Nvidia Earnings After the Bell",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/what-to-watch-for-in-nvidia-earnings-after-the-bell-video",
+    "summary": "Nvidia, the world's most valuable company, reports first-quarter earnings after the bell on Wednesday. Wall Street is waiting to get a read on the state of the artificial intelligence economy. Investors will also look for guidance on its long-term sales forecast and trying to sell AI processors in China. Bloomberg's Ed Ludlow reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T14:15:26+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "It&#8217;s make or break time for AI labeling systems",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+    "summary": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for invisibly tagging image, video, and audio files with information about their origins, are getting their biggest expansion to date, and with it, the […]",
+    "source": "The Verge AI",
+    "date": "2026-05-20T10:12:54-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Liontrust Focused on Nvidia Suppliers Ahead of Earnings",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/liontrust-focused-on-nvidia-suppliers-ahead-of-earnings-video",
+    "summary": "Clare Pleydell-Bouverie, Liontrust Fund manager, talks about why she is focused on what Nvidia is buying from suppliers ahead of their earnings report. She speaks on \"Bloomberg The Opening Trade.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T14:05:52+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+    "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-20T14:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+    "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
+    "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-20T14:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Google, ecco la Search che si sbarazza di noi umani",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/google-ecco-la-search-che-si-sbarazza-di-noi-umani/",
+    "summary": "La Search presentata da Google all’I/O 2026 è il passaggio da motore di ricerca a infrastruttura agentica che interpreta, monitora e agisce. Con impatti su tutti noi, informazione in primis L'articolo Google, ecco la Search che si sbarazza di noi umani proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-20T13:53:43+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Commerzbank CEO Says AI Will Cut €350 Million in Costs by 2030",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/commerzbank-ceo-says-ai-will-cut-350-million-in-costs-by-2030",
+    "summary": "Commerzbank AG Chief Executive Officer Bettina Orlopp said artificial intelligence will lead to cost savings worth about €350 million ($406 million) in a few years.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T13:26:09+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "If Google can’t make AI agents useful, maybe no one can",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+    "summary": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among the top AI labs now chasing similar success, one seems particularly […]",
+    "source": "The Verge AI",
+    "date": "2026-05-20T09:24:22-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Barclays CEO Says AI Is Having a 'Creeping Impact'",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-20/barclays-ceo-says-ai-is-having-a-creeping-impact-video",
+    "summary": "Barclays CEO CS Venkatakrishnan discusses the use of artificial intelligence in the banking industry, saying the technology is having a \"creeping\" impact on the UK lender. \"We are seeing things getting on the margin a little more efficient in certain parts,\" he says. \"Fundamental impact — I think it's coming, but I don't see it yet,\" he adds during a conversation with Bloomberg's Francine Lacqua at the Global Markets and Banking Summit 2026 in London. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T13:12:17+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Andreessen-Backed AI Search Startup Exa Valued at $2.2 Billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/andreessen-backed-ai-search-startup-exa-valued-at-2-2-billion",
+    "summary": "Exa Labs Inc., a San Francisco-based startup that wants to build a search engine tailor-made for the age of artificial intelligence, raised $250 million at a $2.2 billion valuation in a round led by venture firm Andreessen Horowitz.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T13:00:12+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Figma adds an AI assistant to its collaborative canvas",
+    "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+    "summary": "Figma's new AI assistant will be first available on Figma Design",
+    "source": "TechCrunch AI",
+    "date": "2026-05-20T13:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "The biggest data center ever is becoming a huge problem in Utah",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+    "summary": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Stratos Project: a 40,000-acre data center stretching across the county's Hansel Valley. It's supposed to establish American AI dominance, but potentially at the […]",
+    "source": "The Verge AI",
+    "date": "2026-05-20T09:00:00-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "AI nei tribunali, chi risponde degli errori negli atti giudiziari",
+    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/ai-nei-tribunali-chi-risponde-degli-errori-negli-atti-giudiziari/",
+    "summary": "L’intelligenza artificiale è già entrata nel processo e negli atti giudiziari, ma non può assumere responsabilità. Il nodo resta umano: difensori e giudici devono governare strumenti capaci di produrre errori plausibili, formalmente coerenti e difficili da riconoscere L'articolo AI nei tribunali, chi risponde degli errori negli atti giudiziari proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-20T12:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "French Companies Bid for €10 Billion Europe AI Gigafactory",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/french-companies-bid-for-10-billion-europe-ai-gigafactory-site",
+    "summary": "A consortium of European companies will bid on a €10 billion ($11.6 billion) project to build a major data center campus in France as part of the continent’s effort to boost artificial intelligence infrastructure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T12:12:46+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Codex di OpenAI diventa un agente per il computer: cosa può fare davvero",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/codex-di-openai-diventa-un-agente-per-il-computer-cosa-puo-fare-davvero/",
+    "summary": "OpenAI ha trasformato Codex da agente cloud per repository a applicazione desktop general purpose capace di lavorare su codice, documenti e attività automatizzate. Tra permessi, browser integrato, generazione di immagini e limiti d’uso, il servizio punta a diventare un assistente operativo quotidiano anche oltre lo sviluppo software L'articolo Codex di OpenAI diventa un agente per il computer: cosa può fare davvero proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-20T12:12:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "[WIP] Gemma 4 MTP",
+    "url": "https://github.com/ggml-org/llama.cpp/pull/23398",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-20T12:08:46+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Shadow libraries e modelli generativi: il copyright è ancora difendibile?",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/shadow-libraries-e-modelli-generativi-il-copyright-e-ancora-difendibile/",
+    "summary": "Le cause statunitensi contro NVIDIA, Meta e Anthropic riaccendono il confronto tra diritto d’autore e intelligenza artificiale. Al centro ci sono dataset pirata, shadow libraries, responsabilità diretta e indiretta, uso del protocollo BitTorrent e rischio di sostituzione del mercato editoriale L'articolo Shadow libraries e modelli generativi: il copyright è ancora difendibile? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-20T11:40:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Sicurezza AI, i limiti strutturali dei guardrail nei modelli generativi",
+    "url": "https://www.agendadigitale.eu/sicurezza/sicurezza-ai-i-limiti-strutturali-dei-guardrail-nei-modelli-generativi/",
+    "summary": "Le nuove ricerche sui jailbreak mostrano la fragilità dei guardrail nei sistemi di AI generativa. I filtri di sicurezza restano probabilistici e manipolabili, con rischi crescenti per cybersecurity, disinformazione, modelli open source, responsabilità dei provider e governance digitale L'articolo Sicurezza AI, i limiti strutturali dei guardrail nei modelli generativi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-20T11:38:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Financial compliance infrastructure as the blueprint for AI agent accountability — prior art survey included",
+    "url": "https://ssavitt.substack.com/p/the-blueprint-already-exists-financial",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-20T11:15:02+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Chatbots Struggle With News Accuracy and Sourcing Ahead of Midterms",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/chatbots-struggle-with-news-accuracy-sourcing-ahead-of-midterms",
+    "summary": "Four major artificial intelligence chatbots — OpenAI’s ChatGPT, Alphabet Inc.’s Google Gemini, Anthropic’s Claude and xAI’s Grok — are struggling to fairly and accurately answer questions about elections and geopolitics, according to a new study from Forum AI.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-20T11:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+    "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+    "summary": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export controls. The Zhenwu M890, developed by Alibaba’s semiconductor subsidiary […] The post Alibaba is designing AI chips around agents, and that changes what the race is actually about appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-05-20T10:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-20"
+  },
+  {
     "title": "Machine Learning on Spherical Manifold [R]",
     "url": "https://eesuck1.github.io/machine-learning-on-spherical-manifold/",
     "summary": "",
@@ -7,6 +377,16 @@
     "date": "2026-05-20T08:13:57+00:00",
     "category": "other",
     "_slot": "morning",
+    "_slot_date": "2026-05-20"
+  },
+  {
+    "title": "Google Just Turned Street View Into a Video Game",
+    "url": "https://youtube.com/watch?v=bxv4IkobUPI&si=wgJErm9jJ8v4FTCt",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-20T07:56:19+00:00",
+    "category": "other",
+    "_slot": "afternoon",
     "_slot_date": "2026-05-20"
   },
   {
@@ -3768,485 +4148,5 @@
     "category": "tools_products",
     "_slot": "morning",
     "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments",
-    "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/",
-    "summary": "The Cisco and AWS partnership addresses three challenges enterprises face when scaling AI agents: visibility gaps, security bottlenecks, and compliance risks. In this post, we explore how you can overcome AI security challenges through automated scanning and unified governance.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-13T17:33:16+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Fine-tune LLM with Databricks Unity Catalog and Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-llm-with-databricks-unity-catalog-and-amazon-sagemaker-ai/",
-    "summary": "In this post, we demonstrate how to build a secure, complete LLM fine-tuning workflow that integrates Unity Catalog with Amazon SageMaker AI using Amazon EMR Serverless for preprocessing. The solution shows how to securely access governed data, maintain lineage across services, fine-tune the Ministral-3-3B-Instruct model, and register trained artifacts back into Unity Catalog. With this approach, you can continue using your existing services while preserving central governance, tracking data lin",
-    "source": "AWS ML Blog",
-    "date": "2026-05-13T17:22:42+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Efficient pretraining with token superposition by Nous Research",
-    "url": "https://nousresearch.com/token-superposition",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-13T17:16:20+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "OpenAI Brings Its Ass to Court",
-    "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
-    "summary": "In Musk v. Altman, the company claimed a remarkable trophy was physical proof of Elon Musk’s concerning behavior.",
-    "source": "Wired",
-    "date": "2026-05-13T17:08:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Figure AI livestream: watch a team of humanoid robots running a full 8-hour shift at human performance levels, fully autonomous.",
-    "url": "https://x.com/i/status/2054603963996278786",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-13T16:49:58+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
-    "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-    "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but Meta says its version is different because it […]",
-    "source": "The Verge AI",
-    "date": "2026-05-13T12:45:43-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Viral Video Of Humanoid Robot Monk Pledging Itself To Buddhism In South Korea Has The Internet Giving Some Major Side-Eye",
-    "url": "http://comicsands.com/humanoid-robot-buddhist-monk",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-13T16:42:10+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Who trusts Sam Altman?",
-    "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-    "summary": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T16:31:04+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-    "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-    "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T16:22:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "How to vibe code in science: early adopters share their tips",
-    "url": "https://www.nature.com/articles/d41586-026-01477-w",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-13T16:14:39+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "sensenova/SenseNova-U1-A3B-MoT · Hugging Face",
-    "url": "https://huggingface.co/sensenova/SenseNova-U1-A3B-MoT",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-13T16:08:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "Anthropic courts a new kind of customer: small business owners",
-    "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-    "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T16:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "AI slop is becoming a provenance crisis, not just a content-quality problem",
-    "url": "https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-13T15:48:26+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "AI Startup Fractile Raises $220 Million for Chip Production",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/ai-startup-fractile-raises-220-million-for-chip-production",
-    "summary": "Fractile, a UK startup designing chips to handle artificial intelligence workloads, has raised $220 million to help produce its first processors.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T15:42:43+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Mistral Developing New AI Model for Banks Lacking Mythos Access",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/mistral-developing-new-ai-model-for-banks-lacking-mythos-access",
-    "summary": "French artificial intelligence startup Mistral AI is in discussions with European banks about deploying its answer to Anthropic PBC’s Mythos, the limited-access AI model that can uncover cybersecurity vulnerabilities at unprecedented speed and scale.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T15:37:02+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "World’s first brain-computer interface (BCI) technology targets high-level brain function to restore independence",
-    "url": "https://interestingengineering.com/science/world-first-higher-level-brain-computer-interface",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-13T15:34:21+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Microsoft doesn’t want any of this",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
-    "summary": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. Their opening statement was honestly one of the most Microsoft things I've ever seen. More than anything […]",
-    "source": "The Verge AI",
-    "date": "2026-05-13T11:30:37-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial […]",
-    "source": "The Verge AI",
-    "date": "2026-05-13T11:28:21-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-14"
-  },
-  {
-    "title": "AI transcriber for use by Ontario doctors 'hallucinated,' generated errors, auditor finds | CBC News",
-    "url": "https://www.cbc.ca/news/canada/toronto/ai-scribe-system-hallucinations-9.7197049?__vfz=medium%3Dsharebar",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-13T15:19:24+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Bank of Canada Sees AI as Possible Productivity Salve",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/bank-of-canada-sees-ai-as-possible-productivity-salve",
-    "summary": "The Bank of Canada struck an optimistic tone on the economic impact of artificial intelligence, arguing that widespread adoption of the technology will boost the country’s ailing productivity without significant job losses.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T15:05:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "How the Hormuz Crisis Could Disrupt the Internet’s Backbone",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-13/the-hormuz-crisis-could-disrupt-the-internet-s-backbone-video",
-    "summary": "Underneath the world's oceans, miles and miles of fiber optic-cables send packets of information from one location to the next, powering the internet as we know it. So what happens when a major natural event — or a war — threatens this vital infrastructure?\n\nSamanth Subramanian, author of The Web Beneath the Waves: The Fragile Cables that Connect Our World, joins Tracy Alloway and Joe Weisenthal on the Odd Lots podcast to discuss how the crisis at the Strait of Hormuz can disrupt the backbone of",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T15:03:57+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-    "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-    "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T14:59:32+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Schwab Will Use AI To Serve Less-Affluent Customers",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-13/schwab-plans-to-use-ai-to-reach-serve-less-affluent-customers-mp45wc06",
-    "summary": "Charles Schwab Corp. is planning to use artificial intelligence to extend benefits usually reserved for wealthy clients to the less affluent. CEO Rick Wurster said AI will be a \"real accelerant\" for the 55-year-old firm. He spoke with Carlyle Group Co-Founder and Co-Chairman David Rubenstein for an upcoming episode of Bloomberg Wealth. This interview was recorded May 1 in New York.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T14:35:35+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Can AI Chatbots Reason Like Doctors?",
-    "url": "https://spectrum.ieee.org/ai-clinical-decision-support",
-    "summary": "One of the earliest stated goals for computing in medicine was to aid in clinical reasoning: the decision-making steps required to reach a diagnosis and form a treatment plan. And over the years, researchers have built many clinical decision support systems, which have typically been purpose-built, with painstakingly written rules about symptoms, test thresholds, and medication interactions. As artificial intelligence capabilities develop, clinical reasoning is a natural application. Now, a larg",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-05-13T14:00:02+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "WhatsApp adds an incognito mode in Meta AI chats",
-    "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-    "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-    "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
-    "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-    "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T14:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Efficienza operativa e manutenzione predittiva: riduzione dei downtime negli impianti industriali",
-    "url": "https://www.agendadigitale.eu/industry-4-0/efficienza-operativa-e-manutenzione-predittiva-riduzione-dei-downtime-negli-impianti-industriali/",
-    "summary": "I fermi macchina non pianificati pesano sui bilanci industriali e spingono le aziende verso modelli di manutenzione predittiva. Sensori IoT, machine learning, CMMS e digital twin permettono di anticipare i guasti, ridurre i costi e migliorare la disponibilità degli impianti L'articolo Efficienza operativa e manutenzione predittiva: riduzione dei downtime negli impianti industriali proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-13T13:47:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
-    "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
-    "summary": "The Physical AI Conference shaping the future of robotics, autonomous systems and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.  Physical AI Expo North America will take place on May 18–19, 2026 at the San Jose McEnery Convention Center, uniting global AI innovators, robotics leaders, […] The post Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream appe",
-    "source": "AI News (AIN)",
-    "date": "2026-05-13T13:43:38+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Contrasto ai malware polimorfici nel post-quantistico: crittografia, IA e Zero Trust",
-    "url": "https://www.agendadigitale.eu/sicurezza/contrasto-ai-malware-polimorfici-nel-post-quantistico-crittografia-ia-e-zero-trust/",
-    "summary": "I malware polimorfici rendono più complessa la difesa dei sistemi post-quantistici, spostando l’attenzione dalle sole proprietà matematiche degli algoritmi alle vulnerabilità delle implementazioni. IA, side-channel attack, crypto-agility e Zero Trust diventano elementi chiave per una cybersecurity dinamica e resiliente L'articolo Contrasto ai malware polimorfici nel post-quantistico: crittografia, IA e Zero Trust proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-13T13:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-    "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-    "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T13:27:09+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "NVIDIA, Ineffable Intelligence Team Up to Build the Future of Reinforcement Learning Infrastructure",
-    "url": "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/",
-    "summary": "Reinforcement-learning agents — AI systems that learn by trial and error — can convert computation into new knowledge. That’s the focus of a new engineering-level collaboration between NVIDIA and Ineffable Intelligence, the London-based AI lab founded by AlphaGo architect David Silver in the wake of Ineffable’s emergence from stealth last week. “The next frontier of […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-05-13T13:00:57+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
-    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/",
-    "summary": "Agentic AI is changing the way users get work done. Following the success of OpenClaw, the community is embracing new open source agentic frameworks. The latest is Hermes Agent, which crossed 140,000 GitHub stars in under three months.",
-    "source": "NVIDIA Blog",
-    "date": "2026-05-13T13:00:10+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Alexa is moving into Amazon․com",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-    "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by Alexa Plus. So, while a search for \"toilet paper\" will still return the expected […]",
-    "source": "The Verge AI",
-    "date": "2026-05-13T09:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Amazon Puts Alexa Inside the Shopping Search Bar in AI Push",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/amazon-puts-alexa-inside-the-shopping-search-bar-in-ai-push",
-    "summary": "Artificial intelligence algorithms are coming to some of the most valuable real estate in retail: the Amazon.com Inc. search bar.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Digital identity aziendale: standard e protocolli per le transazioni certificate B2B",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/identita-digitale/digital-identity-aziendale-standard-e-protocolli-per-le-transazioni-certificate-b2b/",
-    "summary": "La digital identity aziendale diventa un requisito centrale per le transazioni B2B certificate. Il quadro europeo intreccia eIDAS 2, GDPR, AI Act, NIS 2 e DORA, definendo strumenti, obblighi e standard tecnici per identità, sigilli elettronici, wallet digitali, audit trail e governance L'articolo Digital identity aziendale: standard e protocolli per le transazioni certificate B2B proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-13T13:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Principal’s Shah Says Tech Is Haven Trade in a ‘Fragile’ Market",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/principal-s-shah-says-tech-is-haven-trade-in-a-fragile-market",
-    "summary": "Big tech stocks are proving to be a safe bet for equity investors looking for a harbor in a “fragile” market brought about by the Iran war, according to Seema Shah at Principal Asset Management.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T12:45:51+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "AI nella PA: tre mosse per superare attesa e shadow AI",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/ai-nella-pa-tre-mosse-per-superare-attesa-e-shadow-ai/",
-    "summary": "Molti enti pubblici sono bloccati in un loop di attesa sulle linee guida AGID, mentre i dipendenti usano già strumenti AI non autorizzati. Formazione stratificata, governance interna e strumenti differenziati per ruolo sono le tre mosse concrete per costruire una base solida L'articolo AI nella PA: tre mosse per superare attesa e shadow AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-13T12:41:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Intelligenza artificiale in azienda: cosa rischiano gli amministratori",
-    "url": "https://www.agendadigitale.eu/industry-4-0/intelligenza-artificiale-in-azienda-cosa-rischiano-gli-amministratori/",
-    "summary": "L’adozione dell’intelligenza artificiale nelle imprese impone agli amministratori un governo organizzativo documentabile. AI Act, assetti adeguati, deleghe, controlli interni e accountability diventano criteri centrali per valutare la responsabilità dell’organo amministrativo nella gestione del rischio algoritmico L'articolo Intelligenza artificiale in azienda: cosa rischiano gli amministratori proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-13T12:30:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "AIDC-AI/Ovis2.6-80B-A3B · Hugging Face",
-    "url": "https://huggingface.co/AIDC-AI/Ovis2.6-80B-A3B",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-13T12:29:41+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-    "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-    "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-13T12:11:33+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Insider One Buys Bluecore in AI Marketing Drive Ahead of IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/insider-one-buys-bluecore-in-ai-marketing-drive-ahead-of-ipo",
-    "summary": "Istanbul-based startup Insider One bought Bluecore Inc to expand its US reach in artificial intelligence marketing ahead of a planned initial public offering.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T12:00:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Archivists Turn to LLMs to Decipher Handwriting at Scale",
-    "url": "https://spectrum.ieee.org/ai-handwriting-transcription-transkribus-lecun",
-    "summary": "When I sat down with bell hooks’ personal journals at an archive at Berea College in Kentucky, I expected an intimate peek into her private thoughts, her voice before the editing. What I got instead was frustration. Her handwriting was dense cursive, all loops that looked identical to my eye, and there were years of journals to go through. I found myself photographing pages and feeding them to ChatGPT just to read what she’d written. My tool of choice worked well, and it turns out I’m not the fi",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-05-13T12:00:01+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "AgentKanban for VS Code - A task board with AI agent harness integration. Create and plan tasks with real-time collaboration, then hand off to GitHub Copilot",
-    "url": "https://www.agentkanban.io",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-13T11:24:22+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Android Auto gets a massive AI-powered upgrade with YouTube, Dolby Atmos, and immersive 3D Maps | Google’s next-gen in-car software is getting smarter and slicker",
-    "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/android-auto-gets-a-massive-ai-powered-upgrade-with-youtube-dolby-atmos-and-immersive-3d-maps",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-13T10:25:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Jack Ma-Backed Ant’s Profit Fell 79% on AI, Health Care Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/jack-ma-backed-ant-s-profit-fell-79-on-ai-health-care-costs",
-    "summary": "Ant Group Co.’s quarterly profit continued to decline after the company increased investment in artificial intelligence technology for its health care, large language model and payment services.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T10:12:28+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "server, webui: support continue generation on reasoning models by ServeurpersoCom · Pull Request #22727 · ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/pull/22727",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-13T10:10:29+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
-  },
-  {
-    "title": "Lake Tahoe Power Crunch Shows AI’s Growing Energy Toll in West",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-13/lake-tahoe-power-crunch-shows-ai-s-growing-energy-toll-in-west",
-    "summary": "Lake Tahoe has long been a refuge for Silicon Valley’s tech elite, from Mark Zuckerberg to Larry Ellison. Now the artificial intelligence boom behind much of that wealth is straining the region’s power market, pushing up costs for residents in the lakeside towns below.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-13T10:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-13"
   }
 ]
