@@ -1,5 +1,115 @@
 [
   {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-23T15:08:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "AI HIDDEN PROMPT SUCCESS",
+    "url": "/r/Teachers/comments/1tkzp68/ai_hidden_prompt_success/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-23T15:05:42+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "OpenAI is hiring a $445,000 researcher. Requirements? Be 'tasteful and strategic.'",
+    "url": "https://www.businessinsider.com/openai-safety-team-ai-self-improvement-challenge-job-2026-5",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-23T13:51:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "Anthropic’s Code with Claude showed off coding's future—whether you like it or not",
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/amp/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-23T13:50:46+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+    "source": "TechCrunch AI",
+    "date": "2026-05-23T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "AI is changing the internet forever. Here’s how",
+    "url": "https://www.cnn.com/2026/05/23/tech/ai-internet-search",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-23T12:40:29+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "Nvidia CEO Urges Super Micro to Tighten Up Amid Taiwan Crackdown",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang urged Super Micro Computer Inc. to tighten up on compliance after Taiwan detained three people this week for allegedly making fraudulent declarations about AI servers made by its US partner.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-23T11:01:30+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "Google’s new anything-to-anything AI model is wild",
+    "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]",
+    "source": "The Verge AI",
+    "date": "2026-05-23T07:00:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "A new brain implant helps restore vision by communicating directly with the brain. Scientists have built two brain implants that give blind people partial vision by wiring cameras directly to the visual cortex. One device also reads brain signals and adjusts itself in real time.",
+    "url": "https://scienceaim.com/a-new-brain-implant-helps-restore-vision-by-communicating-directly-with-the-brain/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-23T10:46:37+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "DeepSeek To Make Permanent 75% Discount on Flagship AI Model",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "summary": "DeepSeek said it will make permanent a steep discount on its flagship V4‑Pro model, maintaining prices for developers at a quarter of their original level.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-23T10:28:30+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
+    "title": "OpenAI and Anthropic: two different business models",
+    "url": "https://www.forbes.com/sites/paulocarvao/2026/05/21/anthropic-openai-enterprise-ai-profitability/?streamIndex=0",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-23T10:14:56+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-23"
+  },
+  {
     "title": "AI is accelerating drug development",
     "url": "https://intuitionlabs.ai/articles/accelerating-drug-development-ai-pharma",
     "summary": "",
@@ -4328,75 +4438,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options […]",
-    "source": "The Verge AI",
-    "date": "2026-05-16T11:37:05-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
-    "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-16T15:33:33+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-16"
-  },
-  {
-    "title": "AI Poised to Tilt Job Market Leverage Toward Older Workers",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-16/ai-poised-to-tilt-job-market-leverage-toward-older-workers",
-    "summary": "When it comes to job cuts, older workers are often disproportionately affected. But a new survey of chief executive officers suggests this won’t be a given as companies adopt artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-16T15:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-16"
-  },
-  {
-    "title": "‘The Oppenheimer’ of the AI Era",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-16/-the-oppenheimer-of-the-ai-era-video",
-    "summary": "What drives the tech titans behind the AI arms race? For some, it's the thrill of scientific discovery; for others, it's the pursuit of profit.  Through the story of DeepMind co-founder Demis Hassabis and other AI leaders, author Sebastian Mallaby explores how motivations ranging from scientific curiosity to commercial ambition and political power are shaping the future of the technology. We sat down with Mallaby to discuss the fraught and simultaneously symbiotic tension between science and cap",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-16T14:04:51+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-16"
-  },
-  {
-    "title": "llama + spec: MTP Support by am17an · Pull Request #22673 · ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/pull/22673",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-16T12:11:49+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-16"
-  },
-  {
-    "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-    "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
-    "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
-    "source": "Wired",
-    "date": "2026-05-16T10:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-16"
-  },
-  {
-    "title": "3D-printed stretchable artery implant lowers blood pressure by 15% in early trials",
-    "url": "https://interestingengineering.com/health/soft-hydrogel-implant-blood-pressure-control",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-16T09:08:43+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-16"
   }
 ]
