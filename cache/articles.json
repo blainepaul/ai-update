@@ -1,5 +1,65 @@
 [
   {
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-24T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "Thermocompute constant time inference [P]",
+    "url": "https://github.com/arccoxx/thermocompute",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-05-24T14:52:23+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "Interesting article about the cyber models (mythos/5.5) living up to the hype: What to know about the AI models that are jolting Washington",
+    "url": "https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-24T14:34:29+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "How New Mega-Cap IPO's Will Reshape the Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-24/how-new-mega-cap-ipo-s-will-reshape-the-markets-video",
+    "summary": "SpaceX is marketing itself to IPO investors as an artificial intelligence targeting a $26.5 trillion potential market opportunity. The move signaling its intention to wrest business from investor darlings whose valuations have soared. Bloomberg Market Structure Research Head Larry Tabb joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-24T14:06:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "Inaudible sounds to humans can be hidden in YouTube videos, podcasts, or music and used to secretly trigger AI voice assistants into carrying out unauthorized commands without the user noticing, exposing a new class of “auditory prompt injection” attacks against popular tools",
+    "url": "https://cybernews.com/security/ai-voice-bots-hidden-audio-hijack-attacks/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-24T12:44:48+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a laughably simple affair. […]",
+    "source": "The Verge AI",
+    "date": "2026-05-24T08:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-24"
+  },
+  {
     "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU — local Kimi K2.5 install achieved roughly 4 tokens per second",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
     "summary": "",
@@ -4298,55 +4358,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "llama: avoid copying logits during prompt decode in MTP by am17an · Pull Request #23198 · ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/pull/23198",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-17T15:42:11+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Apple’s New ChatGPT-Like Siri App Will Have Auto-Deleting Chats",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr",
-    "summary": "Also: A Genmoji upgrade is coming in iOS 27.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-17T14:00:01+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]",
-    "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-05-17T13:41:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "China’s Energy Boom Could Give It the AI Edge",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-17/china-s-energy-boom-could-give-it-the-ai-edge-video",
-    "summary": "As the United States and China compete for dominance in artificial intelligence, energy is emerging as a critical battleground. Former Treasury Secretary Hank Paulson warns that while the US still leads in AI technology, electricity shortages could become a major constraint as data center demand surges. Former US Ambassador to China Nicholas Burns says China’s enormous investments in transmission, renewables, batteries, and power generation are already reshaping global supply chains, while Hoove",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-17T12:04:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Chatbots at the drive-thru are just the beginning",
-    "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's became one […]",
-    "source": "The Verge AI",
-    "date": "2026-05-17T08:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-17"
   }
 ]
