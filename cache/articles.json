@@ -1,5 +1,55 @@
 [
   {
+    "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU — local Kimi K2.5 install achieved roughly 4 tokens per second",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-24T04:24:19+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "Golfing and stylistically aligning a proof using Claude Code | Another Certified Hood Classic by Terrance Tao and Claude",
+    "url": "https://youtu.be/l3SCK6V-BFw?si=GxbP0Y_q0Qi66-5w",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-23T23:53:55+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "Anthropic says Mythos has already found more than 10,000 vulnerabilities",
+    "url": "https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-23T19:23:11+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
+    "summary": "As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-23T19:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-24"
+  },
+  {
+    "title": "I fine-tuned an LLM to be C-3PO to test which training data format works best for persona injection [P]",
+    "url": "https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-05-23T18:15:35+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-24"
+  },
+  {
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
     "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
@@ -4297,146 +4347,6 @@
     "date": "2026-05-17T08:00:00-04:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face",
-    "url": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-17T07:33:35+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "webui: support video files as input by foldl · Pull Request #22830 · ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/pull/22830",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-17T03:08:52+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Florida Law Enacts Data Center Restrictions to Shield Residents from Water, Energy Costs",
-    "url": "https://centralflorida.substack.com/i/197170843/desantis-enacts-data-center-restrictions-to-shield-residents-from-water-energy-costs",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-17T01:59:03+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI",
-    "url": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-17T01:04:28+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "G4-Meromero-31B-Uncensored-Heretic Is Out Now, a Finetune of Gemma 4 31B It Designed for Creative Tasks, With Kld of 0.0100 and 15/100 Refusals!",
-    "url": "https://huggingface.co/llmfan46/G4-MeroMero-31B-uncensored-heretic-GGUF",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-17T00:10:23+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Glimpsing the quantum vacuum: Particle spin correlations offer insight into how visible matter emerges from 'nothing'",
-    "url": "https://phys.org/news/2026-02-glimpsing-quantum-vacuum-particle-insight.html#google_vignette",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-16T21:07:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!",
-    "url": "https://huggingface.co/llmfan46/gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic-GGUF",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-16T20:45:34+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "The haves and have nots of the AI gold rush",
-    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-16T20:17:16+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-16T18:54:28+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "GitHub - richardr1126/openreader: An open-source read-along document reader server with high-quality TTS options, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD.",
-    "url": "https://github.com/richardr1126/openreader",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-16T18:12:10+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Corsair desktop PC with Ryzen 395 and 128GB of unified RAM, has anyone tested it for LLM? Seems \"a good\" price",
-    "url": "https://www.corsair.com/it/it/p/gaming-computers/cs-9080002-pe/corsair-ai-workstation-300-amd-ryzen-ai-max-395-processor-amd-radeon-8060s-igpu-up-to-96gb-vram-128gb-lpddr5x-memory-1tb-m2-ssd-win11-home-cs-9080002-pe",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-16T17:19:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-16T17:05:06+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "Latest open artifacts (#21): Open model bonanza! Gemma 4, DeepSeek V4, Kimi K2.6, MiMo 2.5, GLM-5.1 & others. On CAISI's V4 assessment.",
-    "url": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
-    "summary": "An eventful month with one flagship release after another",
-    "source": "Interconnects",
-    "date": "2026-05-16T17:00:11+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-17"
-  },
-  {
-    "title": "AI felt trapped in a textbox, so I spent the last 14 months trying to give it a body",
-    "url": "https://www.youtube.com/watch?v=r2LiP2iJEy0&t=71s",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-16T16:07:02+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-05-17"
   }
 ]
