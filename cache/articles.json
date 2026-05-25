@@ -1,5 +1,165 @@
 [
   {
+    "title": "Uber's COO says it's getting harder to justify the money spent on AI tokenmaxxing",
+    "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-25T16:02:18+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-25T16:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-25T15:09:41+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+    "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and […]",
+    "source": "The Verge AI",
+    "date": "2026-05-25T11:05:07-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
+    "url": "https://arxiv.org/abs/2605.16928",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-25T15:03:11+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-25T14:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Le IPO di SpaceX, Anthropic e OpenAI: quando le aspettative valgono più dei bilanci",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/le-ipo-di-spacex-anthropic-e-openai-quando-le-aspettative-valgono-piu-dei-bilanci/",
+    "summary": "SpaceX, Anthropic e OpenAI si preparano a IPO attese con valutazioni potenzialmente storiche. Il confronto riguarda capitalizzazione, ricavi, perdite, strategie industriali e il ruolo dei fondatori Elon Musk, Sam Altman e Dario Amodei nella nuova competizione tra AI e spazio L'articolo Le IPO di SpaceX, Anthropic e OpenAI: quando le aspettative valgono più dei bilanci proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-25T14:30:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "MiniCPM5-1B",
+    "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-25T14:14:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+    "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+    "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-25T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Perché conta l’enciclica del Papa sull’intelligenza artificiale",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/perche-conta-lenciclica-del-papa-sullintelligenza-artificiale/",
+    "summary": "Magnifica Humanitas interpreta l’intelligenza artificiale (AI) come questione politica e antropologica, lega piattaforme, lavoro, guerra e democrazia alla dignità umana e propone una risposta fondata su bene comune, responsabilità collettiva e limiti del potere tecnologico L'articolo Perché conta l’enciclica del Papa sull’intelligenza artificiale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-25T13:46:06+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Sam Altman’s startup is hoping Jared Leto’s band will get you to scan your eyeball",
+    "url": "https://sfstandard.com/2026/05/21/jared-leto-sam-altman-eye-scanner-concert-tour/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-25T13:42:37+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Anthropic moves closer to powering America's spy agencies",
+    "url": "https://startupfortune.com/anthropic-moves-closer-to-powering-americas-spy-agencies/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-25T13:07:06+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Anthropic beats OpenAI on business adoption",
+    "url": "https://ramp.com/leading-indicators/ai-index-may-2026",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-25T12:48:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Accordi volontari con le big tech: la strategia Usa sull’AI",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/accordi-volontari-con-le-big-tech-la-strategia-usa-sullai/",
+    "summary": "Gli Stati Uniti regolano l'intelligenza artificiale attraverso accordi volontari con Google DeepMind, Microsoft e xAI. Il modello si fonda sulla soft law e sul red-teaming governativo, in netto contrasto con l'approccio vincolante adottato dall'Unione Europea attraverso l'AI Act L'articolo Accordi volontari con le big tech: la strategia Usa sull’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-25T12:30:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "L’AI non dice il vero: lo imita con inquietante sicurezza",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/lai-non-dice-il-vero-lo-imita-con-inquietante-sicurezza/",
+    "summary": "L’intelligenza artificiale generativa non cerca il vero, ma produce risposte statisticamente plausibili. Tra Aristotele, Popper, Wittgenstein, Borges e Kahneman, una riflessione sul rischio di confondere sicurezza del linguaggio, probabilità e affidabilità delle risposte L'articolo L’AI non dice il vero: lo imita con inquietante sicurezza proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-25T12:20:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "Il design digitale nell’era dell’AI: meno esecuzione, più responsabilità",
+    "url": "https://www.agendadigitale.eu/industry-4-0/il-design-digitale-nellera-dellai-meno-esecuzione-piu-responsabilita/",
+    "summary": "L’intelligenza artificiale sta trasformando il design digitale, accelerando il passaggio da idea, wireframe e prototipo. Strumenti come Lovable e Claude Design rendono il processo più rapido e iterativo, ma aumentano anche l’importanza del pensiero critico e del ruolo strategico del designer L'articolo Il design digitale nell’era dell’AI: meno esecuzione, più responsabilità proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-25T12:04:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-25"
+  },
+  {
     "title": "AI with Model-Based Design: Virtual Sensor Modeling",
     "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
     "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, verification, and simulation-based testing Apply formal verification techniques to assert neural network behavior Compress the AI model for memory footprint reduction and execution speedup Generate libr",
@@ -17,6 +177,16 @@
     "date": "2026-05-25T09:31:04+00:00",
     "category": "other",
     "_slot": "morning",
+    "_slot_date": "2026-05-25"
+  },
+  {
+    "title": "numind/NuExtract3 · Hugging Face",
+    "url": "https://huggingface.co/numind/NuExtract3",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-25T09:18:33+00:00",
+    "category": "other",
+    "_slot": "afternoon",
     "_slot_date": "2026-05-25"
   },
   {
@@ -3956,266 +4126,6 @@
     "source": "Bloomberg Tech",
     "date": "2026-05-18T16:44:19+00:00",
     "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Linus Torvalds comments on \"unmanageable\" AI bug reports for Linux maintainers",
-    "url": "https://www.pcguide.com/news/linus-torvalds-comments-on-unmanageable-ai-bug-report-problem-for-linux-maintainers/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-18T16:33:58+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-05-18T16:00:21+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "I ran the same research prompt through 6 AI systems in 5 languages. The results were not the same",
-    "url": "https://medium.com/@lukas.w93/what-english-only-research-misses-and-how-i-found-it-03e05e6a603d",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-18T15:56:55+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "NextEra-Dominion Deal Signals New Era of AI Utility Mega-Mergers",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/nextera-dominion-deal-signals-new-era-of-ai-utility-mega-mergers",
-    "summary": "NextEra Energy Inc. just announced the largest utility acquisition in US history, a $67 billion deal for rival Dominion Energy Inc., suggesting even the industry’s biggest companies need to grow in order to accommodate the power demand driven by artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-18T15:56:25+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
-    "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-    "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to steer the conversation […]",
-    "source": "The Verge AI",
-    "date": "2026-05-18T11:55:25-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Integrate Atlassian Confluence Cloud with Amazon Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/",
-    "summary": "In this post, you will learn how to set up the Confluence Cloud integration with Quick. This includes creating a knowledge base for semantic search, setting up Actions to query and manage Confluence pages, and organizing resources in Quick Spaces. Quick integrates with your current enterprise technology stack, from internal knowledge repositories and corporate intranets to business-critical applications and AWS data services.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-18T15:37:55+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-05-18T15:12:46+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Build custom code-based evaluators in Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/",
-    "summary": "In this post, you will implement four Lambda-based custom code evaluators for a financial market-intelligence agent, register each with AgentCore, and run them in on-demand and online modes. You will also see how to combine custom code-based evaluators with built-in evaluators and how to call other AWS services for grounded fact-checking, PII detection, and real-time alerting.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-18T15:07:15+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Stripe’s Collison on How Agentic Commerce Will Reshape the Internet",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-18/stripe-s-collison-on-how-agentic-commerce-will-reshape-the-internet",
-    "summary": "With the rise of AI agents doing shopping on behalf of consumers, how are retailers going to adapt?\n\nJohn Collison, Stripe's co-founder and president, joins Joe Weisenthal and Tracy Alloway on the Odd Lots podcast to discuss how AI has already changed the way consumers make purchasing decisions and whether AI agents can truly mimic human taste. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-18T15:01:16+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-18T14:56:47+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Nvidia Q1 Revenue Expected to Reach Record $79 Billion",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-18/nvidia-q1-revenue-expected-to-reach-record-79-billion-video",
-    "summary": "Nvidia is expected to set another revenue record when it reports quarterly earnings on Wednesday. Investors are looking for updates on its $1 trillion data-center revenue target. Bloomberg's Caroline Hyde has a preview.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-18T14:47:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "The Open Agent Leaderboard",
-    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-05-18T14:12:58+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Musk’s xAI Fails to Pay Staff $420 for Giving Their Tax Returns to Grok",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/musk-s-xai-promised-staff-420-for-their-tax-returns-hasn-t-paid",
-    "summary": "Elon Musk’s xAI asked employees earlier this year to offer up their own tax returns as training data for the company’s Grok chatbot, promising a $420 payment as incentive for doing so. Two months later, those payments still haven’t materialized.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-18T13:17:37+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Pope to Launch Encyclical on AI Alongside Anthropic Co-Founder",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/anthropic-s-co-founder-to-launch-encyclical-on-ai-with-pope-leo",
-    "summary": "Pope Leo XIV’s launch of his first encyclical focusing on artificial intelligence next week will feature an unexpected guest: Christopher Olah, co-founder of Anthropic.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-18T13:09:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Atlas Lifts a Fridge - Boston Dynamics",
-    "url": "https://www.youtube.com/watch?v=3aQWvdCac9o",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-18T12:45:55+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Google’s Own AI Researchers Jockey for Access to Its Computing",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/google-s-own-ai-researchers-jockey-for-access-to-its-computing",
-    "summary": "In the race to build the infrastructure that powers artificial intelligence, Alphabet Inc.’s Google has an enviable position: The company has a healthy cloud computing business, makes its own chips, and has struck deals to share them with companies like Anthropic PBC and Meta Platforms Inc.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-18T12:45:11+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Digital Omnibus, l’Europa semplifica o arretra sulle regole digitali?",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/digital-omnibus-leuropa-semplifica-o-arretra-sulle-regole-digitali/",
-    "summary": "La Commissione europea ha presentato il Digital Omnibus, un pacchetto di riforme che interviene su GDPR, AI Act, Data Act e governance dei dati. La revisione punta a ridurre gli oneri per le imprese, ma apre interrogativi su tutele, rinvii e deregolamentazione L'articolo Digital Omnibus, l’Europa semplifica o arretra sulle regole digitali? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-18T12:32:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "How does Atlas learn? | Inside the Lab | Boston Dynamics",
-    "url": "https://www.youtube.com/watch?v=xKK5ze3FukQ",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-18T12:26:38+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Europa digitale: il costo della sovranità, il rischio della dipendenza",
-    "url": "https://www.agendadigitale.eu/infrastrutture/europa-digitale-il-costo-della-sovranita-il-rischio-della-dipendenza/",
-    "summary": "La dipendenza digitale europea riguarda cloud, software, intelligenza artificiale, semiconduttori, pagamenti e infrastrutture critiche. La risposta Ue passa da procurement pubblico, cloud federato, alternative open source, euro digitale, semplificazione normativa e capitale umano, con costi rilevanti ma sempre più politici L'articolo Europa digitale: il costo della sovranità, il rischio della dipendenza proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-18T12:17:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "L’intelligenza artificiale non è più uno strumento: è architettura del potere",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/lintelligenza-artificiale-non-e-piu-uno-strumento-e-architettura-del-potere/",
-    "summary": "L’intelligenza artificiale non può più essere letta solo come tecnologia applicativa. Energia, cloud, capacità computazionale, welfare algoritmico e AI Act mostrano che l’AI sta diventando una infrastruttura della decisione, con effetti diretti su diritti, amministrazione pubblica e sovranità europea L'articolo L’intelligenza artificiale non è più uno strumento: è architettura del potere proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-18T12:16:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Formazione AI in azienda: come strutturare percorsi efficaci",
-    "url": "https://www.agendadigitale.eu/industry-4-0/formazione-ai-in-azienda-come-strutturare-percorsi-efficaci/",
-    "summary": "La formazione AI in azienda richiede percorsi pratici, differenziati per ruolo e integrati con change management, governance e misurazione dei risultati. Dalla mappatura delle competenze ai KPI, ecco come rendere l’adozione dell’intelligenza artificiale più efficace e sostenibile L'articolo Formazione AI in azienda: come strutturare percorsi efficaci proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-18T12:15:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Cognitive turn: la nuova era delle decisioni aziendali",
-    "url": "https://www.agendadigitale.eu/industry-4-0/dallintuito-del-manager-allai-la-nuova-era-delle-decisioni/",
-    "summary": "L’intelligenza artificiale sta trasformando il management: le decisioni aziendali diventano processi distribuiti tra manager, dati e algoritmi. Crescono opportunità di analisi e previsione, ma anche rischi di dipendenza cognitiva, opacità decisionale e nuove responsabilità di governance L'articolo Cognitive turn: la nuova era delle decisioni aziendali proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-18T11:54:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-18T11:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "How to Watch Google I/O 2026",
-    "url": "https://www.wired.com/story/how-to-watch-google-io/",
-    "summary": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
-    "source": "Wired",
-    "date": "2026-05-18T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "The Smartest Money on Earth Sold $8B in Microsoft and Cut Nvidia 93% in Q1",
-    "url": "https://blocknow.com/stock-market-bubble-smart-money-exits-ai-dalio-warning/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-18T10:34:24+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-18"
-  },
-  {
-    "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
-    "url": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
-    "summary": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
-    "source": "Wired",
-    "date": "2026-05-18T10:30:00+00:00",
-    "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-05-18"
   }
