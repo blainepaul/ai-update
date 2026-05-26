@@ -1,5 +1,375 @@
 [
   {
+    "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/",
+    "summary": "In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrators integrated with Amazon Bedrock AgentCore Memory and Amazon Bedrock AgentCore Observability.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-26T17:41:26+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/",
+    "summary": "In this post you'll learn how to build a multi-agent campaign review system that demonstrates parallel reasoning, context persistence, and traceable execution paths using an integrated architecture that combines NVIDIA NIM for GPU-accelerated inference. Amazon Bedrock AgentCore provides managed runtime, shared memory and built-in observability and Strands Agents provide serverless multi-agent orchestration. This approach supports performance, scalability, and operational insight in production en",
+    "source": "AWS ML Blog",
+    "date": "2026-05-26T17:39:46+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "The Cost of Teaching Wall Street Bankers to Use AI Tools",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-26/the-cost-of-teaching-wall-street-bankers-to-use-ai-tools-video",
+    "summary": "As Wall Street is getting caught up in AI angst and looking to hire more AI specialists and shrink traditional banking roles, two highly sought-after AI trainers in finance are charging $25,000 for a day of training. Bloomberg's Sally Bakewell joins Caroline Hyde and Ed Ludlow for more on \"Bloomberg Tech.\"\n\nOriginal filename: 20260526_172128_Wall_Street_Banks_Invest_Heavily_in_AI_Training_to_Stay_Comp.mp4 (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T17:38:33+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/",
+    "summary": "In this post, we demonstrate the capabilities of AgentWatch through practical implementation. You will see how the solution performs infrastructure checks every 15 minutes, summarizing CloudWatch metrics, logs, and alarms across multiple AWS accounts. The agent delivers actionable reports directly to Slack and responds to natural language queries about your infrastructure state. Throughout, we explore three human-in-the-loop patterns that maintain appropriate oversight while maximizing automatio",
+    "source": "AWS ML Blog",
+    "date": "2026-05-26T17:22:48+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/",
+    "summary": "Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens when you try to orchestrate multiple API calls, manage conversation state, and create agents that can reason on their own. I’ve seen straightforward AI ideas balloon into sprawling projects that demand […]",
+    "source": "AWS ML Blog",
+    "date": "2026-05-26T16:28:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Demis Hassabis now says AGI could arrive in just 3 years in 2029",
+    "url": "https://www.axios.com/2026/05/26/deepmind-ceo-demis-hassabis",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-26T16:25:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Build an enterprise observability solution for Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/",
+    "summary": "When hundreds to thousands of users are onboarded to an enterprise AI platform, business leaders and platform owners need visibility into who is using the platform, whether users are satisfied with the answers they receive, and which capabilities are driving the most engagement. Without a centralized observability solution, this data is scattered across multiple AWS […]",
+    "source": "AWS ML Blog",
+    "date": "2026-05-26T16:09:06+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Why Humans Should Merge with AI | D. Scott Phoenix | TED - YouTube",
+    "url": "https://www.youtube.com/watch?v=C18aaP4lvUk",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-26T16:05:37+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "This startup is betting India’s gig economy can train the world’s robots",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-26T16:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
+    "url": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/",
+    "summary": "In this post, we explore how the Amazon Quick document and visualization creation capabilities work, what you can build with them, and how professionals across roles are using them to reclaim hours of their workweek. From technical execution to strategic judgment Most professional roles carry an unspoken assumption that a significant portion of your time […]",
+    "source": "AWS ML Blog",
+    "date": "2026-05-26T15:59:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Qualcomm to Supply Chips to TikTok Owner ByteDance",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-26/qualcomm-to-supply-chips-to-tiktok-owner-bytedance-video",
+    "summary": "Qualcomm will supply chips to TikTok owner ByteDance for artificial intelligence data centers, according to people familiar with the matter. Ian King helped break the story and he reports on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T15:43:04+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Some ideas for what comes next, May 2026",
+    "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+    "summary": "Gemini Flash 3.5, Mythos, open-closed balance, America's open-source surge, emerging power struggles and more.",
+    "source": "Interconnects",
+    "date": "2026-05-26T15:39:02+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "OpenMOSS-Team/MOSS-TTS-v1.5 · Hugging Face",
+    "url": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-26T15:32:45+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+    "source": "TechCrunch AI",
+    "date": "2026-05-26T14:55:05+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.  The sticky…",
+    "source": "MIT Tech Review",
+    "date": "2026-05-26T14:54:10+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "AI, fine del lavoro? Che dicono i dati e qual è il vero pericolo",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-fine-del-lavoro-che-dicono-i-dati-e-qual-e-il-vero-pericolo/",
+    "summary": "L'intelligenza artificiale non ha ancora prodotto una distruzione di massa dei lavori. Lo dicono i dati ufficiali USA. Emergono però segnali forti su giovani (nei lavori come coder, customer service soprattutto) e modelli di carriera. Il rischio non è l'apocalisse del lavoro ma di non saper gestire bene un cambiamento epocale. Vediamo perché L'articolo AI, fine del lavoro? Che dicono i dati e qual è il vero pericolo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-26T14:51:36+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Qualcomm Strikes AI Chip Deal With TikTok Owner ByteDance",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance",
+    "summary": "Qualcomm Inc. reached a deal with TikTok owner ByteDance Ltd. to supply chips for artificial intelligence data centers, according to people familiar with the matter, marking a key win for a company trying to expand from smartphone processors into AI infrastructure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T14:44:08+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Musk’s xAI Warns Staffers to Limit Contact With Cursor Employees",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/musk-s-xai-warns-staffers-to-limit-contact-with-cursor-employees",
+    "summary": "Employees at Elon Musk’s xAI were warned by the company’s top lawyer to carefully moderate their interactions with workers from Cursor — a directive that came weeks after Musk’s firm announced a possible deal to acquire the AI coding startup.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T14:04:13+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+    "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-26T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+    "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+    "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year […]",
+    "source": "The Verge AI",
+    "date": "2026-05-26T10:00:00-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Tencent Hy-MT2 is now under Apache License 2.0",
+    "url": "https://x.com/i/status/2059249996256711150",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-26T13:08:19+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Google’s Fitbit Air Gives Whoop Some Serious Competition",
+    "url": "https://www.bloomberg.com/news/features/2026-05-26/google-fitbit-air-review-100-device-with-ai-health-coach-challenges-whoop",
+    "summary": "The Fitbit Air, a new $100 screenless wearable from Alphabet Inc.’s Google, represents a major evolution in what consumers can expect from fitness trackers as tech companies race into an era of personalized health and artificial intelligence-powered wellness insights.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T13:00:03+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+    "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own […]",
+    "source": "The Verge AI",
+    "date": "2026-05-26T08:46:03-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "New KV Quants coming 😍 Welcome OSCAR kv quant open sourced by togetherAI",
+    "url": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-26T12:44:30+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "La pubblicità AI di Google Search è un problema per editori e utenti",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/la-pubblicita-dentro-le-risposte-ai-di-google-apre-un-problema-per-editori-e-utenti/",
+    "summary": "Al Google Marketing Live 2026 Google presenta nuovi formati pubblicitari generati da Gemini per AI Mode e Search. Gli annunci entrano nelle risposte conversazionali, segnando il passaggio dalla logica delle keyword a un modello basato su intento, dati e dialogo L'articolo La pubblicità AI di Google Search è un problema per editori e utenti proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-26T12:38:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "La nuova pubblicità AI di Google: che cosa ci aspetta",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/google-prova-a-reinventare-gli-annunci-nellera-delle-risposte-dirette/",
+    "summary": "Con Gemini al centro della strategia pubblicitaria, Google punta a trattenere gli utenti nel proprio ecosistema. Nuovi formati come gli annunci conversazionali, le offerte dirette e Ask YouTube segnano il passaggio da motore di ricerca a motore di risposta AI per brand e marketer L'articolo La nuova pubblicità AI di Google: che cosa ci aspetta proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-26T12:38:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "China Clamps Down on Overseas Travel for AI Talent at Alibaba, DeepSeek",
+    "url": "https://www.ibtimes.sg/china-clamps-down-overseas-travel-ai-talent-alibaba-deepseek-86961#google_vignette",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-26T12:26:46+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "IA nei sistemi operativi: la grande comodità di non decidere più nulla",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ia-nei-sistemi-operativi-la-grande-comodita-di-non-decidere-piu-nulla/",
+    "summary": "L’integrazione di IA e LLM nei sistemi operativi di smartphone, computer e oggetti connessi può trasformare strumenti passivi in dispositivi capaci di mediare, orientare e manipolare le azioni degli utenti, aprendo nuovi scenari di tecnocontrollo individuale e pervasivo L'articolo IA nei sistemi operativi: la grande comodità di non decidere più nulla proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-26T12:17:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Gestione del cambiamento in azienda: come integrare l’AI nei processi",
+    "url": "https://www.agendadigitale.eu/industry-4-0/gestione-del-cambiamento-in-azienda-come-integrare-lai-nei-processi/",
+    "summary": "L’adozione dell’intelligenza artificiale nelle imprese richiede più di strumenti e sperimentazioni. Governance, formazione, KPI, comunicazione e collaborazione interfunzionale diventano leve decisive per ridurre resistenze, AI fatigue e costi organizzativi, trasformando l’AI in una capacità stabile e misurabile L'articolo Gestione del cambiamento in azienda: come integrare l’AI nei processi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-26T12:16:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Thermal Cameras and AI Help Ships Steer Clear of Gray Whales",
+    "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
+    "summary": "On a sunny Tuesday afternoon in May, San Francisco Bay is busy. Container ships the size of skyscrapers deliver their wares to the Port of Oakland, tankers bear fuel, and ferries carry tourists to their hikes and commuters to their jobs at AI startups. Looking down at this marine traffic from Angel Island, located near the entrance to the bay, a group of excited scientists point to some sparkles on the surface of the water: Three gray whales are coming up for breath. A collaboration of governmen",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-05-26T12:00:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "AI warfare is already here",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+    "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots […]",
+    "source": "The Verge AI",
+    "date": "2026-05-26T08:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Può un robot avere una coscienza? La domanda che cambia il futuro dell’IA",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/puo-un-robot-avere-una-coscienza-la-domanda-che-cambia-il-futuro-dellia/",
+    "summary": "Il libro di Antonio Chella \" Può un robot emozionarsi? \" affronta il nodo della coscienza artificiale tra filosofia, robotica, neuroscienze e intelligenza artificiale. Dal test di Turing agli LLM, dai robot incarnati alle emozioni artificiali, emerge una domanda decisiva: una macchina può davvero diventare cosciente? L'articolo Può un robot avere una coscienza? La domanda che cambia il futuro dell’IA proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-26T11:51:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "There Aren’t Enough GPUs on Earth &mdash; Let Alone for Space",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-26/elon-musk-s-spacex-ipo-filing-warns-ai-chip-supply-could-limit-orbital-ai-plan",
+    "summary": "SpaceX’s IPO filing warns that current AI chip supply may be insufficient for its long-term orbital compute ambitions",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T11:02:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Insilico Taps US Partner to Build AI Model for Human Longevity",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/insilico-taps-us-partner-to-build-ai-model-for-human-longevity",
+    "summary": "Hong Kong AI drug discovery firm Insilico Medicine Cayman TopCo is stepping up the quest to harness artificial intelligence to extend human life.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T11:00:00+00:00",
+    "category": "healthcare",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Logistics Firm Stord Nabs $250 Million to Help Brands Take On Amazon",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/logistics-firm-stord-nabs-250-million-to-help-brands-take-on-amazon",
+    "summary": "Stord Inc., a logistics technology startup, raised $250 million in a new funding round to expand its fulfillment operation and help merchants better compete with Amazon.com Inc.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Nokia’s 140% Rally Turns AI Comeback Into Valuation Puzzle",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/nokia-s-140-rally-turns-ai-comeback-into-valuation-puzzle",
+    "summary": "A rally in Nokia Oyj is forcing investors to reconsider the company not as an old telecom-equipment stock, but as part of the infrastructure underpinning the artificial intelligence boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T10:47:58+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "BNP Paribas Works With Mistral to Prep for Mythos-Like AI Models",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/bnp-paribas-works-with-mistral-to-prep-for-mythos-like-ai-models",
+    "summary": "BNP Paribas SA is working with French artificial intelligence startup Mistral AI and other partners to prepare for cybersecurity threats posed by new models such as Anthropic PBC’s Mythos.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-26T10:32:50+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-26"
+  },
+  {
     "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
     "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
     "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
@@ -7,6 +377,16 @@
     "date": "2026-05-26T10:00:00+00:00",
     "category": "models_research",
     "_slot": "morning",
+    "_slot_date": "2026-05-26"
+  },
+  {
+    "title": "Autonomous AI systems test governance in physical environments",
+    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "summary": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have focused on online harms and model outputs, including bias, misinformation, and harmful content. Embodied […] The post Autonomous AI systems test governance in physical environments appeared first on AI News",
+    "source": "AI News (AIN)",
+    "date": "2026-05-26T10:00:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
     "_slot_date": "2026-05-26"
   },
   {
@@ -3628,305 +4008,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-05-20"
-  },
-  {
-    "title": "Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.",
-    "url": "https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html?unlocked_article_code=1.jlA.lQiD.-NWf4Mb2GtWZ&smid=url-share",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-19T17:15:28+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Google Revamps YouTube, Docs With Artificial Intelligence Tools",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/google-revamps-youtube-docs-with-artificial-intelligence-tools",
-    "summary": "Alphabet Inc.’s Google said users will be able to ask questions of YouTube, its video product, and create Google Docs using their voices — part of a plan to improve its products with artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T17:13:36+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "The American Rebellion Against AI Is Gaining Steam",
-    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-19T17:04:33+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Google I/O 2026 - Livestream",
-    "url": "https://www.youtube.com/watch?v=wYSncx9zLIU",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-19T17:02:26+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "The Cybernation Revolution",
-    "url": "https://freesystems.substack.com/p/the-cybernation-revolution",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-19T16:11:57+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "An AI announcer mispronounced and skipped names during a graduation",
-    "url": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
-    "summary": "The use of AI-powered tools to announce students as they walk on stage during graduation and commencement ceremonies has grown in popularity over the past few years, but it's not always succeeding at the one job it's there for. Many schools have switched to these systems as a way to ensure names are being pronounced […]",
-    "source": "The Verge AI",
-    "date": "2026-05-19T11:51:20-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-    "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-    "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-19T15:43:04+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "OpenAI Founding Member Andrej Karpathy Takes Role at Anthropic",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/openai-founding-member-andrej-karpathy-takes-role-at-anthropic",
-    "summary": "Andrej Karpathy, a founding member of OpenAI who later went to work for Tesla Inc., has joined Anthropic PBC to do research and development focused on helping train new artificial intelligence models.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T15:41:19+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Jeff Currie Says Commodities Are Poised for Supercycle",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/jeff-currie-says-commodities-are-poised-for-supercycle-video",
-    "summary": "Jeff Currie, co-chairman at Abaxx Markets, says demand for artificial intelligence is helping set up the commodities industry for a supercycle lasting a decade or more. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T15:40:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Scalable voice agent design with Amazon Nova Sonic: multi-agent, tools, and session segmentation",
-    "url": "https://aws.amazon.com/blogs/machine-learning/scalable-voice-agent-design-with-amazon-nova-sonic-multi-agent-tools-and-session-segmentation/",
-    "summary": "In this post, you’ll learn how to use Amazon Nova Sonic, Amazon Bedrock AgentCore, and Strands BidiAgent to build scalable, maintainable voice agents that handle these challenges efficiently, resulting in more responsive and intelligent customer interactions. We’ll explore three popular architectural patterns for voice agents, highlighting their trade-offs and best practices for minimizing latency.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-19T15:26:37+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Extending conversational memory in Kiro CLI using Amazon Bedrock AgentCore Memory",
-    "url": "https://aws.amazon.com/blogs/machine-learning/extending-conversational-memory-in-kiro-cli-using-amazon-bedrock-agentcore-memory/",
-    "summary": "In this post, we demonstrate how you can extend the conversational memory of Kiro CLI by implementing a custom Model Context Protocol (MCP) server that integrates with Amazon Bedrock AgentCore Memory. You can use Kiro CLI to interact with AI agents of Kiro directly from your terminal. Amazon Bedrock AgentCore Memory is a fully managed service that allows AI agents to retain information from past interactions, creating more intelligent and context-aware conversations. By implementing a custom MCP",
-    "source": "AWS ML Blog",
-    "date": "2026-05-19T15:23:22+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Behind the AI Debt Boom",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/behind-the-ai-debt-boom",
-    "summary": "JPMorgan’s David De Boltz explains why Wall Street is pouring unprecedented money into AI infrastructure, data centers, and GPU financing, while abandoning parts of the software market. On Bloomberg Open Interest, he breaks down the $5 trillion AI buildout, why investors are still buying despite rising rates, and the hidden refinancing risks emerging in tech credit. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T15:23:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Meta Made $56B in Q1 and Is Still Firing 8,000 People to Pay for AI",
-    "url": "https://blocknow.com/meta-stock-layoffs-8000-jobs-ai-budget-145-billion/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-19T15:21:28+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Accelerate ML feature pipelines with new capabilities in Amazon SageMaker Feature Store",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-ml-feature-pipelines-with-new-capabilities-in-amazon-sagemaker-feature-store/",
-    "summary": "Today, we’re announcing three new capabilities available in SageMaker Python SDK v3.8.0. In this post, we walk through each capability with code examples you can use to get started. For complete end-to-end walkthroughs, see the accompanying notebooks for Lake Formation governance and Iceberg table properties in the SageMaker Python SDK repository.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-19T15:20:33+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "How Natural Gas Will Power the AI Future",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/how-natural-gas-will-power-the-ai-future-video",
-    "summary": "Williams CEO Chad Zamarin joins Bloomberg Open Interest to explain why the AI boom is triggering the biggest natural gas demand surge in decades. He explores why data centers are overwhelming the power grid, why natural gas is becoming the backbone of AI infrastructure, and how America’s energy “superpower” could protect the US from global energy shocks. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T15:19:40+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Implementing programmatic tool calling on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/implementing-programmatic-tool-calling-on-amazon-bedrock/",
-    "summary": "In this post, we show three ways to implement Programmatic tool calling (PTC) on Amazon Bedrock: a self-hosted Docker sandbox on ECS for maximum control, a managed solution using Amazon Bedrock AgentCore Code Interpreter, and an Anthropic SDK-compatible path through a proxy for teams that prefer that developer experience.",
-    "source": "AWS ML Blog",
-    "date": "2026-05-19T15:17:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Is AI Making Our Brains Weaker?",
-    "url": "https://time.com/article/2026/05/19/is-ai-making-our-brains-weaker/?utm_source=reddit&utm_medium=social&utm_campaign=editorial",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-19T15:10:44+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Cisco Shares Dip After Company Discusses Margin ‘Headwind’",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/cisco-shares-dip-after-company-discusses-margin-headwind",
-    "summary": "Cisco Systems Inc. shares slipped after Chief Financial Officer Mark Patterson warned that the company would see “ups and downs” with its gross profit margin as it pushes further into AI infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T15:06:51+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Introducing the Ettin Reranker Family",
-    "url": "https://huggingface.co/blog/ettin-reranker",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-19T15:00:37+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
-    "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
-    "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
-    "source": "Wired",
-    "date": "2026-05-19T15:00:28+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "America’s dangerous, messy deepfakes crackdown is here",
-    "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
-    "summary": "A law requiring social networks to quickly remove sexual deepfakes and other nonconsensual imagery is now fully in force. But experts warn the policy could do little to help victims - and at worst could facilitate censorship online. Last May, President Donald Trump signed the Take It Down Act, a law addressing nonconsensual intimate imagery […]",
-    "source": "The Verge AI",
-    "date": "2026-05-19T10:58:19-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "College Kids Don’t Want Your AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/ai-on-college-campuses-sparks-pushback-protests-booing-at-graduation",
-    "summary": "The unique threat artificial intelligence poses to students’ education and their hopes of someday landing a job has made the university a powerful crucible for anti-AI resistance.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T14:47:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Meta's AI Worker Shift; Home Depot Sales Fall Short | Stock Movers",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/meta-s-ai-worker-shift-home-depot-sales-fall-short-video",
-    "summary": "On this episode of Stock Movers with Alexis Christoforous:\n\n- Shares of CoreWeave (CRWV) and other neo-cloud companies slump premarket after Alphabet agreed to create an artificial intelligence cloud business with Blackstone. Google agreed to create an AI cloud business with Blackstone.\n\n- Meta (META) shares are moving as it's reassigning workers to new jobs related to artificial intelligence as part of a broad corporate restructuring. The new corporate structure will be \"flatter\" and mean \"smal",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T14:37:03+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Jeff Currie Says AI Boom Sets Up Commodities for Decade-Long Run",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/jeff-currie-says-ai-boom-sets-up-commodities-for-decade-long-run",
-    "summary": "Veteran strategist Jeff Currie said the world is in the early stages of a commodity supercycle that may last another decade or more as the artificial intelligence buildout collides with chronic underinvestment in energy and materials capacity.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T13:23:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Magnifica Humanitas, la prima enciclica di Leone XIV sfida l’AI sul terreno dell’umano",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/magnifica-humanitas-la-prima-enciclica-di-leone-xiv-sfida-lai-sul-terreno-dellumano/",
-    "summary": "La prima enciclica di Papa Leone XIV sull’intelligenza artificiale apre una riflessione che supera il perimetro ecclesiale. Al centro ci sono dignità umana, lavoro, libertà, sovranità, guerra e responsabilità davanti a una trasformazione destinata a incidere sulla società e sul potere L'articolo Magnifica Humanitas, la prima enciclica di Leone XIV sfida l’AI sul terreno dell’umano proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-19T13:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-    "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
-    "source": "MIT Tech Review",
-    "date": "2026-05-19T12:10:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "bytedance released an open source model that attempts to do just about anything with only 3b parameters",
-    "url": "https://huggingface.co/bytedance-research/Lance#text-to-video",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-19T12:05:26+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "New open source multimodal model does it all...with only 3b parameters",
-    "url": "https://huggingface.co/bytedance-research/Lance",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-19T12:00:17+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "AI Rollout to Boost Metals-Rich EM Currencies, Barclays Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/ai-rollout-to-boost-metals-rich-em-currencies-barclays-says",
-    "summary": "Currencies of emerging-market nations that produce the metals and minerals key to artificial intelligence are set to get a boost in the coming years, according to Barclays Plc.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-19T11:25:05+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
-  },
-  {
-    "title": "Gemini is in danger of going full Copilot",
-    "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-    "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's […]",
-    "source": "The Verge AI",
-    "date": "2026-05-19T06:30:00-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-19"
   }
 ]
