@@ -1,5 +1,395 @@
 [
   {
+    "title": "Tech companies desperately want to film you doing chores",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+    "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of […]",
+    "source": "The Verge AI",
+    "date": "2026-05-29T13:37:43-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Filmmaker Jorge Gutierrez Drops Plans for AI-Generated Series Funded by Amazon MGM Studios After Backlash",
+    "url": "https://variety.com/2026/tv/news/jorge-gutierrez-drops-out-amazon-mgm-ai-generated-series-backlash-1236762285/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-29T17:30:05+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "11 demos of Gemini Omni and Gemini 3.5 in action",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "summary": "Gemini Omni & Gemini 3.5 hero",
+    "source": "Google AI Blog",
+    "date": "2026-05-29T17:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T17:27:13+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Anthropic Valuation of $965 Billion Passes OpenAI",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/anthropic-valuation-of-965-billion-passes-openai-video",
+    "summary": "Anthropic raised $65 billion in a funding round that valued the AI company at $965 billion including the new investment, eclipsing rival OpenAI’s value for the first time. Bloomberg's AI reporter Shirin Ghaffary joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T17:26:32+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "SpaceX Said to Lower Target for IPO Valuation to $1.8 Trillion",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/spacex-said-to-lower-target-for-ipo-valuation-to-1-8t-video",
+    "summary": "SpaceX is targeting a valuation of at least $1.8 trillion in its initial public offering, according to sources, after Bloomberg News reported in April that SpaceX was aiming for a valuation above $2 trillion. Bloomberg's space and aviation managing editor Benedikt Kammel joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T17:23:17+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Anthropic Raises at $965 Billion Valuation, Eclipsing OpenAI",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/anthropic-raises-at-965b-valuation-eclipsing-openai-video",
+    "summary": "Anthropic PBC raised $65 billion in a funding round that valued the artificial intelligence company at $965 billion including the new investment, eclipsing rival OpenAI’s value for the first time.\n\nThe funding, announced Thursday, was led by Altimeter Capital, Dragoneer, Greenoaks and Sequoia Capital. Each of the lead investors put in more than $2 billion, according to people familiar with the matter. Sequoia declined to comment. The other three firms did not respond to a request for comment.\n\nF",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T16:58:11+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "llama : website + unified `llama` binary · ggml-org/llama.cpp · Discussion #23875",
+    "url": "https://github.com/ggml-org/llama.cpp/discussions/23875",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-29T16:26:27+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+    "url": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
+    "summary": "OpenAI’s latest governance frameworks offer enterprise leaders a structured blueprint for scaling safe and compliant AI deployments globally. The adoption of large language models has steadily progressed towards requiring sustainable, commercial-grade architecture. OpenAI has released its Frontier Governance Framework (FGF), documenting how the organisation addresses systemic risk assessment and mitigation. The framework maps directly to […] The post Scaling safe enterprise AI with OpenAI govern",
+    "source": "AI News (AIN)",
+    "date": "2026-05-29T16:24:58+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T16:13:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Launching Rosalind Biodefense",
+    "url": "https://x.com/OpenAI/status/2060376598642405492",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-29T15:21:41+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "(UK) Ex‑DeepMind team’s Inherent emerges from stealth with ~$50M raise",
+    "url": "https://deadstack.net/cluster/ex-deepmind-team-s-inherent-emerges-from",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T15:13:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Intelligenza artificiale nella PA, come cambia l’acquisto dei sistemi",
+    "url": "https://www.agendadigitale.eu/procurement/intelligenza-artificiale-nella-pa-come-cambia-lacquisto-dei-sistemi/",
+    "summary": "Le Linee guida AgID sul procurement dei sistemi di Intelligenza Artificiale nella Pubblica Amministrazione delineano un modello fondato su governance, controllo, protezione dei dati e sostenibilità. Dalla programmazione alla exit strategy, l’acquisto di soluzioni IA diventa un percorso continuo e non una semplice fornitura tecnologica L'articolo Intelligenza artificiale nella PA, come cambia l’acquisto dei sistemi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-29T15:05:23+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "The Vatican’s Man Inside Anthropic",
+    "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+    "summary": "Pope Leo XIV may not be able to disarm AI, but he’s got the attention of the industry.",
+    "source": "Wired",
+    "date": "2026-05-29T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Gap Lowers Sales Outlook; Dell Soars on AI Demand | Stock Movers",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/gap-lowers-sales-outlook-dell-soars-on-ai-demand-video",
+    "summary": "On this episode of Stock Movers with Alexis Christoforous:\n\n- Dell (DELL) shares are soaring after the company gave an outlook for annual sales that far surpassed analysts’ estimates, fueled by demand for servers that power artificial intelligence work.\n- Gap (GAP) shares plunged after the company lowered its sales outlook due to struggles with its product mix.\n- NetApp (NTAP) shares jumped after the data storage provider reported its latest earnings. Analyst say the report is a strong print fro",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T14:57:35+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "CNN sues AI search startup Perplexity for allegedly copying news stories without permission",
+    "url": "https://www.cnbctv18.com/world/cnn-sues-ai-search-startup-perplexity-for-allegedly-copying-news-stories-without-permission-ws-l-19915194.htm",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T14:42:38+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Segnalazione operazioni sospette UIF 2026, cosa cambia per i professionisti",
+    "url": "https://www.agendadigitale.eu/documenti/segnalazione-operazioni-sospette-uif-2026-cosa-cambia-per-i-professionisti/",
+    "summary": "Dal primo luglio 2026 cambiano le regole UIF sulla segnalazione di operazioni sospette. Professionisti e studi dovranno puntare su valutazioni più consapevoli, complete e tempestive, superando gli automatismi. L’intelligenza artificiale può supportare analisi, organizzazione dei dati e redazione delle SOS L'articolo Segnalazione operazioni sospette UIF 2026, cosa cambia per i professionisti proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-29T14:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Markets Are Betting Big on AI. This Harvard Professor Isn’t So Sure",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/markets-are-betting-big-on-ai-this-harvard-professor-isn-t-so-sure",
+    "summary": "With markets near record highs, driven by demand for artificial intelligence, it certainly seems that investors are betting big on AI growth.\n\nOn this episode of the Odd Lots podcast, Gita Gopinath — Harvard economics professor and the former first deputy managing director of the IMF — joins Joe Weisenthal and Tracy Alloway to discuss the possibility of a perfectly productive world driven by AI, free of social unrest. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T14:23:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+    "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T14:15:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+    "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+    "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "How we migrated faster from MongoDB to PostgreSQL using AI.",
+    "url": "https://www.siddhartha.work/blog/mongodb-to-postgresql-migration",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T13:54:21+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "A Brand Built on Truth: NASA in the Generative Era",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/a-brand-built-on-truth-nasa-in-the-generative-era-video",
+    "summary": "Bloomberg’s Christina Ruffini sits down with NASA's David Rager at Artist and the Machine's AI & Creativity Summit in New York on May 14 to discuss how his role as creative director is central to how one of the world’s most trusted institutions communicates discovery, science, and imagination. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T13:31:48+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "A.I. Doesn’t Have to Mean Layoffs",
+    "url": "https://www.nytimes.com/2026/05/29/business/economy/ai-jobs-productivity.html",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T13:19:39+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores | Senior executive Dave Treadwell tells staff ‘don’t use AI just for the sake of using AI’ as costs rise",
+    "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6?syn-25a6b1a6=1",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-29T12:53:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "vLLM PR adding native HIP W4A16 kernel was merged",
+    "url": "https://github.com/vllm-project/vllm/pull/41394",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-29T12:31:05+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Profitti dell’AI ai lavoratori: che ci dice il caso Samsung sul futuro",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/profitti-dellai-perche-il-caso-samsung-riguarda-tutto-il-lavoro/",
+    "summary": "I lavoratori Samsung dei semiconduttori approvano un accordo di profit-sharing legato al boom dell’AI. Il caso apre una frattura interna all’azienda e rilancia la domanda sulla redistribuzione dei profitti generati dall’intelligenza artificiale lungo tutta la filiera globale L'articolo Profitti dell’AI ai lavoratori: che ci dice il caso Samsung sul futuro proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-29T12:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Frodi nelle note spesa, perché preoccupano i CFO europei",
+    "url": "https://www.agendadigitale.eu/documenti/frodi-nelle-note-spesa-perche-preoccupano-i-cfo-europei/",
+    "summary": "Le frodi nelle note spesa sono considerate una sfida sempre più critica dai CFO europei. L’aumento dei dati, la complessità dei controlli e la digitalizzazione dei giustificativi spingono le imprese verso soluzioni basate sull’intelligenza artificiale L'articolo Frodi nelle note spesa, perché preoccupano i CFO europei proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-29T12:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Jony Ive’s funky Ferrari",
+    "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
+    "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of […]",
+    "source": "The Verge AI",
+    "date": "2026-05-29T08:25:12-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Il valore dell’IA dipende dalle aspettative, non solo dai modelli",
+    "url": "https://www.agendadigitale.eu/industry-4-0/il-valore-dellia-dipende-dalle-aspettative-non-solo-dai-modelli/",
+    "summary": "L’adozione dell’intelligenza artificiale nelle organizzazioni non dipende solo dalla qualità tecnica dei modelli, ma dal rapporto tra capacità reali, aspettative degli utenti e valore percepito. Gestire questo allineamento diventa una responsabilità manageriale, culturale e organizzativa L'articolo Il valore dell’IA dipende dalle aspettative, non solo dai modelli proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-29T12:18:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "La polizia predittiva cinese fa paura all’Europa: cosa c’entra l’AI Act",
+    "url": "https://www.agendadigitale.eu/sicurezza/la-polizia-predittiva-cinese-fa-paura-alleuropa-cosa-centra-lai-act/",
+    "summary": "La Cina accelera sulla sorveglianza predittiva basata su intelligenza artificiale generativa, modelli multimodali e piattaforme integrate di comando. Il confronto con AI Act, GDPR e Direttiva Law Enforcement mostra due visioni opposte del rapporto tra sicurezza pubblica, controllo sociale e diritti fondamentali L'articolo La polizia predittiva cinese fa paura all’Europa: cosa c’entra l’AI Act proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-05-29T12:09:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "source": "OpenAI Blog",
+    "date": "2026-05-29T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Check out real-life AI prototypes from the Futures Lab.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "summary": "University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
+    "source": "Google AI Blog",
+    "date": "2026-05-29T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "This AI startup will clean your home for free to train future robots",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on […]",
+    "source": "The Verge AI",
+    "date": "2026-05-29T07:58:40-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "A moment of thanks for DeepSeek",
+    "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-29T11:13:22+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Training AI chatbots to be warm and empathetic makes them less factually accurate",
+    "url": "https://www.psypost.org/training-ai-chatbots-to-be-warm-and-empathetic-makes-them-less-factually-accurate/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T11:09:30+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "Anthropic releases Claude Opus 4.8",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "summary": "Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has also altered some of the details of […] The post Anthropic releases Claude Opus 4.8 appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-05-29T10:44:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "It’s Summertime and AI Means Internships Aren’t Easy",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/how-ai-is-making-it-tougher-for-students-to-land-summer-internships",
+    "summary": "With chatbots like Claude around, more companies are cutting back on internships.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T10:30:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-05-29"
+  },
+  {
     "title": "Adobe’s conversational AI agent is a mediocre design intern",
     "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
     "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, afterall, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: it's a bot […]",
@@ -7,6 +397,16 @@
     "date": "2026-05-29T06:00:00-04:00",
     "category": "tools_products",
     "_slot": "morning",
+    "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
+    "source": "MIT Tech Review",
+    "date": "2026-05-29T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
     "_slot_date": "2026-05-29"
   },
   {
@@ -3188,155 +3588,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Elon, stop trying to make Grok happen",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-    "summary": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's not the only sign xAI's […]",
-    "source": "The Verge AI",
-    "date": "2026-05-22T13:17:06-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Unlocking soft robotics control with AI's cousin: Reservoir computing",
-    "url": "https://techxplore.com/news/2026-05-soft-robotics-ai-cousin-reservoir.html",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-22T17:05:07+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "You can no longer Google the word ‘disregard’",
-    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-22T16:16:48+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-    "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results, the AI Overview section instead includes a response like what you'd see from a more traditional AI chatbot, as called out by a […]",
-    "source": "The Verge AI",
-    "date": "2026-05-22T12:01:17-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "We tried Google’s AI glasses and they’re almost there",
-    "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-22T15:37:15+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Are Fintech Apps Already Dead?",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-22/are-fintech-apps-already-dead-video",
-    "summary": "Is it the end of fintech and investing apps as we know it? Atomic Invest CEO David Dindi joins Bloomberg Open Interest to talk about the future of finance and why it belongs to AI companions, not apps. He says investing apps could disappear within a decade as AI assistants manage portfolios for consumers. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-22T15:27:05+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-05-22T15:25:59+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "AI Phone Number",
-    "url": "/r/phones/comments/1tklk2g/ai_phone_number/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-22T15:01:58+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "The literary world isn’t prepared for AI",
-    "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-    "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in the Grove\" has many of the hallmarks […]",
-    "source": "The Verge AI",
-    "date": "2026-05-22T10:30:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Why would you disrespect your favorite artist with an AI remix?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-    "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make them even easier to generate and […]",
-    "source": "The Verge AI",
-    "date": "2026-05-22T10:20:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Deepfake erotici contro le leader politiche, cosa succede",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/deepfake-erotici-contro-le-leader-politiche-cosa-succede/",
-    "summary": "La circolazione di immagini artificiali a sfondo erotico contro figure istituzionali apre una questione politica, giuridica e culturale più ampia. I deepfake erotici non falsificano solo immagini, ma incidono sulla credibilità pubblica, sulla fiducia collettiva e sulla rappresentazione del potere L'articolo Deepfake erotici contro le leader politiche, cosa succede proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-22T14:14:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Costruttori di macchine industriali, nel 2027 quante regole: cosa fare",
-    "url": "https://www.agendadigitale.eu/industry-4-0/costruttori-di-macchine-industriali-nel-2027-quante-regole-cosa-fare/",
-    "summary": "Dal 2027 i costruttori italiani di macchine industriali dovranno confrontarsi con Regolamento Macchine, Cyber Resilience Act e AI Act. Il nodo non riguarda solo le scadenze, ma la sovrapposizione tra sicurezza funzionale, cybersicurezza, sistemi AI e norme tecniche ancora incomplete L'articolo Costruttori di macchine industriali, nel 2027 quante regole: cosa fare proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-22T14:03:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-    "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
-    "source": "MIT Tech Review",
-    "date": "2026-05-22T12:10:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
-    "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-    "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semiconductor division and followed a substantial rise in the possible […]",
-    "source": "The Verge AI",
-    "date": "2026-05-22T07:05:25-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
-  },
-  {
-    "title": "Zara Owner Inditex’s CEO Bets on Diversification, AI for Growth",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-22/zara-owner-inditex-s-ceo-bets-on-diversification-ai-for-growth",
-    "summary": "Zara owner Inditex SA is banking on diversification across brands and countries as well as artificial intelligence to spur growth at the world’s largest listed retailer, Chief Executive Officer Óscar García Maceiras said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-22T10:06:54+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-22"
   }
 ]
