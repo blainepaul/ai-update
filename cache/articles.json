@@ -1,5 +1,205 @@
 [
   {
+    "title": "MiniMax Plans China IPO as It Eyes Local Rivals Like DeepSeek",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-30/minimax-plans-china-ipo-as-it-eyes-local-rivals-like-deepseek",
+    "summary": "China’s MiniMax Group Inc. has begun preparations for a domestic initial public offering, according to a regulatory filing, as the fast‑growing artificial intelligence startup challenges local rivals including DeepSeek.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-30T04:48:19+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "I made an Epstein Files RAG",
+    "url": "https://github.com/AbhisumatK/Epstein_Files_RAG",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-30T04:44:50+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-30T02:12:26+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up",
+    "url": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-30T01:08:15+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "What the pope’s AI manifesto means for Silicon Valley",
+    "url": "https://sfstandard.com/2026/05/28/pope-ai-manifesto/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-30T00:48:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality",
+    "url": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+    "summary": "This post demonstrates a comprehensive observability solution using Amazon Managed Grafana dashboards that provides a holistic view of both quality and quantity for LLMs served on Amazon SageMaker AI endpoints with inference components.",
+    "source": "AWS ML Blog",
+    "date": "2026-05-29T23:36:58+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T22:14:22+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Ronny Chieng Tells Harvard to ‘Destroy AI’ as Graduates Cheer",
+    "url": "https://www.harvardmagazine.com/commencement/class-day-ronny-chieng-harvard",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T21:13:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Meta lays off more than 2,000 from Menlo Park headquarters",
+    "url": "https://www.sfgate.com/tech/article/more-meta-layoffs-22282871.php",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T20:37:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "OpenAI Has Discussed Adding Citigroup, JPMorgan to Bank Lineup for IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-29/openai-has-discussed-adding-citigroup-jpmorgan-to-bank-lineup-for-ipo",
+    "summary": "OpenAI has spoken with banks including Citigroup Inc. and JPMorgan Chase & Co. about working on its upcoming initial public offering, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T19:28:59+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Ozzy Osbourne AI avatar will be ‘so tasteful’, Jack Osbourne says after fan backlash. Lifesize avatar of former Black Sabbath frontman will be created by tech companies Hyperreal and Proto Hologram",
+    "url": "https://www.theguardian.com/music/2026/may/26/ozzy-osbourne-ai-avatar-backlash-jack-osbourne-response",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T19:27:37+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Testing Gemini models for scheming tendencies",
+    "url": "https://www.alignmentforum.org/posts/F3sDngvTL9uyfz53k/testing-gemini-models-for-scheming-tendencies",
+    "summary": "As AI models become increasingly capable and autonomous, keeping them safely aligned with human intentions is critical. Extending our previous work on evaluating scheming capabilities , we introduce complementary approaches to test whether AI models would sabotage their own safeguards, if given the opportunity. Our new papers focus on propensity for scheming: when models are deployed as coding agents, will they take opportunities to undermine the safeguards designed to oversee them? We tackle th",
+    "source": "AI Alignment Forum",
+    "date": "2026-05-29T19:24:35+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+    "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+    "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+    "source": "Wired",
+    "date": "2026-05-29T19:07:46+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Researchers at MIT documented 30 AI agents major labs are deploying. Only 4 had public docs saying what the agent does, what it can't do, and what happens if it breaks.",
+    "url": "https://arxiv.org/abs/2602.17753",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-29T19:06:07+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+    "source": "Google AI Blog",
+    "date": "2026-05-29T19:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T18:49:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "BOE's Bailey Says UK Banks Don't Have Access to Mythos",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/boe-s-bailey-says-uk-banks-don-t-have-access-to-mythos-video",
+    "summary": "Bank of England Governor Andrew Bailey says that British banks are still locked out of using Anthropic PBC’s powerful new AI tool. Speaking with Bloomberg's Stephanie Flanders at a central banking conference in Iceland, Bailey adds that banks are using other models to test their cyberdefenses. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T18:13:35+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T17:57:05+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "BOE's Bailey on AI Risks, Private Credit and Crypto",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/boe-s-bailey-on-ai-risks-private-credit-and-crypto-video",
+    "summary": "Bank of England Governor Andrew Bailey discusses the emerging risks from frontier AI models, the recent concerns about the private credit market and the central bank's stablecoin proposals. He speaks with Bloomberg's Stephanie Flanders at a central banking conference in Iceland. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T17:54:49+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
+    "title": "BOE’s Bailey Says UK Banks Still Lack Access to Mythos",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-29/bank-of-england-s-bailey-says-uk-banks-still-lack-mythos-access",
+    "summary": "Bank of England Governor Andrew Bailey said that British banks are still locked out of using Anthropic PBC’s powerful new AI tool, calling for a international approach to fighting cybersecurity threats.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T17:45:56+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
     "title": "Tech companies desperately want to film you doing chores",
     "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
     "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of […]",
@@ -30,6 +230,16 @@
     "_slot_date": "2026-05-29"
   },
   {
+    "title": "SpaceX Lowers IPO Valuation Target | Bloomberg Tech 5/29/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/bloomberg-tech-5-29-2026-video",
+    "summary": "Bloomberg’s Tim Stenovec breaks down why SpaceX is coming back down to Earth with a slightly lower valuation in its IPO. Plus, Anthropic closes a funding round at a whopping $965 billion valuation, surpassing OpenAI for the first time in the AI race; and Dell surges after the hardware giant's outlook far surpassed Wall Street estimates. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-29T17:29:06+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
+  },
+  {
     "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
     "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
@@ -38,6 +248,16 @@
     "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-05-29"
+  },
+  {
+    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+    "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-29T17:27:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-30"
   },
   {
     "title": "Anthropic Valuation of $965 Billion Passes OpenAI",
@@ -3427,166 +3647,6 @@
     "date": "2026-05-23T10:14:56+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "AI is accelerating drug development",
-    "url": "https://intuitionlabs.ai/articles/accelerating-drug-development-ai-pharma",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-23T06:51:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "At this point own MRI makes sense. - Google Is Mapping the Human Brain",
-    "url": "https://youtu.be/CdJjph8-2Oc",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-23T05:12:24+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face",
-    "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-23T03:27:39+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Exclusive: Departing Meta Staffer Posts Biting Anti-AI Video Internally Amid Mass Layoffs",
-    "url": "https://www.motherjones.com/politics/2026/05/meta-video-ai-training-layoffs-video-exclusive-mci-bosworth-frenk/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-23T02:55:16+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "G4-MeroMero-26B-A4B-it-uncensored-heretic Is Out Now, a Finetune of gemma-4-26B-A4B-it, With KLD of 0.0152 and 12/100 Refusals!",
-    "url": "https://huggingface.co/llmfan46/G4-MeroMero-26B-A4B-it-uncensored-heretic-GGUF",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-23T01:10:59+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-05-23T00:02:03+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "AI is being used to resurrect the voices of dead pilots",
-    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-22T23:03:33+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "S&P 500 Set for Longest Weekly Rally Since 2023 | The Close 5/22/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-22/the-close-5-22-2026-video",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Crossmark Global Investment’s Victoria Fernandez, Wedbush Securities Managing Director Dan Ives, Citi Director of Equity Research Filippo Falorni, Former Fed Governor Betsy Duke, Wealth Enhancement Senior Investment Strategist Ayako Yoshioka, RBC Capital Markets’ Rishi Jaluria, XRC Ventures General Partner Diana Melencio, BC",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-22T22:52:10+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Zoom’s Anthropic Investment Has Netted the Company $1 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion",
-    "summary": "Zoom Communications Inc., the videoconferencing company, has netted about $1 billion on an investment it made in artificial intelligence startup Anthropic PBC in early 2023.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-22T22:41:51+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "NVIDIA Removes Gaming Revenue Category From Financial Reports",
-    "url": "https://www.guru3d.com/story/nvidia-removes-gaming-revenue-category-from-financial-reports/",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-22T21:13:35+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-    "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-    "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-22T21:02:36+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-    "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-22T20:40:48+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Anthropic to Close Over $30 Billion Round as Soon as Next Week",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week",
-    "summary": "Anthropic PBC is set to close its latest round of funding, which may top $30 billion at a valuation above $900 billion, as soon as next week, according to people familiar with the matter, vaulting ahead of rival OpenAI to become the world’s most valuable AI startup.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-22T19:42:50+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-    "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
-    "source": "TechCrunch AI",
-    "date": "2026-05-22T18:17:07+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
-    "url": "https://arxiv.org/abs/2605.22817",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-22T18:01:25+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-23"
-  },
-  {
-    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-    "summary": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
-    "source": "Google AI Blog",
-    "date": "2026-05-22T18:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-05-23"
   }
 ]
