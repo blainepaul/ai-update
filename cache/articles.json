@@ -1,5 +1,135 @@
 [
   {
+    "title": "Dell confirms XPS laptop with NVIDIA N1X at Computex ( basically a DGX Spark GB10 for consumers with Windows )",
+    "url": "https://videocardz.com/newz/dell-confirms-xps-laptop-with-nvidia-n1x-at-computex",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-31T02:16:31+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "mlx-code — local LLM coding agent for Apple Silicon",
+    "url": "https://josefalbers.github.io/mlx-code/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-31T01:35:16+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "built a small open source tool to stop AI agents from regressing after changes",
+    "url": "http://github.com/TaimoorKhan10/replayd",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-31T00:24:55+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners",
+    "summary": "The hunt is on for companies that could benefit from the tailwinds of an unprecedented wave of stock offerings in the US, and investors are increasingly honing in on the Asian supply chain.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-31T00:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-30T21:45:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "Rivian Software Chief Says Apple CarPlay and Android Auto Are Redundant in the World of AI",
+    "url": "https://www.thedrive.com/news/rivian-software-chief-says-carplay-and-android-auto-are-redundant-in-the-world-of-ai",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-30T21:20:35+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "Why Pope Leo is right to call on EU to disarm lethal AI weapons",
+    "url": "https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-05-30T19:19:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "It's interesting in a disability group where people talk about how AI helps them, the anti crowd downvotes to hide things like crazy and spouts how AI is stealing art",
+    "url": "/r/autism/comments/1ts40ue/do_you_use_ai_and_how_do_you_feel_about_using_it/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-05-30T19:07:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
+    "summary": "SoftBank Group Corp. plans to invest as much as €75 billion ($87 billion) to build 5 gigawatts of artificial intelligence data center capacity in France, saying the country is poised to become a top European hub for AI infrastructure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-05-30T18:55:33+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
+    "url": "https://arxiv.org/abs/2605.29157",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-30T18:18:05+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+    "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-05-30T17:49:08+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-30T16:30:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
+    "title": "Meta is reportedly developing an AI pendant",
+    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "summary": "Meta seems to be making big bets on AI-powered hardware.",
+    "source": "TechCrunch AI",
+    "date": "2026-05-30T15:59:58+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-05-31"
+  },
+  {
     "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
     "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
@@ -3617,56 +3747,6 @@
     "date": "2026-05-24T08:00:00-04:00",
     "category": "tools_products",
     "_slot": "afternoon",
-    "_slot_date": "2026-05-24"
-  },
-  {
-    "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU — local Kimi K2.5 install achieved roughly 4 tokens per second",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-24T04:24:19+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-24"
-  },
-  {
-    "title": "Golfing and stylistically aligning a proof using Claude Code | Another Certified Hood Classic by Terrance Tao and Claude",
-    "url": "https://youtu.be/l3SCK6V-BFw?si=GxbP0Y_q0Qi66-5w",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-23T23:53:55+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-24"
-  },
-  {
-    "title": "Anthropic says Mythos has already found more than 10,000 vulnerabilities",
-    "url": "https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-23T19:23:11+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-24"
-  },
-  {
-    "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-23/hyperscaler-debt-flood-brings-derivatives-bonanza-credit-weekly",
-    "summary": "As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-23T19:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-24"
-  },
-  {
-    "title": "I fine-tuned an LLM to be C-3PO to test which training data format works best for persona injection [P]",
-    "url": "https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-05-23T18:15:35+00:00",
-    "category": "models_research",
-    "_slot": "morning",
     "_slot_date": "2026-05-24"
   }
 ]
