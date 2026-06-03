@@ -1,5 +1,335 @@
 [
   {
+    "title": "The Classical Advances Needed to Make Quantum Computers Tick",
+    "url": "https://spectrum.ieee.org/quantum-calibration-decoding",
+    "summary": "Quantum computers promise to one day solve problems beyond the most powerful supercomputers imaginable. But it’s often underappreciated how much classical computing it takes just to operate these machines. As qubit counts rise, innovations in this supporting infrastructure will be essential if they’re to live up to their promise. To prepare for the scale of quantum computers the industry is working towards, many companies are also gearing up the classical hardware, and software, required to supp",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-06-03T11:00:01+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+    "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+    "source": "Wired",
+    "date": "2026-06-03T11:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Spain Earmarks Up to €800M for Massive EU Data Center Project",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/spain-earmarks-600m-800m-for-massive-eu-data-center-project",
+    "summary": "Spain is confident it’ll be awarded a massive artificial intelligence data center project by the EU and plans to invest as much as €800 million ($929 million) in it.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T10:19:14+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+    "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+    "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+    "source": "Wired",
+    "date": "2026-06-03T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "AI Music Startup Suno Raises Capital at $5.4 Billion Valuation",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-music-startup-suno-raises-capital-at-5-4-billion-valuation",
+    "summary": "Suno Inc., a startup that enables people to make music using artificial intelligence, has raised $400 million at a valuation of $5.4 billion.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "DeepSeek Close to Sealing $7 Billion Funding in Historic AI Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/deepseek-close-to-sealing-7-billion-funding-in-historic-ai-deal",
+    "summary": "DeepSeek is close to finalizing a deal to raise about 50 billion yuan ($7.4 billion) from investors including Tencent Holdings Ltd. and its own founder in one of China’s largest startup financings, a milestone for a domestic AI industry seeking capital to take on marquee US names like OpenAI.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T09:51:37+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "US and Iran Exchange Strikes, Trump Begins Rebuilding Tariff Wall | The Opening Trade 6/3/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-03/the-opening-trade-6-3-2026-video",
+    "summary": "US stocks struggled to build on record gains as growing strains on the ceasefire between the US and Iran sent oil prices higher for a third straight day. The cautious mood follows flare-ups in the Middle East that are testing a fragile truce between Washington and Tehran, with US forces intercepting ballistic missiles and drones aimed at neighboring countries and striking an Iranian command center in response.\n\nThe US is proposing new tariffs of at least 10% on imports from 60 trading partners i",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T09:29:33+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Nvidia CEO Pitches ‘Insane’ AI Returns to Billionaire Families",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/nvidia-ceo-pitches-insane-ai-returns-to-billionaire-families",
+    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang touted “insane” returns for investors willing to bet on the AI boom, seeking to dispel lingering concerns around the big sums spent on artificial intelligence and its long-term profitability.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T09:05:23+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "AI has a water problem. Google thinks it has a fix",
+    "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water […]",
+    "source": "The Verge AI",
+    "date": "2026-06-03T05:00:00-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+    "url": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+    "summary": "Soccer fans on r/WorldCup2026Tickets are using Claude to build DIY ticketing software, exchanging on back channels, and leaving scalpers scrambling.",
+    "source": "Wired",
+    "date": "2026-06-03T09:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Google must let publishers opt out of AI Search features, rules UK",
+    "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+    "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used […]",
+    "source": "The Verge AI",
+    "date": "2026-06-03T04:45:48-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "NVIDIA drops DGX Station for Windows (1-Trillion Parameter desktop). Who else is ready to run LLaMA-Behemoth locally?",
+    "url": "/r/ArtificialInteligence/comments/1tvfm95/nvidia_drops_dgx_station_for_windows_1trillion/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-03T08:28:48+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "AI Saves Time But Most Companies Waste the Gain, Study Shows",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/ai-saves-time-but-most-companies-waste-the-gain-study-shows",
+    "summary": "Employees across industries continue to adopt AI tools at a rapid rate, yet the technology’s impact on productivity and efficiency is uneven and muddled, according to a new study.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T08:01:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Non basta adottare l’IA: il valore si gioca nei processi",
+    "url": "https://www.agendadigitale.eu/industry-4-0/non-basta-adottare-lia-il-valore-si-gioca-nei-processi/",
+    "summary": "L’intelligenza artificiale sta ridefinendo la catena del valore nelle imprese. Il vantaggio competitivo non dipende solo dai modelli, ma dalla capacità di integrarli nei sistemi esistenti, nelle infrastrutture, nei processi operativi e nelle competenze necessarie a governarne l’impatto L'articolo Non basta adottare l’IA: il valore si gioca nei processi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-03T07:19:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Senza qualità del dato, l’AI nella pubblica amministrazione amplifica il caos",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/senza-qualita-del-dato-lai-nella-pubblica-amministrazione-amplifica-il-caos/",
+    "summary": "L’AI nella pubblica amministrazione rischia di restare una demo se non poggia su dati affidabili, processi chiari e responsabilità definite. Il vero vantaggio non è nel modello adottato, ma nel contesto informativo e operativo che permette all’intelligenza artificiale di generare valore reale L'articolo Senza qualità del dato, l’AI nella pubblica amministrazione amplifica il caos proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-03T06:43:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Google Ordered to Make Changes to AI Search Summaries by UK",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/google-forced-by-uk-to-give-publishers-control-over-ai-summaries",
+    "summary": "Alphabet Inc.’s Google must make changes to its artificial intelligence generated search summaries after the UK’s antitrust watchdog ordered it to give publishers more control over how their content is used.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T06:13:55+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Kioxia Briefly Ousts Toyota as Japan’s No. 2 Most Valuable Firm",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/kioxia-edges-nearer-toyota-s-market-cap-in-shakeup-to-japan-inc",
+    "summary": "Kioxia Holdings Corp.’s market cap briefly surpassed that of Toyota Motor Corp. to become Japan’s second-most valuable firm as the global artificial intelligence boom remodels the country’s corporate landscape.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T04:53:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "A reckoning is coming for US AI coding tools",
+    "url": "https://runtimebuzz.com/ai/editorials/reckoning-us-ai-coding-tools-subsidy-era",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-06-03T04:30:11+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Nous Research — Hermes Desktop",
+    "url": "https://hermes-agent.nousresearch.com/desktop",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-03T04:06:22+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Megaport to Raise $594 Million in Australia to Fund AI Expansion",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/megaport-to-raise-594-million-in-australia-to-fund-ai-expansion",
+    "summary": "Australia’s Megaport Ltd. is seeking to raise A$827.3 million ($594 million) to support the creation of an artificial intelligence inference cloud and execute new contracts, one of the country’s biggest deals this year as companies look to finance the global data center buildout.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-03T02:02:43+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-02T22:50:56+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw",
+    "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/",
+    "summary": "Accelerated computing has revolutionized industrial engineering, compressing simulation times from weeks to hours.  Today’s remaining challenges sit in the end-to-end workflow surrounding the simulations: computer-aided design, meshing, simulation setup and debugging, as well as post-processing and generating summary reports of these processes.  At GTC Taipei at COMPUTEX, NVIDIA and more than a dozen engineering software […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-02T22:00:58+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Toilet Maker Toto Ramps Up Its Ceramics for AI Chipmakers",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/toilet-maker-toto-hikes-capex-to-meet-ai-demand-for-its-ceramics",
+    "summary": "Japanese toilet maker Toto Ltd. expects spending in its chip-related operations to make up more than half its total capex in coming years, as it chases new gains from an artificial intelligence surge.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-02T21:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Trump finds an AI policy he can live with: The president signed a downsized AI order after postponing a similar measure last month.",
+    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-02T20:24:28+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "DolphinGemma release when?",
+    "url": "https://blog.google/innovation-and-ai/products/dolphingemma/",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-02T19:29:38+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Microsoft Build 2026: The 7 biggest announcements",
+    "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+    "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the […]",
+    "source": "The Verge AI",
+    "date": "2026-06-02T15:23:52-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Microsoft reveals new quantum chip made with AI, says it will have systems by 2029",
+    "url": "https://www.reuters.com/business/microsoft-reveals-new-quantum-chip-made-with-ai-says-it-will-have-systems-by-2026-06-02/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-02T19:19:09+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Building a hill-climbing machine: Launching seven new MAI models | Microsoft AI",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-02T19:13:10+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-02T19:11:48+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-02T19:02:21+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
+    "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
+    "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-02T19:00:08+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "Trump signs executive order to review AI models before they’re released",
+    "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+    "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this […]",
+    "source": "The Verge AI",
+    "date": "2026-06-02T14:33:42-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
+    "title": "How Much of Data-Center Activism Is Really AI Slop? (GIFT LINK)",
+    "url": "https://www.theatlantic.com/technology/2026/06/data-centers-activism-ai-slop/687396/?gift=Drr4NjzlrxfvZ54pXT4wvdGnAHyRCV1cOc570D1eO5s&utm_source=copy-link&utm_medium=social&utm_campaign=share",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-02T18:32:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
     "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
     "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
     "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
@@ -70,6 +400,16 @@
     "_slot_date": "2026-06-02"
   },
   {
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-02T18:00:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
+  },
+  {
     "title": "Microsoft’s Project Solara Aims to Put AI in an Employee Badge",
     "url": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-project-solara-aims-to-put-ai-in-an-employee-badge",
     "summary": "Microsoft Corp. introduced a new set of software tools designed to take artificial intelligence agents off of laptop screens and place them in mobile devices for businesses.",
@@ -128,6 +468,16 @@
     "category": "tools_products",
     "_slot": "afternoon",
     "_slot_date": "2026-06-02"
+  },
+  {
+    "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+    "url": "https://blog.tymscar.com/posts/v100localllm/",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-02T17:29:51+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-03"
   },
   {
     "title": "A Simple Coding Benchmark: Step 3.7 vs Qwen 3.5 122B-A10B vs Qwen 3.6 27B vs Qwen 3.6 35B-A3B",
@@ -4057,286 +4407,6 @@
     "date": "2026-05-27T08:00:00-04:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Salesforce Earnings Can Put AI Fears to Bed, Give Stock a Lift",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/salesforce-earnings-can-put-ai-fears-to-bed-give-stock-a-lift",
-    "summary": "While software stocks rebound from the artificial intelligence-driven wipeout earlier this year, Salesforce Inc. hasn’t really benefited. But its earnings after the close Wednesday could pull the company’s shares out of their malaise.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T09:24:26+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "SpaceX Investor Powerlaw to Debut on Nasdaq as IPO Race Heats Up",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/spacex-investor-powerlaw-to-debut-on-nasdaq-as-ipo-race-heats-up",
-    "summary": "Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk’s SpaceX and artificial intelligence firm OpenAI, is going public without raising any capital in the latest public vehicle to cater to retail investors’ clamor for exposure to the hottest private tech companies.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T09:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Plenty of Ways to Play AI Trade in Europe, Goldman Sachs Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-27/plenty-of-ways-to-play-ai-trade-in-europe-goldman-says-video",
-    "summary": "Sharon Bell, equity strategist at Goldman Sachs, discusses the artificial intelligence trade and why she thinks European stocks, and not just tech firms, can benefit. She speaks on Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T08:59:55+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Quando l’AI consiglia su soldi, salute e contratti, chi si prende la responsabilità?",
-    "url": "https://www.agendadigitale.eu/sicurezza/quando-lai-consiglia-su-soldi-salute-e-contratti-chi-si-prende-la-responsabilita/",
-    "summary": "ChatGPT Personal Finance mostra come l’AI generativa stia entrando nelle decisioni più sensibili dei cittadini: soldi, salute e contratti. La sfida per Italia ed Europa non riguarda solo privacy e dati, ma responsabilità, mediazione professionale e sovranità cognitiva L'articolo Quando l’AI consiglia su soldi, salute e contratti, chi si prende la responsabilità? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-27T08:53:33+00:00",
-    "category": "healthcare",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "AI May Impact 120 Million Workers in Advanced Economies",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-27/ai-may-impact-120-million-workers-in-advanced-economies-video",
-    "summary": "As global banking executives weigh the potential impact of artificial intelligence on their industry, research by Bloomberg Intelligence finds that AI will likely impact 27% of workers across all sectors in advanced economies — more than 120 million in the 31 countries covered by the study. Bloomberg's Charlie Wells and Ana Andrade have more. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T08:52:53+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "AI Automation, Job Loss Fears and Where New Work Emerges",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-27/ai-automation-job-loss-fears-and-where-new-work-emerges-video",
-    "summary": "Concerns are growing that artificial intelligence could accelerate job losses as automation spreads across industries. This segment examines whether AI will ultimately displace workers or create new forms of employment by complementing human expertise. The discussion focuses on corporate decision‑making, productivity limits, and the challenge of ensuring new jobs are widely shared, as the U.S., China, and other economies race to adopt AI technologies. Simon Johnson, MIT Sloan Professor of Entrep",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T08:30:33+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "AI Act e cloud: le relazioni pericolose della regolazione europea",
-    "url": "https://www.agendadigitale.eu/infrastrutture/ai-act-e-cloud-le-relazioni-pericolose-della-regolazione-europea/",
-    "summary": "L’Europa affronta il divario competitivo con Stati Uniti e Cina mentre AI e cloud diventano infrastrutture decisive. Tra AI Act, Data Act, DMA e Cybersecurity Act emergono sovrapposizioni, standard tecnici incompleti e tensioni tra politica industriale, autonomia strategica, concorrenza e diritti fondamentali L'articolo AI Act e cloud: le relazioni pericolose della regolazione europea proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-05-27T08:08:40+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "ByteDance Weighs Capex of as Much as $70 Billion in AI Push",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
-    "summary": "ByteDance Ltd., the developer of TikTok and a leading force in artificial intelligence, is considering increasing its capital spending to more than double last year’s in a bid to lead the Chinese AI market and challenge the top US players abroad.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T07:51:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "New DeepSWE benchmark finds Claude Opus cheats",
-    "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-27T07:30:12+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Scoop: Trump appoints Bondi to White House AI panel",
-    "url": "https://www.axios.com/2026/05/27/pam-bondi-white-house-ai",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-27T06:28:14+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Why Huawei’s New Chipmaking Plan Has Investors Buzzing",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/what-to-know-about-huawei-s-new-ai-chipmaking-plan-logicfolding-tech",
-    "summary": "The artificial intelligence boom has triggered an insatiable demand for computing power, with companies such as Amazon.com Inc., Meta Platforms Inc. and Microsoft Corp. pouring hundreds of billions of dollars into data centers and advanced chips developed by US semiconductor giant Nvidia Corp.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T05:48:24+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "OpenBMB releases MiniCPM5-1B LLM. Currently one of the most powerful LLMs for its size. ( 17.9 on the Artificial Analysis Intelligence Index)",
-    "url": "https://x.com/ArtificialAnlys/status/2059411573907808487",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-27T05:05:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Mythos Risk Prompts India to Test for Financial Software Flaws",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/indian-government-tech-firms-running-tests-for-mythos-threat",
-    "summary": "India is undertaking tests of some of its most sensitive public-facing financial and government application software to better understand their vulnerabilities to Anthropic PBC’s next-generation Mythos AI model, according to Indian officials familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T04:08:59+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Taiwan Said to Suspect Nvidia Chips Smuggled to China Via Japan",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/taiwan-said-to-suspect-nvidia-chips-smuggled-to-china-via-japan",
-    "summary": "Taiwan prosecutors suspect that three individuals successfully smuggled at least one shipment of Nvidia Corp. AI chips to China after first exporting them to Japan, people familiar with the matter said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T03:28:14+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "The creator of LAGK (AI governance framework) just did an AMA on r/artificial — here's what sparked debate",
-    "url": "http://lightrest-lagk.manus.space",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-27T03:26:30+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "UBS’ Khan Says AI Will Impact Jobs While Aiding Productivity",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/ubs-s-khan-says-ai-will-have-ramifications-on-jobs",
-    "summary": "UBS Group AG’s Asia Pacific President Iqbal Khan said artificial intelligence will free up capacity and improve productivity but also have an impact on jobs.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T01:08:13+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Did the Pope use AI to write about the dangers of AI?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-    "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The […]",
-    "source": "The Verge AI",
-    "date": "2026-05-26T20:38:11-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Fireworks AI in Talks for Funding at $15 Billion Valuation",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/fireworks-ai-in-talks-for-funding-at-15-billion-valuation",
-    "summary": "Fireworks AI, a startup that helps companies run artificial intelligence models, is in talks to raise a new round of funding that would value the company at $15 billion, according to people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-27T00:00:38+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Is AI coming for your job? A bigger government can help",
-    "url": "http://seattletimes.com/opinion/is-ai-coming-for-your-job-a-bigger-government-can-help/?utm_medium=social&utm_campaign=owned_reddit&utm_source=reddit",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-26T23:33:51+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-26T22:32:56+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Introducing the Ontology Anchor: A Mechanism that Gives AI a Map of What Matters to You",
-    "url": "https://medium.com/@socal21st.oc/the-ontology-anchor-giving-ai-a-better-way-to-know-you-4d88923d6d67",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-26T22:11:47+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Stocks Rise Toward Record on Iran Peace Hopes | The Close 5/26/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-26/the-close-5-26-2026-video",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Fidelity Director of Global Macro Jurrien Timmer, EquiLend Managing Director Head of Data & Insights Nancy Allen, Barclay’s Managing Director Senior Retail Analyst Adrienne Yih, Davidson Kempner Managing Partner & CIO Tony Yoseloff, Deutsche Bank’s Chief US Equity & Global Strategist Binky Chadha, Valoir CEO Rebecca Wetteman",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-26T22:10:37+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
-    "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
-    "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-05-26T21:15:15+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-    "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-    "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-    "source": "Wired",
-    "date": "2026-05-26T20:46:03+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Choosing to Stay Human",
-    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-    "summary": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
-    "source": "One Useful Thing",
-    "date": "2026-05-26T19:56:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-    "summary": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
-    "source": "Ars Technica",
-    "date": "2026-05-26T19:50:33+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-    "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-26T19:23:50+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-27"
-  },
-  {
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-26T18:33:01+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-05-27"
   }
 ]
