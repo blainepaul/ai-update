@@ -1,5 +1,145 @@
 [
   {
+    "title": "What is Archy? McDonald's AI Drive-Thru Assistant ArchIQ Is Changing Fast-Food Ordering",
+    "url": "https://www.ibtimes.sg/what-archy-mcdonalds-ai-drive-thru-assistant-archiq-powered-by-google-faster-automated-ordering-87551",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-06-07T08:30:51+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+    "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+    "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-07T07:00:15+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
+    "summary": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-07T05:58:50+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
+    "url": "https://apnews.com/article/sam-altman-ai-bernie-sanders-trump-public-ownership-772224f9cd138eb79d3ef3336858a5d5",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-06T22:40:34+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-06T20:32:24+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
+    "summary": "Sriram Krishnan, a top White House adviser on artificial intelligence, is stepping down from the post.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-06T19:10:09+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-06-06T19:02:33+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-06T18:13:36+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "Gemma 4 QAT Unquantized Heretic is here",
+    "url": "https://huggingface.co/collections/coder3101/gemma-4-qat",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-06T17:48:23+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-06T17:42:15+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "Cohere's unreleased coding model (early access for localllama)",
+    "url": "https://huggingface.co/CohereLabs/BLS-Mini-Code-1.0",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-06T16:36:41+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-06-06T16:17:21+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits it in 4 GB - and searches it faster than FAISS.",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-06T16:02:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
+    "title": "Council — a Mac app that puts one question to several AI models, has them critique each other blind, then shows where they disagree (free, open source)",
+    "url": "http://github.com/albertofettucini/Council",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-06-06T15:58:33+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-07"
+  },
+  {
     "title": "Job Searcher",
     "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
     "summary": "",
@@ -4077,146 +4217,6 @@
     "date": "2026-05-31T10:58:19+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "How Turkey Hacked the Hair Transplant Industry",
-    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
-    "source": "Wired",
-    "date": "2026-05-31T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "Dell confirms XPS laptop with NVIDIA N1X at Computex ( basically a DGX Spark GB10 for consumers with Windows )",
-    "url": "https://videocardz.com/newz/dell-confirms-xps-laptop-with-nvidia-n1x-at-computex",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-31T02:16:31+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "mlx-code — local LLM coding agent for Apple Silicon",
-    "url": "https://josefalbers.github.io/mlx-code/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-31T01:35:16+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "built a small open source tool to stop AI agents from regressing after changes",
-    "url": "http://github.com/TaimoorKhan10/replayd",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-31T00:24:55+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners",
-    "summary": "The hunt is on for companies that could benefit from the tailwinds of an unprecedented wave of stock offerings in the US, and investors are increasingly honing in on the Asian supply chain.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-31T00:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-30T21:45:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "Rivian Software Chief Says Apple CarPlay and Android Auto Are Redundant in the World of AI",
-    "url": "https://www.thedrive.com/news/rivian-software-chief-says-carplay-and-android-auto-are-redundant-in-the-world-of-ai",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-30T21:20:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "Why Pope Leo is right to call on EU to disarm lethal AI weapons",
-    "url": "https://euobserver.com/219185/pope-leo-xiv-urges-europe-to-stop-lethal-ai-weapons-before-its-too-late",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-05-30T19:19:19+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "It's interesting in a disability group where people talk about how AI helps them, the anti crowd downvotes to hide things like crazy and spouts how AI is stealing art",
-    "url": "/r/autism/comments/1ts40ue/do_you_use_ai_and_how_do_you_feel_about_using_it/",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-05-30T19:07:44+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "SoftBank Plans Up to €75 Billion Investment in French AI Centers",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
-    "summary": "SoftBank Group Corp. plans to invest as much as €75 billion ($87 billion) to build 5 gigawatts of artificial intelligence data center capacity in France, saying the country is poised to become a top European hub for AI infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-05-30T18:55:33+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "Parallax: Parameterized Local Linear Attention for Language Modeling",
-    "url": "https://arxiv.org/abs/2605.29157",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-30T18:18:05+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
-    "url": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-05-30T17:49:08+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-30T16:30:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-05-31"
-  },
-  {
-    "title": "Meta is reportedly developing an AI pendant",
-    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "summary": "Meta seems to be making big bets on AI-powered hardware.",
-    "source": "TechCrunch AI",
-    "date": "2026-05-30T15:59:58+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-05-31"
   }
 ]
