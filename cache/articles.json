@@ -1,5 +1,355 @@
 [
   {
+    "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+    "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+    "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, Apple has used its latest Worldwide Developers Conference (WWDC) to reveal a new set of AI features and a smarter, more personalized Siri. Apple struggled to implement the ambitious set of AI features it announced at WWDC […]",
+    "source": "The Verge AI",
+    "date": "2026-06-08T13:34:24-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "WWDC 2026: Everything announced on Siri, iOS 27, Apple Intelligence and more",
+    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ios-27-apple-intelligence-and-more/",
+    "summary": "Apple’s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year’s event is particularly notable for a couple things. It marks CEO Tim Cook’s last with the company, […]",
+    "source": "TechCrunch AI",
+    "date": "2026-06-08T17:26:16+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access",
+    "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/",
+    "summary": "With access to the latest generative AI models and high-performance accelerated compute in high global demand, AWS customers need tools to take advantage of model availability and capacity across multiple AWS Regions, while still meeting their security and privacy requirements. cross-Region Inference (CRIS) on Amazon Bedrock meets these needs by automatically routing requests across multiple […]",
+    "source": "AWS ML Blog",
+    "date": "2026-06-08T16:40:34+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/",
+    "summary": "Amazon Bedrock AgentCore Runtime gives each agent session its own isolated microVM with a persistent workspace, secure tool access through Gateway, and built-in observability—so you can run Claude Code, Codex, Kiro, and Cursor in parallel without sharing secrets, ports, or filesystems. Close the lid, go to dinner, and pick up where you left off tomorrow.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-08T16:35:02+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Better decisions at scale: How mathematical optimization delivers where intuition fails",
+    "url": "https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/",
+    "summary": "In this post, we introduce mathematical optimization, explain how it fits within the broader AI landscape, and showcase real-world success stories where the Innovation Center has partnered with customers to deliver concrete results.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-08T16:31:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "ai agents make the web feel weird now",
+    "url": "https://medium.com/ai-engineering-collective/the-web-is-becoming-an-api-for-ai-agents-fd057e098cd6",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-06-08T16:23:48+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "End-to-end encrypted ML inference with Amazon SageMaker AI and FHE",
+    "url": "https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe/",
+    "summary": "This blog has previously discussed FHE for ML inference in the post Enable fully homomorphic encryption with Amazon SageMaker endpoints for secure, real-time inferencing, but this post goes a little further. That previous post showed how to implement FHE-based inference 'from scratch' by hand-crafting a linear-regression algorithm using a low-level library called SEAL. Instead, this post shows a much more flexible and higher-level approach based on concrete-ml, a high-level library built specifi",
+    "source": "AWS ML Blog",
+    "date": "2026-06-08T16:14:14+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Amazon Quick ARNs: Cross-account migration and namespace permissions",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/",
+    "summary": "In this post, we cover the structure of Amazon Quick ARNs and provide a practical mental model for working with them. By the end, you can look at an ARN and immediately understand what it means for your migration strategy, diagnose permission issues faster, and design multi-tenant architectures with confidence.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-08T16:07:29+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+    "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+    "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, […]",
+    "source": "The Verge AI",
+    "date": "2026-06-08T12:00:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Evaluate your Amazon Nova Sonic voice agent at scale, no microphone required",
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-your-amazon-nova-sonic-voice-agent-at-scale-no-microphone-required/",
+    "summary": "In this post, we walk you through the Nova Sonic Test Harness, an open source framework that we built to solve both problems. It serves as a rapid iteration tool for tuning system prompts and tool configurations (run a conversation, see results, adjust, repeat) and as a comprehensive evaluation framework for validating voice agent quality at scale. It runs complete multi-turn conversations with Amazon Nova Sonic automatically, evaluates them using LLM-as-judge techniques, and can even detect cas",
+    "source": "AWS ML Blog",
+    "date": "2026-06-08T15:57:45+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Xiaomi just claimed 1,000+ tps on a 1T model using a standard 8-GPU server",
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-08T15:51:46+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Amazon now lets you design custom merch using AI",
+    "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-08T15:49:12+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "ArXiv to Ban Researchers for a Year if They Submit AI Slop",
+    "url": "https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-06-08T15:47:18+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "If CoT was only a scaffold, does AGI require memory-native reasoning instead of visible thought traces?",
+    "url": "/r/artificial/comments/1txp7ah/the_strange_thing_about_llm_reasoning_research/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-08T15:35:37+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-08T15:34:59+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Usare l’AI senza perdere il pensiero: la lezione che viene da Platone",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/usare-lai-senza-perdere-il-pensiero-la-lezione-che-viene-da-platone/",
+    "summary": "Il confronto tra Fedro di Platone, sul tema della scrittura e dell'intelligenza artificiale mostra che ogni tecnologia della parola riorganizza il pensiero. La questione non è fermare l’IA, ma capire come governarla senza confondere velocità dell’output, delega cognitiva e profondità della riflessione L'articolo Usare l’AI senza perdere il pensiero: la lezione che viene da Platone proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-08T14:45:35+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+    "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-08T14:38:11+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+    "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new […]",
+    "source": "The Verge AI",
+    "date": "2026-06-08T10:00:00-04:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "mtmd : add video input support by ngxson · Pull Request #24269 · ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp/pull/24269",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-08T13:51:20+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Gemma 4 Chat Template now has preserve thinking",
+    "url": "https://huggingface.co/google/gemma-4-31B-it/discussions/118#6a26a7088a64389a0709d3d2",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-08T13:35:56+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Google Orders More Than 3 Million Chips From Intel: Information",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-08/google-orders-more-than-3m-chips-from-intel-information-video",
+    "summary": "Alphabet's Google placed an order with Intel to manufacture more than 3 million of its specialized AI chips in 2028, the Information reported, citing two unnamed sources. Anurag Rana has more on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-08T13:31:34+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "I built a semantic arXiv search engine with AI-generated TL;DRs, claim classification, and paper comparison",
+    "url": "https://github.com/Teycir/ArxivExplorer",
+    "summary": "",
+    "source": "Reddit r/artificial",
+    "date": "2026-06-08T13:29:21+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Intel Gains on Report That Google Will Use It to Make Chips",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/google-tapped-intel-for-over-3-million-chips-information-says",
+    "summary": "Intel Corp. shares rose the most in a month after the Information reported that Alphabet Inc.’s Google will rely on it for more than 3 million specialized AI chips in 2028.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-08T13:20:35+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "The crash that vanished: control and emergence in a five-model economy",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-06-08T13:10:48+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-06-08T13:02:37+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Amazon to Raise C$14 Billion in Record Canadian Dollar Bond Sale",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/amazon-kicks-off-canadian-dollar-investment-grade-bond-offering",
+    "summary": "Amazon.com Inc. is set to raise C$14 billion ($10 billion) from investment-grade bonds in Canadian dollars, the largest such offering on record, as US hyperscalers look beyond their home market to fund artificial intelligence spending.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-08T12:46:57+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "AI nelle imprese, perché etica e controllo diventano centrali",
+    "url": "https://www.agendadigitale.eu/industry-4-0/ai-nelle-imprese-perche-etica-e-controllo-diventano-centrali/",
+    "summary": "L’adozione dell’intelligenza artificiale nelle aziende accelera, ma cresce anche il bisogno di regole, controlli e responsabilità. Governance AI, trasparenza, supervisione umana e monitoraggio dei modelli diventano elementi centrali per ridurre rischi operativi, bias, regressioni e costi nascosti L'articolo AI nelle imprese, perché etica e controllo diventano centrali proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-08T12:32:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "kv-cache : avoid kv cells copies by ggerganov · Pull Request #24277 · ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp/pull/24277",
+    "summary": "",
+    "source": "Reddit r/LocalLLaMA",
+    "date": "2026-06-08T12:31:33+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "AI in medicina: verso cure predittive e personalizzate",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/ai-in-medicina-verso-cure-predittive-e-personalizzate/",
+    "summary": "L’Intelligenza Artificiale sta trasformando la medicina grazie alla capacità di analizzare grandi quantità di dati clinici, biologici e fisiologici. Dalla prognosi personalizzata al monitoraggio continuo, il cambiamento apre nuove prospettive per diagnosi, cure, sostenibilità dei sistemi sanitari e formazione dei professionisti L'articolo AI in medicina: verso cure predittive e personalizzate proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-08T12:22:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+    "url": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
+    "summary": "Aviva has uncovered a record £230 million in insurance fraud claims and is using AI tools to counter the growing problem. The battleground has changed, and the culprits are also coming armed with a new generation of tools. We’re now in an environment where AI is being used not just to defend against fraud, but […] The post Aviva deploys AI to stop £230M in sophisticated insurance fraud appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-06-08T12:19:38+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Se l’intelligenza artificiale pensa per noi, cosa resta della mente?",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/se-lintelligenza-artificiale-pensa-per-noi-cosa-resta-della-mente/",
+    "summary": "Social, LLM e intelligenza artificiale generativa promettono risparmio di tempo e fatica, ma possono indebolire capacità costruite con esercizio, studio e disciplina. Dalla calligrafia alla grammatica, Cassandra riflette sul valore formativo dell’apprendimento faticoso e sui rischi delle “stampelle cognitive” L'articolo Se l’intelligenza artificiale pensa per noi, cosa resta della mente? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-08T12:11:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-08T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Sportello unico nazionale dati protetti: come funziona e cosa prevede il DGA",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/sportello-unico-nazionale-dati-protetti-come-funziona-e-cosa-prevede-il-dga/",
+    "summary": "AgID ha reso disponibile lo sportello unico nazionale dei dati protetti previsto dal Data Governance Act. Il sistema centralizza le informazioni per il riutilizzo dei dati detenuti dagli enti pubblici, ma il futuro del DGA resta incerto alla luce della proposta Omnibus Digitale L'articolo Sportello unico nazionale dati protetti: come funziona e cosa prevede il DGA proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-08T11:55:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Nvidia CEO Says Tech Stock Selloff Is a Buying Opportunity | The Pulse 6/8/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-08/the-pulse-6-8-2026-video",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Lindsay Rosner, Goldman Sachs Asset Management Head of Multi-Sector Investing; Euan Blair, Multiverse CEO & Founder; Kanishka Narayan, UK AI & Online Safety Minister (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-08T11:29:11+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
+    "title": "Apple Investors Look for AI Overhaul to Power Next Leg of Gains",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/apple-investors-look-for-ai-overhaul-to-power-next-leg-of-gains",
+    "summary": "Apple Inc. investors have spent nearly two years clamoring for the iPhone maker to make a big splash with artificial intelligence. Their wait may finally be coming to an end this week at the company’s annual Worldwide Developers Conference.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-08T11:06:02+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-08"
+  },
+  {
     "title": "WWDC 2026: How to watch and what to expect",
     "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
     "summary": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live. When WWDC will happen and where you can watch […]",
@@ -3936,266 +4286,6 @@
     "source": "AWS ML Blog",
     "date": "2026-06-01T17:54:22+00:00",
     "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Enable safe agentic payments with built-in guardrails using Amazon Bedrock AgentCore payments",
-    "url": "https://aws.amazon.com/blogs/machine-learning/enable-safe-agentic-payments-with-built-in-guardrails-using-amazon-bedrock-agentcore-payments/",
-    "summary": "In this post, we address several key risks that surface when designing an agentic payment system, and how to address them with the capabilities of AgentCore payments.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-01T17:30:12+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-    "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-    "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-    "source": "Wired",
-    "date": "2026-06-01T17:17:58+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Our views on AI policy and political advocacy",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
-    "source": "OpenAI Blog",
-    "date": "2026-06-01T17:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Anthropic confidentially files to go public",
-    "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-01T16:48:30+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Anthropic has officially filed to go public",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-    "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last […]",
-    "source": "The Verge AI",
-    "date": "2026-06-01T12:40:38-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Anthropic files to go public",
-    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-01T16:36:55+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Anthropic files for IPO",
-    "url": "https://www.axios.com/2026/06/01/anthropic-ipo-openai",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-01T16:24:20+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "AgentOps: Operationalize agentic AI at scale with Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/agentops-operationalize-agentic-ai-at-scale-with-amazon-bedrock-agentcore/",
-    "summary": "When you build agentic AI solutions, you face unique operational challenges. Agents make unpredictable decisions, costs spiral unexpectedly, and debugging non-deterministic failures seems impossible. Agentic AI applications don't just execute predetermined workflows. They reason, adapt, and make autonomous decisions, and DevOps practices need to be adapted. That's where AgentOps comes in, the operational discipline for deploying, managing, and continuously improving AI agents in production.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-01T16:12:18+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Accelerate LLM model loading and increase context windows with GPUDirect on Amazon FSx for Lustre and TurboQuant",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-llm-model-loading-and-increase-context-windows-with-gpudirect-on-amazon-fsx-for-lustre-and-turboquant/",
-    "summary": "If you’re iterating on deploying large language models (LLMs) on AWS GPU instances, you’ve probably noticed the larger the model to be loaded into GPU High Bandwidth Memory (HBM), the longer the painful wait until the GPUs are ready for inference. As models grow to hundreds of billions of parameters and GPU environments grow ever […]",
-    "source": "AWS ML Blog",
-    "date": "2026-06-01T16:07:19+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Amazon Quick integration with time-series databases for market intelligence using MCP",
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-integration-with-time-series-databases-for-market-intelligence-using-mcp/",
-    "summary": "In this post, we walk through a practical implementation using KDB-X MCP server integration with Amazon Quick, demonstrating how traders and analysts can ask questions using conversational language and receive actionable insights from datasets. You can apply this same integration pattern across various domains, from financial market analysis to IoT sensor monitoring to DevOps performance dashboards, where you need to simplify access to time series insights.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-01T16:01:24+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-01T16:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "How we used Gemini to build Google I/O 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-    "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
-    "source": "Google AI Blog",
-    "date": "2026-06-01T16:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-01T15:45:17+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "llama: limit max outputs of `llama_context` by am17an · Pull Request #23861 · ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/pull/23861",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-06-01T15:29:02+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "New Server Hopes to Break Through AI’s “Memory Wall”",
-    "url": "https://spectrum.ieee.org/huge-memory-ai-server",
-    "summary": "Memory is arguably the most serious constraint on modern AI large language models (LLMs). According to one influential paper , LLM token generation is an inherently memory-bound task, meaning the rate at which models output text is limited by how quickly data can be read in from memory. The severity of this bottleneck grows with model size. This creates a “memory wall” that holds back LLM inference performance. AI hardware startup Majestic Labs is taking a direct—and comprehensive—approach to so",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-06-01T15:00:01+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-01T14:49:10+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-    "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-    "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build […]",
-    "source": "The Verge AI",
-    "date": "2026-06-01T10:39:03-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "AI is blowing up music. How should the Grammys handle it?",
-    "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-    "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.  Well, it’s been […]",
-    "source": "The Verge AI",
-    "date": "2026-06-01T10:30:00-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
-    "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-    "summary": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription. In an update on its developer hub, Strava […]",
-    "source": "The Verge AI",
-    "date": "2026-06-01T10:06:44-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Mellum2 Goes Open Source: A Fast Model for AI Workflows | The JetBrains AI Blog",
-    "url": "https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-06-01T14:00:13+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Meet the people who actually want AI to replace humanity. (We need to create a new humanism before these “AI successionists” win!)",
-    "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY5VkVnQ3BOa04iLCJwIjoiL2Z1dHVyZS1wZXJmZWN0LzQ4OTk3Ni9haS1zdWNjZXNzaW9uaXNtLXRyYW5zaHVtYW5pc20tcG9zdGh1bWFuaXNtIiwiZXhwIjoxNzgxMjk3Nzg5LCJpYXQiOjE3ODAwODgxODl9.f2F29k4r8jsUcHO-7J5Jjs9JbXlqeVTJeMt9ziJ8Oy0&utm_medium=gift-link",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-01T13:55:17+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-01T13:51:18+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Ready or Not, the AI Phones Are Coming",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-01/ready-or-not-the-ai-phones-are-coming?srnd=phx-businessweek",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-01T13:39:06+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Open and closed models are on different exponentials",
-    "url": "https://www.interconnects.ai/p/open-and-closed-models-are-on-different",
-    "summary": "Where marginally higher intelligence drives value, and where it doesn't.",
-    "source": "Interconnects",
-    "date": "2026-06-01T13:03:48+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-    "source": "OpenAI Blog",
-    "date": "2026-06-01T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-02"
-  },
-  {
-    "title": "Bernie Sanders: A.I. Belongs to the People, Not to Billionaires",
-    "url": "https://www.nytimes.com/2026/06/01/opinion/artificial-intelligence-bernie-sanders.html",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-01T11:50:54+00:00",
-    "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-06-02"
   }
