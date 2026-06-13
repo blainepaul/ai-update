@@ -1,5 +1,135 @@
 [
   {
+    "title": "Here’s How AI Agents Can Protect EV Chargers",
+    "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
+    "summary": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
+    "source": "Wired",
+    "date": "2026-06-13T06:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-13T04:14:19+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-13T02:26:30+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+    "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+    "source": "Wired",
+    "date": "2026-06-13T02:26:10+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "OpenAI Probed by Coalition of State Attorneys General",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+    "summary": "OpenAI is under investigation by a coalition of state attorneys general who requested information from the artificial intelligence company on a wide range of topics.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-13T00:27:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-12T23:15:14+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-12T23:00:54+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+    "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+    "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-12T21:00:08+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+    "summary": "In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution features, the rationale for the technology stack, lessons learned, and the business impact at Rocket Close.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-12T20:43:56+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-12T20:38:09+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "SpaceX Rented Out Computing After Own Teams Had Trouble Using It",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it",
+    "summary": "SpaceX decided to rent out the full capacity of its Colossus 1 data center in Memphis to Anthropic PBC after encountering technical challenges using the facility to develop and run its Grok artificial intelligence models, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-12T18:30:50+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "Mistral is rumored to be raising €3B at €20B valuation",
+    "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-12T17:38:11+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
+    "title": "China Didn’t Make Americans Hate Data Centers",
+    "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+    "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+    "source": "Wired",
+    "date": "2026-06-12T17:17:10+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
+  },
+  {
     "title": "Siri is good now??",
     "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
     "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of […]",
@@ -58,6 +188,16 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-06-12"
+  },
+  {
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-06-12T15:56:10+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-13"
   },
   {
     "title": "It’s hot IPO summer, and the MANGOS are ripe",
@@ -3817,216 +3957,6 @@
     "date": "2026-06-06T10:30:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Anthropic calls for pause of global AI development",
-    "url": "https://www.yahoo.com/news/science/articles/anthropic-calls-pause-global-ai-223531016.html",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-06T08:45:05+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Trump Orders Rapid AI Expansion Across US Military and Intelligence Agencies",
-    "url": "https://www.ibtimes.sg/trump-orders-rapid-ai-expansion-across-us-military-intelligence-agencies-sweeping-national-87502",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-06T06:56:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "As AI systems evolve could they really become conscious?",
-    "url": "http://thebrighterside.news/post/as-ai-systems-evolve-could-they-really-become-conscious",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-06T01:12:24+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Republicans Claim Anti-Data Center Movement Is a Chinese Psy-Op",
-    "url": "https://gizmodo.com/republicans-claim-anti-data-center-movement-is-a-chinese-psy-op-2000767611",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-06T00:26:45+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "New York Times: China Aims A.I. at Predicting Who Could Pose a Political Risk",
-    "url": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-06T00:13:27+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "New York passes data center moratorium and consumer protections as environmental, and housing proposals stall",
-    "url": "https://www.news10.com/capitol/data-center-pricing-bills-2026-legislature/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-05T22:47:25+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Michael Saylor Says Bitcoin Drop A 'Capital Rotation' To AI",
-    "url": "https://bitcoinmagazine.com/news/michael-saylor-calls-bitcoins-drop",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-05T22:38:38+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Trump administration, OpenAI discussing possible government stake in the AI startup",
-    "url": "https://www.cnbc.com/2026/06/05/trump-open-ai-altman-stake.html",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-05T22:31:06+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-05T22:18:46+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Scientists Edit Human Embryo Genes With Startling Precision",
-    "url": "https://www.nytimes.com/2026/06/04/science/embryos-gene-editing-crispr.html?smid=re-share",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-05T21:41:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic",
-    "summary": "Apollo Global Management Inc. and Blackstone Inc. have finalized a $35 billion financing package for Anthropic PBC to expand its AI infrastructure, marking the latest mega-deal in the artificial intelligence race.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-05T21:02:29+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "BOE’s Bailey Warns of Possible AI Rationing on Capacity Limits",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-05/boe-s-bailey-warns-of-possible-ai-rationing-on-capacity-limits",
-    "summary": "Bank of England Governor Andrew Bailey suggested that artificial intelligence may need to be rationed because a lack of energy capacity will restrain the ability for every economic sector to deploy the new technology.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-05T20:22:25+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Anthropic tested Claude on NMR chemistry tasks, and it performed surprisingly well",
-    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-05T20:21:20+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-05T20:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "When AI Builds Itself | Anthropic Institute",
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-05T19:54:02+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Rubrik CEO's Big AI Warning",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/rubrik-ceo-s-big-ai-warning-video",
-    "summary": "Rubrik CEO Bipul Sinha explains why AI is transforming cybersecurity, warns that AI agents bring \"100x more risk,\" and discusses how businesses must shift from preventing attacks to rapidly recovering from them. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-05T19:11:18+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-05T18:57:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "sycl : port multi-column MMVQ from CUDA backend (~45% speculative decoding speedup on Intel Arc) by masonmilby · Pull Request #21845 · ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp/pull/21845",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-06-05T18:51:24+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Index Ventures' Achadjian on Backing Ex-SpaceX Workers",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/index-ventures-achadjian-on-backing-ex-spacex-workers-video",
-    "summary": "Software has dominated venture capital for years, but as AI moves beyond the digital world and into manufacturing, robotics, and industrial systems, investors are betting the next trillion-dollar opportunities wraps software into the physical world. Nina Achadjian, partner at Index Ventures, an early backer of companies including Anthropic, Physical Intelligence, and ServiceTitan, discusses the next frontier in AI and the SpaceX IPO's significance on the venture space. She joins Ed Ludlow on \"Bl",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-05T18:10:06+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "Orbital Data Centers Face Space-Based Challenges",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/orbital-data-centers-face-space-based-challenges-video",
-    "summary": "Philip Johnston, Starcloud CEO, joins to discuss the challenges of building and maintaining orbital data centers in space, this as SpaceX says it wants to ultimately deploy 100 gigawatts of AI compute capacity in orbit. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-05T18:08:02+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-06"
-  },
-  {
-    "title": "'World-first' vaccine designed by artificial intelligence",
-    "url": "https://www.bbc.co.uk/news/articles/crrpggegwe0o",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-05T17:42:36+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-06-06"
   }
 ]
