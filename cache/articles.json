@@ -1,5 +1,75 @@
 [
   {
+    "title": "Jack Ma-Backed Ant Group Set for High-Stakes Overhaul of Billion-User App",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app",
+    "summary": "Ant Group Co. is testing an overhaul to its Alipay super app that would introduce an AI agent interface, a major escalation in its battle for users with archrival WeChat.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-14T08:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-14"
+  },
+  {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-14T03:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-14"
+  },
+  {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-14T00:03:49+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-14"
+  },
+  {
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
+    "source": "The Verge AI",
+    "date": "2026-06-13T17:39:26-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-14"
+  },
+  {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-13T20:42:31+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-14"
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-13T19:11:41+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-14"
+  },
+  {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-13T16:47:18+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-14"
+  },
+  {
     "title": "SFT Drives Gemini’s Safety Properties",
     "url": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1",
     "summary": "This is the third in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The second post can be found here . In this short post, we describe a surprising finding: most safety relevant properties in Gemini seem to be caused by the combination of pretraining and SFT, not other training stages like RL. We do not want to overstate this claim as applying to other model families, and we also note that this may cha",
@@ -3767,146 +3837,6 @@
     "date": "2026-06-07T11:38:54+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "UK to Buy AI Chips From British Tech Firms, Telegraph Reports",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-07/uk-to-buy-ai-chips-from-british-tech-firms-telegraph-reports",
-    "summary": "The UK will offer to buy artificial intelligence chips from technology companies in an effort to encourage them to stay in Britain, the Telegraph reported on Sunday.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-07T08:58:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "What is Archy? McDonald's AI Drive-Thru Assistant ArchIQ Is Changing Fast-Food Ordering",
-    "url": "https://www.ibtimes.sg/what-archy-mcdonalds-ai-drive-thru-assistant-archiq-powered-by-google-faster-automated-ordering-87551",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-07T08:30:51+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
-    "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
-    "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-07T07:00:15+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "SKorea’s Lee Nominates Tech Guru Han as PM to Lead AI Growth",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-07/lee-nominates-tech-guru-han-as-prime-minister-to-lead-ai-growth",
-    "summary": "South Korean President Lee Jae Myung nominated SME and Startup Minister Han Seong-sook as prime minister, betting the tech industry veteran will help the country realize its artificial intelligence ambitions.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-07T05:58:50+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "Donald Trump, Bernie Sanders and Sam Altman are all talking about public ownership in AI",
-    "url": "https://apnews.com/article/sam-altman-ai-bernie-sanders-trump-public-ownership-772224f9cd138eb79d3ef3336858a5d5",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-06T22:40:34+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-06T20:32:24+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "Trump AI Policy Adviser Krishnan Is Giving Up White House Role",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-06/trump-ai-policy-adviser-krishnan-is-giving-up-white-house-role",
-    "summary": "Sriram Krishnan, a top White House adviser on artificial intelligence, is stepping down from the post.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-06T19:10:09+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "Five labs, five minds: building a multi-model finance drama on small models",
-    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-06T19:02:33+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-06T18:13:36+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "Gemma 4 QAT Unquantized Heretic is here",
-    "url": "https://huggingface.co/collections/coder3101/gemma-4-qat",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-06-06T17:48:23+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-06T17:42:15+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "Cohere's unreleased coding model (early access for localllama)",
-    "url": "https://huggingface.co/CohereLabs/BLS-Mini-Code-1.0",
-    "summary": "",
-    "source": "Reddit r/LocalLLaMA",
-    "date": "2026-06-06T16:36:41+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "The Trump administration might take an equity stake in OpenAI",
-    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-06-06T16:17:21+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-07"
-  },
-  {
-    "title": "A 10 million document corpus takes 31 GB of RAM as float32. turbovec fits it in 4 GB - and searches it faster than FAISS.",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-06-06T16:02:26+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-06-07"
   }
 ]
