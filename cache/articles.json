@@ -1,5 +1,65 @@
 [
   {
+    "title": "Dan Ives on US-Anthropic Talks, AI M&A, Open AI Losses",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-16/dan-ives-on-us-anthropic-talks-ai-m-a-open-ai-losses-video",
+    "summary": "Dan Ives, global senior equity analyst at Wedbush Securities, discusses what he calls the “tug of war” between Anthropic and the Trump administration, why he expects accelerated M&A on artificial intelligence, and reported losses at OpenAI ahead of the company’s IPO later this year.  (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-16T11:53:19+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-16"
+  },
+  {
+    "title": "UK Regulator Weighs Cutting Data Center Power Use at Peak Times",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-16/uk-regulator-weighs-forcing-data-centers-to-cut-power-during-grid-stress",
+    "summary": "The UK’s energy regulator is weighing whether future data centers should be required to reduce power consumption during periods of system stress, part of a broader effort to accommodate a surge in electricity demand from artificial intelligence and cloud computing.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-16T11:48:52+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-16"
+  },
+  {
+    "title": "SpaceX is officially buying Cursor for $60 billion",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+    "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpected: SpaceX announced […]",
+    "source": "The Verge AI",
+    "date": "2026-06-16T07:41:31-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-16"
+  },
+  {
+    "title": "Goldman Traders See Room for Rally to Broaden Beyond AI Winners",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-16/goldman-traders-see-room-for-rally-to-broaden-beyond-ai-winners",
+    "summary": "Easing tensions in the Middle East is giving investors a new reason to look beyond the artificial intelligence trade that’s dominated the market narrative for most of the year.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-16T11:40:38+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-16"
+  },
+  {
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-16T11:21:41+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-16"
+  },
+  {
+    "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
+    "source": "Ars Technica",
+    "date": "2026-06-16T11:15:46+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-16"
+  },
+  {
     "title": "Anthropic’s AI Runs Into DC Rule Inconsistency",
     "url": "https://www.bloomberg.com/news/newsletters/2026-06-16/anthropic-s-mythos-and-fable-models-trigger-policy-reversal-by-white-house",
     "summary": "The AI pioneer is working to allay White House concerns about national security",
@@ -3236,36 +3296,6 @@
     "source": "Agenda Digitale",
     "date": "2026-06-09T12:25:00+00:00",
     "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-09"
-  },
-  {
-    "title": "L’IA farà pensare meno gli studenti? L’Estonia cerca una terza via",
-    "url": "https://www.agendadigitale.eu/scuola-digitale/lia-fara-pensare-meno-gli-studenti-lestonia-cerca-una-terza-via/",
-    "summary": "L’Estonia introduce chatbot gratuiti per migliaia di studenti delle scuole superiori e sperimenta un modello educativo basato sull’uso guidato dell’intelligenza artificiale. Il progetto AI Leap punta a integrare l’IA nella didattica, misurandone effetti cognitivi, opportunità e rischi L'articolo L’IA farà pensare meno gli studenti? L’Estonia cerca una terza via proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-09T12:06:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-09"
-  },
-  {
-    "title": "How an e-scooter founder raised $5 million to build space data centers",
-    "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-    "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-09T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-09"
-  },
-  {
-    "title": "AI in azienda: la compliance digitale è diventata una questione di potere",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-in-azienda-la-compliance-digitale-e-diventata-una-questione-di-potere/",
-    "summary": "L’AI Act e gli altri regolamenti digitali europei stanno modificando la governance delle imprese italiane, attribuendo responsabilità dirette agli organi di gestione e ridefinendo il rapporto tra autonomia privata, controlli pubblici e tutela dei diritti individuali L'articolo AI in azienda: la compliance digitale è diventata una questione di potere proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-09T11:46:00+00:00",
-    "category": "policy_regulation",
     "_slot": "afternoon",
     "_slot_date": "2026-06-09"
   }
