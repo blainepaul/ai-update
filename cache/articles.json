@@ -1,5 +1,265 @@
 [
   {
+    "title": "Try One of macOS 27’s Best Features Right Now",
+    "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
+    "summary": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait.",
+    "source": "Wired",
+    "date": "2026-06-19T10:30:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Perché l’AI non sostituirà il CFO, ma lo costringerà a cambiare",
+    "url": "https://www.agendadigitale.eu/industry-4-0/perche-lai-non-sostituira-il-cfo-ma-lo-costringera-a-cambiare/",
+    "summary": "L'intelligenza artificiale sta ridefinendo il ruolo del CFO: non lo sostituisce, ma lo trasforma in una figura di sintesi tra dati, tecnologia e strategia. Una ricerca su oltre 600 leader finanziari globali fotografa questa evoluzione tra opportunità, rischi e nuove competenze L'articolo Perché l’AI non sostituirà il CFO, ma lo costringerà a cambiare proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-19T10:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+    "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+    "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today announced the launch of the updated Cumulo, the U.K.’s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend […] The post e2e-assure introduces Cumulo, the U.K.’s on",
+    "source": "AI News (AIN)",
+    "date": "2026-06-19T09:57:55+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Equo compenso editori, perché la Corte Ue dà ragione al modello italiano",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/equo-compenso-editori-perche-la-corte-ue-da-ragione-al-modello-italiano/",
+    "summary": "La Corte di giustizia dell’Unione europea conferma la compatibilità del modello italiano sull’equo compenso per le pubblicazioni giornalistiche online. La sentenza C-797/23 chiarisce natura esclusiva del diritto, poteri dell’AGCOM, obblighi informativi delle piattaforme e proporzionalità delle sanzioni L'articolo Equo compenso editori, perché la Corte Ue dà ragione al modello italiano proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-19T09:30:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Brain-computer interface trials are taking off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-19T09:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Che fine ha fatto il lavoro da remoto in Italia?",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/che-fine-ha-fatto-il-lavoro-da-remoto-in-italia/",
+    "summary": "Gli annunci di lavoro mostrano una distanza tra dichiarazioni e domanda reale delle imprese. Remote working, intelligenza artificiale e sostenibilità emergono meno di quanto suggerisca il dibattito pubblico, con segnali diversi tra banche, consulenza tecnologica e posizioni legate alla transizione green L'articolo Che fine ha fatto il lavoro da remoto in Italia? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-19T08:44:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier | Odd Lots",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-19/anthropic-co-founder-top-economist-on-the-ai-frontier-video",
+    "summary": "There’s a lot to unpack with AI right now — everything from its potential impacts on the labor market and society to more extreme questions about existential risk. Anthropic, which builds frontier models like Mythos, Fable, and Claude, is actively grappling with these issues, including whether governments should limit AI development. Just last week, the Trump administration forced Anthropic to block foreign access to its two leading models. In this episode, we speak with Jack Clark (co-founder a",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T08:17:34+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Mythos al G7: quali soluzioni al dilemma geopolitico dell’AI",
+    "url": "https://www.agendadigitale.eu/sicurezza/mythos-al-g7-quali-soluzioni-al-dilemma-geopolitico-dellai/",
+    "summary": "Il caso Fable 5/Mythos apre una crisi globale sull'intelligenza artificiale: Washington blocca l'accesso ai modelli di frontiera, il G7 cerca un compromesso e l'Europa scopre quanto la propria sovranità digitale dipenda dal cloud statunitense L'articolo Mythos al G7: quali soluzioni al dilemma geopolitico dell’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-19T08:10:40+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-19T07:59:12+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Traders’ Latest AI-Related Play Is a Struggling Car Parts Stock",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/traders-latest-ai-related-play-is-a-struggling-car-parts-stock",
+    "summary": "Investors looking for the stock market’s next artificial intelligence winner have honed in on embattled French car parts maker Valeo SE.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T05:15:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Barret Zoph is out at OpenAI again after just five months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]",
+    "source": "The Verge AI",
+    "date": "2026-06-19T00:49:33-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Early Users of Anthropic Mythos Still Have Access After US Order",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order",
+    "summary": "Some firms chosen early on by Anthropic PBC to test the Mythos AI model ahead of a wider release have preserved their access to a preview of the system, despite a US government order that led to the total shutdown of other versions.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T03:36:08+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-19T00:51:11+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/",
+    "summary": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple endpoint architectures. This post focuses on the two most relevant to generative AI workloads with detailed observability: Single-model endpoints (SME) and Inference component (IC) endpoints.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-18T23:31:58+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Fed Rate-Hike Bets Fuel Equities Rally | The Close 6/18/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-18/the-close-6-18-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are GenTrust Head of NY Office, Senior Client Advisor Mimi Duff, Principal Venture Partners Founder & Managing Partner Songyee Yoon, Wedbush SVP of Equity Research Alicia Reese, Goldman Sachs Northeast Region Head Nicole Pullen Ross, Interactive Brokers Chief Strategist Steve Sosnick, JP Morgan Asset Management CEO George Gatch,",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-18T22:53:27+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-18T21:20:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "The White House Is Making Up Its Rules for AI in Real Time",
+    "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+    "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
+    "source": "Wired",
+    "date": "2026-06-18T21:03:43+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-18T20:30:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe",
+    "summary": "Meta Platforms Inc. has secured new agreements to get AI computing power from data center developer Crusoe, bolstering the infrastructure it needs to support an ambitious artificial intelligence expansion.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-18T20:13:46+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+    "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+    "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid.  In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-18T20:00:27+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-18T19:59:22+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Rumble Bets on AI Compute Demand With New AI Platform",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-18/rumble-bets-on-ai-compute-demand-with-new-ai-platform-video",
+    "summary": "Video platform Rumble is jumping on the AI bandwagon with its newest AI platform. Launching as Quake AI, the new sector combines cloud, compute, and AI infrastructure, and is slated to dominate the company's business segment. Rumble CEO Chris Pavlovski joins Ed Ludlow on \"Bloomberg Tech\" with more on the pivot. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-18T19:10:23+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-18T18:51:46+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-18T18:22:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-06-18T18:13:13+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-18T17:49:23+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
+  },
+  {
     "title": "WWW Inventor Tim Berners-Lee on Development of AI",
     "url": "https://www.bloomberg.com/news/videos/2026-06-18/www-inventor-tim-berners-lee-on-development-of-ai-video",
     "summary": "Tim Berners-Lee, the inventor of the World Wide Web, discusses the development of artificial intelligence with Bloomberg's Francine Lacqua and Tom Mackenzie at the VivaTech x Bloomberg Awards in Paris. (Source: Bloomberg)",
@@ -28,6 +288,16 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-06-18"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "source": "OpenAI Blog",
+    "date": "2026-06-18T17:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-19"
   },
   {
     "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
@@ -2557,296 +2827,6 @@
     "date": "2026-06-12T11:02:01+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "New OpenAI Academy courses for the next era of work",
-    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "source": "OpenAI Blog",
-    "date": "2026-06-12T10:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "London's AI Boom | Bloomberg Tech: Europe 6/12/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-12/london-s-ai-boom-bloomberg-tech-europe-6-12-2026-video",
-    "summary": "In this episode of Bloomberg Tech: Europe, Bloomberg’s Tom Mackenzie dives into London's AI boom. The UK capital is on a tear, with Britain leading the AI wave in Europe, so what's behind the explosive growth and how did London become a global center for artificial intelligence? Bloomberg speaks to key players, including the co-Founder of ElevenLabs - the UK's most valuable AI start-up.\n\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T09:43:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Fiducia istituzionale e blockchain, il ruolo degli archivi pubblici",
-    "url": "https://www.agendadigitale.eu/documenti/fiducia-istituzionale-e-blockchain-il-ruolo-degli-archivi-pubblici/",
-    "summary": "Gli archivi digitali pubblici sono al centro di una trasformazione che coinvolge fiducia istituzionale, autenticazione documentale e nuove architetture algoritmiche. Il confronto con blockchain e intelligenza artificiale riapre il tema della credibilità dei documenti pubblici L'articolo Fiducia istituzionale e blockchain, il ruolo degli archivi pubblici proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-12T09:40:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX IPO Shows Willingness to Finance AI, Waldron Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-ipo-shows-willingness-to-finance-ai-waldron-says-video",
-    "summary": "John Waldron, Goldman Sachs president and chief operating officer discusses SpaceX's record IPO and whether markets can absorb two other possible big IPOs by the end of the year. \"Capital markets are demonstrating a willingness to finance these extraordinary companies as we build out this AI infrastructure,\" he tells Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T09:26:32+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Goldman’s Waldron Says SpaceX Shows Investor Zeal for Funding AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/goldman-s-waldron-says-spacex-shows-investor-zeal-for-funding-ai",
-    "summary": "SpaceX’s record-setting initial public offering shows investors are eager to finance artificial intelligence infrastructure, according to Goldman Sachs Group Inc. President John Waldron.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T09:20:57+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Tech Secretary Vows More Help for UK AI Sector",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-12/tech-secretary-vows-more-help-for-uk-ai-sector-video",
-    "summary": "Technology Secretary Liz Kendall says the UK’s Labour government will strengthen efforts to drive institutional funds into British tech companies, as she pledged more backing for the country’s artificial intelligence sector. Speaking to Bloomberg TV during London Tech Week, Kendall said she wants The government wants to unlock investment into UK firms with legal reforms to how pension funds are run. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T09:17:57+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "UK Needs More Affordable Power Plants To Drive AI: Miller",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-12/miller-uk-needs-to-invest-in-affordable-power-plants-video",
-    "summary": "Evantic Capital Founder and Managing Partner Matt Miller says the UK needs to invest in more affordable power plants, including nuclear energy, to boost the the country's AI sector.\nMiller is a former partner at Sequoia Capital who last year founded Evantic, a 400 million dollar UK-based venture capital fund. Miller spoke to Tom Mackenzie on Bloomberg Tech: Europe. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T09:13:32+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-    "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-    "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-12T09:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Scammers Used Gemini AI to Help Build Spam Messages, Google Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/scammers-used-gemini-ai-to-help-build-spam-messages-google-says",
-    "summary": "Alphabet Inc.’s Google filed a lawsuit against a suspected Chinese cybercrime operation, alleging that the group used artificial intelligence to send more than 2 million text messages with fraudulent links attempting to scam cellphone users.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T09:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Tra AI e cybersecurity, l’Europa cerca la strada per restare competitiva",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/tra-ai-e-cybersecurity-leuropa-cerca-la-strada-per-restare-competitiva/",
-    "summary": "La competitività europea passa sempre più da innovazione tecnologica, Intelligenza artificiale, cybersecurity, ricerca e semplificazione normativa. Dai Rapporti Draghi e Letta ai programmi Digital Europe, Horizon Europe e alle nuove misure UE, emerge una trasformazione profonda che coinvolge imprese, sanità, mercato unico e asset strategici L'articolo Tra AI e cybersecurity, l’Europa cerca la strada per restare competitiva proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-12T08:35:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Odd Lots: Making the Hay Market More Transparent (Podcast)",
-    "url": "https://www.bloomberg.com/news/audio/2026-06-12/odd-lots-making-the-hay-market-more-transparent-podcast",
-    "summary": "The hay market is not a transparent market: It is very fractured by types of hay, whether it is alfalfa or clover hay. There are a few opaque, illiquid markets like this — scrap metal for instance — that require some hands-on investigating to figure out. Aiden Johnson is co-founder and CEO of the HayWire newsletter, which aims to make the hay market more transparent: He and co-founder Cole Glasgow use an AI model to mine public data sources — like USDA reports on auction prices across different",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T08:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Anthropic, OpenAI, Google Executives Plan to Attend G7 Summit",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/anthropic-openai-google-executives-plan-to-attend-g7-summit",
-    "summary": "Artificial intelligence executives from Anthropic PBC, OpenAI and Alphabet Inc.’s Google are slated to attend the Group of Seven summit, a gathering of world leaders that gets underway next week in France.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T07:54:50+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "UK Tech Secretary Vows More Action on Pushing Funds to Startups",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/uk-tech-secretary-vows-more-action-on-pushing-funds-to-startups",
-    "summary": "The UK’s Labour government will strengthen efforts to drive institutional funds into British tech companies, Technology Secretary Liz Kendall said, as she pledged more backing for the country’s artificial intelligence sector.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T07:30:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Siri won’t be your AI girlfriend",
-    "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-    "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you use many […]",
-    "source": "The Verge AI",
-    "date": "2026-06-12T03:00:31-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Kioxia Becomes Japan’s Most Valuable Firm as AI Mania Goes On",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/kioxia-becomes-japan-s-most-valuable-firm-as-ai-mania-goes-on",
-    "summary": "Memory chipmaker Kioxia Holdings Corp. replaced Toyota Motor Corp. to become Japan’s largest company by market value, underscoring how the global artificial intelligence boom is reshaping the country’s corporate landscape.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T07:00:22+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "RLRWLD CEO on Nvidia Partnership, DexBench",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-12/rlrwld-ceo-on-nvidia-partnership-dexbench-video",
-    "summary": "Junghee Ryu, Founder and CEO of South Korean robotics startup, RLWRLD, discusses the company's partnership with Nvidia to build a universal benchmark for evaluating how well robots use their hands to manipulate objects and complete tasks. The company is aiming to develop next-generation industry standards for humanoid robotics.\nHe speaks with Shery Ahn on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T05:49:42+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T04:30:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-    "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T01:48:07+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T01:04:38+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "url": "https://openai.com/index/preply",
-    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "source": "OpenAI Blog",
-    "date": "2026-06-12T00:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "MediaTek’s Rally Signals Shift From Laggard to AI Contender",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender",
-    "summary": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-11T23:30:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "ChatGPT Pushed Back on LA Fire Suspect’s Vision of Burning City",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-11/chatgpt-pushed-back-on-la-fire-suspect-s-vision-of-burning-city",
-    "summary": "The man accused of setting the massive Palisades Fire in Los Angeles repeatedly asked ChatGPT to create images of a city engulfed in flames and floods, and cursed at OpenAI’s chatbot when it told him the scenery he envisioned was too violent, jurors at his trial were told Thursday.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-11T23:25:28+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-    "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-    "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
-    "source": "Wired",
-    "date": "2026-06-11T21:21:04+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
-    "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
-    "summary": "Activists raised a 40-foot-tall inflatable Elon Musk in Manhattan to draw attention to the risk he allegedly poses to investors.",
-    "source": "Wired",
-    "date": "2026-06-11T20:50:13+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-    "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-    "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-11T20:33:10+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-    "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
-    "source": "Google AI Blog",
-    "date": "2026-06-11T20:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-    "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-    "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-11T19:58:01+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
-    "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
-    "summary": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
-    "source": "Wired",
-    "date": "2026-06-11T19:41:01+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Extract Data with On-demand and Batch Pipelines Dynamically",
-    "url": "https://aws.amazon.com/blogs/machine-learning/extract-data-with-on-demand-and-batch-pipelines-dynamically/",
-    "summary": "This post demonstrates an intelligent document processing pipeline that consists of both on-demand inference and batch inference options on Amazon Bedrock to enable the flexibility on the document processing time and cost.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-11T19:40:33+00:00",
-    "category": "models_research",
-    "_slot": "morning",
     "_slot_date": "2026-06-12"
   }
 ]
