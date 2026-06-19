@@ -1,5 +1,185 @@
 [
   {
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "source": "TechCrunch AI",
+    "date": "2026-06-19T16:08:17+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+    "source": "TechCrunch AI",
+    "date": "2026-06-19T16:01:03+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-19T15:23:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Intelligenza artificiale nelle aziende: impatti concreti e scenari evolutivi",
+    "url": "https://www.agendadigitale.eu/documenti/intelligenza-artificiale-nelle-aziende-impatti-concreti-e-scenari-evolutivi/",
+    "summary": "L’intelligenza artificiale entra nei processi aziendali con effetti su automazione, analisi dei dati e modelli software. Dall’AI agentica alle piattaforme digitali, cambiano funzioni interne, competenze professionali e criteri di valore, mentre restano centrali integrazione, conformità normativa e differenze tra grandi imprese e PMI L'articolo Intelligenza artificiale nelle aziende: impatti concreti e scenari evolutivi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-19T15:04:35+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "UnitedHealth’s $3 Billion AI Push Has Bots Calling Doctors",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/unitedhealth-bets-3-billion-on-ai-to-cut-costs-tame-backlash",
+    "summary": "At UnitedHealth Group Inc., artificial intelligence reads aloud summaries of medical charts as nurses drive to patients’ homes. It listens to millions of customer calls to find the causes of complaints. One trial even has AI agents calling doctors’ offices to schedule appointments for patients.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T14:55:56+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "The film about Sam Altman has been dropped by Amazon MGM",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
+    "source": "The Verge AI",
+    "date": "2026-06-19T10:15:29-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+    "summary": "Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of code.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-19T14:15:24+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
+    "summary": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-19T14:05:04+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "SAP and Google Cloud deploy agentic commerce architecture",
+    "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+    "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) […] The post SAP and Google Cloud deploy agentic commerce architecture appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-06-19T14:02:20+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Banning Open Source AI Would Be A Mistake",
+    "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+    "summary": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
+    "source": "Interconnects",
+    "date": "2026-06-19T13:02:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-19T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Quanto costano gli F24 alle PMI: i vantaggi dell’automazione con l’AI",
+    "url": "https://www.agendadigitale.eu/documenti/quanto-costano-gli-f24-alle-pmi-i-vantaggi-dellautomazione-con-lai/",
+    "summary": "Le PMI italiane sostengono costi rilevanti per la gestione degli F24, tra deleghe ai consulenti, inserimenti manuali e controlli interni. La digitalizzazione fiscale e l’intelligenza artificiale possono ridurre tempi, errori e oneri operativi, ma la semplificazione deve diventare davvero accessibile L'articolo Quanto costano gli F24 alle PMI: i vantaggi dell’automazione con l’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-19T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "The Download: AI bottleneck debates, and BCI trials take off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-19T12:10:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
+    "summary": "The Trump administration’s push to rein in Anthropic PBC, outlined in a recent Commerce Department order, relies on an unprecedented use of export control laws and raises legal questions about whether the US can dictate who can access artificial intelligence systems.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T12:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "EU Tech Chief Virkkunen on AI, Sovereignty, US",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-19/eu-tech-chief-virkkunen-on-ai-sovereignty-us-video",
+    "summary": "Henna Virkkunen, EU's top technology official, & Executive Vice President sat down with Bloomberg's Tom Mackenzie on the sidelines of VivaTech in Paris to discuss EU AI regulation, cybersecurity risks, Europe's technological sovereignty, and reducing reliance on non-European technology providers in critical sectors. This interview occurred on Wednesday, June 17. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T11:53:04+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Il CFO cambia ruolo: meno controllo passivo, più guida strategica",
+    "url": "https://www.agendadigitale.eu/industry-4-0/il-cfo-cambia-ruolo-meno-controllo-passivo-piu-guida-strategica/",
+    "summary": "Il CFO assume un ruolo sempre più strategico nelle aziende, tra finanza progressiva, governance dell’intelligenza artificiale, digitalizzazione dei processi e controllo della compliance. La funzione Finance diventa così un motore di modernizzazione, agilità e competitività L'articolo Il CFO cambia ruolo: meno controllo passivo, più guida strategica proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-19T11:12:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "Chipmakers Renew Nerdy Performance Tussle That Nvidia’s Dominance Had Quashed",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-19/nvidia-s-ai-wins-had-quashed-the-benchmark-fight-cpu-race-is-bringing-it-back",
+    "summary": "With CPUs back in the spotlight, so too is the PR fight over benchmarks",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-19T10:40:24+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-19"
+  },
+  {
     "title": "Try One of macOS 27’s Best Features Right Now",
     "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
     "summary": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait.",
@@ -2666,166 +2846,6 @@
     "source": "AI Alignment Forum",
     "date": "2026-06-12T17:14:39+00:00",
     "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Sympathy for both sides of the egregious misalignment debate",
-    "url": "https://www.alignmentforum.org/posts/DZaZ3fqHnvfLCftPu/sympathy-for-both-sides-of-the-egregious-misalignment-debate",
-    "summary": "On one side of this debate is Yudkowsky & Soares, who think that (if AI progress continues) we’re on a direct path to egregiously-misaligned, scheming, out-of-control, rogue superintelligence (ASI), not even slightly nice , in the absence of yet-to-be-invented breakthrough technical alignment ideas. On the other side of this debate is almost everyone who works on or studies LLMs. Some of them are very concerned about egregious scheming, others much less so, and as a group they’re equally or more",
-    "source": "AI Alignment Forum",
-    "date": "2026-06-12T16:26:12+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Elon Musk is the world&#8217;s first trillionaire",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-    "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above […]",
-    "source": "The Verge AI",
-    "date": "2026-06-12T12:24:39-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-    "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-    "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same window, and it’s a stress test for investors, for valuations, and for […]",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T16:23:25+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX Isn’t in the S&P 500. That's Good.",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-12/opinion-spacex-isn-t-in-the-s-p-500-that-s-good-video",
-    "summary": "The S&P 500 shouldn’t make exceptions for big tech companies like SpaceX, Anthropic or OpenAI. Keeping its criteria for admission is more important, says Bloomberg Opinion columnist Nir Kaissar. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T16:08:52+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "olmo-eval: An evaluation workbench for the model development loop",
-    "url": "https://huggingface.co/blog/allenai/olmo-eval",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-12T15:56:10+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "It’s hot IPO summer, and the MANGOS are ripe",
-    "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-    "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public markets in the same window, and it’s a stress test for investors, for valuations, and for […]",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T15:50:52+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Build a meeting prep and follow-up assistant with Amazon Quick and Cisco Webex MCP servers",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
-    "summary": "This post shows how to build a custom meeting prep and follow-up assistant using Amazon Quick and Cisco Webex MCP servers. From a single prompt, the agent finds an upcoming Webex meeting, reviews prior meeting summaries and transcripts, and pulls related Vidcast highlights and transcript context. It then searches Webex message threads for unresolved follow-ups and creates a concise prep brief. After the meeting, the same assistant can summarize the discussion and identify action items. It can al",
-    "source": "AWS ML Blog",
-    "date": "2026-06-12T14:49:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "From PDFs to insights: Architecting an intelligent document processing pipeline with AWS generative AI services",
-    "url": "https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/",
-    "summary": "This post outlines the development of a cost-effective and scalable intelligent document processing pipeline on AWS, powered by Amazon Bedrock and its features. BDA is a managed service within Amazon Bedrock that automates the extraction of insights from documents. We demonstrate how BDA extracts and analyzes document content, while Strands Agent hosted on Amazon Bedrock AgentCore Runtime coordinate specialized processing tasks, and Amazon Bedrock Knowledge Base enable contextual understanding a",
-    "source": "AWS ML Blog",
-    "date": "2026-06-12T14:43:11+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX’s massive IPO: all the latest news",
-    "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-    "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire.  He’ll have more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home […]",
-    "source": "The Verge AI",
-    "date": "2026-06-12T10:35:48-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX IPO: Everything you need to know",
-    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T14:08:54+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-    "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now […]",
-    "source": "The Verge AI",
-    "date": "2026-06-12T10:03:39-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "France’s Mistral in Funding Talks at About €20 Billion Valuation",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation",
-    "summary": "French startup Mistral AI is in talks to raise around €3 billion ($3.5 billion) at a valuation of roughly €20 billion, according to people familiar with the discussions, providing Europe’s artificial intelligence champion with a cash injection as it competes in a costly computing race against competitors in the US and China.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T13:00:46+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Built from the inside out: How AWS Professional Services became a frontier team first",
-    "url": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
-    "summary": "AWS Professional Services (AWS ProServe) compressed engagement timelines from months to days, not by adding artificial intelligence (AI) tools to an existing process, but by fundamentally rebuilding how we deliver from the inside out. In this post, we share how AWS ProServe became a frontier team, the practices that enabled it, and what your engineering organization can take from our experience.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-12T13:00:10+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-    "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-12T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "SpaceX Gets a $165 Price Target From New Street’s Ferragu",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-gets-a-165-price-target-from-new-steet-s-ferragu-video",
-    "summary": "Pierre Ferragu managing director at New Street Research, discusses the record-breaking SpaceX IPO, his growth and capex expectations for the company moving forward, and the “Musk premium” factored into its valuation.  (Corrects spelling of analyst’s firm in headline.) (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T11:06:03+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Latest AI Doomers Imagine How Europe ‘Slides Into Irrelevance’",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/ai-doomers-urge-major-push-to-keep-europe-from-sliding-into-irrelevance",
-    "summary": "Report urges ‘most ambitious’ effort to keep pace in the AI race",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T11:02:01+00:00",
-    "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-06-12"
   }
