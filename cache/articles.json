@@ -1,5 +1,15 @@
 [
   {
+    "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
+    "url": "https://www.youtube.com/watch?v=vXiB0UdDhk8&list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-06-20T15:36:27+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-20"
+  },
+  {
     "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
     "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
     "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
@@ -2668,75 +2678,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-06-14"
-  },
-  {
-    "title": "SFT Drives Gemini’s Safety Properties",
-    "url": "https://www.alignmentforum.org/posts/nLrrYweeFxgXACSmS/sft-drives-gemini-s-safety-properties-1",
-    "summary": "This is the third in a series of informal research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The second post can be found here . In this short post, we describe a surprising finding: most safety relevant properties in Gemini seem to be caused by the combination of pretraining and SFT, not other training stages like RL. We do not want to overstate this claim as applying to other model families, and we also note that this may cha",
-    "source": "AI Alignment Forum",
-    "date": "2026-06-13T15:31:52+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "My yard is dying, so I made an app for that",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-    "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]",
-    "source": "The Verge AI",
-    "date": "2026-06-13T09:00:00-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-    "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In […]",
-    "source": "The Verge AI",
-    "date": "2026-06-13T08:55:49-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-    "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-    "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]",
-    "source": "The Verge AI",
-    "date": "2026-06-13T08:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Perché lo stop Usa a Fable e Mythos cambia la sovranità tech",
-    "url": "https://www.agendadigitale.eu/sicurezza/perche-lo-stop-usa-a-fable-e-mythos-cambia-la-sovranita-tech/",
-    "summary": "Lo stop imposto dal Governo degli Stati Uniti ai modelli Fable 5 e Mythos 5 mostra quanto l’accesso all’AI di frontiera dipenda da autorizzazioni revocabili. Per PA, banche, sanità ed energia la questione non è solo tecnica: riguarda continuità, giurisdizione e controllo dello stack L'articolo Perché lo stop Usa a Fable e Mythos cambia la sovranità tech proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-13T11:41:12+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-    "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of […]",
-    "source": "The Verge AI",
-    "date": "2026-06-13T07:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Global Capitalism Bets It All on AI Future That Alarms Voters",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-    "summary": "Days after filing confidentially to go public, Anthropic, the $965 billion artificial intelligence juggernaut that’s one of the fastest-growing startups of all time, dropped another bombshell.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-13T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-13"
   }
 ]
