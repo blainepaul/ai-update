@@ -1,5 +1,45 @@
 [
   {
+    "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-19T22:40:14+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-20"
+  },
+  {
+    "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
+    "summary": "President Donald Trump said he doesn’t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company’s most advanced artificial intelligence models.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T19:49:23+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-20"
+  },
+  {
+    "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
+    "summary": "Google DeepMind Vice President John Jumper, who won the 2024 Nobel Prize in chemistry for his work on artificial intelligence, is leaving the company to join Anthropic PBC.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-19T18:43:36+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-20"
+  },
+  {
+    "title": "IEEE Rolls Out Large Language Models Virtual Training Course",
+    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+    "summary": "Large language models have moved out of the research lab and into engineers’ daily workflow. LLMs serve as reasoning engines that can orchestrate complex tasks including identifying vulnerabilities in source code and transforming fragmented project discussions into rigorous technical specifications. While the general public uses AI tools to write email and plan vacations, technical professionals use LLMs as core architectural elements that are fundamentally changing how digital infrastructures a",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-06-19T18:00:01+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-20"
+  },
+  {
     "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
     "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
     "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
@@ -2698,155 +2738,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Here’s How AI Agents Can Protect EV Chargers",
-    "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
-    "summary": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
-    "source": "Wired",
-    "date": "2026-06-13T06:30:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-13T04:14:19+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-13T02:26:30+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-    "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-    "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-    "source": "Wired",
-    "date": "2026-06-13T02:26:10+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "OpenAI Probed by Coalition of State Attorneys General",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-    "summary": "OpenAI is under investigation by a coalition of state attorneys general who requested information from the artificial intelligence company on a wide range of topics.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-13T00:27:02+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "SpaceX IPO: Live updates on everything you need to know",
-    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T23:15:14+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T23:00:54+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-    "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-    "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-12T21:00:08+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Building Supercharger: How Rocket Close optimized title operations with agentic AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
-    "summary": "In this post, we explore how Rocket Close built a solution using Strands Agents, large language models (LLMs), Amazon Bedrock, Amazon Bedrock Knowledge Bases, and Model Context Protocol (MCP) tools. We cover solution features, the rationale for the technology stack, lessons learned, and the business impact at Rocket Close.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-12T20:43:56+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-    "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-    "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T20:38:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "SpaceX Rented Out Computing After Own Teams Had Trouble Using It",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it",
-    "summary": "SpaceX decided to rent out the full capacity of its Colossus 1 data center in Memphis to Anthropic PBC after encountering technical challenges using the facility to develop and run its Grok artificial intelligence models, according to people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-12T18:30:50+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Mistral is rumored to be raising €3B at €20B valuation",
-    "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-    "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-12T17:38:11+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "China Didn’t Make Americans Hate Data Centers",
-    "url": "https://www.wired.com/story/china-us-data-center-opposition/",
-    "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
-    "source": "Wired",
-    "date": "2026-06-12T17:17:10+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-13"
-  },
-  {
-    "title": "Siri is good now??",
-    "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-    "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of […]",
-    "source": "The Verge AI",
-    "date": "2026-06-12T13:17:04-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
-  },
-  {
-    "title": "Building and evaluating model diffing agents",
-    "url": "https://www.alignmentforum.org/posts/qi4mNbZYAFDYwfRba/building-and-evaluating-model-diffing-agents",
-    "summary": "This is the second in a series of research updates from the Google DeepMind Language Model Interpretability team, in interpretability and adjacent areas. The first post can be found here . TL;DR It is possible to build extremely simple agents that reliably find interesting behavioural differences between distinct models. We call these ‘diffing agents’. The closest previous 'behavioural model diffing' work has focussed on understanding behavioural differences between two models on some static pro",
-    "source": "AI Alignment Forum",
-    "date": "2026-06-12T17:14:39+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-12"
   }
 ]
