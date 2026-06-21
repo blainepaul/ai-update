@@ -1,5 +1,55 @@
 [
   {
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-21T15:28:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-21"
+  },
+  {
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-21T14:40:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-21"
+  },
+  {
+    "title": "UK to Ban Social Media for Under-16s Starting Next Year",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-21/uk-to-ban-social-media-for-under-16s-starting-next-year-video",
+    "summary": "Big tech companies design their products to maximize user attention, often without regard to whether the content is beneficial, especially for children. Beeban Kidron, author of 'Users,' joins Bloomberg This Weekend to discuss with hosts David Gura and Christina Ruffini the need for government intervention to regulate product design, parental responsibility in managing usage, and consumer awareness to make informed choices in the attention economy. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-21T14:39:11+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-21"
+  },
+  {
+    "title": "I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context VRAM savings. Open weights + custom Triton kernels [R]",
+    "url": "https://huggingface.co/Tripstoph/RRT-Foundation",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-06-21T10:46:36+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-21"
+  },
+  {
+    "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+    "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+    "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+    "source": "Wired",
+    "date": "2026-06-21T10:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-21"
+  },
+  {
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
