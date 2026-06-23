@@ -1,5 +1,265 @@
 [
   {
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-23T17:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
+    "summary": "This post shows you how to build a conversational protein research assistant that combines three capabilities: Natural language query parsing to extract structured search parameters, vector similarity search over protein embeddings using a specialized language model and ai-generated scientific summaries of search results.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-23T16:39:34+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Omio scales travel product development using OpenAI models",
+    "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+    "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition of technology to outdated internal processes. The company’s CTO, Tomas Vocetka, requires all internal functions to completely redesign […] The post Omio scales travel product development using OpenAI",
+    "source": "AI News (AIN)",
+    "date": "2026-06-23T16:32:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Menlo Ventures' Ganesan on Anthropic Bet, Backing AI Startups",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-23/menlo-ventures-ganesan-on-anthropic-bet-ai-startups-video",
+    "summary": "Menlo Ventures has raised $3 billion for new AI investments, the biggest fundraise in the firm's 50-year history, reflecting how dramatically venture capital is changing as investors race to back the next generation of AI winners. Menlo Ventures partner Venky Ganesan joins Bloomberg's Natasha Mascarenhas and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T16:29:54+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "The Best Movies to Stream This Month (June 2026)",
+    "url": "https://www.wired.com/story/the-12-best-movies-to-stream-right-now/",
+    "summary": "I Am Frankelda, A.I. Artificial Intelligence, and From Russia With Love are among the films deserving of your eyeballs this month.",
+    "source": "Wired",
+    "date": "2026-06-23T16:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
+    "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+    "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal […]",
+    "source": "The Verge AI",
+    "date": "2026-06-23T11:56:35-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
+    "summary": "In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patterns demonstrated through healthcare AI agents that serve multiple clinics and hospitals.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-23T15:43:59+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+    "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me […]",
+    "source": "The Verge AI",
+    "date": "2026-06-23T11:00:00-04:00",
+    "category": "healthcare",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-23T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+    "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+    "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you […]",
+    "source": "The Verge AI",
+    "date": "2026-06-23T09:25:42-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul",
+    "summary": "In 2024, Menlo Ventures made the risky decision to raise $500 million to invest in Anthropic PBC, then an underdog rival to OpenAI that had yet to generate meaningful revenue or gain mainstream adoption like ChatGPT.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T13:00:15+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-23T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Meta launches cheaper smart glasses without Ray-Ban",
+    "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+    "summary": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite […]",
+    "source": "The Verge AI",
+    "date": "2026-06-23T09:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-06-23T12:51:55+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "AI: metà degli italiani la usa, ma la fiducia crolla su lavoro e salute",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-meta-degli-italiani-la-usa-ma-la-fiducia-crolla-su-lavoro-e-salute/",
+    "summary": "L’indagine Eurispes sul rapporto tra italiani e Intelligenza artificiale mostra una tecnologia ormai entrata nelle pratiche quotidiane, ma ancora lontana da una piena legittimazione sociale. Uso, fiducia e percezioni cambiano in base a età, lavoro e contesti decisionali L'articolo AI: metà degli italiani la usa, ma la fiducia crolla su lavoro e salute proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-23T12:49:00+00:00",
+    "category": "healthcare",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Nucleare per data center: perché l’Italia riapre la partita dell’atomo",
+    "url": "https://www.agendadigitale.eu/smart-city/nucleare-per-data-center-perche-litalia-riapre-la-partita-dellatomo/",
+    "summary": "Il ritorno al nucleare in Italia non riguarda solo bollette e rischio, ma la disponibilità di potenza elettrica continua e decarbonizzata per data center, intelligenza artificiale e industria avanzata. La sfida è legare energia, calcolo e autonomia tecnologica L'articolo Nucleare per data center: perché l’Italia riapre la partita dell’atomo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-23T12:11:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+    "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-23T12:10:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "AgID multata per le PEC in INAD: la sanzione che riguarda la privacy di tutti",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/agid-multata-per-le-pec-in-inad-la-sanzione-che-riguarda-la-privacy-di-tutti/",
+    "summary": "Il Garante ha sanzionato AgID con 55.000 euro per la gestione del riversamento delle PEC professionali da INI-PEC a INAD. Le violazioni riguardano trasparenza, limitazione della finalità, privacy by default e accountability. Un caso che ridefinisce gli obblighi nella digitalizzazione pubblica L'articolo AgID multata per le PEC in INAD: la sanzione che riguarda la privacy di tutti proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-23T12:08:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "AI Is Learning to Read the Room",
+    "url": "https://spectrum.ieee.org/emotion-ai-context",
+    "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your voice wavers. As you shift your posture, your shoulders slump. These are subtle cues that to the human eye might hint at underlying stress. But to an AI model that’s been trained only to categorize emo",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-06-23T12:00:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Cybersecurity, perché il gap di competenze espone le aziende ai breach",
+    "url": "https://www.agendadigitale.eu/sicurezza/cybersecurity-perche-il-gap-di-competenze-espone-le-aziende-ai-breach/",
+    "summary": "Il Global Cybersecurity Skills Gap Report 2026 di Fortinet evidenzia il peso della carenza di competenze sulla sicurezza delle aziende. Tra violazioni, costi economici, intelligenza artificiale e formazione continua, la cybersecurity diventa una priorità strategica per imprese, scuole e sistema educativo L'articolo Cybersecurity, perché il gap di competenze espone le aziende ai breach proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-23T11:07:19+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "MGX’s $50 Billion Raise Sets Up One of the Biggest AI Funds Ever",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals",
+    "summary": "Abu Dhabi’s MGX has raised close to $50 billion from regional and global investors to accelerate spending on artificial intelligence infrastructure and technology, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T10:57:46+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal",
+    "summary": "The stock-image giant tried home-grown AI before its tie-up with OpenAI.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T10:30:02+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
+    "summary": "Oracle Corp. reduced its workforce by a wider scale than previously known, cutting 21,000 employees in the past 12 months. The reductions include jobs that were eliminated by the use of artificial intelligence. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T10:11:57+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Governare il ragionamento, la chiave per un uso intensivo dell’AI nella PA",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/governare-il-ragionamento-la-chiave-per-un-uso-intensivo-dellai-nella-pa/",
+    "summary": "Le dashboard conversazionali nella pubblica amministrazione cambiano il modo in cui enti e funzionari accedono ai dati. L’esperienza del Comune di Cinisello Balsamo mostra come linguaggio naturale, Digital Twin e AI governata possano trasformare una domanda in mappe, tabelle, grafici e spiegazioni L'articolo Governare il ragionamento, la chiave per un uso intensivo dell’AI nella PA proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-23T10:07:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "BBVA Offloads AI Risk With $2 Billion Infrastructure-Linked SRT",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/bbva-offloads-ai-risk-with-2-billion-infrastructure-linked-srt",
+    "summary": "BBVA SA is close to completing a significant risk transfer to hedge some of its rapidly-expanding portfolio of artificial intelligence-related lending.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T10:05:20+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Google Taps Employee Alumni Network With AI Startup Incubator",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator",
+    "summary": "Alphabet Inc.’s Google is backing a new incubator for former employees building artificial intelligence startups, deepening its ties with one of Silicon Valley’s largest and most influential alumni groups.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-23"
+  },
+  {
     "title": "Intelligenza Artificiale in sanità, perché l’Italia deve correre",
     "url": "https://www.agendadigitale.eu/sanita/intelligenza-artificiale-in-sanita-perche-litalia-deve-correre/",
     "summary": "L’adozione dell’Intelligenza Artificiale in sanità entra in una fase decisiva tra modelli regolatori globali, resistenze culturali, ritorno economico e sanità predittiva. Per l’Italia, stretta tra crisi demografica e carenza di personale, l’IA diventa una leva strategica per il futuro del SSN L'articolo Intelligenza Artificiale in sanità, perché l’Italia deve correre proviene da Agenda Digitale .",
@@ -2498,275 +2758,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-    "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-    "summary": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announcing the chip today at Augmented World Expo, we've technically already gotten a hands-on with a device powered by the new chip at […]",
-    "source": "The Verge AI",
-    "date": "2026-06-16T13:00:00-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T16:49:44+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-    "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-    "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-16T16:30:27+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Insurers pivot AI strategy toward core risk underwriting",
-    "url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
-    "summary": "AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence underwriting discipline and capital allocation. Christian Preece, Insurance Director at Evident, says: “For years, insurers have competed on AI ambition, […] The post Insurers pivot AI strategy toward core risk underwriting appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-06-16T15:55:02+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "SpaceX is public: Everything you need to know post-IPO",
-    "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T15:53:12+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T15:05:03+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-    "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
-    "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably.  As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising.  In […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-16T15:00:36+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T15:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T14:50:09+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Frontier post-training recipe review with Finbarr Timbers",
-    "url": "https://www.interconnects.ai/p/frontier-post-training-recipe-review",
-    "summary": "\"Interview\" #18",
-    "source": "Interconnects",
-    "date": "2026-06-16T13:29:30+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Probably raises $9M to build a more reliable kind of AI",
-    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T13:15:09+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Startup Backed by Ex-Google CEO Debuts Robot, LG Partnership",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/startup-backed-by-ex-google-ceo-debuts-industrial-robot-with-lg",
-    "summary": "A startup backed by former Google Chief Executive Officer Eric Schmidt unveiled an industrial robot powered by artificial intelligence, as investors pile into the emerging field of humanoids.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Dan Ives on US-Anthropic Talks, AI M&A, Open AI Losses",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-16/dan-ives-on-us-anthropic-talks-ai-m-a-open-ai-losses-video",
-    "summary": "Dan Ives, global senior equity analyst at Wedbush Securities, discusses what he calls the “tug of war” between Anthropic and the Trump administration, why he expects accelerated M&A on artificial intelligence, and reported losses at OpenAI ahead of the company’s IPO later this year.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T11:53:19+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "UK Regulator Weighs Cutting Data Center Power Use at Peak Times",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/uk-regulator-weighs-forcing-data-centers-to-cut-power-during-grid-stress",
-    "summary": "The UK’s energy regulator is weighing whether future data centers should be required to reduce power consumption during periods of system stress, part of a broader effort to accommodate a surge in electricity demand from artificial intelligence and cloud computing.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T11:48:52+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "SpaceX is officially buying Cursor for $60 billion",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-    "summary": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise customers and close the gap with AI rivals like Anthropic and OpenAI. The takeover was not entirely unexpected: SpaceX announced […]",
-    "source": "The Verge AI",
-    "date": "2026-06-16T07:41:31-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "Goldman Traders See Room for Rally to Broaden Beyond AI Winners",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/goldman-traders-see-room-for-rally-to-broaden-beyond-ai-winners",
-    "summary": "Easing tensions in the Middle East is giving investors a new reason to look beyond the artificial intelligence trade that’s dominated the market narrative for most of the year.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T11:40:38+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T11:21:41+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
-    "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "summary": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-    "source": "Ars Technica",
-    "date": "2026-06-16T11:15:46+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "Anthropic’s AI Runs Into DC Rule Inconsistency",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-16/anthropic-s-mythos-and-fable-models-trigger-policy-reversal-by-white-house",
-    "summary": "The AI pioneer is working to allay White House concerns about national security",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T11:02:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "Plaud Plans New Wearable as AI Note-Taking Startup Eyes $500 Million in Sales",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/plaud-plans-new-wearable-as-ai-note-taking-startup-eyes-500-million-in-sales",
-    "summary": "Plaud Inc., a startup that makes artificial intelligence note-taking devices, said it’s planning to release a new wearable device later this year that can work with AI agents and that it expects to book $500 million in sales in 2026.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T11:00:17+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "Stablecoin conformi al MiCA, il vantaggio europeo nei pagamenti agentici",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pagamenti-digitali/stablecoin-conformi-al-mica-il-vantaggio-europeo-nei-pagamenti-agentici/",
-    "summary": "L’e-commerce si prepara a una trasformazione guidata dagli agenti IA, capaci di acquistare, pagare e gestire transazioni in autonomia. Le stablecoin emergono come infrastruttura chiave per micropagamenti, tesoreria automatizzata e commercio agentico, con il MiCA europeo come possibile vantaggio competitivo L'articolo Stablecoin conformi al MiCA, il vantaggio europeo nei pagamenti agentici proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-16T11:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "SpaceX Cements $60 Billion Cursor Takeover Following IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-cements-60-billion-deal-to-take-over-ai-startup-cursor",
-    "summary": "SpaceX has formally agreed to take over Cursor in a deal that values the AI coding startup at $60 billion, cementing a key part of Elon Musk’s efforts to catch up with rivals on coding tools.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T10:58:32+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "Trump’s Anthropic Crackdown Sets Off AI Alarms for US Allies",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/trump-s-anthropic-crackdown-sets-off-ai-alarms-for-us-allies",
-    "summary": "With the recent crackdown on Anthropic, the Trump administration has given global leaders another reason to panic about their place in the technology race.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T10:46:57+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "Salute di genere e AI: quando i dati escludono le donne",
-    "url": "https://www.agendadigitale.eu/sanita/salute-di-genere-e-ai-quando-i-dati-escludono-le-donne/",
-    "summary": "L'integrazione dell'intelligenza artificiale in medicina rischia di ampliare le disuguaglianze di genere se i dataset restano sbilanciati. Il volume Il nuovo dono di Eva analizza bias algoritmici, farmacologia di genere, FemTech e comunicazione sanitaria come strumenti per una medicina equa e personalizzata L'articolo Salute di genere e AI: quando i dati escludono le donne proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-16T10:33:00+00:00",
-    "category": "healthcare",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "ChatGPT’s market share slips below 50% for first time",
-    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-    "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T10:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Europe Offers Cheaper AI Bets as Focus Shifts, Citi’s Badoy Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/europe-offers-cheaper-ai-bets-as-focus-shifts-citi-s-badoy-says",
-    "summary": "European markets present cheaper opportunities in artificial intelligence adoption as the focus shifts from infrastructure to implementation, according to Elise Badoy of Citigroup Inc.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T10:04:53+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
-  },
-  {
-    "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
-    "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
-    "summary": "The European Union has published its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps for the businesses that build and use generative AI to mark […] The post EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-06-16T10:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-16"
   }
 ]
