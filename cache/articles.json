@@ -1,5 +1,215 @@
 [
   {
+    "title": "AI nel settore legal, le cinque priorità per avvocati e aziende",
+    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/ai-nel-settore-legal-le-cinque-priorita-per-avvocati-e-aziende/",
+    "summary": "L’intelligenza artificiale sta trasformando il lavoro legale, l’organizzazione delle aziende e il ruolo dei professionisti. Dal convegno Future for Lawyers emergono cinque temi chiave: competenze ibride, pensiero critico, governance flessibile, nuove opportunità per i giovani e uso equilibrato degli strumenti AI L'articolo AI nel settore legal, le cinque priorità per avvocati e aziende proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-24T08:53:08+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "AI in sanità: cosa serve davvero per migliorare la cura",
+    "url": "https://www.agendadigitale.eu/sanita/ai-in-sanita-cosa-serve-davvero-per-migliorare-la-cura/",
+    "summary": "L’intelligenza artificiale entra nella sanità italiana tra diagnosi più tempestive, ambient scribing, RAG e nuovi obblighi di governance. Il suo impatto sulla patient experience dipende però dalla capacità di integrarla nei percorsi di cura, evitando che renda più efficiente una frammentazione già esistente L'articolo AI in sanità: cosa serve davvero per migliorare la cura proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-24T08:29:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "SK Hynix Seeks $29 Billion With US Listing to Fund AI Boom",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
+    "summary": "SK Hynix Inc. is planning to raise 45.45 trillion won ($29.4 billion) in a landmark US listing, as companies along the artificial intelligence supply chain rush to increase capacity to meet memory chip demand.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T08:15:47+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Metadominio e conoscenza relazionale: il salto oltre l’AI",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/metadominio-e-conoscenza-relazionale-il-salto-oltre-lia/",
+    "summary": "Dalla filosofia greca a Hegel, dalla teoria dei sistemi all’intelligenza artificiale, il MetaDominio viene interpretato come struttura cognitiva aperta. Al centro c’è il passaggio dalla conoscenza accumulativa alla conoscenza relazionale, generativa e orientata dal principio dell’Eros L'articolo Metadominio e conoscenza relazionale: il salto oltre l’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-24T08:08:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "HSBC Wealth Survey Shows AI Losing Out to Humans in Key Areas",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/ai-loses-out-to-human-wealth-managers-hsbc-survey-says",
+    "summary": "For the truly rich, artificial intelligence can’t compete with human advisers in handling many of their needs, according to a report from HSBC Holdings Plc.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T07:59:48+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Difendere la reputazione quando deepfake e algoritmi accelerano le crisi",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/difendere-la-reputazione-quando-deepfake-e-algoritmi-accelerano-le-crisi/",
+    "summary": "L’intelligenza artificiale accelera le crisi reputazionali, amplificando deepfake, disinformazione e reazioni emotive. Bias cognitivi, algoritmi social e contenuti manipolati rendono la reputazione più fragile, mentre aziende e professionisti devono affrontare una nuova dimensione della fiducia digitale L'articolo Difendere la reputazione quando deepfake e algoritmi accelerano le crisi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-24T07:58:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Come portare l’AI nei processi delle PMI, oltre la semplice sperimentazione",
+    "url": "https://www.agendadigitale.eu/industry-4-0/come-portare-lai-nei-processi-delle-pmi-oltre-la-semplice-sperimentazione/",
+    "summary": "Le PMI italiane si confrontano con una trasformazione che va oltre l’uso dell’AI generativa. Il passaggio verso l’intelligenza artificiale operativa può incidere su processi, produttività e competitività, ma richiede competenze, fiducia, governance e una nuova cultura dei dati L'articolo Come portare l’AI nei processi delle PMI, oltre la semplice sperimentazione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-24T07:49:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "SpaceX Sells $25 Billion of Bonds, Cuts Interest Costs",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-24/spacex-sells-25-billion-of-bonds-cuts-interest-costs-video",
+    "summary": "SpaceX sold $25 billion of investment-grade bonds on Tuesday, marking the final step to replace the costly debt that had helped finance Elon Musk’s acquisition of X, then known as Twitter, as well as the expensive loans and bonds issued by xAI to bridge its rapid cash drain. Bloomberg's Manuel Baigorri reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T05:31:57+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Tencent Testing New AI Agent for WeChat Workplace App",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/tencent-tests-deepseek-powered-ai-agent-for-wechat-corporate-app",
+    "summary": "Tencent Holdings Ltd. is preparing to launch an AI agent for its Slack-like enterprise communication app, intensifying a high-stakes battle among Chinese tech giants to lock users into their ecosystems in the post-ChatGPT era.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T04:29:06+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "ByteDance Seeks $20 Billion in Its Largest-Ever Global Loan",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/bytedance-seeks-20-billion-in-its-largest-ever-offshore-loan",
+    "summary": "ByteDance Ltd., the developer of TikTok, is in preliminary talks with banks for a borrowing of about $20 billion, people familiar with the matter said, in what would be the firm’s largest offshore loan yet at a time when it’s boosting investments in artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T04:27:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "BlackRock-Backed AIP, KKR Said to Court Stack Asia Data Centers",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/blackrock-backed-aip-said-to-be-interested-in-stack-data-centers",
+    "summary": "The Artificial Intelligence Infrastructure Partnership and Brookfield Asset Management Ltd. are among possible bidders for Stack Infrastructure Inc.’s data centers in the Asia-Pacific region, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T04:27:35+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Indian Tech’s Nifty Share Shrinks to Record Low on AI Worries",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/indian-tech-s-nifty-share-shrinks-to-record-low-on-ai-worries",
+    "summary": "India’s software exporters are steadily losing their sway on the country’s stock market as concerns over artificial intelligence-led disruption trigger a prolonged selloff in the sector.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T04:04:09+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Philippine Tycoon Boosts PhilWeb Investment in Online Gaming Push",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/philippine-tycoon-boosts-philweb-investment-in-online-gaming-push",
+    "summary": "Philippine tycoon Lance Gokongwei is acquiring a 15% stake in online gaming technology firm PhilWeb Corp., boosting the company’s foray into artificial intelligence and the billionaire’s exposure to the gaming industry.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-24T03:42:20+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+    "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+    "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity.  NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-24T00:05:37+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-23T23:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Google Home will soon get better at recognizing you",
+    "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+    "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces […]",
+    "source": "The Verge AI",
+    "date": "2026-06-23T18:28:19-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Hollywood is bending the knee to OpenAI",
+    "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem […]",
+    "source": "The Verge AI",
+    "date": "2026-06-23T18:03:18-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Anthropic Customer Sues US Over Loss of Fable AI Access",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-customer-sues-us-over-losing-access-to-fable-ai-model",
+    "summary": "An artificial intelligence startup that uses Anthropic PBC’s AI models sued the US over a government order that the maker of Claude and Mythos keep its most advanced technology out of the hands of foreign nationals.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-23T21:22:05+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+    "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+    "summary": "Our hands are the nimblest parts of our bodies, coordinating 34 muscles, 27 joints, and over 100 tendons and ligaments to perform countless nuanced movements and gestures. So far, robots have been notoriously bad at mimicking that dexterity, in part because researchers struggle to capture what is actually going on under our skin in order…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-23T21:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+    "source": "Ars Technica",
+    "date": "2026-06-23T20:17:38+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker",
+    "url": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422",
+    "summary": "The Claude in Slack app is dead, long live Claude in Slack",
+    "source": "The Register AI",
+    "date": "2026-06-23T22:16:34+02:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
     "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
     "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
     "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
@@ -8,6 +218,26 @@
     "category": "models_research",
     "_slot": "afternoon",
     "_slot_date": "2026-06-23"
+  },
+  {
+    "title": "Why corporate AI super PACs spent $27 million on a local election",
+    "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+    "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's […]",
+    "source": "The Verge AI",
+    "date": "2026-06-23T13:00:00-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "source": "OpenAI Blog",
+    "date": "2026-06-23T17:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-24"
   },
   {
     "title": "Build a protein research copilot with Amazon Bedrock AgentCore",
@@ -2516,246 +2746,6 @@
     "source": "The Verge AI",
     "date": "2026-06-17T05:46:56-04:00",
     "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "AI Leaders Including Altman, Amodei Set to Attend G7",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-17/ai-leaders-including-altman-amodei-set-to-attend-g7-video",
-    "summary": "Artificial Intelligence industry leaders including OpenAI's Sam Altman and Anthropic's Dario Amodei are set to attend the Group of Seven Summit in France on Wednesday. Oliver Crook reports from Evian. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-17T09:19:06+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-17T09:01:25+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Singapore’s Sea Tests AI Chatbot Migoo in Quiet US Foray",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-sea-tests-ai-chatbot-migoo-in-quiet-us-foray",
-    "summary": "Singapore internet leader Sea Ltd. is rolling out a generative-AI chatbot in regions including the US, marking its maiden foray into the highly competitive American consumer market and accelerating its artificial intelligence push.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-17T08:41:22+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Data center in Lombardia, la corsa all’IA mette alla prova i territori",
-    "url": "https://www.agendadigitale.eu/infrastrutture/data-center-in-lombardia-la-corsa-allia-mette-alla-prova-i-territori/",
-    "summary": "La crescita dei data center in Lombardia accompagna la spinta europea verso l’intelligenza artificiale e la sovranità digitale. Le nuove norme nazionali e regionali puntano ad accelerare gli investimenti, ma restano aperti i nodi su energia, acqua, consumo di suolo e consenso delle comunità locali L'articolo Data center in Lombardia, la corsa all’IA mette alla prova i territori proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-17T07:49:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Asia Reports Sharp Rise in Cybercrimes and Scams, Interpol Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/asia-reports-sharp-rise-in-cybercrimes-and-scams-interpol-says",
-    "summary": "Illegal cyber activities accounted for around a third of all crimes recorded in some Asian countries, with scams the most widespread and financially damaging, according to a new Interpol report.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-17T07:31:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Singapore’s Electronics Exports Jump by Record on AI Demand Boom",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/singapore-s-electronics-exports-jump-by-record-on-ai-demand-boom",
-    "summary": "Singapore’s electronic exports last month rose by the most on record on robust global demand for artificial intelligence-related equipment.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-17T06:54:52+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "BOK Warns AI-Driven Bonus Windfalls May Stoke Broader Inflation",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/bok-warns-ai-driven-bonus-windfalls-may-stoke-broader-inflation",
-    "summary": "South Korea’s artificial intelligence-driven semiconductor boom may wind up complicating the inflation outlook, with the central bank warning that soaring bonuses at major technology firms could fuel broader wage growth and stronger consumer demand.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-17T05:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "China Watchdog Urges More IPOs From AI, Hong Kong Listed Firms",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/china-watchdog-urges-more-ipos-from-ai-hong-kong-listed-firms",
-    "summary": "China’s top securities regulator pledged to welcome more domestic listings from artificial intelligence developers as well as Hong Kong traded firms to bolster onshore capital markets.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-17T03:48:38+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "HSBC Expects Over $100 Million Gains From Using Google AI Tools",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-17/hsbc-google-ai-partnership-set-to-add-over-100-million-gains",
-    "summary": "HSBC Holdings Plc said it will use Alphabet Inc.’s Google Cloud to roll out artificial intelligence across its global operations, including through projects that can each generate more than $100 million in extra revenue or savings.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-17T00:52:08+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API",
-    "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/",
-    "summary": "Today, we’re announcing a new API with Amazon Bedrock Guardrails. With this API, you can apply individual safeguards, also referred to as safety checks, at any point in your agentic AI applications without creating guardrail resources. In this post, we walk through how the InvokeGuardrailChecks API works and how to use it to build safe, multi-turn agentic AI applications.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-16T22:46:46+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T22:34:17+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
-    "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
-    "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-16T22:30:41+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
-    "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
-    "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas.  The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-16T22:10:56+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Brookfield-Backed Data Center Firm Csquare Files for US IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/brookfield-backed-data-center-firm-csquare-files-for-us-ipo",
-    "summary": "Csquare Inc., a data center company backed by Brookfield Corp., filed publicly for a US initial public offering, joining a rush of debuts linked to artificial intelligence infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T22:08:12+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "AI Can Play 'Significant' Role in Tech for Managing Diabetes, Says David Roman",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-16/ai-can-play-significant-role-in-tech-for-managing-diabetes-says-david-roman",
-    "summary": "David Roman,  US medtech and healthcare IT research analyst for Goldman Sachs, said that AI play a 'significant' role in helping patients stay on top of their diabetes, with companies like Abbott and Dexcom using new technology to count carbohydrates and deliver the right amount of insulin. Roman, joined by Bloomberg health reporter Madison Muller, said that he came away from Goldman Sach's annual medtech conference 'very bullish' on innovation across the industry.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-16T21:34:01+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/16/the-new-siri-makes-one-of-apples-most-convenient-os-features-a-cumbersome-mess/5256591",
-    "summary": "Goodbye, useful Spotlight; hello force-fed Apple intelligence bloatware that feels distressingly like Google AI Overviews",
-    "source": "The Register AI",
-    "date": "2026-06-16T22:47:37+02:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Exclusive eBook: How AI is becoming the next military advisor",
-    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-    "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-16T20:35:02+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Introducing container caching in Amazon SageMaker AI for faster model scaling",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-container-caching-in-amazon-sagemaker-ai-for-faster-model-scaling/",
-    "summary": "Today, we’re excited to announce container image caching for Amazon SageMaker AI inference, the next major advancement in our faster scaling optimization journey. This speeds up end-to-end latency by up to 2x for generative AI models during scale-out events.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-16T20:16:02+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T20:11:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Predicting LLM Safety Before Release by Simulating Deployment",
-    "url": "https://www.alignmentforum.org/posts/xPXJfgqFTvuJxGZbE/predicting-llm-safety-before-release-by-simulating",
-    "summary": "Paper link Before releasing a new model, labs need to understand not just what it can do, but how it is likely to behave in real-world use, including where it might introduce new risks. This becomes even more important as capabilities increase. As part of our pre-deployment safety review, we leverage targeted evaluations, red-teaming, and other checks to understand model behavior. We’ve now started using a method for simulating model deployments before they happen, which adds a complementary sig",
-    "source": "AI Alignment Forum",
-    "date": "2026-06-16T19:55:05+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-16T18:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-    "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-    "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-    "source": "Wired",
-    "date": "2026-06-16T17:50:52+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Parallelize speculative decoding with P-EAGLE on Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/parallelize-speculative-decoding-with-p-eagle-on-amazon-sagemaker-ai/",
-    "summary": "This post walks you through how to use P-EAGLE directly within Amazon SageMaker AI. It will demonstrate how to select a compatible model from the SageMaker JumpStart catalog, configure the parallel drafting specifications, and deploy a highly optimized real-time SageMaker AI endpoint to accelerate your generative AI applications.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-16T17:47:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-17"
-  },
-  {
-    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-    "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-    "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta […]",
-    "source": "The Verge AI",
-    "date": "2026-06-16T13:04:05-04:00",
-    "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-06-17"
   }
