@@ -1,5 +1,225 @@
 [
   {
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-26T16:24:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Cost of the AI Boom: Anxiety, Longer Hours",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-26/cost-of-the-ai-boom-anxiety-longer-hours-video",
+    "summary": "One of the promises of AI was alleviating the burdens of work, but the workaholic culture in Silicon Valley hasn't disappeared. Bloomberg's Natasha Mascarenhas explains why round-the-clock managing of AI agents and intense competition are driving longer hours and heightened anxiety for tech workers. She joins Ed Ludlow on \"Bloomberg Tech\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T16:11:13+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "AI Cost Reality Check Hits Asia Tech Stocks as Apple Hikes Prices",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-26/ai-cost-reality-check-hits-asia-tech-stocks-video",
+    "summary": "Asian technology stocks slumped after Apple Inc. and Microsoft Corp. raised prices for their products, stoking concern that rising component costs will curb demand for devices and eventually slow the memory chip rally that has powered much of the AI trade.\nBloomberg Tech Host Ed Ludlow discusses the move from Apple to raise prices as well as what's next for OpenAI as they mull a delay for the company's IPO. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T15:47:35+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Morgan Stanley, Goldman Shares Fall on Possible OpenAI IPO Delay",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-26/morgan-stanley-goldman-shares-fall-on-possible-openai-ipo-delay",
+    "summary": "Shares of Morgan Stanley and Goldman Sachs Group Inc. fell on Friday after OpenAI is said to weigh holding off on an initial public offering until next year amid volatility in technology stocks.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T15:18:45+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "The Case for Model Forensics",
+    "url": "https://www.alignmentforum.org/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics",
+    "summary": "If we had a misalignment warning shot, would we be able to tell? Suppose an AI company catches their model taking an egregious action, like deleting oversight code that monitors its actions. Should they sound the alarm? A key piece of evidence to determine what to do next – such as what mitigations to take – is to understand why the model took the action. If the model was just confused (e.g. it may have been trying to reduce latency), a simple mitigation like a regex classifier that blocks destr",
+    "source": "AI Alignment Forum",
+    "date": "2026-06-26T15:09:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Build interactive PDF text extraction from Amazon S3",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
+    "summary": "In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides programmatic document access. You’ll walk through the architecture, set up the server, and run interactive document queries. Along the way, you’ll compare this approach with Amazon Textract so you can decide which tool fits your workload.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-26T14:47:45+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Stocks Waver at End of Bruising Week for AI Trade",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-26/stocks-waver-at-end-of-bruising-week-for-ai-trade-video",
+    "summary": "Another burst of selling pummeled chipmakers, whipsawing stocks once again amid concerns over whether vast investments in artificial intelligence will justify the industry’s hefty valuations.\nVirginie Maisonneuve, Founder at Maisonneuve Global Advisors, discusses the current AI narrative as investors continue to show jitters around high-flying tech stocks. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T14:43:25+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
+    "summary": "In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions and the AWS services that support the solution. We also share measurable outcomes Cara has delivered for enterprise brokerages.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-26T14:42:20+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-26/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut",
+    "summary": "OpenAI is considering an initial public offering as soon as in 2027, according to people familiar with the matter, a timeline that would potentially see it go public after its artificial intelligence rival Anthropic PBC.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T14:40:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
+    "url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
+    "summary": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a dedicated agent service. We also discuss the role of human oversight in maintaining accountability, and key lessons about task decomposition, orchestration patterns, and cost optimization through prompt caching. By the end, you will understand how to design agentic systems that scale c",
+    "source": "AWS ML Blog",
+    "date": "2026-06-26T14:38:01+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the […]",
+    "source": "The Verge AI",
+    "date": "2026-06-26T10:07:03-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "AI Agents militari, come l’intelligenza artificiale cambia la guerra",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-agents-militari-come-lintelligenza-artificiale-cambia-la-guerra/",
+    "summary": "Gli AI Agents militari stanno trasformando i conflitti contemporanei come strumenti di percezione, navigazione, targeting e coordinamento. Dall’Ucraina a Gaza, dagli Stati Uniti alla NATO, la sfida riguarda velocità decisionale, controllo umano, resilienza tecnica, governance e autonomia strategica europea L'articolo AI Agents militari, come l’intelligenza artificiale cambia la guerra proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-26T13:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+    "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+    "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-26T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "SAP aligns commerce data for AI personalisation",
+    "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+    "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume. Recommendation engines display generic product listings because […] The post SAP aligns commerce data for",
+    "source": "AI News (AIN)",
+    "date": "2026-06-26T12:55:48+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-26T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "OpenAI Makes Its Advertising Pitch at Cannes Festival",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-26/openai-pitches-ai-chatbot-ads-at-cannes-lions-festival",
+    "summary": "The ChatGPT maker offers the industry a new marketing vehicle",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T11:02:01+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Oltre la RAG: come LLM Wiki può trasformare la memoria d’impresa",
+    "url": "https://www.agendadigitale.eu/industry-4-0/oltre-la-rag-come-llm-wiki-puo-trasformare-la-memoria-dimpresa/",
+    "summary": "Le basi di conoscenza aziendali spesso falliscono perché nessuno le aggiorna. Il pattern LLM Wiki propone di usare i modelli linguistici per mantenere una memoria d’impresa strutturata, verificabile e navigabile, distinguendola dalla semplice ricerca enterprise basata su RAG L'articolo Oltre la RAG: come LLM Wiki può trasformare la memoria d’impresa proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-26T10:59:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Sanità centrata sul paziente: come progettare la cura oltre la prestazione",
+    "url": "https://www.agendadigitale.eu/sanita/sanita-centrata-sul-paziente-come-progettare-la-cura-oltre-la-prestazione/",
+    "summary": "La patient centricity richiede un passaggio da principio dichiarato a disciplina progettuale. Il framework integra Experience by Design, Data by Evidence e AI by Governance per connettere esperienza del paziente, dati sanitari e responsabilità nell’uso dell’intelligenza artificiale L'articolo Sanità centrata sul paziente: come progettare la cura oltre la prestazione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-26T10:57:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "SoftBank Shares Fall on Report OpenAI to Delay IPO",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-26/softbank-shares-fall-on-report-openai-to-delay-ipo-video",
+    "summary": "SoftBank Group’s stock tumbled the most since August 2024 after reports that OpenAI may hold off on an initial public offering until next year, delaying returns for its Japanese backer. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T10:38:39+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Washington’s Foreign Ban on Anthropic’s Top Models May Backfire",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-26/white-house-s-ban-on-anthropic-ai-access-may-boost-china-s-open-source-models",
+    "summary": "The move may act as a tailwind for rival China, boosting demand for the Asian nation’s open source AI.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-26T10:30:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Sinistri assicurativi, l’AI non basta: la vera sfida è cambiare i processi",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/sinistri-assicurativi-lai-non-basta-la-vera-sfida-e-cambiare-i-processi/",
+    "summary": "L’intelligenza artificiale sta trasformando la gestione dei sinistri assicurativi, superando il tradizionale equilibrio tra rapidità, accuratezza e costi. Il modello del sinistro liquido richiede processi adattivi, governance tracciabile, integrazione dei dati e nuove competenze operative L'articolo Sinistri assicurativi, l’AI non basta: la vera sfida è cambiare i processi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-26T09:43:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
+    "title": "Risk engineering property, perché l’intuizione resta decisiva anche con l’AI",
+    "url": "https://www.agendadigitale.eu/sicurezza/risk-engineering-property-perche-lintuizione-resta-decisiva-anche-con-lai/",
+    "summary": "Nel risk engineering property l’intuizione dell’esperto resta centrale, ma può essere resa più robusta da strumenti di intelligenza artificiale usati come supporto critico. Il valore degli LLM non è decidere, ma aiutare a verificare ipotesi, scenari e ragionamenti complessi L'articolo Risk engineering property, perché l’intuizione resta decisiva anche con l’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-26T09:40:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-26"
+  },
+  {
     "title": "Goldman: Could Make Sense to Diversify Away From Chipmakers",
     "url": "https://www.bloomberg.com/news/videos/2026-06-26/goldman-could-make-sense-to-diversify-away-from-chips-video",
     "summary": "Christian Mueller-Glissmann, managing director for portfolio strategy and asset allocation at Goldman Sachs, discusses the tech selloff and why he thinks it could make sense to diversify away from semiconductor makers and lean more toward hyperscalers. \"These are incredibly cyclical companies,\" Mueller-Glissmann tells Bloomberg Television. \"So to some extent, it could make sense to diversify a bit away from them.\" (Source: Bloomberg)",
@@ -2388,215 +2608,5 @@
     "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-06-20"
-  },
-  {
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
-    "source": "TechCrunch AI",
-    "date": "2026-06-19T16:08:17+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
-    "source": "TechCrunch AI",
-    "date": "2026-06-19T16:01:03+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-19T15:23:28+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Intelligenza artificiale nelle aziende: impatti concreti e scenari evolutivi",
-    "url": "https://www.agendadigitale.eu/documenti/intelligenza-artificiale-nelle-aziende-impatti-concreti-e-scenari-evolutivi/",
-    "summary": "L’intelligenza artificiale entra nei processi aziendali con effetti su automazione, analisi dei dati e modelli software. Dall’AI agentica alle piattaforme digitali, cambiano funzioni interne, competenze professionali e criteri di valore, mentre restano centrali integrazione, conformità normativa e differenze tra grandi imprese e PMI L'articolo Intelligenza artificiale nelle aziende: impatti concreti e scenari evolutivi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-19T15:04:35+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "UnitedHealth’s $3 Billion AI Push Has Bots Calling Doctors",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-19/unitedhealth-bets-3-billion-on-ai-to-cut-costs-tame-backlash",
-    "summary": "At UnitedHealth Group Inc., artificial intelligence reads aloud summaries of medical charts as nurses drive to patients’ homes. It listens to millions of customer calls to find the causes of complaints. One trial even has AI agents calling doctors’ offices to schedule appointments for patients.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-19T14:55:56+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "The film about Sam Altman has been dropped by Amazon MGM",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-    "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-    "source": "The Verge AI",
-    "date": "2026-06-19T10:15:29-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Introducing Web Search on Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
-    "summary": "Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of code.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-19T14:15:24+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/",
-    "summary": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample workflow returns audience rankings, loyalty segment summaries, journey usage, and conflict recommendations.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-19T14:05:04+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "SAP and Google Cloud deploy agentic commerce architecture",
-    "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-    "summary": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in five companies share customer data across customer experience (37%) or CRM (39%) […] The post SAP and Google Cloud deploy agentic commerce architecture appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-06-19T14:02:20+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Banning Open Source AI Would Be A Mistake",
-    "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
-    "summary": "This post was originally an op-ed co-authored with Kevin Xu of Interconnected for a general, non-technical audience.",
-    "source": "Interconnects",
-    "date": "2026-06-19T13:02:47+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-19T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Quanto costano gli F24 alle PMI: i vantaggi dell’automazione con l’AI",
-    "url": "https://www.agendadigitale.eu/documenti/quanto-costano-gli-f24-alle-pmi-i-vantaggi-dellautomazione-con-lai/",
-    "summary": "Le PMI italiane sostengono costi rilevanti per la gestione degli F24, tra deleghe ai consulenti, inserimenti manuali e controlli interni. La digitalizzazione fiscale e l’intelligenza artificiale possono ridurre tempi, errori e oneri operativi, ma la semplificazione deve diventare davvero accessibile L'articolo Quanto costano gli F24 alle PMI: i vantaggi dell’automazione con l’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-19T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "The Download: AI bottleneck debates, and BCI trials take off",
-    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-19T12:10:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
-    "summary": "The Trump administration’s push to rein in Anthropic PBC, outlined in a recent Commerce Department order, relies on an unprecedented use of export control laws and raises legal questions about whether the US can dictate who can access artificial intelligence systems.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-19T12:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "EU Tech Chief Virkkunen on AI, Sovereignty, US",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-19/eu-tech-chief-virkkunen-on-ai-sovereignty-us-video",
-    "summary": "Henna Virkkunen, EU's top technology official, & Executive Vice President sat down with Bloomberg's Tom Mackenzie on the sidelines of VivaTech in Paris to discuss EU AI regulation, cybersecurity risks, Europe's technological sovereignty, and reducing reliance on non-European technology providers in critical sectors. This interview occurred on Wednesday, June 17. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-19T11:53:04+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Il CFO cambia ruolo: meno controllo passivo, più guida strategica",
-    "url": "https://www.agendadigitale.eu/industry-4-0/il-cfo-cambia-ruolo-meno-controllo-passivo-piu-guida-strategica/",
-    "summary": "Il CFO assume un ruolo sempre più strategico nelle aziende, tra finanza progressiva, governance dell’intelligenza artificiale, digitalizzazione dei processi e controllo della compliance. La funzione Finance diventa così un motore di modernizzazione, agilità e competitività L'articolo Il CFO cambia ruolo: meno controllo passivo, più guida strategica proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-19T11:12:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Chipmakers Renew Nerdy Performance Tussle That Nvidia’s Dominance Had Quashed",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-19/nvidia-s-ai-wins-had-quashed-the-benchmark-fight-cpu-race-is-bringing-it-back",
-    "summary": "With CPUs back in the spotlight, so too is the PR fight over benchmarks",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-19T11:02:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-19T10:40:24+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Try One of macOS 27’s Best Features Right Now",
-    "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
-    "summary": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait.",
-    "source": "Wired",
-    "date": "2026-06-19T10:30:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "Perché l’AI non sostituirà il CFO, ma lo costringerà a cambiare",
-    "url": "https://www.agendadigitale.eu/industry-4-0/perche-lai-non-sostituira-il-cfo-ma-lo-costringera-a-cambiare/",
-    "summary": "L'intelligenza artificiale sta ridefinendo il ruolo del CFO: non lo sostituisce, ma lo trasforma in una figura di sintesi tra dati, tecnologia e strategia. Una ricerca su oltre 600 leader finanziari globali fotografa questa evoluzione tra opportunità, rischi e nuove competenze L'articolo Perché l’AI non sostituirà il CFO, ma lo costringerà a cambiare proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-19T10:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-19"
-  },
-  {
-    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
-    "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
-    "summary": "Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today announced the launch of the updated Cumulo, the U.K.’s only sovereign, AI-first, IT/OT connected SOC platform, designed to help organisations defend […] The post e2e-assure introduces Cumulo, the U.K.’s on",
-    "source": "AI News (AIN)",
-    "date": "2026-06-19T09:57:55+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-19"
   }
 ]
