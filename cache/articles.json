@@ -1,5 +1,65 @@
 [
   {
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-27T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-27"
+  },
+  {
+    "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+    "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+    "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the […]",
+    "source": "The Verge AI",
+    "date": "2026-06-27T09:30:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-27"
+  },
+  {
+    "title": "ConlangCrafter Turns AI to Imagining Languages",
+    "url": "https://spectrum.ieee.org/conlangs-ai-model-contructed-languages",
+    "summary": "There are over 7,000 natural languages today, but that doesn’t stop people from occasionally making up completely new ones. These constructed languages, or conlangs , include Dothraki , Klingon , and various Elvish languages . Now, an AI model called ConlangCrafter is also capable of generating new languages—and it is particularly good at it. In a paper published 27 June in the Proceedings of the Association of Computer Linguists, researchers analyzed ConlangCrafter’s language generation abiliti",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-06-27T13:00:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-27"
+  },
+  {
+    "title": "AI’s Energy Crunch Has Investors Searching for Next IPO Winners",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
+    "summary": "The artificial intelligence boom has a power problem, and Wall Street is betting billions on companies that promise to solve it — even if some of the technology hasn’t been fully developed yet.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-27T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-27"
+  },
+  {
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-27T12:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-27"
+  },
+  {
+    "title": "Why Venezuela’s Second Earthquake Was So Damaging to Buildings",
+    "url": "https://www.wired.com/story/why-venezuelas-second-earthquake-so-damaging-to-buildings/",
+    "summary": "Factors like the short interval between the two powerful quakes and different types of soil led to some structures collapsing while others stayed standing.",
+    "source": "Wired",
+    "date": "2026-06-27T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-27"
+  },
+  {
     "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
     "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
     "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
@@ -2758,15 +2818,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-06-21"
-  },
-  {
-    "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
-    "url": "https://www.youtube.com/watch?v=vXiB0UdDhk8&list=PLweJS2YZCfkeXXdfCKGaxAhm2w8p0u1z6",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-06-20T15:36:27+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-20"
   }
 ]
