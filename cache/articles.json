@@ -1,5 +1,55 @@
 [
   {
+    "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
+    "summary": "Hong Kong share sales surged to a five-year high in the first half of 2026 as investor enthusiasm around the artificial intelligence boom overpowered the drag of a sluggish equity market and regulatory headwinds.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-28T00:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-28"
+  },
+  {
+    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+    "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-27T20:42:36+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-28"
+  },
+  {
+    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI […]",
+    "source": "The Verge AI",
+    "date": "2026-06-27T14:39:32-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-28"
+  },
+  {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-27T16:45:09+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-28"
+  },
+  {
+    "title": "Hiding messages in the least significant mantissa bits of fine-tuned ONNX model weights [P]",
+    "url": "https://github.com/X-3306/ONNXStego",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-06-27T15:45:36+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-28"
+  },
+  {
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
     "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
@@ -2757,66 +2807,6 @@
     "date": "2026-06-21T10:30:00+00:00",
     "category": "tools_products",
     "_slot": "afternoon",
-    "_slot_date": "2026-06-21"
-  },
-  {
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-    "source": "TechCrunch AI",
-    "date": "2026-06-20T20:32:29+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-21"
-  },
-  {
-    "title": "How transparent is DiffusionGemma (and why it matters)",
-    "url": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters",
-    "summary": "Authors: Joshua Engels*, Callum McDougall*, Bilal Chughtai*, Janos Kramar, Senthoran Rajamanoharan, Cindy Wu, Arthur Conmy, Asic Q Chen, Jean Tarbouriech, Min Ma, Brendan O'Donoghue+, João Gabriel Lopes de Oliveira+, Rohin Shah+, Neel Nanda+ *Primary Contributor +Advising Paper here: https://arxiv.org/abs/2606.20560 Overview In a recent collaboration between the GDM interpretability team and the GDM text diffusion team, we performed a transparency audit of DiffusionGemma, GDM's new text diffusio",
-    "source": "AI Alignment Forum",
-    "date": "2026-06-20T20:05:50+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-21"
-  },
-  {
-    "title": "In the Weights is your new AI-centric vanity search",
-    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "summary": "So ... what's your In the Weights score?",
-    "source": "TechCrunch AI",
-    "date": "2026-06-20T19:41:11+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-21"
-  },
-  {
-    "title": "The Atlantic created a searchable database of the music used to train AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-    "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over […]",
-    "source": "The Verge AI",
-    "date": "2026-06-20T14:46:48-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-21"
-  },
-  {
-    "title": "Studying FLUX in diffusers library was hard, so I built a smaller open-source version [P]",
-    "url": "https://github.com/purohit10saurabh/minFLUX",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-06-20T16:50:08+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-21"
-  },
-  {
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-20T16:39:57+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-06-21"
   }
 ]
