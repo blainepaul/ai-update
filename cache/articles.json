@@ -1,5 +1,225 @@
 [
   {
+    "title": "China Pushes All School Levels to Teach AI in Xi’s Tech Drive",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
+    "summary": "China has announced a formal plan to integrate artificial intelligence across all levels of schooling, aligning its education system with President Xi Jinping’s campaign to dominate advanced technologies.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T10:42:16+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Germany Wants and Needs AI to Take Human Jobs",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-29/germany-turns-to-ai-to-fill-the-gap-left-by-retiring-workers",
+    "summary": "The country’s workforce is aging and retiring.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T10:30:01+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Google Cloud to Offer Specialist AI Models for Science Research",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/google-cloud-to-offer-specialist-ai-models-for-science-research",
+    "summary": "Alphabet Inc.’s Google will start offering specialist artificial intelligence models from software company SandboxAQ through its cloud service, expanding enterprise and research access to technology designed to accelerate drug discovery, materials science and semiconductor manufacturing.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T10:00:30+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Wimbledon adds IBM AI tools for live match coverage",
+    "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+    "summary": "The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They include an upgraded Match Chat assistant and a new feature called Key Moments. The features will […] The post Wimbledon adds IBM AI tools for live match coverage appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-06-29T10:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+    "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+    "summary": "Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain professional connections, presenting both opportunities and challenges in authentic relationship-building. Professional networking now relies on a growing ecosystem of AI-powered […] The post Advances in Na",
+    "source": "AI News (AIN)",
+    "date": "2026-06-29T08:59:46+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+    "url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
+    "summary": "Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That’s why they use automated testing, as it helps catch routine flaws before they reach production. The pressure has grown. Verizon’s 2025 Data Breach Investigations Report found that […] The post Best Automated Security Testing Tools for Modern DevSecOps appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-06-29T08:54:22+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Digital twins educativi, il confine sottile tra supporto e orientamento algoritmico",
+    "url": "https://www.agendadigitale.eu/scuola-digitale/digital-twins-educativi-il-confine-sottile-tra-supporto-e-orientamento-algoritmico/",
+    "summary": "I digital twins educativi promettono percorsi di apprendimento più personalizzati grazie a dati, intelligenza artificiale e learning analytics. Ma la costruzione di modelli digitali degli studenti apre interrogativi cruciali su identità, privacy, libertà educativa, ruolo dei docenti e controllo delle rappresentazioni digitali L'articolo Digital twins educativi, il confine sottile tra supporto e orientamento algoritmico proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T08:26:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "South Korea's Massive AI Investment Push",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-29/south-korea-s-massive-ai-investment-push-video",
+    "summary": "South Korea is launching a 1,350 trillion won ($880 billion) plan in corporate investments to build out critical AI infrastructure and cement its global dominance in the semiconductor market. President Lee Jae Myung called the sweeping mega-project a \"national survival strategy\" for the AI era. Bloomberg’s Avril Hong breaks down the press conference, where President Lee was joined by the CEOs of tech giants Samsung and SK Hynix to outline the multi-year roadmap. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T08:13:39+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Baidu's CFO on How It Became a Full-Stack AI Player | Odd Lots",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-29/baidu-s-cfo-on-how-it-became-a-full-stack-ai-player-video",
+    "summary": "In the China tech space, Baidu is now a full-stack player in the AI industry. The company makes its own chips, has its own AI models (Ernie), its own cloud system, and it's integrating AI into its self-driving car business, Apollo Go. But before all this, Baidu was known for being China's leader in search. Things, obviously, have changed a lot since the company was founded in the late 1990s. In today's episode, we speak with Baidu CFO Henry He about the company's AI ambitions. He talks to us abo",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T08:12:22+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+    "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+    "summary": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to account for physical operating limits. Relying on public APIs exposes proprietary commercial data. xFusion engineers responded with a four-tier hardware […] The post xFusion scales enterprise AI from edge workstations to l",
+    "source": "AI News (AIN)",
+    "date": "2026-06-29T08:05:32+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+    "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+    "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+    "source": "Wired",
+    "date": "2026-06-29T08:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Agenti AI, i migliori: conoscerli e usarli, guida per aziende",
+    "url": "https://www.agendadigitale.eu/industry-4-0/agenti-ai-tutto-cio-che-le-aziende-devono-sapere-la-guida/",
+    "summary": "Facciamo chiarezza sull'AI agentica, cosa sono davvero gli agenti di intelligenza artificiale, quali sono i migliori. Come si differenziano da chatbot e RPA, come possono essere integrati nei processi aziendali e nella PA. Una guida operativa con dati, raccomandazioni e casi d'uso L'articolo Agenti AI, i migliori: conoscerli e usarli, guida per aziende proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T07:58:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+    "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+    "summary": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announcements were made at Computex 2026 in Taipei, where Scam.ai was featured at Qualcomm’s booth as […] The post Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026 appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-06-29T07:57:38+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "source": "OpenAI Blog",
+    "date": "2026-06-29T07:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Anthropic's Mythos 5 Cleared by US for Wider Use",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-29/anthropic-s-mythos-5-cleared-by-us-for-wider-use-video",
+    "summary": "Anthropic PBC won US approval to restore some access to its powerful Mythos 5 artificial intelligence model, after resolving concerns from Donald Trump's administration about the technology’s potential threats to national security. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T05:50:52+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Germany Is Showcase for How to Use AI to Juice Your Economy",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/german-ai-rollout-offers-300-billion-fix-for-worker-shortage",
+    "summary": "At a made-to-order homebuilder in northwest Germany, processing more than 250 invoices a week used to swallow the equivalent of four working days. After introducing artificial intelligence last year, the task takes half as long.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T04:15:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Chinese Spies, Smuggled Drugs Fuel Takaichi’s Security Push",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/chinese-spies-smuggled-drugs-fuel-takaichi-s-security-push",
+    "summary": "Chinese spies stealing Japanese industrial secrets in boardrooms. Chip smugglers ferrying Nvidia’s prized artificial intelligence semiconductors via Japan. Drug gangs quietly slipping fentanyl across Japan’s borders to a US opioid crisis.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-28T22:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of […]",
+    "source": "The Verge AI",
+    "date": "2026-06-28T17:42:51-04:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or […]",
+    "source": "The Verge AI",
+    "date": "2026-06-28T16:27:36-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+    "source": "TechCrunch AI",
+    "date": "2026-06-28T19:05:39+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Latest open artifacts (#22): Zyphra, Cohere, and Poolside are expanding the breadth of the ecosystem",
+    "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "summary": "An assessment of the open ecosystem and the motivations behind releasing models",
+    "source": "Interconnects",
+    "date": "2026-06-28T17:03:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "source": "OpenAI Blog",
+    "date": "2026-06-28T17:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-06-29"
+  },
+  {
     "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
     "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
     "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
@@ -2738,95 +2958,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Read this before you vibe-code another app",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-    "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site […]",
-    "source": "The Verge AI",
-    "date": "2026-06-22T07:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "AI Could Boost Poland’s Economy by 12% by 2035, World Bank Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/ai-could-boost-poland-s-economy-by-12-by-2035-world-bank-says",
-    "summary": "Artificial Intelligence could boost Poland’s economy by as much as 12% by 2035 and help it converge with the world’s richest countries even as local cost advantages fade, the World Bank said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-22T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "Se l’AI si spegne, cosa resta alle aziende europee",
-    "url": "https://www.agendadigitale.eu/infrastrutture/se-lai-si-spegne-cosa-resta-alle-aziende-europee/",
-    "summary": "Gli Stati Uniti controllano l’accesso ai modelli AI più avanzati e le organizzazioni europee rischiano di scoprire una dipendenza più profonda del previsto: non solo infrastrutturale, ma cognitiva, con competenze, processi decisionali e capacità di analisi ridisegnati intorno a sistemi revocabili L'articolo Se l’AI si spegne, cosa resta alle aziende europee proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-22T10:11:17+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
-    "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-    "summary": "L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal content production. The collaboration also covers L’Oréal’s internal use of AI in research, formulation, content production, […] The post L’Oréal brings Maybelline virtual try-on to ChatGPT appeared first on",
-    "source": "AI News (AIN)",
-    "date": "2026-06-22T10:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "Getty Images Soars 200% in Early Trading After OpenAI Deal",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
-    "summary": "Shares of Getty Images Holdings Inc. jumped about 200% in premarket trading on Monday after the photography repository announced a licensing deal with OpenAI.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-22T09:31:20+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "L’AI non si adotta, si abilita: la lezione del caso Revolut",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/lai-non-si-adotta-si-abilita-la-lezione-del-caso-revolut/",
-    "summary": "Il paradigma \"AI-first\" nei servizi finanziari è una narrazione seducente ma fuorviante. Il caso Revolut dimostra che l'intelligenza artificiale non si adotta come scelta strategica iniziale, ma emerge quando una piattaforma ha già costruito massa critica, frequenza e densità informativa L'articolo L’AI non si adotta, si abilita: la lezione del caso Revolut proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-22T09:08:58+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-    "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-    "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-22T05:00:22+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "Tencent Tests AI Assistant for Its Super App WeChat in China",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/tencent-tests-ai-assistant-for-its-super-app-wechat-in-china",
-    "summary": "Tencent Holdings Ltd. has started testing a new AI assistant for WeChat as part of its efforts to catch up with peers in China’s white-hot artificial intelligence race.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-22T04:12:18+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-    "source": "OpenAI Blog",
-    "date": "2026-06-21T23:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
   }
 ]
