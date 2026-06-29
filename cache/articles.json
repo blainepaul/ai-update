@@ -1,5 +1,225 @@
 [
   {
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-29T17:03:50+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+    "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+    "summary": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise innovation and becomes more autonomous, organizations need access to computing […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-29T17:00:19+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-29T16:29:04+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Dual Perspectives on AI Investment Costs",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-29/dual-perspectives-on-ai-investment-costs-video",
+    "summary": "Momei Qu, managing director at PSP Growth, discusses two contrasting viewpoints surrounding AI investments: one emphasizing that the significant scale of investment indicates strong and genuine demand for AI technologies, and the other cautioning that the escalating costs of supporting AI infrastructure continue to rise, increasing the burden of proof for these investments. She speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T16:03:04+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Lawmakers want to ban AI companies from selling your health data",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location […]",
+    "source": "The Verge AI",
+    "date": "2026-06-29T12:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "WhatsApp Opens Username Reservations to 3 Billion Users",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/whatsapp-opens-username-reservations-to-3-billion-users",
+    "summary": "WhatsApp will let the messaging service’s 3 billion global users select a username for their account, a change meant to increase privacy by letting people connect on the platform without having to share their phone number.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T16:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Ask an AI expert: What exactly is the full stack?",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+    "source": "Google AI Blog",
+    "date": "2026-06-29T16:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+    "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
+    "summary": "",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-29T15:00:04+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Agent confidence on the technical frontier",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-29T14:44:01+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Baidu’s CFO on the Company’s Approach to Recruiting Young Talent",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-29/baidu-s-cfo-on-the-company-s-approach-to-recruiting-young-talent",
+    "summary": "In the China tech space, Baidu is now a full-stack player in the AI industry. As the maker of its own chips, AI model (Ernie), cloud system and a self-driving car business (Apollo Go), the tech giant is a very desirable company to work for.\n\nOn this episode of the Odd Lots podcast, Baidu CFO Henry He joins Joe Weisenthal and Tracy Alloway to discuss how the company uses AI to evolve its own organizational structure and attract new talent. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T14:23:22+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-29T14:00:08+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "AI per la cybersecurity, la corsa della Cina cambia il mondo",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-per-la-cybersecurity-la-corsa-della-cina-cambia-il-mondo/",
+    "summary": "GLM-5.2 di Z.ai e Tulongfeng di 360 mostrano quanto si stia riducendo il divario tra Cina e Stati Uniti nell’AI applicata alla scoperta di vulnerabilità, mentre Washington limita l’accesso ai modelli più avanzati per ragioni di sicurezza. Ecco le implicazioni per noi L'articolo AI per la cybersecurity, la corsa della Cina cambia il mondo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T13:16:52+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "The Lab Mistake That Might Revolutionize Computing",
+    "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips",
+    "summary": "Today, you probably asked a question of a large language model, or accepted a connection suggestion on LinkedIn, or watched a recommended video on YouTube, or took a different route to work based on a traffic prediction from Google Maps. In other words, you probably used artificial intelligence. But what you might not know is how much energy that interaction consumed or why. AI requires processing massive amounts of data, which is usually done in large data centers populated by thousands of GPUs",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-06-29T13:00:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Omen AI’s plan to optimize data centers is all wet",
+    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-29T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Relx Plans to Buy Back Up to £100 Million in Shares Next Month",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/relx-plans-to-buy-back-up-to-100-million-in-shares-next-month",
+    "summary": "Relx Plc plans to repurchase shares valued at as much as £100 million ($132.1 million) next month, as the British information and analytics company continues to grapple with concerns that artificial intelligence tools will displace its core research products.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T12:45:56+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Gpt 5.6: ecco dove arriva l’ultima frontiera di OpenAI",
+    "url": "https://www.agendadigitale.eu/industry-4-0/gpt-5-6-dove-arrivata-la-nuova-frontiera-di-openai/",
+    "summary": "GPT-5.6 introduce una famiglia di modelli articolata in tre versioni: Sol, Terra e Luna. La nuova generazione punta a distinguere meglio capacità, velocità e costo, con Sol destinato ai compiti più complessi, Terra pensato per l’equilibrio operativo e Luna orientato a rapidità e convenienza L'articolo Gpt 5.6: ecco dove arriva l’ultima frontiera di OpenAI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T12:41:02+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Intelligenza artificiale, il modello italiano alla prova dell’enforcement",
+    "url": "https://www.agendadigitale.eu/sicurezza/intelligenza-artificiale-il-modello-italiano-alla-prova-dellenforcement/",
+    "summary": "La legge italiana sull’AI e i relativi schemi attuativi delineano un modello di governance multilivello, nel quale promozione dell’innovazione, vigilanza del mercato e poteri sanzionatori vengono distribuiti tra più autorità. La questione decisiva non è più l’esistenza delle regole, ma la loro applicazione coordinata, coerente e sostenibile L'articolo Intelligenza artificiale, il modello italiano alla prova dell’enforcement proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T12:22:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Millennium Builds AI Lab in Push for Cutting-Edge Products",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/millennium-builds-ai-lab-in-push-for-cutting-edge-products",
+    "summary": "Millennium Management is setting up an artificial intelligence laboratory to expand the development and application of cutting-edge technologies at the firm.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-29T12:15:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "I loop dei tech-bro e altre favole per non far scoppiare la bolla LLM",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/i-loop-dei-tech-bro-e-altre-favole-per-non-far-scoppiare-la-bolla-llm/",
+    "summary": "La propaganda dei tech-bro rilancia i loop come nuova frontiera degli agenti software, ma il meccanismo serve soprattutto a sostenere la bolla degli LLM: più token, più GPU, più datacenter e una domanda energetica che si scontra con limiti materiali difficili da ignorare L'articolo I loop dei tech-bro e altre favole per non far scoppiare la bolla LLM proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T12:15:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Perché l’IA può aiutare gli studenti a capire davvero Java e Python",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/perche-lia-puo-aiutare-gli-studenti-a-capire-davvero-java-e-python/",
+    "summary": "Il passaggio da Java a Python diventa un percorso di continuità del pensiero computazionale, in cui l’IA supporta confronto, traduzione e riflessione. BlueJ, OOP, Vibe Coding e Duck Typing aiutano gli studenti a distinguere sintassi, modelli e competenze progettuali L'articolo Perché l’IA può aiutare gli studenti a capire davvero Java e Python proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T12:02:38+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "GLM 5.2 sfida Claude Opus: l’AI open weight costa sempre meno",
+    "url": "https://www.agendadigitale.eu/industry-4-0/glm-5-2-sfida-claude-opus-lai-open-weight-costa-sempre-meno/",
+    "summary": "GLM 5.2 riapre il confronto tra modelli di frontiera e modelli open weight, con benchmark sempre più vicini e costi molto più bassi. La sfida si sposta dal prezzo per token al costo reale dei task, soprattutto nell’AI agentica L'articolo GLM 5.2 sfida Claude Opus: l’AI open weight costa sempre meno proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-29T11:37:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
+    "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+    "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+    "summary": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership.  In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-29T10:59:38+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-29"
+  },
+  {
     "title": "China Pushes All School Levels to Teach AI in Xi’s Tech Drive",
     "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-pushes-all-school-levels-to-teach-ai-in-xi-s-tech-drive",
     "summary": "China has announced a formal plan to integrate artificial intelligence across all levels of schooling, aligning its education system with President Xi Jinping’s campaign to dominate advanced technologies.",
@@ -2766,196 +2986,6 @@
     "source": "TechCrunch AI",
     "date": "2026-06-22T17:31:29+00:00",
     "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
-    "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
-    "summary": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
-    "source": "Wired",
-    "date": "2026-06-22T17:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-    "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-22T16:51:29+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Top AI researcher leaves Google for OpenAI",
-    "url": "https://www.axios.com/2026/06/18/noam-shazeer-google-openai-characterai",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-22T16:47:40+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Gas Stations Accused of Using AI to Boost California Prices",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california",
-    "summary": "A group of California consumers claimed in a lawsuit that gas station owners including Walmart Inc., Marathon Petroleum Corp., BP Plc and 7-Eleven Inc. are using artificial intelligence to illegally manipulate pump prices in the state that already has the highest rates in the US.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-22T16:32:38+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Embed the world: Multimodal AI for searchable aerial imagery at scale",
-    "url": "https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/",
-    "summary": "In this post, we walk through the problem space, our architecture on Amazon Bedrock and Amazon OpenSearch Serverless, the evaluation methodology we built on OpenStreetMap ground truth, four experiments that compared embedding models, fusion strategies, captioning, and search methods, and the practical guidance you can apply when building a similar system. You’ll learn which design choices move the needle for geospatial semantic search, including why Amazon Nova Multimodal Embeddings delivered th",
-    "source": "AWS ML Blog",
-    "date": "2026-06-22T16:32:15+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Investment lawyer breaking down how AI DeepFakes get used in high profile scams",
-    "url": "https://techstrong.tv/videos/interviews/ai-deepfakes-escalate-investment-scam-risks",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-22T16:30:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Running ComfyUI workflows on Amazon SageMaker AI processing jobs",
-    "url": "https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/",
-    "summary": "In this post, we walk you through how to deploy ComfyUI workflows on Amazon SageMaker AI processing jobs to generate hundreds of high-quality images in a single batch. You learn how to set up the infrastructure using AWS Cloud Development Kit (AWS CDK), configure GPU-accelerated processing, and automate image generation at scale. You can then adapt this solution to your ComfyUI workflows specific to your needs. We will guide you through a practical, step-by-step process to automate ComfyUI workf",
-    "source": "AWS ML Blog",
-    "date": "2026-06-22T16:28:46+00:00",
-    "category": "creativity",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-    "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-    "summary": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response to these concentration risks by creating an orchestration language model that calls upon a pool of varied models […] The post Mitigating vendor lock-in with Sakana AI Fugu multi-agent models appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-06-22T16:11:21+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "GLM-5.2 is the step change for open agents",
-    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-    "summary": "A capability threshold I've been carefully monitoring.",
-    "source": "Interconnects",
-    "date": "2026-06-22T14:52:45+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-    "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-    "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-22T14:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-22T13:18:56+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-    "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-    "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-22T13:00:48+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-    "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-    "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management.  NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-22T13:00:38+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-    "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-    "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.  The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-22T13:00:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-    "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-    "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-22T13:00:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
-    "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
-    "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy.  As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed.  In many regions, expanding grid […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-06-22T13:00:13+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Canadian government spent tens of millions on secret Palantir contract",
-    "url": "https://theijf.org/brief/canadian-palantir-contract-amendments-obd",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-22T11:59:58+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Diabete tipo 1: l’IA gestisce la glicemia senza aspettare i sintomi",
-    "url": "https://www.agendadigitale.eu/sanita/diabete-tipo-1-lia-gestisce-la-glicemia-senza-aspettare-i-sintomi/",
-    "summary": "Un pancreas artificiale predittivo, basato sull'intelligenza artificiale, capace di anticipare le variazioni glicemiche fino a sei ore. È l'obiettivo del progetto ANTHEM dell'Università di Bergamo, che punta ad automatizzare la gestione del diabete di tipo 1 riducendo il carico decisionale sui pazienti L'articolo Diabete tipo 1: l’IA gestisce la glicemia senza aspettare i sintomi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-22T11:53:28+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-22"
-  },
-  {
-    "title": "'You can't call it progress': Microsoft CEO Satya Nadella warns against concentration of AI power",
-    "url": "https://www.firstpost.com/tech/you-cant-call-it-progress-microsoft-ceo-satya-nadella-warns-against-concentration-of-ai-power-14025004.html",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-22T11:33:25+00:00",
-    "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-06-23"
   }
