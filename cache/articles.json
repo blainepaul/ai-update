@@ -1,5 +1,255 @@
 [
   {
+    "title": "Building bilingual NER for cargo logistics with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-bilingual-ner-for-cargo-logistics-with-amazon-bedrock/",
+    "summary": "In this post, we share the technical approach using token-based distillation, lessons learned, and deployment architecture. If you face similar bilingual NER challenges, you can benefit from IBS Software’s experience with the Amazon Bedrock knowledge distillation capabilities.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-30T16:33:46+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Fine-tune Amazon Nova models for accurate email data extraction",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-amazon-nova-models-for-accurate-email-data-extraction/",
+    "summary": "In this post, you'll learn how fine-tuning Amazon Nova models using Amazon SageMaker AI addresses these specific issues by teaching the models to recognize your exact data patterns, distinguish between similar fields, and process information more efficiently—achieving up to 94.77% extraction accuracy while reducing costs 50%.",
+    "source": "AWS ML Blog",
+    "date": "2026-06-30T16:26:48+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Libby will filter out AI content, kind of",
+    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app […]",
+    "source": "The Verge AI",
+    "date": "2026-06-30T11:30:00-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-30T15:08:42+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+    "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-30T15:00:57+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Bloomberg Invest Hong Kong 2026 Highlights",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-30/bloomberg-invest-hong-kong-2026-highlights-video",
+    "summary": "From market outlook and cross-border flows to private capital, IPO momentum, China opportunities and AI infrastructure, Bloomberg Invest Hong Kong 2026 convened allocators, dealmakers and investors for conversations on the forces shaping Asia’s markets.  (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T15:00:14+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "summary": "Users will be able use AI to create newsletters based on their recordings.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-30T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-30T15:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-06-30T14:39:11+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "AI Won’t Be Substitute for Human Workers, OpenAI Economist Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says",
+    "summary": "The rise of artificial intelligence won’t make human workers superfluous, according to OpenAI Chief Economist Ronnie Chatterji.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T14:37:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "AI Chip Startup Etched Lures Jane Street, TSMC-Linked VC as Investors",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/ai-chip-startup-etched-says-jane-street-tsmc-linked-vc-invested",
+    "summary": "Nvidia rival says it has raised $800 million and has $1 billion in contracts.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T14:00:17+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Emily Bender Sets the Record Straight on “Stochastic Parrots”",
+    "url": "https://spectrum.ieee.org/stochastic-parrot",
+    "summary": "In March 2021, a group of four linguists and computer scientists published their now legendary paper “ On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜” The paper received significant attention at the time (in part because Google fired two of the authors, Timnit Gebru and Margaret Mitchell, shortly before its publication). It argued that large language models generate text by statistically predicting likely sequences of words rather than understanding what they are saying—",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-06-30T14:00:02+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+    "source": "TechCrunch AI",
+    "date": "2026-06-30T14:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+    "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+    "summary": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-30T13:00:27+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Perché l’AI può diventare la migliore alleata contro il burocratese",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/perche-lai-puo-diventare-lalleata-piu-inattesa-dei-cittadini-contro-il-burocratese/",
+    "summary": "Il burocratese nella pubblica amministrazione non nasce da incapacità, ma da incentivi che proteggono chi scrive più che orientare chi legge. L'intelligenza artificiale può rompere questo schema, rendendo più comprensibili testi e procedure, ma solo se guidata da una scelta politica sul destinatario L'articolo Perché l’AI può diventare la migliore alleata contro il burocratese proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-30T12:42:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "AI Leverage Is More Worrying Than Valuations, IMF’s Adrian Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/ai-leverage-is-more-worrying-than-valuations-imf-s-adrian-says",
+    "summary": "Artificial intelligence debt issuance may point to more of a financial stability concern than stock valuations, according to a senior International Monetary Fund official.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T12:14:21+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "BOE’s Breeden Says AI Agents Could Amplify Market Stress",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-30/boe-s-breeden-says-ai-agents-could-amplify-market-stress-video",
+    "summary": "Bank of England Deputy Governor Sarah Breeden says the use of autonomous artificial intelligence agents “could amplify volatility in stress” in financial markets and may need tighter regulation. She speaks at the European Central Bank's annual symposium in Sintra, Portugal. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T12:12:17+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-30T12:10:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Meet the lawyer who beat Elon Musk — twice",
+    "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+    "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" […]",
+    "source": "The Verge AI",
+    "date": "2026-06-30T08:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Agriculture is ready for AI, but its data isn’t",
+    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.  The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-30T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "System card GPT-5.6: come leggerla prima di adottare l’AI",
+    "url": "https://www.agendadigitale.eu/industry-4-0/system-card-gpt-5-6-come-leggerla-prima-di-adottare-lai/",
+    "summary": "OpenAI presenta GPT-5.6 con una system card che sposta l’attenzione dai benchmark alla governance. Per chi adotta modelli di frontiera contano classificazione del rischio, continuità dell’accesso, sicurezza via API, supervisione umana e assurance indipendente lungo l’intero ciclo di adozione responsabile L'articolo System card GPT-5.6: come leggerla prima di adottare l’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-06-30T11:50:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "BOE’s Breeden Warns AI Agents Risk Causing Market Meltdowns",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/boe-s-breeden-warns-ai-agents-risk-triggering-market-meltdowns",
+    "summary": "Autonomous artificial intelligence agents risk causing “market meltdown” and may need tighter regulation, Bank of England Deputy Governor Sarah Breeden warned.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T11:27:16+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Call Center Stocks Fall on Fear AI Makes Them ‘Uninvestible’",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/call-center-stocks-fall-on-worry-ai-is-makes-them-uninvestible",
+    "summary": "Signs that companies are increasingly turning to artificial intelligence to handle customer service tasks has triggered a fresh selloff in shares of two call-center companies.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T11:16:31+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Chinese AI Firms’ Newest Battleground: World Cup Predictions",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-30/chinese-ai-firms-compete-to-pick-world-cup-winners",
+    "summary": "The companies are using interest in the popular sporting event to promote their AI models",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "Building tech in the world’s secret R&D hub",
+    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
+    "source": "MIT Tech Review",
+    "date": "2026-06-30T10:23:30+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
     "title": "Weak Hiring Is Hurting Young Workers More than AI, Study Says",
     "url": "https://www.bloomberg.com/news/articles/2026-06-30/weak-hiring-is-hurting-young-workers-more-than-ai-study-says",
     "summary": "A shortage of job openings in the US is playing a much bigger role in young people’s unemployment than their lack of artificial intelligence skills, according to a new study from the Federal Reserve Bank of St. Louis.",
@@ -10,6 +260,16 @@
     "_slot_date": "2026-06-30"
   },
   {
+    "title": "SAP Gives AI Product Oversight to CEO and COO in Reshuffle",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/sap-distributes-ai-product-oversight-to-ceo-coo-in-reshuffle",
+    "summary": "SAP SE is divvying up responsibilities for its product and engineering functions in its second top-level reorganization this year, people familiar with the matter said, as Europe’s largest software company grapples with staying ahead of rising artificial intelligence competition.",
+    "source": "Bloomberg Tech",
+    "date": "2026-06-30T09:24:10+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-06-30"
+  },
+  {
     "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
     "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
     "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
@@ -17,6 +277,16 @@
     "date": "2026-06-30T09:00:00+00:00",
     "category": "tools_products",
     "_slot": "morning",
+    "_slot_date": "2026-06-30"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "source": "OpenAI Blog",
+    "date": "2026-06-30T09:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
     "_slot_date": "2026-06-30"
   },
   {
@@ -2646,246 +2916,6 @@
     "source": "AWS ML Blog",
     "date": "2026-06-23T16:39:34+00:00",
     "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Omio scales travel product development using OpenAI models",
-    "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
-    "summary": "Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition of technology to outdated internal processes. The company’s CTO, Tomas Vocetka, requires all internal functions to completely redesign […] The post Omio scales travel product development using OpenAI",
-    "source": "AI News (AIN)",
-    "date": "2026-06-23T16:32:28+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Menlo Ventures' Ganesan on Anthropic Bet, Backing AI Startups",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-23/menlo-ventures-ganesan-on-anthropic-bet-ai-startups-video",
-    "summary": "Menlo Ventures has raised $3 billion for new AI investments, the biggest fundraise in the firm's 50-year history, reflecting how dramatically venture capital is changing as investors race to back the next generation of AI winners. Menlo Ventures partner Venky Ganesan joins Bloomberg's Natasha Mascarenhas and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-23T16:29:54+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "The Best Movies to Stream This Month (June 2026)",
-    "url": "https://www.wired.com/story/the-12-best-movies-to-stream-right-now/",
-    "summary": "I Am Frankelda, A.I. Artificial Intelligence, and From Russia With Love are among the films deserving of your eyeballs this month.",
-    "source": "Wired",
-    "date": "2026-06-23T16:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
-    "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-    "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal […]",
-    "source": "The Verge AI",
-    "date": "2026-06-23T11:56:35-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/",
-    "summary": "In this post, you will learn patterns for implementing production-ready multi-tenant systems using Amazon Bedrock AgentCore. You will see these patterns demonstrated through healthcare AI agents that serve multiple clinics and hospitals.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-23T15:43:59+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-    "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-    "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me […]",
-    "source": "The Verge AI",
-    "date": "2026-06-23T11:00:00-04:00",
-    "category": "healthcare",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-23T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
-    "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-    "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you […]",
-    "source": "The Verge AI",
-    "date": "2026-06-23T09:25:42-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Early Anthropic Backer Menlo Lands $3 Billion in Its Largest-Ever Haul",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-23/anthropic-backer-menlo-ventures-lands-3-billion-in-its-largest-ever-haul",
-    "summary": "In 2024, Menlo Ventures made the risky decision to raise $500 million to invest in Anthropic PBC, then an underdog rival to OpenAI that had yet to generate meaningful revenue or gain mainstream adoption like ChatGPT.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-23T13:00:15+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-    "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-23T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Meta launches cheaper smart glasses without Ray-Ban",
-    "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-    "summary": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite […]",
-    "source": "The Verge AI",
-    "date": "2026-06-23T09:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-23T12:51:55+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "AI: metà degli italiani la usa, ma la fiducia crolla su lavoro e salute",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-meta-degli-italiani-la-usa-ma-la-fiducia-crolla-su-lavoro-e-salute/",
-    "summary": "L’indagine Eurispes sul rapporto tra italiani e Intelligenza artificiale mostra una tecnologia ormai entrata nelle pratiche quotidiane, ma ancora lontana da una piena legittimazione sociale. Uso, fiducia e percezioni cambiano in base a età, lavoro e contesti decisionali L'articolo AI: metà degli italiani la usa, ma la fiducia crolla su lavoro e salute proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-23T12:49:00+00:00",
-    "category": "healthcare",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Nucleare per data center: perché l’Italia riapre la partita dell’atomo",
-    "url": "https://www.agendadigitale.eu/smart-city/nucleare-per-data-center-perche-litalia-riapre-la-partita-dellatomo/",
-    "summary": "Il ritorno al nucleare in Italia non riguarda solo bollette e rischio, ma la disponibilità di potenza elettrica continua e decarbonizzata per data center, intelligenza artificiale e industria avanzata. La sfida è legare energia, calcolo e autonomia tecnologica L'articolo Nucleare per data center: perché l’Italia riapre la partita dell’atomo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-23T12:11:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-    "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-23T12:10:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "AgID multata per le PEC in INAD: la sanzione che riguarda la privacy di tutti",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/agid-multata-per-le-pec-in-inad-la-sanzione-che-riguarda-la-privacy-di-tutti/",
-    "summary": "Il Garante ha sanzionato AgID con 55.000 euro per la gestione del riversamento delle PEC professionali da INI-PEC a INAD. Le violazioni riguardano trasparenza, limitazione della finalità, privacy by default e accountability. Un caso che ridefinisce gli obblighi nella digitalizzazione pubblica L'articolo AgID multata per le PEC in INAD: la sanzione che riguarda la privacy di tutti proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-23T12:08:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "AI Is Learning to Read the Room",
-    "url": "https://spectrum.ieee.org/emotion-ai-context",
-    "summary": "Imagine sitting down at your desk and logging in for a performance review, with an AI system analyzing the conversation. You’ve been working long hours, balancing deadlines, and your manager asks how you’re doing. You say you’re fine, and maybe even smile, but there’s a hint of hesitation and your voice wavers. As you shift your posture, your shoulders slump. These are subtle cues that to the human eye might hint at underlying stress. But to an AI model that’s been trained only to categorize emo",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-06-23T12:00:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Cybersecurity, perché il gap di competenze espone le aziende ai breach",
-    "url": "https://www.agendadigitale.eu/sicurezza/cybersecurity-perche-il-gap-di-competenze-espone-le-aziende-ai-breach/",
-    "summary": "Il Global Cybersecurity Skills Gap Report 2026 di Fortinet evidenzia il peso della carenza di competenze sulla sicurezza delle aziende. Tra violazioni, costi economici, intelligenza artificiale e formazione continua, la cybersecurity diventa una priorità strategica per imprese, scuole e sistema educativo L'articolo Cybersecurity, perché il gap di competenze espone le aziende ai breach proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-23T11:07:19+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "MGX’s $50 Billion Raise Sets Up One of the Biggest AI Funds Ever",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals",
-    "summary": "Abu Dhabi’s MGX has raised close to $50 billion from regional and global investors to accelerate spending on artificial intelligence infrastructure and technology, according to people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-23T10:57:46+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal",
-    "summary": "The stock-image giant tried home-grown AI before its tie-up with OpenAI.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-23T10:30:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
-    "summary": "Oracle Corp. reduced its workforce by a wider scale than previously known, cutting 21,000 employees in the past 12 months. The reductions include jobs that were eliminated by the use of artificial intelligence. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-23T10:11:57+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Governare il ragionamento, la chiave per un uso intensivo dell’AI nella PA",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/governare-il-ragionamento-la-chiave-per-un-uso-intensivo-dellai-nella-pa/",
-    "summary": "Le dashboard conversazionali nella pubblica amministrazione cambiano il modo in cui enti e funzionari accedono ai dati. L’esperienza del Comune di Cinisello Balsamo mostra come linguaggio naturale, Digital Twin e AI governata possano trasformare una domanda in mappe, tabelle, grafici e spiegazioni L'articolo Governare il ragionamento, la chiave per un uso intensivo dell’AI nella PA proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-23T10:07:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "BBVA Offloads AI Risk With $2 Billion Infrastructure-Linked SRT",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-23/bbva-offloads-ai-risk-with-2-billion-infrastructure-linked-srt",
-    "summary": "BBVA SA is close to completing a significant risk transfer to hedge some of its rapidly-expanding portfolio of artificial intelligence-related lending.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-23T10:05:20+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-23"
-  },
-  {
-    "title": "Google Taps Employee Alumni Network With AI Startup Incubator",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator",
-    "summary": "Alphabet Inc.’s Google is backing a new incubator for former employees building artificial intelligence startups, deepening its ties with one of Silicon Valley’s largest and most influential alumni groups.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-23T10:00:00+00:00",
-    "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-06-23"
   }
