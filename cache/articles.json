@@ -1,5 +1,215 @@
 [
   {
+    "title": "US Lifts Export Restrictions on Anthropic's Fable 5",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video-mr2azjde",
+    "summary": "The Trump administration has lifted foreign access restrictions on Anthropic's Fable 5 AI model after the company addressed government safety concerns. Allie Mellen, principal analyst at Forrester, joins Ed Ludlow on \"Bloomberg Tech\" to discuss how Washington regulates frontier AI. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-01T16:41:55+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
+    "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
+    "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is driving a step change in electricity demand. This is not a future challenge, it is a present, system-level issue requiring coordinated action across energy, infrastructure, and engineering disciplines.",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-01T16:01:27+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+    "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+    "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+    "source": "Wired",
+    "date": "2026-07-01T16:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "source": "Google AI Blog",
+    "date": "2026-07-01T16:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-01T14:35:16+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-01T14:25:23+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-01T14:20:19+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+    "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-01T14:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-01T13:43:07+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo",
+    "summary": "Foreign governments, companies and financial institutions were left in limbo after the Trump administration continued to restrict access to Anthropic PBC’s Mythos 5 to a limited number of US organizations even after dropping export controls on the company’s latest artificial intelligence models.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-01T13:04:58+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "NVIDIA and Partners Build in America, for America",
+    "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+    "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-01T13:00:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "AI nelle PMI italiane: competenze e dati frenano la svolta digitale",
+    "url": "https://www.agendadigitale.eu/industry-4-0/ai-nelle-pmi-italiane-competenze-e-dati-frenano-la-svolta-digitale/",
+    "summary": "Le PMI italiane guardano con interesse crescente all’Intelligenza Artificiale, ma l’adozione resta limitata. Solo l’8% ha progetti attivi o in sperimentazione, mentre competenze, governance dei dati e formazione frenano la trasformazione digitale e la capacità di usare l’AI come leva strategica L'articolo AI nelle PMI italiane: competenze e dati frenano la svolta digitale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-01T12:57:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Ecco Claude Science. Cosa cambia, a confronto con Google e OpenAI",
+    "url": "https://www.agendadigitale.eu/industry-4-0/ecco-claude-science-cosa-cambia-a-confronto-con-google-e-openai/",
+    "summary": "Anthropic apre in beta Claude Science: integra gli strumenti di laboratorio, gestisce calcolo su cluster HPC o GPU on demand restando sull'infrastruttura del ricercatore, e produce output riproducibili. Il confronto con Co-Scientist di Google  mostra due strade diverse per la ricerca scientifica. La biologia di frontiera resta riservata a Mythos 5 L'articolo Ecco Claude Science. Cosa cambia, a confronto con Google e OpenAI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-01T12:12:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+    "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-01T12:10:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Claude Sonnet 5: Anthropic stringe il divario con Opus sui costi",
+    "url": "https://www.agendadigitale.eu/industry-4-0/claude-sonnet-5-anthropic-stringe-il-divario-con-opus-sui-costi/",
+    "summary": "Anthropic ha annunciato Claude Sonnet 5 il 30 giugno 2026: prestazioni vicine a Opus 4.8 a prezzi più bassi, tokenizer aggiornato, sicurezza migliorata rispetto al predecessore. La disponibilità immediata su tutti i piani apre un confronto diretto con GPT-5.6 di OpenAI, ancora bloccato in rilascio controllato dal governo statunitense L'articolo Claude Sonnet 5: Anthropic stringe il divario con Opus sui costi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-01T12:05:58+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Taiwan Detains Super Micro Workers in China Chip Smuggling Probe",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-01/taiwan-detains-super-micro-workers-probing-smuggling-of-nvidia-chips-to-china",
+    "summary": "Taiwanese prosecutors detained two Super Micro Computer Inc. employees following a raid of the US company’s local offices earlier this week over alleged shipments of Nvidia Corp. chips to China.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-01T12:02:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. […]",
+    "source": "The Verge AI",
+    "date": "2026-07-01T08:00:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Il Canone unico è un problema per chi porta Internet nelle aree interne",
+    "url": "https://www.agendadigitale.eu/infrastrutture/il-canone-unico-e-un-problema-per-chi-porta-internet-nelle-aree-interne/",
+    "summary": "Le sentenze della Cassazione sul Canone Unico Patrimoniale aprono un fronte delicato per i piccoli operatori Internet. L’interrogazione dell’on. Enzo Amich porta in Parlamento i rischi per provider locali, aree interne, investimenti digitali e continuità dei servizi nei territori più fragili L'articolo Il Canone unico è un problema per chi porta Internet nelle aree interne proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-01T11:35:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Video Search Startup Raises $100 Million From Amazon and VCs",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds",
+    "summary": "Twelve Labs Co. is raising $100 million from investors including Amazon.com Inc., NEA Management Co. and Naver Ventures, boosting its efforts to develop artificial intelligence that can quickly search and analyze troves of video.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-01T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "AI, Forging New Risks, Isn’t a Market Wizard After All",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-01/ai-models-could-make-hedge-fund-trading-riskier-wall-street-researchers-warn",
+    "summary": "More studies are trying to answer the question: what if everyone uses the same AI tool?",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-01T10:30:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
+    "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+    "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+    "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+    "source": "Wired",
+    "date": "2026-07-01T10:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-01"
+  },
+  {
     "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
     "url": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
     "summary": "Whether artificial intelligence will cause mass workforce cuts over time remains up for debate, but it is starting to leave an imprint on US employment data.",
@@ -2798,285 +3008,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-06-25"
-  },
-  {
-    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-    "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-24T16:48:43+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-25"
-  },
-  {
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-24T16:15:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Figma now has AI motion graphics and shader tools",
-    "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-    "summary": "Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in […]",
-    "source": "The Verge AI",
-    "date": "2026-06-24T12:15:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-06-24T16:00:13+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "OpenAI Unveils Custom Chip It Designed With Broadcom to Boost Its AI Infrastructure",
-    "url": "https://money.usnews.com/investing/news/articles/2026-06-24/openai-unveils-custom-chip-it-designed-with-broadcom-to-boost-its-ai-infrastructure",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-24T15:25:31+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-    "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-    "summary": "At high-stakes meetings with the White House, Anthropic's cofounder—a \"weirdo,\" per one official—has been replaced by cofounder Tom Brown.",
-    "source": "Wired",
-    "date": "2026-06-24T15:15:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-24T14:54:46+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "OpenAI reveals its first AI processor: Jalapeño",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-    "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday. Jalapeño is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI […]",
-    "source": "The Verge AI",
-    "date": "2026-06-24T10:36:47-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "OpenAI, Broadcom Develop AI Chip Called 'Jalapeno'",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-24/openai-broadcom-develop-ai-chip-called-jalapeno-video",
-    "summary": "OpenAI and Broadcom Inc. have developed a custom artificial intelligence chip called Jalapeno. OpenAI is now testing the samples. The companies say this chip can cut costs by 50%. Ed Ludlow reports.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T14:23:45+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-    "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-24T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Nvidia's AI Chips Double in Price in China as It Tackles AI's Water Problem",
-    "url": "https://blocknow.com/nvidia-ai-chips-china-black-market-price-surge/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-06-24T13:12:24+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Google’s New $100 Speaker Makes a Weak Case for Gemini in the Home",
-    "url": "https://www.bloomberg.com/news/features/2026-06-24/google-home-speaker-review-impressive-ai-underwhelming-audio-quality",
-    "summary": "The Google Home Speaker is the first new device of its kind to come from Alphabet Inc. in six years. In that time, Google has reshaped itself as an industry leader in artificial intelligence, with its Gemini platform now ubiquitous across consumer hardware like smartphones and web services like Search, Workspace and YouTube.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T13:00:15+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
-    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-    "summary": "Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomous vehicles, and satellite communications. Princeton researchers use reinforcement learning and inverse design to rapidly create RFICs from scratch. Diffusion models rapidly generate novel or human-interpretable RF layouts, achieving record performance and drastically reducing design time. Future progress needs large, shared chip design datasets and open ecosystems so AI can learn univers",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-06-24T13:00:01+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-    "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-    "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't […]",
-    "source": "The Verge AI",
-    "date": "2026-06-24T09:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "OpenAI, Broadcom Unveil Chip to Run Models Faster, Cheaper",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper",
-    "summary": "OpenAI unveiled its first custom artificial intelligence chip developed in partnership with Broadcom Inc., part of a bid by the ChatGPT maker to gain an edge by tailoring hardware to better run its AI products.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T13:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "AI, scuola e lavoro: perché l’apprendimento non può essere delegato",
-    "url": "https://www.agendadigitale.eu/scuola-digitale/ai-scuola-e-lavoro-perche-lapprendimento-non-puo-essere-delegato/",
-    "summary": "Il rapporto EDUNext dell’Osservatorio Look4ward e le tracce della maturità aprono la stessa domanda: l’intelligenza artificiale può rafforzare apprendimento e motivazione solo se scuole, università e imprese costruiscono competenze capaci di governarla, evitando delega cognitiva e perdita di autonomia L'articolo AI, scuola e lavoro: perché l’apprendimento non può essere delegato proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-24T12:52:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Propaganda sintetica: quando l’AI altera il vero per orientare il consenso",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/propaganda-sintetica-quando-lai-altera-il-vero-per-orientare-il-consenso/",
-    "summary": "Un recente caso giudiziario olandese legato al partito di estrema destra PVV, apre una nuova frontiera nel rapporto tra intelligenza artificiale, diritto d'autore e integrità dell'informazione pubblica. Non siamo di fronte alla creazione di falsi assoluti, ma alla manipolazione surrettizia della realtà per orientare il consenso emotivo e politico L'articolo Propaganda sintetica: quando l’AI altera il vero per orientare il consenso proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-24T12:33:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Microsoft Says Copilot AI Helped Knock Down Cybercrime Tools",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/microsoft-says-copilot-ai-helped-knock-down-cybercrime-tools",
-    "summary": "Investigators used new tools to defeat old malware technology.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T12:30:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Decreto AI: come cambia la responsabilità civile e penale per l’uso dell’IA",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/decreto-ai-come-cambia-la-responsabilita-civile-e-penale-per-luso-dellia/",
-    "summary": "Con il decreto attuativo dell’AI Act, il Governo definisce i criteri nazionali per la responsabilità civile e penale connessa ai sistemi AI. Il provvedimento rafforza gli obblighi di sicurezza per i sistemi ad alto rischio, amplia il catalogo dei reati presupposto 231 e introduce una presunzione di causalità a tutela dei danneggiati L'articolo Decreto AI: come cambia la responsabilità civile e penale per l’uso dell’IA proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-24T12:04:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Qualcomm to Buy Modular for $3.9 Billion to Help AI Push",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-confirms-buying-modular-to-help-ai-market-push",
-    "summary": "Qualcomm Inc. said it is acquiring Modular Inc., for about $3.9 billion in stock, adding artificial intelligence software capabilities that will aid its push into data centers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T12:00:22+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-    "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-24T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Biotech Visionary Is Skeptical About AI’s Impact on Medical Innovation",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/biotech-visionary-is-skeptical-about-ai-s-impact-on-medical-innovation",
-    "summary": "The inventor of the groundbreaking Crispr gene-editing technology is skeptical about artificial intelligence replacing human effort in the realm of scientific discovery, adding to a growing debate over its impact on medical research and innovation.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "The emergence of the web data infrastructure layer for AI",
-    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.  To understand this challenge, consider the foundation of the web itself. The web was not designed…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-24T11:59:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Meta, Microsoft Lead $850 Billion Boom in Data Center Leases",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/meta-microsoft-lead-850-billion-boom-in-data-center-leases",
-    "summary": "Meta Platforms Inc. and Microsoft Corp. each committed tens of billions of dollars in additional data center leases in their most recent quarters, adding to the massive sums the industry is spending on artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T11:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "SK Hynix Seeks to Raise $29 Billion in US Listing to Meet AI Chip Demand",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-24/sk-hynix-seeks-to-raise-29-billion-in-us-listing-video",
-    "summary": "SK Hynix Inc. is planning to raise $29.4 billion (45.45 trillion won) in a landmark US listing and expects trading to start on July 10, according to a regulatory filing on Wednesday. The deal, depending on the exchange rate, could be among the top five share sales of all time. Peter Elstrom reports on Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T10:59:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "MGX Sets Up $50 Billion AI Fund",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-24/mgx-sets-up-50-billion-ai-fund-video",
-    "summary": "Abu Dhabi’s MGX has raised close to $50 billion from regional and global investors, marking one of the biggest ever dedicated AI investment vehicles. Nandu Nair reports. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T10:34:13+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "AI Billionaires Score Win in $29 Million New York Proxy Fight",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-24/ai-billionaires-score-win-in-29-million-new-york-proxy-fight",
-    "summary": "Artificial intelligence billionaires including venture capitalist Marc Andreessen and OpenAI President Greg Brockman scored a key victory in a New York City congressional primary that became a $29 million proxy battle over who will control the future of AI.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-24T10:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
-  },
-  {
-    "title": "Cloud, dati e modelli nazionali: come costruire una sovranità dell’AI",
-    "url": "https://www.agendadigitale.eu/infrastrutture/cloud-dati-e-modelli-nazionali-come-costruire-una-sovranita-dellai/",
-    "summary": "Cloud e intelligenza artificiale accelerano innovazione e servizi, ma richiedono controllo sui dati, sugli accessi e sulle infrastrutture. La sovranità dell’AI passa da scelte tecnologiche, governance verificabile, modelli locali, garanzie contrattuali e standard internazionali per un uso responsabile L'articolo Cloud, dati e modelli nazionali: come costruire una sovranità dell’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-24T10:22:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-24"
   }
 ]
