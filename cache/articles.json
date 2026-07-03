@@ -1,5 +1,115 @@
 [
   {
+    "title": "Anthropic wants to develop its own drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it […]",
+    "source": "The Verge AI",
+    "date": "2026-07-03T09:56:52-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "Quale governance globale per i rischi dell’AI: il report ONU IISPAI",
+    "url": "https://www.agendadigitale.eu/sicurezza/quale-governance-globale-per-i-rischi-dellai-il-report-onu-iispai/",
+    "summary": "Il Preliminary Report dello IISPAI offre la prima valutazione scientifica indipendente dell’ONU sull’intelligenza artificiale, tra accelerazione delle capacità, concentrazione del potere computazionale, rischi sistemici, divari globali e urgenza di una governance fondata su evidenze ancora incomplete L'articolo Quale governance globale per i rischi dell’AI: il report ONU IISPAI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-03T13:49:53+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "Pragmatic FDT, and predictors as game theory",
+    "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
+    "summary": "Decision theory is back in fashion (defining fashion as \"one good post on a good EA blog\"). Bentham's Bulldog (BB) has published a case against FDT ( functional decision theory ), contrasting rationalist enthusiasm with academic scepticism: \" Academic decision theorists don't like the theory. The number of academic decision theorists who adopt it could be counted on one hand by someone missing four of their fingers. \" I am, just barely, a published academic decision theorist , so you can keep a ",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-03T13:22:38+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "Iran, lo spionaggio che verrà: lo scenario dopo la guerra",
+    "url": "https://www.agendadigitale.eu/sicurezza/iran-lo-spionaggio-che-verra-lo-scenario-dopo-la-guerra/",
+    "summary": "L’Iran ha costruito negli anni una rete tecnologica interna orientata a sorveglianza, controspionaggio e resilienza digitale. Dalla National Information Network alle piattaforme Nazer e Kashef, fino all’intelligenza artificiale e alla guerra SIGINT, Teheran rafforza il proprio scudo digitale L'articolo Iran, lo spionaggio che verrà: lo scenario dopo la guerra proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-03T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "“Lai”, il pronome che prova a mettere ordine tra umani e algoritmi",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/lai-il-pronome-che-prova-a-mettere-ordine-tra-umani-e-algoritmi/",
+    "summary": "Il pronome “lai” nasce come proposta linguistica per riferirsi all’intelligenza artificiale conversazionale senza attribuirle genere umano né ridurla a oggetto. Una riflessione sul rapporto uomo-macchina, sui cambiamenti del linguaggio e sul ruolo culturale delle nuove forme di interlocuzione digitale L'articolo “Lai”, il pronome che prova a mettere ordine tra umani e algoritmi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-03T12:28:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "Prima l’AI, poi le regole: il paradosso della PA italiana",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/prima-lai-poi-le-regole-il-paradosso-della-pa-italiana/",
+    "summary": "Le linee guida AgID definiscono architettura, procurement e ciclo di vita dei sistemi AI nella PA. Ma la governance non aspetta i documenti: censimento, contratti aggiornati, responsabilità definite. RTD, CIO e CISO devono agire ora, indipendentemente dallo stato di avanzamento normativo delle linee guida stesse L'articolo Prima l’AI, poi le regole: il paradosso della PA italiana proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-03T12:27:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
+    "url": "https://spectrum.ieee.org/data-centers-grid-instability",
+    "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade. Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters. This framing captures scale. It miss",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-03T12:00:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "AI e salute: l’Europa punta su dati, regole e accountability",
+    "url": "https://www.agendadigitale.eu/sanita/ai-e-salute-leuropa-punta-su-dati-regole-e-accountability/",
+    "summary": "L'intelligenza artificiale in sanità avanza, ma il vero collo di bottiglia è la qualità dei dati. Il quadro regolatorio europeo - EHDS, AI Act, linee guida EDPB - ridisegna le regole del gioco verso un'innovazione affidabile, misurabile e orientata all'interesse pubblico L'articolo AI e salute: l’Europa punta su dati, regole e accountability proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-03T11:58:13+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "Il CdA deve governare AI e cybersecurity: ecco perché",
+    "url": "https://www.agendadigitale.eu/sicurezza/il-cda-deve-governare-ai-e-cybersecurity-ecco-perche/",
+    "summary": "Privacy, cybersecurity e intelligenza artificiale non sono più materie delegate agli specialisti: con il D.Lgs. 47/2026 entrano nella governance d'impresa. Gli amministratori devono mappare rischi digitali, strutturare flussi informativi e garantire controlli adeguati e trasparenti L'articolo Il CdA deve governare AI e cybersecurity: ecco perché proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-03T11:56:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+    "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour […]",
+    "source": "The Verge AI",
+    "date": "2026-07-03T07:49:10-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
+    "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
+    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collaboration. The agreement gives Takeda access to Insilico’s Pharma.AI platform, which supports biological target […] The post Takeda signs US$600M AI drug discovery deal with Insilico appeared first on AI News",
+    "source": "AI News (AIN)",
+    "date": "2026-07-03T10:00:00+00:00",
+    "category": "healthcare",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-03"
+  },
+  {
     "title": "AI Productivity Hopes Show ‘Exuberance,’ Allianz’s Subran Says",
     "url": "https://www.bloomberg.com/news/articles/2026-07-03/ai-productivity-hopes-show-exuberance-allianz-s-subran-says",
     "summary": "Artificial intelligence is likely to have a less even impact on economies than the market hype would suggest, according to Allianz Chief Economist Ludovic Subran.",
@@ -2657,216 +2767,6 @@
     "date": "2026-06-26T16:11:13+00:00",
     "category": "tools_products",
     "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "AI Cost Reality Check Hits Asia Tech Stocks as Apple Hikes Prices",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-26/ai-cost-reality-check-hits-asia-tech-stocks-video",
-    "summary": "Asian technology stocks slumped after Apple Inc. and Microsoft Corp. raised prices for their products, stoking concern that rising component costs will curb demand for devices and eventually slow the memory chip rally that has powered much of the AI trade.\nBloomberg Tech Host Ed Ludlow discusses the move from Apple to raise prices as well as what's next for OpenAI as they mull a delay for the company's IPO. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T15:47:35+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Morgan Stanley, Goldman Shares Fall on Possible OpenAI IPO Delay",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-26/morgan-stanley-goldman-shares-fall-on-possible-openai-ipo-delay",
-    "summary": "Shares of Morgan Stanley and Goldman Sachs Group Inc. fell on Friday after OpenAI is said to weigh holding off on an initial public offering until next year amid volatility in technology stocks.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T15:18:45+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "The Case for Model Forensics",
-    "url": "https://www.alignmentforum.org/posts/LCGcD28rSMkMTMvBK/the-case-for-model-forensics",
-    "summary": "If we had a misalignment warning shot, would we be able to tell? Suppose an AI company catches their model taking an egregious action, like deleting oversight code that monitors its actions. Should they sound the alarm? A key piece of evidence to determine what to do next – such as what mitigations to take – is to understand why the model took the action. If the model was just confused (e.g. it may have been trying to reduce latency), a simple mitigation like a regex classifier that blocks destr",
-    "source": "AI Alignment Forum",
-    "date": "2026-06-26T15:09:10+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Build interactive PDF text extraction from Amazon S3",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
-    "summary": "In this post, you’ll build a server that extracts text from PDF files in Amazon S3 in real time. This protocol-based approach provides programmatic document access. You’ll walk through the architecture, set up the server, and run interactive document queries. Along the way, you’ll compare this approach with Amazon Textract so you can decide which tool fits your workload.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-26T14:47:45+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Stocks Waver at End of Bruising Week for AI Trade",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-26/stocks-waver-at-end-of-bruising-week-for-ai-trade-video",
-    "summary": "Another burst of selling pummeled chipmakers, whipsawing stocks once again amid concerns over whether vast investments in artificial intelligence will justify the industry’s hefty valuations.\nVirginie Maisonneuve, Founder at Maisonneuve Global Advisors, discusses the current AI narrative as investors continue to show jitters around high-flying tech stocks. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T14:43:25+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/",
-    "summary": "In this post, we explore how Cara, built in cooperation with AWS, addresses these challenges. We walk through the technical design decisions and the AWS services that support the solution. We also share measurable outcomes Cara has delivered for enterprise brokerages.",
-    "source": "AWS ML Blog",
-    "date": "2026-06-26T14:42:20+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-26/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut",
-    "summary": "OpenAI is considering an initial public offering as soon as in 2027, according to people familiar with the matter, a timeline that would potentially see it go public after its artificial intelligence rival Anthropic PBC.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T14:40:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Production-grade AI agents for financial compliance: Lessons from Stripe",
-    "url": "https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/",
-    "summary": "In this post, you learn how Stripe built a production-grade AI agent system for financial compliance. We cover the technical architecture of Stripe’s ReAct agent framework and the infrastructure decisions behind a dedicated agent service. We also discuss the role of human oversight in maintaining accountability, and key lessons about task decomposition, orchestration patterns, and cost optimization through prompt caching. By the end, you will understand how to design agentic systems that scale c",
-    "source": "AWS ML Blog",
-    "date": "2026-06-26T14:38:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-    "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the […]",
-    "source": "The Verge AI",
-    "date": "2026-06-26T10:07:03-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "AI Agents militari, come l’intelligenza artificiale cambia la guerra",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-agents-militari-come-lintelligenza-artificiale-cambia-la-guerra/",
-    "summary": "Gli AI Agents militari stanno trasformando i conflitti contemporanei come strumenti di percezione, navigazione, targeting e coordinamento. Dall’Ucraina a Gaza, dagli Stati Uniti alla NATO, la sfida riguarda velocità decisionale, controllo umano, resilienza tecnica, governance e autonomia strategica europea L'articolo AI Agents militari, come l’intelligenza artificiale cambia la guerra proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-26T13:30:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-    "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-    "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-26T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "SAP aligns commerce data for AI personalisation",
-    "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
-    "summary": "SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructure running inside these enterprises fails to support systematic execution at the required volume. Recommendation engines display generic product listings because […] The post SAP aligns commerce data for",
-    "source": "AI News (AIN)",
-    "date": "2026-06-26T12:55:48+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-    "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
-    "source": "MIT Tech Review",
-    "date": "2026-06-26T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "OpenAI Makes Its Advertising Pitch at Cannes Festival",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-26/openai-pitches-ai-chatbot-ads-at-cannes-lions-festival",
-    "summary": "The ChatGPT maker offers the industry a new marketing vehicle",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T11:02:01+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Oltre la RAG: come LLM Wiki può trasformare la memoria d’impresa",
-    "url": "https://www.agendadigitale.eu/industry-4-0/oltre-la-rag-come-llm-wiki-puo-trasformare-la-memoria-dimpresa/",
-    "summary": "Le basi di conoscenza aziendali spesso falliscono perché nessuno le aggiorna. Il pattern LLM Wiki propone di usare i modelli linguistici per mantenere una memoria d’impresa strutturata, verificabile e navigabile, distinguendola dalla semplice ricerca enterprise basata su RAG L'articolo Oltre la RAG: come LLM Wiki può trasformare la memoria d’impresa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-26T10:59:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Sanità centrata sul paziente: come progettare la cura oltre la prestazione",
-    "url": "https://www.agendadigitale.eu/sanita/sanita-centrata-sul-paziente-come-progettare-la-cura-oltre-la-prestazione/",
-    "summary": "La patient centricity richiede un passaggio da principio dichiarato a disciplina progettuale. Il framework integra Experience by Design, Data by Evidence e AI by Governance per connettere esperienza del paziente, dati sanitari e responsabilità nell’uso dell’intelligenza artificiale L'articolo Sanità centrata sul paziente: come progettare la cura oltre la prestazione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-26T10:57:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "SoftBank Shares Fall on Report OpenAI to Delay IPO",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-26/softbank-shares-fall-on-report-openai-to-delay-ipo-video",
-    "summary": "SoftBank Group’s stock tumbled the most since August 2024 after reports that OpenAI may hold off on an initial public offering until next year, delaying returns for its Japanese backer. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T10:38:39+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Washington’s Foreign Ban on Anthropic’s Top Models May Backfire",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-26/white-house-s-ban-on-anthropic-ai-access-may-boost-china-s-open-source-models",
-    "summary": "The move may act as a tailwind for rival China, boosting demand for the Asian nation’s open source AI.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T10:30:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Sinistri assicurativi, l’AI non basta: la vera sfida è cambiare i processi",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/sinistri-assicurativi-lai-non-basta-la-vera-sfida-e-cambiare-i-processi/",
-    "summary": "L’intelligenza artificiale sta trasformando la gestione dei sinistri assicurativi, superando il tradizionale equilibrio tra rapidità, accuratezza e costi. Il modello del sinistro liquido richiede processi adattivi, governance tracciabile, integrazione dei dati e nuove competenze operative L'articolo Sinistri assicurativi, l’AI non basta: la vera sfida è cambiare i processi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-26T09:43:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Risk engineering property, perché l’intuizione resta decisiva anche con l’AI",
-    "url": "https://www.agendadigitale.eu/sicurezza/risk-engineering-property-perche-lintuizione-resta-decisiva-anche-con-lai/",
-    "summary": "Nel risk engineering property l’intuizione dell’esperto resta centrale, ma può essere resa più robusta da strumenti di intelligenza artificiale usati come supporto critico. Il valore degli LLM non è decidere, ma aiutare a verificare ipotesi, scenari e ragionamenti complessi L'articolo Risk engineering property, perché l’intuizione resta decisiva anche con l’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-06-26T09:40:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-26"
-  },
-  {
-    "title": "Goldman: Could Make Sense to Diversify Away From Chipmakers",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-26/goldman-could-make-sense-to-diversify-away-from-chips-video",
-    "summary": "Christian Mueller-Glissmann, managing director for portfolio strategy and asset allocation at Goldman Sachs, discusses the tech selloff and why he thinks it could make sense to diversify away from semiconductor makers and lean more toward hyperscalers. \"These are incredibly cyclical companies,\" Mueller-Glissmann tells Bloomberg Television. \"So to some extent, it could make sense to diversify a bit away from them.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-26T09:28:13+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-06-26"
   }
 ]
