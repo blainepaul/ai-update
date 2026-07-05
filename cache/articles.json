@@ -1,5 +1,25 @@
 [
   {
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to […]",
+    "source": "The Verge AI",
+    "date": "2026-07-05T10:23:11-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-05"
+  },
+  {
+    "title": "Semiconductor Stocks Slide Amid AI Spending Concerns",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-05/semiconductor-stocks-slide-amid-ai-spending-concerns-video",
+    "summary": "Bloomberg Technology & Strategic Industries Senior Editor Mike Shepard says semiconductor stocks have come under pressure as investors question whether the rapid pace of AI infrastructure spending can be sustained beyond 2026, despite continued commitments from major technology companies. Shepard also explains to hosts of Bloomberg This Weekend David Gura and Christina Ruffini SK Hynix's planned US ADR debut will give American investors easier access to one of the world's leading AI memory-chip ",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-05T12:25:13+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-05"
+  },
+  {
     "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
     "url": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
     "summary": "Nvidia Corp.’s server assembly partner Hon Hai Precision Industry Co. reported a bigger-than-expected 40% jump in quarterly sales and said AI demand is growing further.",
@@ -2488,55 +2508,5 @@
     "category": "tools_products",
     "_slot": "morning",
     "_slot_date": "2026-06-29"
-  },
-  {
-    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-    "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-28T15:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-    "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that […]",
-    "source": "The Verge AI",
-    "date": "2026-06-28T10:12:06-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "AI Startup Firmus to Build Indonesia Data Center With Nvidia",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-startup-firmus-to-build-indonesia-data-center-with-nvidia",
-    "summary": "Firmus Technologies Pty Ltd. will build its first data center project in Indonesia as part of a partnership with US chip giant Nvidia Corp., which the Australian artificial intelligence infrastructure firm said is expected to win it as much as $30 billion in committed offtake agreements in its first six years.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-28T14:01:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-    "summary": "Austria is pushing the European Union to consider hosting Anthropic PBC within its borders to counter US efforts to block foreigners from using its most advanced artificial-intelligence models.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-28T12:29:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks",
-    "summary": "Investors who want additional exposure to artificial intelligence in Europe are getting creative, searching out companies that enable the technology or stand to benefit from it as the usual suspects get more pricey.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-28T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
   }
 ]
