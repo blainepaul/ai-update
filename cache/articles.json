@@ -1,5 +1,65 @@
 [
   {
+    "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
+    "summary": "Nvidia Corp.’s server assembly partner Hon Hai Precision Industry Co. reported a bigger-than-expected 40% jump in quarterly sales and said AI demand is growing further.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-05T07:47:23+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-05"
+  },
+  {
+    "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
+    "url": "https://github.com/tsuyu122/usaf",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-07-04T21:56:48+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-05"
+  },
+  {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "source": "TechCrunch AI",
+    "date": "2026-07-04T20:55:25+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-05"
+  },
+  {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-04T18:00:05+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-05"
+  },
+  {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-04T16:32:08+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-05"
+  },
+  {
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "source": "TechCrunch AI",
+    "date": "2026-07-04T15:51:32+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-05"
+  },
+  {
     "title": "The fanfiction community is at war with AI — and itself",
     "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
     "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a […]",
@@ -2477,76 +2537,6 @@
     "date": "2026-06-28T11:00:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
-    "summary": "Google has placed limits on Meta Platforms Inc.’s use of its Gemini artificial intelligence models because it could not provide as much computing capacity as the social media company wanted, according to the Financial Times.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-28T09:02:14+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "OpenAI Hires Uber’s Prabhjeet Singh to Lead India Operations",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/openai-hires-uber-s-prabhjeet-singh-to-lead-india-operations",
-    "summary": "OpenAI appointed Uber Technologies Inc.’s former India and South Asia President Prabhjeet Singh as its managing director for the country, deepening its investment in one of its fastest-growing markets.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-28T07:27:48+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "AI Fever Powers HK Share Sales Through Hurdles to Five-Year High",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-fever-powers-hk-share-sales-through-hurdles-to-five-year-high",
-    "summary": "Hong Kong share sales surged to a five-year high in the first half of 2026 as investor enthusiasm around the artificial intelligence boom overpowered the drag of a sluggish equity market and regulatory headwinds.",
-    "source": "Bloomberg Tech",
-    "date": "2026-06-28T00:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-27T20:42:36+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-    "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI […]",
-    "source": "The Verge AI",
-    "date": "2026-06-27T14:39:32-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
-    "source": "TechCrunch AI",
-    "date": "2026-06-27T16:45:09+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-06-28"
-  },
-  {
-    "title": "Hiding messages in the least significant mantissa bits of fine-tuned ONNX model weights [P]",
-    "url": "https://github.com/X-3306/ONNXStego",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-06-27T15:45:36+00:00",
-    "category": "models_research",
-    "_slot": "morning",
     "_slot_date": "2026-06-28"
   }
 ]
