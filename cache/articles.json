@@ -1,5 +1,195 @@
 [
   {
+    "title": "Chinese AI Models Advance, Causing US Cybersecurity Anxiety",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-08/chinese-ai-models-advance-causing-us-cybersecurity-anxiety",
+    "summary": "The global market for frontier artificial intelligence is evolving.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-08T16:00:02+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
+    "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/",
+    "summary": "This post shows you two architecture patterns that address this problem. Both use an internet-facing ALB with AWS WAF and route traffic through a VPC Interface Endpoint to AgentCore Runtime. Pattern 1 places an AWS Lambda proxy between the ALB and the VPC Endpoint, giving you full control over request transformation. Pattern 2 targets the VPC Endpoint ENI IP addresses directly from the ALB, removing the Lambda hop entirely. You also learn how to close the direct-access backdoor with a resource p",
+    "source": "AWS ML Blog",
+    "date": "2026-07-08T15:57:33+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Tool promises to make lazy academics' AI-written papers sound more human",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/08/tool-promises-to-make-lazy-academics-ai-written-papers-sound-more-human/5268460",
+    "summary": "Startup insists it's not trying to help anyone cheat the system - honest!",
+    "source": "The Register AI",
+    "date": "2026-07-08T17:55:00+02:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/",
+    "summary": "In this post, we show how you can use Jamf’s AI Governance with Amazon Bedrock to configure, deploy, and validate managed settings for AI applications across a Mac fleet.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-08T15:53:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "These AI startups are growing  revenue at faster and faster rates",
+    "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-08T15:41:06+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "China to Let AI Firms Buy Nvidia H200s, Information Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says",
+    "summary": "China plans to allow top artificial intelligence companies to buy a limited amount of H200 chips from Nvidia Corp., a sign the country is easing restrictions on the coveted US technology, according to the Information.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-08T15:21:20+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Steve Pagliuca Says AI, Pharma, Sports Are Key Investment Focus",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/steve-pagliuca-says-ai-pharma-sports-are-key-investment-focus",
+    "summary": "PagsGroup Chief Executive Officer Stephen Pagliuca sees a clutch of growing industries, including artificial intelligence and sports, as a key focus for investment over the long term.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-08T15:19:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+    "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-08T15:00:27+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Crypto-Focused VC Firm Paradigm Raises $1.2 Billion for AI Bets",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets",
+    "summary": "Paradigm, the venture firm founded to invest in cryptocurrency companies, has raised a new $1.2 billion fund to make more bets outside of the sector, including artificial intelligence and robotics.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-08T14:00:20+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Mistral AI Releases Robotics Model to Support Physical AI Push",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push",
+    "summary": "Mistral AI announced a new robotics navigation model, as the French startup expands in the emerging field of physical artificial intelligence after signing deals with major European industrial customers.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-08T14:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "IMF Says AI Helps Offset War-Driven Slowdown But Sees Risks",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/imf-sees-ai-surge-offset-war-oil-shock-and-keeps-growth-outlook",
+    "summary": "The International Monetary Fund left its global growth forecast largely unchanged for this year, saying that the boom in artificial intelligence helped offset the fallout from the conflict in the Middle East.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-08T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+    "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+    "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-08T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Douglas Elliman Bets on AI to Reinvent Brokerage Business",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/douglas-elliman-bets-on-ai-to-reinvent-brokerage-business",
+    "summary": "Luxury real estate brokerage Douglas Elliman Inc. is betting artificial intelligence can expand its business beyond buying and selling homes.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-08T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "AIOps: l’occasione per il CIO di guidare (non subire) la strategia AI",
+    "url": "https://www.agendadigitale.eu/industry-4-0/aiops-loccasione-per-il-cio-di-guidare-non-subire-la-strategia-ai/",
+    "summary": "L'AIOps combina intelligenza artificiale, automazione e analisi dei dati per gestire le operation IT in modo predittivo. Riduce incidenti critici, tempi di fermo e costi operativi, offrendo al CIO indicatori misurabili per dimostrare il valore concreto dell'intelligenza artificiale in azienda L'articolo AIOps: l’occasione per il CIO di guidare (non subire) la strategia AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-08T11:53:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Ecco Meta Muse Image e Muse Video: l’AI visiva entra nei social",
+    "url": "https://www.agendadigitale.eu/industry-4-0/meta-muse-image-e-muse-video-portano-lai-visiva-nei-social/",
+    "summary": "Meta porta Muse Image dentro Instagram, WhatsApp e Meta AI, affiancandolo all’anteprima di Muse Video. La generazione visiva diventa un flusso integrato tra immagini, strumenti interattivi, watermark e video sintetici, mentre l’uso dei profili pubblici Instagram apre il nodo del consenso L'articolo Ecco Meta Muse Image e Muse Video: l’AI visiva entra nei social proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-08T11:19:42+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "AI Models Overthink Problems—and It’s a Security Risk",
+    "url": "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
+    "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl. While earlier generations of LLMs would immediately produce a response to a user’s request, today’s most advanced models generate an internal monologue where they break down the problem into steps and r",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-08T11:00:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "Teoria sociologica della coscienza: cos’è SENSE e perché riguarda l’AI",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/teoria-sociologica-della-coscienza-cose-sense-e-perche-riguarda-lai/",
+    "summary": "SENSE propone una teoria sociologica della coscienza come funzione emergente di reti relazionali situate. Il testo attraversa filosofia, scienze cognitive, semiotica e sociologia per spiegare come senso, significato e coscienza si formino nell’epoca dell’intelligenza artificiale L'articolo Teoria sociologica della coscienza: cos’è SENSE e perché riguarda l’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-08T10:26:12+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "LLM, traduzione universale e conoscenza: cosa c’è oltre le parole",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/llm-traduzione-universale-e-conoscenza-cosa-ce-oltre-le-parole/",
+    "summary": "Gli LLM mostrano come la traduzione universale possa far emergere una struttura comune tra lingue, codici e generi diversi. Dal Transformer alla forma logica di Wittgenstein, fino alle ipotesi platoniche e aristoteliche sulle rappresentazioni neurali, il valore si sposta dall’esecuzione al pensiero originale L'articolo LLM, traduzione universale e conoscenza: cosa c’è oltre le parole proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-08T10:11:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
+    "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+    "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+    "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+    "source": "Wired",
+    "date": "2026-07-08T09:30:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-08"
+  },
+  {
     "title": "Intelligenza artificiale in sanità, la sfida ora è governarla",
     "url": "https://www.agendadigitale.eu/sanita/intelligenza-artificiale-in-sanita-la-sfida-ora-e-governarla/",
     "summary": "L’intelligenza artificiale è ormai entrata nei processi sanitari, dalla diagnostica alla gestione organizzativa. La sfida non riguarda più solo le capacità degli algoritmi, ma dati, valutazione, responsabilità, governance, fiducia e capacità delle aziende sanitarie di integrare l’innovazione nella pratica quotidiana L'articolo Intelligenza artificiale in sanità, la sfida ora è governarla proviene da Agenda Digitale .",
@@ -2037,266 +2227,6 @@
     "date": "2026-07-01T16:41:55+00:00",
     "category": "policy_regulation",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "As AI Reshapes Global Energy Systems, Melbourne Leads Through Engineering Collaboration",
-    "url": "https://spectrum.ieee.org/ai-energy-systems-melbourne",
-    "summary": "This article is brought to you by Melbourne Convention Bureau (MCB) supported by Business Events Australia . As artificial intelligence accelerates global demand for compute, a parallel constraint is emerging with equal urgency: energy. From hyperscale data centers to electrified industries, AI is driving a step change in electricity demand. This is not a future challenge, it is a present, system-level issue requiring coordinated action across energy, infrastructure, and engineering disciplines.",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-01T16:01:27+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-    "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-    "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-    "source": "Wired",
-    "date": "2026-07-01T16:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-    "source": "Google AI Blog",
-    "date": "2026-07-01T16:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Deploying retail AI to scale personalisation and customer insight",
-    "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
-    "summary": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad segmentation rules fail to satisfy modern conversion targets. Deployments demonstrate that traditional demographic categorisation generates insufficient […] The post Deploying retail AI to scale personal",
-    "source": "AI News (AIN)",
-    "date": "2026-07-01T15:58:43+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-01T14:35:16+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-    "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-01T14:25:23+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-    "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-    "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-01T14:20:19+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-    "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-01T14:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-    "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-01T13:43:07+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo",
-    "summary": "Foreign governments, companies and financial institutions were left in limbo after the Trump administration continued to restrict access to Anthropic PBC’s Mythos 5 to a limited number of US organizations even after dropping export controls on the company’s latest artificial intelligence models.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-01T13:04:58+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "NVIDIA and Partners Build in America, for America",
-    "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
-    "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-01T13:00:47+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "AI nelle PMI italiane: competenze e dati frenano la svolta digitale",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-nelle-pmi-italiane-competenze-e-dati-frenano-la-svolta-digitale/",
-    "summary": "Le PMI italiane guardano con interesse crescente all’Intelligenza Artificiale, ma l’adozione resta limitata. Solo l’8% ha progetti attivi o in sperimentazione, mentre competenze, governance dei dati e formazione frenano la trasformazione digitale e la capacità di usare l’AI come leva strategica L'articolo AI nelle PMI italiane: competenze e dati frenano la svolta digitale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-01T12:57:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Ecco Claude Science. Cosa cambia, a confronto con Google e OpenAI",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ecco-claude-science-cosa-cambia-a-confronto-con-google-e-openai/",
-    "summary": "Anthropic apre in beta Claude Science: integra gli strumenti di laboratorio, gestisce calcolo su cluster HPC o GPU on demand restando sull'infrastruttura del ricercatore, e produce output riproducibili. Il confronto con Co-Scientist di Google  mostra due strade diverse per la ricerca scientifica. La biologia di frontiera resta riservata a Mythos 5 L'articolo Ecco Claude Science. Cosa cambia, a confronto con Google e OpenAI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-01T12:12:01+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-    "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-01T12:10:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Claude Sonnet 5: Anthropic stringe il divario con Opus sui costi",
-    "url": "https://www.agendadigitale.eu/industry-4-0/claude-sonnet-5-anthropic-stringe-il-divario-con-opus-sui-costi/",
-    "summary": "Anthropic ha annunciato Claude Sonnet 5 il 30 giugno 2026: prestazioni vicine a Opus 4.8 a prezzi più bassi, tokenizer aggiornato, sicurezza migliorata rispetto al predecessore. La disponibilità immediata su tutti i piani apre un confronto diretto con GPT-5.6 di OpenAI, ancora bloccato in rilascio controllato dal governo statunitense L'articolo Claude Sonnet 5: Anthropic stringe il divario con Opus sui costi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-01T12:05:58+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Taiwan Detains Super Micro Workers in China Chip Smuggling Probe",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-01/taiwan-detains-super-micro-workers-probing-smuggling-of-nvidia-chips-to-china",
-    "summary": "Taiwanese prosecutors detained two Super Micro Computer Inc. employees following a raid of the US company’s local offices earlier this week over alleged shipments of Nvidia Corp. chips to China.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-01T12:02:08+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-    "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-    "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. […]",
-    "source": "The Verge AI",
-    "date": "2026-07-01T08:00:00-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Il Canone unico è un problema per chi porta Internet nelle aree interne",
-    "url": "https://www.agendadigitale.eu/infrastrutture/il-canone-unico-e-un-problema-per-chi-porta-internet-nelle-aree-interne/",
-    "summary": "Le sentenze della Cassazione sul Canone Unico Patrimoniale aprono un fronte delicato per i piccoli operatori Internet. L’interrogazione dell’on. Enzo Amich porta in Parlamento i rischi per provider locali, aree interne, investimenti digitali e continuità dei servizi nei territori più fragili L'articolo Il Canone unico è un problema per chi porta Internet nelle aree interne proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-01T11:35:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Video Search Startup Raises $100 Million From Amazon and VCs",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds",
-    "summary": "Twelve Labs Co. is raising $100 million from investors including Amazon.com Inc., NEA Management Co. and Naver Ventures, boosting its efforts to develop artificial intelligence that can quickly search and analyze troves of video.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-01T11:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "AI, Forging New Risks, Isn’t a Market Wizard After All",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-01/ai-models-could-make-hedge-fund-trading-riskier-wall-street-researchers-warn",
-    "summary": "More studies are trying to answer the question: what if everyone uses the same AI tool?",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-01T10:30:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-    "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-    "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-    "source": "Wired",
-    "date": "2026-07-01T10:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-01/tech-and-finance-sectors-losing-28-000-jobs-monthly-show-ai-impact-on-labor",
-    "summary": "Whether artificial intelligence will cause mass workforce cuts over time remains up for debate, but it is starting to leave an imprint on US employment data.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-01T09:30:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Google and Actor Idris Elba to Fund African Creator Access to AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-01/google-and-actor-idris-elba-to-fund-african-creator-access-to-ai",
-    "summary": "Alphabet Inc.’s Google and UK actor Idris Elba will fund access to artificial intelligence tools for African creators, with the goal of helping them produce high-quality content faster and more cheaply.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-01T09:23:48+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Reputazione nell’era dell’AI: chi controlla la narrazione vince",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/reputazione-nellera-dellai-chi-controlla-la-narrazione-vince/",
-    "summary": "L'intelligenza artificiale democratizza la creatività ma rischia di omologare linguaggi e format. Il vero vantaggio competitivo si sposta verso la governance della narrazione, la costruzione di fiducia e la capacità di produrre significato culturale attorno al brand L'articolo Reputazione nell’era dell’AI: chi controlla la narrazione vince proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-01T09:21:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Società artificiali troppo umane? Gli agenti AI come esperimento sociologico",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/societa-artificiali-troppo-umane-gli-agenti-ai-come-esperimento-sociologico/",
-    "summary": "Gli agenti intelligenti basati su LLM stanno trasformando la ricerca sulle società artificiali. Da Smallville a Emergence World, fino agli esperimenti sul lavoro ripetitivo, emergono ambienti sintetici capaci di simulare relazioni, norme, conflitti, memoria collettiva e forme di organizzazione sociale L'articolo Società artificiali troppo umane? Gli agenti AI come esperimento sociologico proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-01T09:04:50+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-01"
-  },
-  {
-    "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
-    "summary": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12, which forced the temporary suspension of Anthropic’s highest-capability systems. Government officials enacted […] The post Anthropic deploys Claude Sonnet 5, Fable and Mythos restored appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-01T08:47:12+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
     "_slot_date": "2026-07-01"
   }
 ]
