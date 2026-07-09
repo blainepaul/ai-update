@@ -1,5 +1,325 @@
 [
   {
+    "title": "Microsoft’s patch Tuesdays are about to get bigger",
+    "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+    "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security release.\" Hackers, even amateurs, have increasingly been using AI […]",
+    "source": "The Verge AI",
+    "date": "2026-07-09T13:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "MCP tool design: Practical approaches and tradeoffs",
+    "url": "https://aws.amazon.com/blogs/machine-learning/mcp-tool-design-practical-approaches-and-tradeoffs/",
+    "summary": "In this post, we show where MCP tool design goes wrong and how to fix it with practical context engineering approaches.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-09T16:40:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Enhancing enterprise inference on Amazon SageMaker HyperPod with data capture, Hugging Face, NVMe, and Route 53 integration",
+    "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-inference-on-amazon-sagemaker-hyperpod-with-data-capture-hugging-face-nvme-and-route-53-integration/",
+    "summary": "In this post, we walk through five capabilities now available in SageMaker HyperPod inference: multi-tier data capture for auditing and model improvement, direct deployment from Hugging Face Hub, local NVMe model loading for faster cold starts, automated Route 53 DNS for custom domains, and pod-level IAM through custom service accounts.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-09T16:38:11+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Exclusive: Zuckerberg on Meta's AI Push",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-09/exclusive-zuckerberg-on-meta-s-ai-push",
+    "summary": "Meta is making its biggest AI monetization move yet. Bloomberg's Kurt Wagner had an exclusive interview with Mark Zuckerberg. They talked about why the company is betting on ultra-low API pricing to win developers, how Meta plans to turn massive AI investments into real revenue, and what the AI transformation means for employees, investors, and the race against OpenAI and Google. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T16:37:50+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Former Fed Chairman Ben Bernanke Joins Anthropic Oversight Trust",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/former-fed-chairman-ben-bernanke-joins-anthropic-oversight-trust",
+    "summary": "Former Federal Reserve Chairman Ben Bernanke has been appointed to Anthropic’s long-term benefit trust, an oversight body meant to keep the artificial intelligence company accountable to its public mission.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T16:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+    "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+    "summary": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering and screening phases took over six months per iteration, yielding a low five percent success rate. Crucial […] The post AWS GraphRAG deployment cuts drug research cycles by 87% appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-07-09T15:43:09+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Altman Says OpenAI Made ‘Many Changes’ During Talks With US",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/altman-says-openai-made-many-changes-during-talks-with-us",
+    "summary": "OpenAI Chief Executive Officer Sam Altman said his company made “many changes” during its discussions with the Trump administration before moving ahead with releasing its newest artificial intelligence models to the general public.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T14:59:56+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-09T14:53:09+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-09T14:51:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "TeraWulf Eyes $3.5 Billion for Anthropic-Leased Data Center",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/terawulf-eyes-3-5-billion-for-anthropic-leased-data-center",
+    "summary": "TeraWulf Inc. is preparing to raise about $3.5 billion in debt to build a data center campus in Kentucky, including its first-ever foray into the leveraged loan market.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T14:42:57+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "AI Training Startup Mercor Discusses $20 Billion Valuation",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/ai-training-startup-mercor-discusses-20-billion-valuation",
+    "summary": "Mercor, a startup that helps improve artificial intelligence models with rich specialized data, is discussing raising new funds at a roughly $20 billion valuation, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T14:38:05+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "JPMorgan Says Investors Adapt to `Everywhere' AI Trade",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-09/jpmorgan-says-investors-adapt-to-everywhere-ai-trade-video",
+    "summary": "David Lebovitz, global market strategist at JPMorgan Asset Management, says artificial intelligence is becoming an \"everywhere'' trade and investors are getting better at distinguishing opportunities. \"AI is everywhere. And so it’s how you play it, not whether or not you play it,'' he says on Bloomberg Television's \"Surveillance.'\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T14:24:54+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Fed’s Williams Says AI Is Now His Main Inflation Concern",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/fed-s-williams-says-ai-is-now-his-main-inflation-concern",
+    "summary": "Federal Reserve Bank of New York President John Williams said that among the drivers of inflation in the US, he’s most focused on demand driven by artificial intelligence. And if that demand persists, it could force the central bank to raise interest rates.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T14:13:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "JPMorgan Says Everything Is an AI Trade: ‘It’s How You Play It’",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-says-everything-is-an-ai-trade-it-s-how-you-play-it",
+    "summary": "Investors are getting better at distinguishing between the potential risks and rewards in artificial intelligence, according to JPMorgan Asset Management’s David Lebovitz, a crucial lesson for Wall Street as AI becomes an “everywhere” trade.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T14:00:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Meta says its new AI model is ready to compete on coding",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+    "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements […]",
+    "source": "The Verge AI",
+    "date": "2026-07-09T10:00:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Zuckerberg Pledges ‘Aggressive’ Pricing With Meta’s First Pay-to-Use AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/meta-starts-charging-for-ai-with-muse-spark-1-1-agentic-model",
+    "summary": "In a crowded market for AI tools, Mark Zuckerberg wants to win on price.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Say hello to Claude Wrapped",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+    "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, […]",
+    "source": "The Verge AI",
+    "date": "2026-07-09T09:30:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "L’AI cambia le imprese: perché crescono i digital enablers",
+    "url": "https://www.agendadigitale.eu/industry-4-0/lai-cambia-le-imprese-perche-crescono-i-digital-enablers/",
+    "summary": "L’intelligenza artificiale non riguarda più solo infrastrutture, semiconduttori e data center. La nuova fase passa dall’adozione concreta nelle imprese, dove i digital enablers assumono un ruolo decisivo per integrare tecnologia, dati, processi e competenze nel sistema produttivo italiano L'articolo L’AI cambia le imprese: perché crescono i digital enablers proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-09T13:12:13+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Character.AI wants a piece of the microdrama pie",
+    "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+    "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-form, episodic videos designed to be watched and interacted with - on your phone. Unlike traditional microdrama services that feature cheaply produced, live-action shows starring […]",
+    "source": "The Verge AI",
+    "date": "2026-07-09T09:11:53-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Micron Boosts US Spending to $250 Billion to Feed Memory Boom",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/micron-boosts-us-spending-to-250-billion-amid-memory-demand",
+    "summary": "Micron Technology Inc. plans to increase its spending on new plants in the US to $250 billion to help meet unprecedented demand for its memory chips fueled by the global artificial intelligence boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T13:06:59+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-09T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+    "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-09T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+    "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+    "summary": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instructions. It's the kind of thing I actually use AI for on a semi-regular basis. But in the new release, Gopher can […]",
+    "source": "The Verge AI",
+    "date": "2026-07-09T09:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+    "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-09T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Large Tabular Models Excel Where LLMs Fail",
+    "url": "https://spectrum.ieee.org/large-tabular-models-nexus",
+    "summary": "The large language models (LLMs) that form the basis of generative AI chatbots such as ChatGPT, Claude, and Gemini can generate uncannily human-like text and images. But these models still struggle with a skill that, ironically, looks at face value to be right in their wheelhouse: analyzing structured data. A new type of generative AI is set to change this situation. Although you can get your favorite chatbot to solve intractable math problems , review dense legal documents, compose a catchy pop",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-09T12:00:01+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+    "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+    "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-09T12:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Cybersicurezza europea, l’AI di frontiera diventa questione di sovranità",
+    "url": "https://www.agendadigitale.eu/sicurezza/cybersicurezza-europea-lai-di-frontiera-diventa-questione-di-sovranita/",
+    "summary": "La Commissione europea presenta il piano d’azione su cybersecurity e intelligenza artificiale, collegando AI Act, Cyber Resilience Act, NIS2 e sovranità tecnologica. Il documento definisce priorità operative, scadenze e strumenti per valutare, testare e rendere accessibili le capacità di AI di frontiera L'articolo Cybersicurezza europea, l’AI di frontiera diventa questione di sovranità proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-09T11:52:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "A Startup That Builds AI Agents Used One to Raise $100 Million",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/a-startup-that-builds-ai-agents-used-one-to-raise-100-million",
+    "summary": "A startup that helps enterprises build AI agents proved the technology’s value in the most practical way possible: by deploying one during its own fundraising.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Linee guida EDPB sull’anonimizzazione: cosa cambia",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/linee-guida-edpb-sullanonimizzazione-cosa-cambia/",
+    "summary": "Le Linee guida EDPB 02/2026 sull’anonimizzazione ridefiniscono il test sull’anonimato dei dati, valorizzando la prospettiva delle entità rilevanti, i mezzi ragionevolmente utilizzabili, i tre criteri tecnici e l’impatto su GDPR, AI, data space e governance documentale L'articolo Linee guida EDPB sull’anonimizzazione: cosa cambia proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-09T10:33:38+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "LLMOps e AIOps: cosa serve per portare i modelli AI in produzione",
+    "url": "https://www.agendadigitale.eu/industry-4-0/llmops-e-aiops-cosa-serve-per-portare-i-modelli-ai-in-produzione/",
+    "summary": "La distanza tra una demo efficace e un modello linguistico davvero stabile in produzione passa da pipeline, monitoraggio, governance e controllo dei costi. LLMOps e AIOps diventano pratiche decisive per evitare che qualità, latenza e spesa cloud sfuggano al controllo dopo il lancio L'articolo LLMOps e AIOps: cosa serve per portare i modelli AI in produzione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-09T10:22:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/starbucks-taps-ai-to-reduce-reliance-on-microsoft-ibm-software",
+    "summary": "Starbucks Corp. is developing in-house tools with the help of artificial intelligence that could replace some software applications it now buys from companies such as Microsoft Corp. and International Business Machines Corp.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-09T10:15:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
+    "title": "NHS AI blood test could reduce invasive womb cancer checks",
+    "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+    "summary": "Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing heavy bleeding. About 10,000 women are diagnosed with womb […] The post NHS AI blood test could reduce invasive womb cancer checks appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-07-09T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-09"
+  },
+  {
     "title": "Chi paga se un satellite guidato dall’AI causa una collisione?",
     "url": "https://www.agendadigitale.eu/sicurezza/chi-paga-se-un-satellite-guidato-dallai-causa-una-collisione/",
     "summary": "Un satellite guidato dall'intelligenza artificiale che manovra da solo per evitare una collisione solleva una domanda giuridica irrisolta: chi risponde del danno. La Liability Convention del 1972 non prevede la colpa algoritmica, e le norme europee restano frammentate e lacunose L'articolo Chi paga se un satellite guidato dall’AI causa una collisione? proviene da Agenda Digitale .",
@@ -2128,145 +2448,5 @@
     "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-02T15:20:51+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Quale privacy se l’AI conquista il mondo: le priorità del Garante",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/privacy-e-ai-le-priorita-nella-relazione-annuale-del-garante/",
-    "summary": "La relazione annuale del Garante privacy mette l’intelligenza artificiale al centro del confronto su tutela dei dati personali, diritti fondamentali, lavoro e sovranità digitale. Ecco i numeri L'articolo Quale privacy se l’AI conquista il mondo: le priorità del Garante proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-02T15:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-    "summary": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital agents using natural language to execute end-to-end research workflows. This system connects natively to […] The post NVIDIA BioNeMo accelerates Anthropic Claude Science appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-02T14:38:01+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Anthropic in Talks With Samsung for Custom AI Chip: Information",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4",
-    "summary": "Anthropic PBC is in talks with Samsung Electronics Co. to be a manufacturing partner for a custom artificial intelligence chip, the Information said, citing people familiar with the plan.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-02T14:12:29+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-02T13:53:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Microsoft Mobilizes 6,000 Workers to Help Customers Adopt AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-02/microsoft-mobilizes-6-000-workers-to-help-customers-adopt-ai",
-    "summary": "Microsoft Corp. is setting up a new organization with 6,000 employees to help businesses with the technical and strategic work of deploying artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-02T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Perché l’AI preoccupa la banca centrale europea (bce)",
-    "url": "https://www.agendadigitale.eu/sicurezza/da-sintra-lallarme-bce-lai-minaccia-la-stabilita-finanziaria-europea/",
-    "summary": "Al forum annuale della BCE a Sintra, l’intelligenza artificiale è diventata il tema dominante per banche centrali e regolatori. Investimenti, credito, algoritmi di mercato, cyber-rischi e dipendenza tecnologica spingono l’AI dentro il perimetro della stabilità finanziaria globale L'articolo Perché l’AI preoccupa la banca centrale europea (bce) proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-02T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Teaching AI to run with the turbines",
-    "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-02T12:51:44+00:00",
-    "category": "creativity",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Robinhood CEO on AI, Expansion & Trump Accounts",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-02/robinhood-ceo-on-ai-expansion-trump-accounts-video",
-    "summary": "Robinhood Markets is expanding in the UK and Europe with a new offering of agentic AI and perpetual futures, a type of derivative investment, with crypto trading expected to come to the UK \"soon\". It's part of a broader international push, even as the field of fin-tech apps in the UK and the EU grows increasingly competitive. Vlad Tenev - CEO and co-founder of investment platform joined Caroline Hepker and James Woolcock on Bloomberg radio to discuss the changes.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-02T12:21:49+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "The Download: a startup has a solution for AI’s groupthink problem",
-    "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-02T12:10:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Yep, we’re using OpenClaw to date now",
-    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-    "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-02T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "Assintel: l’attuazione italiana dell’AI Act deve aiutare PMI e innovazione",
-    "url": "https://www.agendadigitale.eu/industry-4-0/assintel-lattuazione-italiana-dellai-act-deve-aiutare-pmi-e-innovazione/",
-    "summary": "L’attuazione italiana dell’AI Act apre una fase decisiva per imprese, PMI e filiera digitale. La sfida è costruire una governance chiara, proporzionata e capace di proteggere diritti e sicurezza senza frenare l’adozione dell’intelligenza artificiale L'articolo Assintel: l’attuazione italiana dell’AI Act deve aiutare PMI e innovazione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-02T11:58:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "OpenAI Proposes Giving 5% Stake to US Government: FT",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-02/openai-proposes-giving-5-stake-to-us-government-ft-video",
-    "summary": "OpenAI has begun preliminary discussions about giving the US government a 5% stake in the ChatGPT-developer. The Financial Times reported that executives proposed the move as part of a broader arrangement under which Washington would hold 5% of each of the leading American AI developers. Matthew Bloxham of Bloomberg Intelligence has more. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-02T10:24:36+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
-  },
-  {
-    "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-    "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share […]",
-    "source": "The Verge AI",
-    "date": "2026-07-02T06:23:27-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-02"
   }
 ]
