@@ -1,5 +1,175 @@
 [
   {
+    "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+    "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy a wide range of advanced technologies including commercial satellites and semiconductors used for artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-10T16:21:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+    "summary": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-10T15:35:05+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
+    "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
+    "summary": "This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI that evaluates dental X-ray quality at the point of capture, in real time, across thousands of locations. The system went from concept to over 10,000 active locations within months and has already processed over 11 million X-rays and growing at 1.5 million per week. Henry Schein One is now scaling toward 40,000 locations globally across four regions.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-10T15:33:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
+    "summary": "In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries the layer to answer customer 360 questions across both sources without extract, transform, and load (ETL). The same Stardog deployment works behind AWS computes (Amazon Elastic Kubernetes Service (Amazon EKS), Amazon Elastic Container Service (Amazon ECS), and AWS Lambda). We use Ag",
+    "source": "AWS ML Blog",
+    "date": "2026-07-10T15:31:12+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
+    "summary": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables dyn",
+    "source": "AWS ML Blog",
+    "date": "2026-07-10T15:28:54+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/",
+    "summary": "In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infrastructure. The patterns use Amazon Elastic Compute Cloud (Amazon EC2) for direct instance access, Amazon SageMaker AI inference endpoints for managed serving, and Amazon Elastic Kubernetes Service (Amazon EKS) or Amazon Elastic Container Service (Amazon ECS) when inference needs to fit into an existing container framework. You also learn operational",
+    "source": "AWS ML Blog",
+    "date": "2026-07-10T15:26:05+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
+    "summary": "Evolving from a traditional software as a service (SaaS) platform into a next-generation agentic AI platform meant orchestrating multiple specialized agents across long-running enterprise programs. Each agent operates with persistent context, secure tool access, and production-grade reliability. We built that system on Amazon Bedrock AgentCore using the Strands Agents SDK. This post walks through how we architected it, which agents we built, and the outcomes for our customers.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-10T15:23:25+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod",
+    "url": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/",
+    "summary": "In this post, we show how to implement DPD with vLLM on Amazon SageMaker HyperPod using the HyperPod Inference Operator.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-10T15:20:16+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Government Action is Crucial for AI Entrepreneurs Says Pelgo CEO",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-10/gov-action-vital-for-ai-entrepreneurs-says-pelgo-ceo-video",
+    "summary": "Artificial intelligence could reshape the jobs of nearly 80 million people across Southeast Asia, but there is little sign it has led to large-scale employment cuts, according to the International Labour Organization.\nThe ILO urged governments to strengthen AI governance and better integrate AI policies through a human-centered approach to help workers and businesses adapt.\nPelgo CEO Chieh Huang discusses how AI is impacting the labor market and how it could serve as a tool for displaced workers",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-10T15:08:48+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "AI Bust Fallout Would Be 'More Significant' Than Dot-Com, Says George Noble",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-10/ai-bust-would-be-worse-than-dot-com-bubble-says-noble-video",
+    "summary": "The US stock market’s rally to new highs has been propelled by so few stocks that it’s reminding some on Wall Street of the runup to the dot-com bubble.\nGeorge Noble, Managing Partner of Noble Capital Advisors, discusses the AI trade and how he believes the coming bust would be much worse than the dot-com bubble fallout. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-10T15:05:31+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "I social Meta danno dipendenza? Che c’è dietro l’accusa dell’UE",
+    "url": "https://www.agendadigitale.eu/sicurezza/privacy/i-social-meta-danno-dipendenza-che-ce-dietro-laccusa-dellue/",
+    "summary": "La Commissione UE contesta in via preliminare a Meta il design di Instagram e Facebook, ritenuto potenzialmente capace di creare dipendenza. Al centro dell’indagine ci sono scrolling infinito, autoplay, notifiche push, raccomandazioni personalizzate e tutela dei minori nel quadro del Digital Services Act L'articolo I social Meta danno dipendenza? Che c’è dietro l’accusa dell’UE proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-10T15:01:05+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know […]",
+    "source": "The Verge AI",
+    "date": "2026-07-10T09:45:02-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Would you host part of an AI data center in your home?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes […]",
+    "source": "The Verge AI",
+    "date": "2026-07-10T09:20:25-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "AI in azienda, perché gestire il cambiamento è anche una questione di sicurezza",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-in-azienda-perche-gestire-il-cambiamento-e-anche-una-questione-di-sicurezza/",
+    "summary": "Change management e AI devono procedere insieme quando l’innovazione entra nei processi aziendali. La formazione, la governance e la cybersecurity diventano leve decisive per usare l’intelligenza artificiale in modo responsabile, soprattutto in settori sensibili come la sanità: ecco i consigli L'articolo AI in azienda, perché gestire il cambiamento è anche una questione di sicurezza proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-10T12:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-10T12:10:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Sovereign AI May Mean State-Backed Models and Political Tensions",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai",
+    "summary": "Washington wants in on the artificial intelligence gold rush.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-10T10:30:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
+    "title": "Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
+    "summary": "The largest builders of artificial intelligence data centers have doubled their debt load in the last five years, turning to borrowing to finance an unprecedented spending spree they claim is needed to transform the economy.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-10T10:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-10"
+  },
+  {
     "title": "How to shrink the token budget without shrinking the team",
     "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
     "summary": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer’s annual AI token consumption came in under half their salary, “I am going to […] The post How to shrink the token budget without shrinking the team appeared first on AI News .",
@@ -2568,135 +2738,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-04"
-  },
-  {
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-    "summary": "During negotiations on Wednesday, employees voiced frustrations with what they consider an unwillingness among executives to engage meaningfully with the prospect of unionization.",
-    "source": "Wired",
-    "date": "2026-07-03T16:30:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-04"
-  },
-  {
-    "title": "Israeli AI Startup Eyes Expansion in Trump-Aligned Latin America",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-03/israeli-ai-startup-eyes-expansion-in-trump-aligned-latin-america",
-    "summary": "An Israeli artificial intelligence startup is betting that election victories by Trump-aligned leaders across Latin America will boost demand for its government-focused cybersecurity products.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-03T16:23:09+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-04"
-  },
-  {
-    "title": "Anthropic wants to develop its own drugs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it […]",
-    "source": "The Verge AI",
-    "date": "2026-07-03T09:56:52-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "Quale governance globale per i rischi dell’AI: il report ONU IISPAI",
-    "url": "https://www.agendadigitale.eu/sicurezza/quale-governance-globale-per-i-rischi-dellai-il-report-onu-iispai/",
-    "summary": "Il Preliminary Report dello IISPAI offre la prima valutazione scientifica indipendente dell’ONU sull’intelligenza artificiale, tra accelerazione delle capacità, concentrazione del potere computazionale, rischi sistemici, divari globali e urgenza di una governance fondata su evidenze ancora incomplete L'articolo Quale governance globale per i rischi dell’AI: il report ONU IISPAI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-03T13:49:53+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "Pragmatic FDT, and predictors as game theory",
-    "url": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
-    "summary": "Decision theory is back in fashion (defining fashion as \"one good post on a good EA blog\"). Bentham's Bulldog (BB) has published a case against FDT ( functional decision theory ), contrasting rationalist enthusiasm with academic scepticism: \" Academic decision theorists don't like the theory. The number of academic decision theorists who adopt it could be counted on one hand by someone missing four of their fingers. \" I am, just barely, a published academic decision theorist , so you can keep a ",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-03T13:22:38+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "Iran, lo spionaggio che verrà: lo scenario dopo la guerra",
-    "url": "https://www.agendadigitale.eu/sicurezza/iran-lo-spionaggio-che-verra-lo-scenario-dopo-la-guerra/",
-    "summary": "L’Iran ha costruito negli anni una rete tecnologica interna orientata a sorveglianza, controspionaggio e resilienza digitale. Dalla National Information Network alle piattaforme Nazer e Kashef, fino all’intelligenza artificiale e alla guerra SIGINT, Teheran rafforza il proprio scudo digitale L'articolo Iran, lo spionaggio che verrà: lo scenario dopo la guerra proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-03T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "“Lai”, il pronome che prova a mettere ordine tra umani e algoritmi",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/lai-il-pronome-che-prova-a-mettere-ordine-tra-umani-e-algoritmi/",
-    "summary": "Il pronome “lai” nasce come proposta linguistica per riferirsi all’intelligenza artificiale conversazionale senza attribuirle genere umano né ridurla a oggetto. Una riflessione sul rapporto uomo-macchina, sui cambiamenti del linguaggio e sul ruolo culturale delle nuove forme di interlocuzione digitale L'articolo “Lai”, il pronome che prova a mettere ordine tra umani e algoritmi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-03T12:28:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "Prima l’AI, poi le regole: il paradosso della PA italiana",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/prima-lai-poi-le-regole-il-paradosso-della-pa-italiana/",
-    "summary": "Le linee guida AgID definiscono architettura, procurement e ciclo di vita dei sistemi AI nella PA. Ma la governance non aspetta i documenti: censimento, contratti aggiornati, responsabilità definite. RTD, CIO e CISO devono agire ora, indipendentemente dallo stato di avanzamento normativo delle linee guida stesse L'articolo Prima l’AI, poi le regole: il paradosso della PA italiana proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-03T12:27:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "AI’s Volatile Power Use Quietly Tests Grid Limits",
-    "url": "https://spectrum.ieee.org/data-centers-grid-instability",
-    "summary": "The rapid expansion of artificial intelligence infrastructure is typically framed as an energy problem. Data centers are projected to consume a growing share of global electricity demand: The International Energy Agency estimates they could account for 3 to 4 percent of total global consumption within this decade. Utilities are already adjusting long-term forecasts to accommodate anticipated growth from hyperscale facilities and high-density compute clusters. This framing captures scale. It miss",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-03T12:00:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "AI e salute: l’Europa punta su dati, regole e accountability",
-    "url": "https://www.agendadigitale.eu/sanita/ai-e-salute-leuropa-punta-su-dati-regole-e-accountability/",
-    "summary": "L'intelligenza artificiale in sanità avanza, ma il vero collo di bottiglia è la qualità dei dati. Il quadro regolatorio europeo - EHDS, AI Act, linee guida EDPB - ridisegna le regole del gioco verso un'innovazione affidabile, misurabile e orientata all'interesse pubblico L'articolo AI e salute: l’Europa punta su dati, regole e accountability proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-03T11:58:13+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "Il CdA deve governare AI e cybersecurity: ecco perché",
-    "url": "https://www.agendadigitale.eu/sicurezza/il-cda-deve-governare-ai-e-cybersecurity-ecco-perche/",
-    "summary": "Privacy, cybersecurity e intelligenza artificiale non sono più materie delegate agli specialisti: con il D.Lgs. 47/2026 entrano nella governance d'impresa. Gli amministratori devono mappare rischi digitali, strutturare flussi informativi e garantire controlli adeguati e trasparenti L'articolo Il CdA deve governare AI e cybersecurity: ecco perché proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-03T11:56:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-    "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour […]",
-    "source": "The Verge AI",
-    "date": "2026-07-03T07:49:10-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
-  },
-  {
-    "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
-    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
-    "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collaboration. The agreement gives Takeda access to Insilico’s Pharma.AI platform, which supports biological target […] The post Takeda signs US$600M AI drug discovery deal with Insilico appeared first on AI News",
-    "source": "AI News (AIN)",
-    "date": "2026-07-03T10:00:00+00:00",
-    "category": "healthcare",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-03"
   }
 ]
