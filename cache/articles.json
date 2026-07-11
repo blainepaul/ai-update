@@ -1,5 +1,35 @@
 [
   {
+    "title": "Apple Sues OpenAI Over AI Talent Fight",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
+    "summary": "Bloomberg Tech host Ed Ludlow says Apple's lawsuit against OpenAI reflects an intensifying battle for AI talent and hardware leadership, with Apple alleging former employees improperly took trade secrets as OpenAI expands its device ambitions. He also says SK Hynix expects AI memory demand to outpace supply, plans to increase US investment beyond $35 billion, and sees the next test for the AI boom coming as technology companies report earnings and investors assess whether spending is translating",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-11T14:37:15+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-11T14:13:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+    "summary": "When iPhone engineer Chang Liu quit for a job at OpenAI’s nascent hardware division, Apple Inc. says he left with more than just years of experience.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-11T13:59:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-11"
+  },
+  {
     "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
     "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
     "summary": "OpenAI head of safety Johannes Heidecke is leaving the artificial intelligence company following a reorganization, according to Wired.",
@@ -2808,15 +2838,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-07-05"
-  },
-  {
-    "title": "The fanfiction community is at war with AI — and itself",
-    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-    "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a […]",
-    "source": "The Verge AI",
-    "date": "2026-07-04T08:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-04"
   }
 ]
