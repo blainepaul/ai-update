@@ -1,5 +1,115 @@
 [
   {
+    "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+    "summary": "OpenAI head of safety Johannes Heidecke is leaving the artificial intelligence company following a reorganization, according to Wired.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-11T02:15:21+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+    "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+    "source": "Wired",
+    "date": "2026-07-11T01:07:26+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-07-10T23:55:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. […]",
+    "source": "The Verge AI",
+    "date": "2026-07-10T19:49:50-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, […]",
+    "source": "The Verge AI",
+    "date": "2026-07-10T17:36:51-04:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Apple Sues OpenAI for Trade Secret Theft",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+    "summary": "Apple sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products. Apple alleges that OpenAI encouraged Apple employees to share information, components, drawings and other materials related to upcoming products. Mark Gurman reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-10T21:04:13+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-10T21:00:29+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "source": "Wired",
+    "date": "2026-07-10T20:44:05+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Apple Sues OpenAI for Trade Secret Theft in Pivotal Case",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+    "summary": "Apple Inc. sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-10T20:30:22+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+    "source": "TechCrunch AI",
+    "date": "2026-07-10T19:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-10T17:17:12+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-11"
+  },
+  {
     "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
     "url": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
     "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy a wide range of advanced technologies including commercial satellites and semiconductors used for artificial intelligence.",
@@ -2707,36 +2817,6 @@
     "date": "2026-07-04T08:00:00-04:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-04"
-  },
-  {
-    "title": "China Envisions AI, Karaoke and Coffee at Cinemas",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-04/china-envisions-ai-karaoke-and-coffee-at-cinemas",
-    "summary": "AI agents, karaoke and coffee shops may appear at Chinese cinemas under new guidelines that encourage theaters to expand beyond traditional film screenings.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-04T06:16:56+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-04"
-  },
-  {
-    "title": "The only AI glossary you’ll need this year",
-    "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-03T21:20:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-04"
-  },
-  {
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-03T18:43:00+00:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-07-04"
   }
 ]
