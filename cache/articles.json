@@ -1,5 +1,25 @@
 [
   {
+    "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
+    "summary": "The founder of Chinese AI lab Zhipu argued that frontier artificial intelligence should remain broadly accessible rather than controlled by select individuals, weighing in on a growing debate about the risks posed by ever more powerful models.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-12T06:59:51+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-12"
+  },
+  {
+    "title": "The current bottleneck is political will, not research",
+    "url": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
+    "summary": "Abstract: We already know enough to act. I wish we were in a world where research was the bottleneck, but the main constraint on AI safety is no longer a shortage of clever policy ideas: best practices already exist and are not being applied or enforced, and a serious international (or even just national) regulatory regime would probably cut most of the risk. They are not applied because awareness is low. The people who narrate and enforce AI policy mostly do not believe the problem exists. I es",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-11T21:56:26+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-12"
+  },
+  {
     "title": "Apple Sues OpenAI Over AI Talent Fight",
     "url": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
     "summary": "Bloomberg Tech host Ed Ludlow says Apple's lawsuit against OpenAI reflects an intensifying battle for AI talent and hardware leadership, with Apple alleging former employees improperly took trade secrets as OpenAI expands its device ambitions. He also says SK Hynix expects AI memory demand to outpace supply, plans to increase US investment beyond $35 billion, and sees the next test for the AI boom coming as technology companies report earnings and investors assess whether spending is translating",
@@ -2777,66 +2797,6 @@
     "date": "2026-07-05T12:25:13+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-05"
-  },
-  {
-    "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
-    "summary": "Nvidia Corp.’s server assembly partner Hon Hai Precision Industry Co. reported a bigger-than-expected 40% jump in quarterly sales and said AI demand is growing further.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-05T07:47:23+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-05"
-  },
-  {
-    "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
-    "url": "https://github.com/tsuyu122/usaf",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-07-04T21:56:48+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-05"
-  },
-  {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-    "source": "TechCrunch AI",
-    "date": "2026-07-04T20:55:25+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-05"
-  },
-  {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-04T18:00:05+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-05"
-  },
-  {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-04T16:32:08+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-05"
-  },
-  {
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-    "source": "TechCrunch AI",
-    "date": "2026-07-04T15:51:32+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-07-05"
   }
 ]
