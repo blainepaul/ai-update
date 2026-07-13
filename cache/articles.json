@@ -1,5 +1,185 @@
 [
   {
+    "title": "Launching UI for generative AI inference recommendations in Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/launching-ui-for-generative-ai-inference-recommendations-in-amazon-sagemaker-ai/",
+    "summary": "In this post, we introduce the UI for optimized generative AI inference recommendations in Amazon SageMaker AI Studio, a low-code no-code (LCNC) experience. The API already gives you programmatic access to recommendations, but it assumes you know which parameters to set and how to interpret raw benchmark output. The UI removes that assumption. It guides you through preset use-case profiles, visual comparisons of results, and one-click deployment, so teams without deep infrastructure expertise ca",
+    "source": "AWS ML Blog",
+    "date": "2026-07-13T16:42:15+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Should AI help you get away with killing your spouse?",
+    "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "summary": "What does a world of total user-aligned AI actually look like?",
+    "source": "TechCrunch AI",
+    "date": "2026-07-13T16:31:23+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-13T15:34:59+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Sunrun's Experiment to Turn Homes Into AI Hubs",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-13/sunrun-s-experiment-to-turn-homes-into-ai-hubs-video",
+    "summary": "Sunrun CEO Mary Powell joins Open Interest to explain how the company plans to transform homes with solar and batteries into AI computing hubs. She says homeowners could earn hundreds of dollars a month by hosting AI compute nodes while helping meet soaring demand for AI infrastructure. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T15:20:12+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "The AI Arms Race in Technical Interviews Is Escalating",
+    "url": "https://spectrum.ieee.org/technical-interview-ai-arms-race",
+    "summary": "Software engineering jobs are under threat from AI . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it—AI. They’re applying AI-powered tools to detect telltale signs of AI use during interviews. This two-sided dynamic is turning hiring into an AI arms race with no clear winners. Yet as interviewers and interviewees naviga",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-13T15:15:03+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "AI Chip Giants TSMC and SK Hynix Pull in Different Directions",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-13/tsmc-and-sk-hynix-pull-in-different-directions-video",
+    "summary": "TSMC soared while SK Hynix tumbled — why are are the two essential AI chip firms pulling in different directions?\n\nTom Mackenzie explains. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T15:01:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Waze adds new AI-powered features and customization updates",
+    "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-13T14:18:16+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Sticker shock has execs rethinking this whole AI thing",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sticker-shock-has-execs-rethinking-this-whole-ai-thing-1/5270073",
+    "summary": "This week on The Reg's Kettle podcast, we wonder whether tokenminning is going to bring the industry back down to Earth",
+    "source": "The Register AI",
+    "date": "2026-07-13T16:16:00+02:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Apple’s Lawsuit Threatens to Disrupt OpenAI’s Bid to Rival the iPhone",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone",
+    "summary": "Apple Inc.’s lawsuit accusing OpenAI of systematically stealing its intellectual property threatens to disrupt the AI company’s device ambitions long before the case is resolved.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T12:32:47+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "AI nelle grandi opere infrastrutturali, i nodi ancora irrisolti",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/ai-nelle-grandi-opere-infrastrutturali-i-nodi-ancora-irrisolti/",
+    "summary": "Dal workshop “L’Intelligenza Artificiale nella progettazione e realizzazione delle grandi opere infrastrutturali” al PoliTo emergono questioni centrali sull’uso dell’AI nelle grandi opere infrastrutturali: qualità del dato, ruolo umano nelle decisioni, competenze interne, applicazioni reali nei cantieri e responsabilità giuridica degli algoritmi L'articolo AI nelle grandi opere infrastrutturali, i nodi ancora irrisolti proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-13T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Intel Invests €5 Billion to Expand Irish Hub in AI Chip Race",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race",
+    "summary": "Intel Corp. is spending €5 billion ($5.7 billion) to expand its plant in Ireland, as the chipmaker attempts to regain its manufacturing dominance for the AI boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T12:02:40+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "L’AI europea si gioca sulle infrastrutture: perché la PA è il banco di prova",
+    "url": "https://www.agendadigitale.eu/industry-4-0/lai-europea-si-gioca-sulle-infrastrutture-perche-la-pa-e-il-banco-di-prova/",
+    "summary": "L’Europa costruisce una nuova infrastruttura per l’intelligenza artificiale: AI factory, gigafactory, dati e servizi per imprese e PA. Il nodo è trasformare potenza di calcolo e governance in adozione reale sui territori L'articolo L’AI europea si gioca sulle infrastrutture: perché la PA è il banco di prova proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-13T11:54:42+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "L’era dell’AI nell’HR: efficienza e automazione per le imprese",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/lera-dellai-nellhr-efficienza-e-automazione-per-le-imprese/",
+    "summary": "L'integrazione di intelligenza artificiale e machine learning ridefinisce la funzione HR per massimizzare l'efficienza operativa. I dati confermano benefici tangibili sull'employee experience, a patto di mantenere una governance rigorosa e un approccio incentrato sulle persone L'articolo L’era dell’AI nell’HR: efficienza e automazione per le imprese proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-13T11:15:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "ChatGPT’s Upgraded Voice Mode Captures the Imperfections of Real Conversations",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-13/chatgpt-s-voice-mode-can-handle-the-um-and-oh-of-real-conversations",
+    "summary": "The OpenAI chatbot now speaks and converses a lot more like a real person",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T11:02:01+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Washington Is Looking to Keep China From Training Its AI on US Models",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc",
+    "summary": "Anthropic and OpenAI’s warnings about “adversarial distillation” are reinvigorating one of the oldest debates in Silicon Valley.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T11:00:21+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Building a Foundation Stack for General-Purpose Robots",
+    "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+    "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one machine to another. The central problem in embodied AI is to find the equivalent recipe, and the fi",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-13T10:19:51+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Apple’s $650 Billion Rally Fueled by Traders Fleeing AI Selloff",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff",
+    "summary": "Investors are flocking back to Apple Inc. as nervousness about artificial intelligence spending weighs on the stocks of chipmakers and cloud-computing giants.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T10:13:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
+    "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag",
+    "summary": "Meta Platforms Inc. has committed to spending an additional $40 billion on its sprawling data center campus in Louisiana, pushing its total expected investment beyond $250 billion for the site as it continues to grow its artificial intelligence computing footprint.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-13T09:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-13"
+  },
+  {
     "title": "Physical AI, il salto dall’automazione alla fabbrica che apprende",
     "url": "https://www.agendadigitale.eu/industry-4-0/physical-ai-il-salto-dallautomazione-alla-fabbrica-che-apprende/",
     "summary": "La Physical AI porta l’intelligenza artificiale fuori dal solo linguaggio e dentro robot, sensori e fabbriche. Dai limiti dei modelli generativi alla robotica cognitiva, il salto riguarda percezione, azione, integrazione con MES, ERP e PLM, sicurezza, dati e trasformazione del lavoro L'articolo Physical AI, il salto dall’automazione alla fabbrica che apprende proviene da Agenda Digitale .",
@@ -2627,186 +2807,6 @@
     "date": "2026-07-06T16:58:13+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Automatically redact PII in images with Amazon Nova",
-    "url": "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-in-images-with-amazon-nova/",
-    "summary": "In this post, we present a multi-step pipeline directed by Amazon Nova, which uses its contextual vision reasoning to coordinate complementary tools, including Meta’s open-source Segment Anything Model (SAM 3) deployed on Amazon SageMaker AI for pixel-level segmentation, and Amazon Textract for optical character recognition (OCR). This pipeline is designed to provide comprehensive and compliant PII redaction even for challenging edge cases such as fingerprints, ID cards, or license plates in arb",
-    "source": "AWS ML Blog",
-    "date": "2026-07-06T16:55:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Streaming benchmark and recommendation results to MLflow with Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/streaming-benchmark-and-recommendation-results-to-mlflow-with-amazon-sagemaker-ai/",
-    "summary": "In this post, you learn how to use the new MLflow integration with Amazon SageMaker AI optimized inference recommendation jobs and Amazon SageMaker AI benchmark jobs to automatically stream experiment data into a unified tracking interface. This integration streams metrics, parameters, and charts into your serverless Amazon SageMaker MLflow App in real time and you get a unified experiment tracking experience.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-06T16:53:38+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Small-AI Models Gain Traction Around the World",
-    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "summary": "One morning in 2019, Adebayo Alonge was in a Cape Town hotel room, preparing to demonstrate his startup’s AI answer to a serious problem in African health care: counterfeit medication, which kills thousands of people across the continent every year. The RxScanner is a handheld spectrometer that scans a pill with infrared light, then sends the item’s molecular profile to an AI model equipped with a pharmaceutical database. In seconds, the AI identifies the medication from its molecular profile—or",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-06T16:06:23+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "I spy",
-    "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-    "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson […]",
-    "source": "The Verge AI",
-    "date": "2026-07-06T12:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "How Open Models Are Driving AI Research",
-    "url": "https://blogs.nvidia.com/blog/open-models-icml-2026/",
-    "summary": "Every year, the International Conference on Machine Learning (ICML) reveals where thousands of AI researchers have decided to put their work.  This year’s accepted papers reveal a clear direction: open frontier models and open AI infrastructure have become foundational to how modern AI science gets done. NVIDIA had 74 papers accepted at ICML 2026. Approximately […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-06T16:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-    "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-    "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-06T15:32:43+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "PRX Part 4: Our Data Strategy",
-    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-07-06T15:30:55+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Microsoft is laying off 4,800 employees",
-    "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-    "summary": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately 2.1 percent of its workforce. Most of the employees affected by today's cuts are in Microsoft's commercial sales business or the company's Xbox division. […]",
-    "source": "The Verge AI",
-    "date": "2026-07-06T09:30:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-    "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-06T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "MSA delle torri sotto stress: il nuovo rischio prezzo del Gigabit Act",
-    "url": "https://www.agendadigitale.eu/infrastrutture/msa-delle-torri-sotto-stress-il-nuovo-rischio-prezzo-del-gigabit-act/",
-    "summary": "Il Gigabit Infrastructure Act non elimina gli MSA delle tower company, ma introduce un controllo regolatorio sulle condizioni di accesso alle infrastrutture fisiche. Il prezzo pattuito resta rilevante, ma può essere valutato alla luce dello standard europeo di condizioni eque e ragionevoli L'articolo MSA delle torri sotto stress: il nuovo rischio prezzo del Gigabit Act proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-06T12:24:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Prompt injection negli atti giudiziari: il nuovo rischio per la giustizia digitale",
-    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/comandi-nascosti-nei-documenti-cosi-lia-puo-entrare-nel-processo/",
-    "summary": "Una pronuncia del Tribunale del Lavoro brasiliano ha individuato in un ricorso un comando nascosto rivolto a sistemi di intelligenza artificiale. Il caso apre un fronte inedito sulla prompt injection negli atti processuali, tra frode documentale, responsabilità forense e rischi per la giustizia digitale L'articolo Prompt injection negli atti giudiziari: il nuovo rischio per la giustizia digitale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-06T12:18:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Regolazione europea: tre tendenze che ridefiniscono il settore bancario",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/regolazione-europea-tre-tendenze-che-ridefiniscono-il-settore-bancario/",
-    "summary": "DORA, AI Act, PSD3, FIDA, Data Act e Digital Euro stanno spingendo il settore finanziario verso programmi regolamentari sempre più interconnessi. Per le banche, la priorità non è più gestire singoli adempimenti, ma costruire governance integrate e roadmap capaci di ridurre duplicazioni e frammentazioni L'articolo Regolazione europea: tre tendenze che ridefiniscono il settore bancario proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-06T12:09:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Europe’s Equity Bankers Bet on Capex Wave to Ride Out IPO Slump",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-06/europe-s-equity-bankers-bet-on-capex-wave-to-ride-out-ipo-slump",
-    "summary": "Record spending on AI infrastructure and power grids is fueling a flurry of capital raises by listed companies, giving bankers one of their busiest starts in years and eclipsing the slowdown of initial public offerings in the region.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-06T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Reddit Is Cracking Down on AI Marketing Slop With Its Own AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-06/reddit-is-cracking-down-on-ai-marketing-slop-with-its-own-ai",
-    "summary": "Reddit Inc. is battling a new kind of spam: stealth marketing content created by brands that want to get mentioned by popular artificial intelligence chatbots like ChatGPT and Gemini.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-06T11:50:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "China’s AI companion rules: what Beijing is really going after",
-    "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-    "summary": "An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it consistent from one session to […] The post China’s AI companion rules: what Beijing is really going after appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-06T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Formazione chirurgica con realtà virtuale: come cambiano training e sicurezza",
-    "url": "https://www.agendadigitale.eu/sanita/formazione-chirurgica-con-realta-virtuale-come-cambiano-training-e-sicurezza/",
-    "summary": "La realtà aumentata e la realtà virtuale stanno trasformando la formazione chirurgica attraverso simulazioni immersive, maggiore sicurezza e percorsi di apprendimento personalizzati. Le prospettive future puntano all'integrazione con intelligenza artificiale e machine learning L'articolo Formazione chirurgica con realtà virtuale: come cambiano training e sicurezza proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-06T10:58:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Educare i figli nell’era dell’AI: consigli utili",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/educare-i-figli-nellera-dellai-consigli-utili/",
-    "summary": "Chatbot, tutor digitali e giocattoli intelligenti stanno entrando nella vita dei bambini. Nel libro Human Raised , la neuroscienziata Dana Suskind propone due framework per aiutare genitori ed educatori a usare l'intelligenza artificiale senza compromettere ciò che le neuroscienze indicano come essenziale per lo sviluppo: la relazione umana L'articolo Educare i figli nell’era dell’AI: consigli utili proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-06T10:46:42+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-06"
-  },
-  {
-    "title": "Data center, quanto cresce l’Italia: ma attenzione al thermal management",
-    "url": "https://www.agendadigitale.eu/infrastrutture/data-center-quanto-cresce-litalia-ma-attenzione-al-thermal-management/",
-    "summary": "Il mercato italiano dei data center accelera e si candida a hub strategico del Mediterraneo spinto da cloud, PA digitale e intelligenza artificiale. Ma la crescita impone scelte di thermal management più evolute per garantire continuità operativa, efficienza energetica e sostenibilità anche davanti al riscaldamento globale L'articolo Data center, quanto cresce l’Italia: ma attenzione al thermal management proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-06T10:02:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
     "_slot_date": "2026-07-06"
   }
 ]
