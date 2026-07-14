@@ -1,5 +1,245 @@
 [
   {
+    "title": "Spotify is now an AI chatbot, too",
+    "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+    "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the […]",
+    "source": "The Verge AI",
+    "date": "2026-07-14T11:47:36-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Small Amount of Nvidia AI Chips Shipped to China With US License",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/small-amount-of-nvidia-ai-chips-shipped-to-china-with-us-license",
+    "summary": "A small number of Nvidia Corp.’s H200 artificial intelligence chips have been shipped to customers in China after winning US approval, the Trump administration official who oversees export control programs confirmed.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T15:29:15+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "New York State halts construction of all new data centers",
+    "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+    "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-14T15:17:59+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+    "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+    "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories.  As agentic AI drives token demand […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-14T15:00:20+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Reflection inks $1B compute deal with Nebius",
+    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+    "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-14T14:37:48+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "The real AI race may no longer be at the frontier",
+    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+    "source": "TechCrunch AI",
+    "date": "2026-07-14T14:24:53+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+    "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+    "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-14T14:06:47+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Latest CPI Report Is a Huge Relief for Investors, Says Santos of JPM Asset Management",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-14/ai-spending-reshapes-tech-winners-video",
+    "summary": "Gabriela Santos, Chief Market Strategist for the Americas at JPMorgan Asset Management joined Bloomberg Open Interest to explains why the latest CPI report could keep the Fed on hold, why AI infrastructure spending is squeezing software companies and why investors should stay selective as AI stocks become more volatile. She also breaks down what upcoming tech earnings could mean for the next move in markets. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T14:04:35+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Kalshi Ramps Up Effort to Build Markets for AI Computing Power",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power",
+    "summary": "Kalshi Inc. has created a tool that plots the future price of computing power, joining the ranks of exchange and index operators attempting to build markets around the commodity powering artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T14:01:09+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Sam Altman didn’t need another lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+    "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern […]",
+    "source": "The Verge AI",
+    "date": "2026-07-14T10:01:07-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+    "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+    "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-14T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Farmaci e digitale, la sfida che decide il futuro competitivo dell’Ue",
+    "url": "https://www.agendadigitale.eu/sanita/farmaci-e-digitale-la-sfida-che-decide-il-futuro-competitivo-dellue/",
+    "summary": "Farmaci, sanità digitale, intelligenza artificiale e bilancio europeo diventano terreni decisivi per la competitività dell’UE. Il Rapporto Cantiere Europa+ indica rischi industriali, ritardi infrastrutturali e nodi finanziari che possono incidere su innovazione, accesso alle cure e autonomia strategica L'articolo Farmaci e digitale, la sfida che decide il futuro competitivo dell’Ue proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-14T12:26:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "The Download: Claude’s inner workings, and the future of world models",
+    "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-14T12:10:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "AI Investment Race Could Turn Debt-Fueled Boom to Bust, BIS Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
+    "summary": "The race to build infrastructure for artificial intelligence is on track to surpass previous technological booms that ended up in severe market disruptions, the Bank for International Settlements said.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Bailey Says BOE Might Need to Respond If an AI Bubble Bursts",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-14/bailey-boe-might-need-to-respond-if-an-ai-bubble-bursts-video",
+    "summary": "Bank of England Governor Andrew Bailey warned that the fallout from an artificial intelligence stocks bubble bursting would reach the UK economy and could prompt a response in interest rates. He made the comments during a testimony before Parliament’s Treasury Committee. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T11:52:39+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic […]",
+    "source": "The Verge AI",
+    "date": "2026-07-14T07:43:29-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "9 Tips to Get More Out of Google Chat",
+    "url": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
+    "summary": "There’s more to Google’s messaging app than you might realize.",
+    "source": "Wired",
+    "date": "2026-07-14T11:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Nebius to Sell $1 Billion in AI Capacity to Reflection",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/nebius-to-sell-1-billion-in-ai-capacity-to-startup-reflection",
+    "summary": "Cloud provider Nebius Group NV agreed to sell more than $1 billion worth of computing power to Reflection AI, a developer of artificial intelligence models that was launched by two former Google DeepMind researchers.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "DeepSeek Is Preparing For IPO Filing as Soon as This Year",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says",
+    "summary": "Chinese AI pioneer DeepSeek has begun preparations for an initial public offering and may file as soon as this year, setting the stage for what could be a landmark debut for the country’s technology industry.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T10:59:20+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Open Distillation of Hereditary Traits",
+    "url": "https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1",
+    "summary": "TL;DR Josh and Neel show that distillation from a teacher model to a base pretrained student model transfers some of the teacher model’s traits (such as displaying negative emotion in the Gemma Needs Help evals) On its own this is pretty unsurprising, but Josh and Neel additionally show that even filtering out all the prompts and rollouts where the trait is mentioned doesn’t generally prevent the trait transfer In this post, I show a simple way to replicate and study these phenomena without acce",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-14T10:15:03+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+    "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+    "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+    "source": "Wired",
+    "date": "2026-07-14T10:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Studiare con l’IA, l’esperienza dell’Istituto Zaccagnini",
+    "url": "https://www.agendadigitale.eu/scuola-digitale/studiare-con-lia-lesperienza-dellistituto-zaccagnini/",
+    "summary": "L’Istituto Zaccagnini ha adottato una piattaforma di intelligenza artificiale personalizzata per affiancare tutoring e coaching online. Il sistema, basato su fonti e lessico dei docenti, punta sull’apprendimento attivo e sui feedback, evitando l’uso dell’IA come scorciatoia per i compiti L'articolo Studiare con l’IA, l’esperienza dell’Istituto Zaccagnini proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-14T09:13:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "New York becomes the first state to enact a data center moratorium",
+    "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+    "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data […]",
+    "source": "The Verge AI",
+    "date": "2026-07-14T05:00:00-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
+    "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai",
+    "summary": "The Philippines’ main business-process outsourcing group cut its industry revenue and job forecasts — and even warned of possible shrinking future business — with the emergence of artificial intelligence, shifting geopolitical conditions and increased competition.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-14T08:53:55+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-14"
+  },
+  {
     "title": "Agenti Claude: guida pratica per crearli e usarli in azienda",
     "url": "https://www.agendadigitale.eu/documenti/agenti-claude-guida-pratica-per-crearli-e-usarli-in-azienda/",
     "summary": "Gli agenti Claude permettono alle aziende di passare da semplici chatbot a sistemi capaci di pianificare azioni, usare strumenti esterni e integrarsi con processi operativi. La guida analizza architettura, configurazione, casi d’uso, sicurezza e valutazione del ROI L'articolo Agenti Claude: guida pratica per crearli e usarli in azienda proviene da Agenda Digitale .",
@@ -2657,246 +2897,6 @@
     "date": "2026-07-07T16:00:00+00:00",
     "category": "models_research",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "BCE alle banche: piano urgente contro le minacce cyber dell’AI",
-    "url": "https://www.agendadigitale.eu/sicurezza/bce-alle-banche-piano-urgente-contro-le-minacce-cyber-dellai/",
-    "summary": "La BCE chiede alle banche significative dell’area euro un piano d’azione entro il 31 ottobre 2026 contro le minacce informatiche potenziate dall’intelligenza artificiale. Al centro ci sono vulnerabilità software, fornitori, resilienza cibernetica, responsabilità dei vertici e rischio sistemico L'articolo BCE alle banche: piano urgente contro le minacce cyber dell’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-07T15:52:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Hugging Face Models on Foundry Managed Compute",
-    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-07-07T15:20:06+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
-    "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
-    "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-07T15:00:52+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Amazon Seeks to Raise at Least $25 Billion to Fund AI Spending",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-07/amazon-to-raise-at-least-25-billion-to-fund-ai-spending-video",
-    "summary": "Amazon.com is looking to raise at least $25 billion from a US dollar bond sale, its latest funding push as the company ramps up investment in AI infrastructure. Robert Schiffman and Ed Ludlow have more on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-07T14:01:32+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
-    "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
-    "summary": "Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI medicine past early safety evaluations into late-stage efficacy validation. IPF destroys respiratory capacity through severe lung tissue scarring. Patients […] The post Insilico Medicine advances AI drug for IPF to Phase III trials appeared first on A",
-    "source": "AI News (AIN)",
-    "date": "2026-07-07T14:00:06+00:00",
-    "category": "healthcare",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "What Makes AI Art Worth Collecting?",
-    "url": "https://spectrum.ieee.org/ai-art-market",
-    "summary": "In May, an anonymous artist who goes by SHL0MS on X posted that he had used AI to generate an image inspired by Claude Monet and asked people to weigh in on how it missed the mark. More than 600 responses called out issues, saying the colors were off, the depth was all wrong, and that AI didn’t understand how light worked. SHL0MS then revealed that the image was of a real Monet, one of around 250 variations of water lilies the artist had painted in his lifetime. He had simply downloaded a high-r",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-07T14:00:02+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Apollo’s Slok Says S&amp;P 493’s Stalled Margins Are a Big-Tech Risk",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/apollo-s-slok-says-s-p-493-s-stalled-margins-are-a-big-tech-risk",
-    "summary": "Apollo Global Management Inc.’s Torsten Slok warned that companies outside the giants of the technology sector are failing to show gains in profitability from their spending on artificial intelligence, posing risks to Big Tech valuations.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-07T13:48:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Dietrofront dei big: l’AI non uccide il lavoro. C’è da fidarsi?",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/dietrofront-dei-big-lai-non-uccide-il-lavoro-ce-da-fidarsi/",
-    "summary": "I CEO tech che annunciavano licenziamenti di massa legati all’intelligenza artificiale ora ridimensionano il rischio e parlano di produttività. Anche Microsoft nel licenziare dice che non è colpa dell'AI. Ma la svolta arriva mentre OpenAI e Anthropic preparano IPO miliardarie e mentre resta aperto il nodo dei percorsi professionali di ingresso L'articolo Dietrofront dei big: l’AI non uccide il lavoro. C’è da fidarsi? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-07T12:33:30+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Il grande gioco degli LLM: GPU sulla carta, perdite in arrivo",
-    "url": "https://www.agendadigitale.eu/infrastrutture/il-grande-gioco-degli-llm-gpu-sulla-carta-perdite-in-arrivo/",
-    "summary": "Nvidia vende GPU agli hyperscaler, mentre OpenAI, Anthropic e altri attori del settore inseguono capitale, valutazioni e possibili IPO. Se datacenter e ricavi non arriveranno, la svalutazione degli asset potrebbe colpire fondi, pensioni, azionisti e consumatori L'articolo Il grande gioco degli LLM: GPU sulla carta, perdite in arrivo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-07T12:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-07T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Amazon Fuels AI Debt Boom With Bond Sale of at Least $25 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
-    "summary": "Amazon.com Inc. is looking to raise at least $25 billion from a US dollar bond sale, marking its latest jumbo debt offering as the tech giant ramps up spending on artificial intelligence infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-07T12:00:47+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-07T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Fornitori AI in azienda: criteri per scegliere il partner giusto",
-    "url": "https://www.agendadigitale.eu/industry-4-0/fornitori-ai-in-azienda-criteri-per-scegliere-il-partner-giusto/",
-    "summary": "La scelta di un partner AI non dipende solo dal modello proposto, ma dalla capacità di governare costi, workflow, responsabilità e rischi. Governance, TCO, KPI contrattuali e portabilità diventano criteri decisivi per evitare progetti fragili, spese impreviste e dipendenza dal vendor L'articolo Fornitori AI in azienda: criteri per scegliere il partner giusto proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-07T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Tech Stocks Fall on Semis Weakness; SpaceX Gets Bullish Calls",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-weakness-resumes-after-samsung-misses-lofty-ai-expectations",
-    "summary": "US technology shares extended declines on Tuesday after earnings from Samsung Electronics Co. failed to satisfy investors, spurring worries over the durability of this year’s red-hot artificial intelligence trade.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-07T11:40:33+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "The foundational elements of AI architecture that IT leaders need to scale",
-    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-07T11:10:52+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Chinese AI Startup DeepSeek Developing Own AI Chip, Report Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/chinese-ai-startup-deepseek-developing-own-ai-chip-reuters-says",
-    "summary": "China’s DeepSeek is developing its own chip to help power artificial intelligence systems, Reuters reported, citing unnamed sources.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-07T11:10:42+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "AI Productivity Gains Are Years Away, Deutsche Bank’s Reid Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/ai-productivity-gains-are-years-away-deutsche-bank-s-reid-says",
-    "summary": "Artificial intelligence is likely to enhance productivity significantly but any such impact on economies may still be years away, Deutsche Bank analyst Jim Reid said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-07T10:08:11+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
-    "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
-    "summary": "L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane, president of L’Oreal’s consumer products division, telling Reuters that the technology helps the company predict how molecules […] The post L’Oreal, Mondelez, and Nestle use AI to speed product development appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-07T10:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "British Space Startup Launches Longevity Lab Into Orbit",
-    "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
-    "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
-    "source": "Wired",
-    "date": "2026-07-07T09:57:12+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Proprietà dei dati digitali: Papa Leone sfida Big Tech e AI",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/proprieta-dei-dati-digitali-papa-leone-sfida-big-tech-e-ai/",
-    "summary": "Papa Leone XIV lega la rivoluzione dell’Intelligenza Artificiale alla nuova questione sociale, indicando nella proprietà dei dati digitali un nodo economico, politico e morale. Contro concentrazione, colonialismo digitale e potere delle piattaforme, richiama beni comuni, sussidiarietà, corpi intermedi e partecipazione L'articolo Proprietà dei dati digitali: Papa Leone sfida Big Tech e AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-07T09:32:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-    "summary": "Forterra has deployed more than 100",
-    "source": "TechCrunch AI",
-    "date": "2026-07-07T09:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "ECB Asks Banks for Plans to Address AI Cybersecurity Threats",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/ecb-asks-banks-for-plans-to-address-ai-cybersecurity-threats",
-    "summary": "Europe’s banking regulator asked banks to come up with plans to address the growing threat from frontier artificial intelligence models such as Anthropic PBC’s Claude Mythos to cybersecurity.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-07T09:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "summary": "Managed agents feature bundle launch",
-    "source": "Google AI Blog",
-    "date": "2026-07-07T08:54:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-07"
-  },
-  {
-    "title": "AI nella PA locale: il percorso per cambiare processi e organizzazione",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/ai-nella-pa-locale-il-percorso-per-cambiare-processi-e-organizzazione/",
-    "summary": "L’intelligenza artificiale entra negli uffici pubblici prima attraverso piccoli usi individuali, poi attraverso processi e scelte organizzative. Per i comuni serve un percorso progressivo, fondato su formazione, policy semplici, governance, sperimentazione strutturata e misurazione dei risultati L'articolo AI nella PA locale: il percorso per cambiare processi e organizzazione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-07T08:46:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
     "_slot_date": "2026-07-07"
   }
 ]
