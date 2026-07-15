@@ -1,5 +1,175 @@
 [
   {
+    "title": "OpenAI finally launches hardware… for Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, […]",
+    "source": "The Verge AI",
+    "date": "2026-07-15T12:00:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-15T15:29:33+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "New York becomes first U.S. state to impose AI data center ban",
+    "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
+    "summary": "",
+    "source": "Reddit r/singularity",
+    "date": "2026-07-15T14:28:37+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-15T13:10:47+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "This AI Folds DNA Into Mini Masterpieces",
+    "url": "https://spectrum.ieee.org/ai-dna-origami",
+    "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami , which can bend genetic material into any form. Designing DNA strands so they’ll fold into a specific shape typically requires tedious manual work, but the researchers behind the playful fabrications have developed a shortcut using generative AI. The AI model, called Ge",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-15T13:00:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-15T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+    "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+    "summary": "Rime is handling over 100 million calls each month across multiple companies.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-15T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Mondiali 2026, la cybersicurezza entra nel campo del calcio globale",
+    "url": "https://www.agendadigitale.eu/sicurezza/mondiali-2026-la-cybersicurezza-entra-nel-campo-del-calcio-globale/",
+    "summary": "Il Mondiale 2026 mette il calcio davanti a una superficie d’attacco senza precedenti. Tra supply chain digitale, dati biometrici degli atleti, sistemi di intelligenza artificiale e standard di resilienza, il torneo mostra come lo sport professionistico possa funzionare come infrastruttura critica di fatto L'articolo Mondiali 2026, la cybersicurezza entra nel campo del calcio globale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-15T12:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "AI in banca e sanità: non basta che funzioni, deve anche spiegarsi",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/ai-in-banca-e-sanita-non-basta-che-funzioni-deve-anche-spiegarsi/",
+    "summary": "L’adozione dell’intelligenza artificiale nei settori regolamentati impone nuovi standard di trasparenza, auditabilità e controllo umano. Banking e sanità diventano il banco di prova della governance dell’AI, tra AI Act, risk management, explainability e necessità di decisioni verificabili L'articolo AI in banca e sanità: non basta che funzioni, deve anche spiegarsi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-15T12:17:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-15T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-15T12:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
+    "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+    "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
+    "source": "Wired",
+    "date": "2026-07-15T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "pagoPA aiuta i Comuni a incassare di più: ecco cosa dicono i dati",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pagopa-aiuta-i-comuni-a-incassare-di-piu-ecco-cosa-dicono-i-dati/",
+    "summary": "Uno studio econometrico di PagoPA e Ragioneria Generale dello Stato misura l’effetto della piattaforma sui bilanci comunali. L’adozione di pagoPA ha aumentato la capacità di riscossione, sbloccato risorse aggiuntive e ridotto alcuni divari tra amministrazioni locali, soprattutto nei servizi a domanda individuale L'articolo pagoPA aiuta i Comuni a incassare di più: ecco cosa dicono i dati proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-15T11:45:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Dal VHS ai deepfake, quando l’eros è laboratorio di innovazione",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/dal-vhs-ai-deepfake-quando-leros-e-laboratorio-di-innovazione/",
+    "summary": "L’industria dei contenuti per adulti ha spesso anticipato l’adozione di nuove tecnologie. Con l’AI generativa emergono immagini sintetiche, chatbot erotici, video personalizzati e strumenti d’abuso, mentre i primi studi descrivono effetti psicologici, rischi sociali e violenza non consensuale L'articolo Dal VHS ai deepfake, quando l’eros è laboratorio di innovazione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-15T11:00:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+    "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+    "summary": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for updates.   NVIDIA and SEGA Celebrate 30 Years of […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-15T10:51:37+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "Copyright e AI, il modello giapponese divide autori e governo",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/copyright-e-ai-il-modello-giapponese-divide-autori-e-governo/",
+    "summary": "Il Giappone ha adottato una disciplina sul copyright considerata favorevole al machine learning, consentendo l’uso tecnico delle opere per l’addestramento dell’IA. L’art. 30-4 prevede però limiti, salvaguardie per gli autori e zone d’ombra applicative L'articolo Copyright e AI, il modello giapponese divide autori e governo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-15T10:21:52+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
+    "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+    "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+    "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
+    "source": "Wired",
+    "date": "2026-07-15T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-15"
+  },
+  {
     "title": "Istruzione e IA: come ricostruire la fiducia e l’apprendimento",
     "url": "https://www.agendadigitale.eu/scuola-digitale/istruzione-e-ia-come-ricostruire-la-fiducia-e-lapprendimento/",
     "summary": "Un'analisi critica sul rapporto tra intelligenza artificiale e istruzione basata sul lavoro di Rebecca Winthrop della Brookings Institution, che delinea i rischi del declino cognitivo e le strategie per una scuola più umana L'articolo Istruzione e IA: come ricostruire la fiducia e l’apprendimento proviene da Agenda Digitale .",
@@ -2618,195 +2788,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-07-09"
-  },
-  {
-    "title": "Chinese AI Models Advance, Causing US Cybersecurity Anxiety",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-08/chinese-ai-models-advance-causing-us-cybersecurity-anxiety",
-    "summary": "The global market for frontier artificial intelligence is evolving.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-08T16:00:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Securing Amazon Bedrock AgentCore Runtime with AWS WAF",
-    "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-agentcore-runtime-with-aws-waf/",
-    "summary": "This post shows you two architecture patterns that address this problem. Both use an internet-facing ALB with AWS WAF and route traffic through a VPC Interface Endpoint to AgentCore Runtime. Pattern 1 places an AWS Lambda proxy between the ALB and the VPC Endpoint, giving you full control over request transformation. Pattern 2 targets the VPC Endpoint ENI IP addresses directly from the ALB, removing the Lambda hop entirely. You also learn how to close the direct-access backdoor with a resource p",
-    "source": "AWS ML Blog",
-    "date": "2026-07-08T15:57:33+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Tool promises to make lazy academics' AI-written papers sound more human",
-    "url": "https://www.theregister.com/ai-and-ml/2026/07/08/tool-promises-to-make-lazy-academics-ai-written-papers-sound-more-human/5268460",
-    "summary": "Startup insists it's not trying to help anyone cheat the system - honest!",
-    "source": "The Register AI",
-    "date": "2026-07-08T17:55:00+02:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Manage AI applications on Mac with Jamf’s AI Governance and Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/manage-ai-applications-on-mac-with-jamf-ai-governance-and-amazon-bedrock/",
-    "summary": "In this post, we show how you can use Jamf’s AI Governance with Amazon Bedrock to configure, deploy, and validate managed settings for AI applications across a Mac fleet.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-08T15:53:08+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "These AI startups are growing  revenue at faster and faster rates",
-    "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-08T15:41:06+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "China to Let AI Firms Buy Nvidia H200s, Information Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says",
-    "summary": "China plans to allow top artificial intelligence companies to buy a limited amount of H200 chips from Nvidia Corp., a sign the country is easing restrictions on the coveted US technology, according to the Information.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-08T15:21:20+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Steve Pagliuca Says AI, Pharma, Sports Are Key Investment Focus",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/steve-pagliuca-says-ai-pharma-sports-are-key-investment-focus",
-    "summary": "PagsGroup Chief Executive Officer Stephen Pagliuca sees a clutch of growing industries, including artificial intelligence and sports, as a key focus for investment over the long term.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-08T15:19:17+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
-    "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
-    "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform.  LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-08T15:00:27+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Crypto-Focused VC Firm Paradigm Raises $1.2 Billion for AI Bets",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets",
-    "summary": "Paradigm, the venture firm founded to invest in cryptocurrency companies, has raised a new $1.2 billion fund to make more bets outside of the sector, including artificial intelligence and robotics.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-08T14:00:20+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Mistral AI Releases Robotics Model to Support Physical AI Push",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push",
-    "summary": "Mistral AI announced a new robotics navigation model, as the French startup expands in the emerging field of physical artificial intelligence after signing deals with major European industrial customers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-08T14:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "IMF Says AI Helps Offset War-Driven Slowdown But Sees Risks",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/imf-sees-ai-surge-offset-war-oil-shock-and-keeps-growth-outlook",
-    "summary": "The International Monetary Fund left its global growth forecast largely unchanged for this year, saying that the boom in artificial intelligence helped offset the fallout from the conflict in the Middle East.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-08T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-08T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Douglas Elliman Bets on AI to Reinvent Brokerage Business",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/douglas-elliman-bets-on-ai-to-reinvent-brokerage-business",
-    "summary": "Luxury real estate brokerage Douglas Elliman Inc. is betting artificial intelligence can expand its business beyond buying and selling homes.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-08T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "AIOps: l’occasione per il CIO di guidare (non subire) la strategia AI",
-    "url": "https://www.agendadigitale.eu/industry-4-0/aiops-loccasione-per-il-cio-di-guidare-non-subire-la-strategia-ai/",
-    "summary": "L'AIOps combina intelligenza artificiale, automazione e analisi dei dati per gestire le operation IT in modo predittivo. Riduce incidenti critici, tempi di fermo e costi operativi, offrendo al CIO indicatori misurabili per dimostrare il valore concreto dell'intelligenza artificiale in azienda L'articolo AIOps: l’occasione per il CIO di guidare (non subire) la strategia AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-08T11:53:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Ecco Meta Muse Image e Muse Video: l’AI visiva entra nei social",
-    "url": "https://www.agendadigitale.eu/industry-4-0/meta-muse-image-e-muse-video-portano-lai-visiva-nei-social/",
-    "summary": "Meta porta Muse Image dentro Instagram, WhatsApp e Meta AI, affiancandolo all’anteprima di Muse Video. La generazione visiva diventa un flusso integrato tra immagini, strumenti interattivi, watermark e video sintetici, mentre l’uso dei profili pubblici Instagram apre il nodo del consenso L'articolo Ecco Meta Muse Image e Muse Video: l’AI visiva entra nei social proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-08T11:19:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "AI Models Overthink Problems—and It’s a Security Risk",
-    "url": "https://spectrum.ieee.org/ai-reasoning-models-security-risk",
-    "summary": "Large language models (LLMs) that can think through problems step-by-step have significantly increased the scope of tasks that AI can tackle. But new research suggests these reasoning capabilities also introduce a critical vulnerability that could allow attackers to slow these systems to a crawl. While earlier generations of LLMs would immediately produce a response to a user’s request, today’s most advanced models generate an internal monologue where they break down the problem into steps and r",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-08T11:00:01+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "Teoria sociologica della coscienza: cos’è SENSE e perché riguarda l’AI",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/teoria-sociologica-della-coscienza-cose-sense-e-perche-riguarda-lai/",
-    "summary": "SENSE propone una teoria sociologica della coscienza come funzione emergente di reti relazionali situate. Il testo attraversa filosofia, scienze cognitive, semiotica e sociologia per spiegare come senso, significato e coscienza si formino nell’epoca dell’intelligenza artificiale L'articolo Teoria sociologica della coscienza: cos’è SENSE e perché riguarda l’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-08T10:26:12+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "LLM, traduzione universale e conoscenza: cosa c’è oltre le parole",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/llm-traduzione-universale-e-conoscenza-cosa-ce-oltre-le-parole/",
-    "summary": "Gli LLM mostrano come la traduzione universale possa far emergere una struttura comune tra lingue, codici e generi diversi. Dal Transformer alla forma logica di Wittgenstein, fino alle ipotesi platoniche e aristoteliche sulle rappresentazioni neurali, il valore si sposta dall’esecuzione al pensiero originale L'articolo LLM, traduzione universale e conoscenza: cosa c’è oltre le parole proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-08T10:11:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
-  },
-  {
-    "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-    "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-    "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-    "source": "Wired",
-    "date": "2026-07-08T09:30:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-08"
   }
 ]
