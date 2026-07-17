@@ -1,5 +1,135 @@
 [
   {
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-17T15:21:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads – a Key Metric for Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+    "summary": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-17T15:00:14+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "Spie russe e talpe, ecco perché proteggere infrastrutture e sistemi è la priorità",
+    "url": "https://www.agendadigitale.eu/sicurezza/spie-russe-e-talpe-ecco-perche-proteggere-infrastrutture-e-sistemi-e-la-priorita/",
+    "summary": "Lo spionaggio russo in Italia torna al centro dell’attenzione dopo l’arresto di due ex membri del comparto intelligence nazionale e la conseguente indagine su una rete accusata di aver raccolto e venduto informazioni riservate su Difesa, infrastrutture critiche e tecnologie militari L'articolo Spie russe e talpe, ecco perché proteggere infrastrutture e sistemi è la priorità proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-17T14:20:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+    "summary": "ASML Holding NV will give employees globally a one-time €20,000 ($22,862) bonus, joining other firms in the chip industry to offer payouts as artificial intelligence demand fuels record sales.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-17T14:16:59+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "Un registro europeo delle opere per proteggerle dall’intelligenza artificiale",
+    "url": "https://www.agendadigitale.eu/documenti/copyright-e-ai-perche-la-commissione-ue-studia-un-registro-delle-opere/",
+    "summary": "Il registro opt-out TDM AI è al centro del confronto europeo sul rapporto tra copyright, opere protette e addestramento dei modelli di intelligenza artificiale. La proposta della Commissione UE punta a rendere più chiara e verificabile la riserva dei diritti L'articolo Un registro europeo delle opere per proteggerle dall’intelligenza artificiale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-17T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+    "url": "https://www.wired.com/story/best-smart-speakers/",
+    "summary": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+    "source": "Wired",
+    "date": "2026-07-17T12:01:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-17T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "AI-Based Businesses Are Diversifying and Rejecting AI Model Monogamy",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-17/ai-based-businesses-are-diversifying-and-rejecting-ai-model-monogamy",
+    "summary": "Businesses that depend on any one AI model are vulnerable, so they’re adapting",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-17T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "Digital Markets Act, si fa sul serio: cosa insegnano le decisioni UE su Google",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/digital-markets-act-si-fa-sul-serio-cosa-insegnano-le-decisioni-ue-su-google/",
+    "summary": "La Commissione europea impone a Google nuovi obblighi su Android e Search nell’ambito del Digital Markets Act, mentre la Corte di Giustizia restringe lo scudo di responsabilità di YouTube. Sullo sfondo resta lo scontro con Apple e il nodo dell’intelligenza artificiale nei sistemi operativi L'articolo Digital Markets Act, si fa sul serio: cosa insegnano le decisioni UE su Google proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-17T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "Piano d’azione cyber e AI, cosa c’è nell’agenda europea per ridurre le dipendenze",
+    "url": "https://www.agendadigitale.eu/sicurezza/piano-dazione-cyber-e-ai-cosa-ce-nellagenda-europea-per-ridurre-le-dipendenze/",
+    "summary": "Il piano d’azione europeo su cybersicurezza e intelligenza artificiale arriva in una fase cruciale per la sovranità tecnologica dell’UE. Tra AI Act, modelli di frontiera, dipendenze strategiche e investimenti, Bruxelles prova a rafforzare resilienza, accesso sicuro e capacità industriale L'articolo Piano d’azione cyber e AI, cosa c’è nell’agenda europea per ridurre le dipendenze proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-17T10:30:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "Il lato fragile dell’AI nel marketing: reputazione, dati e responsabilità",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/il-lato-fragile-dellai-nel-marketing-reputazione-dati-e-responsabilita/",
+    "summary": "L’adozione dell’intelligenza artificiale nel marketing accelera più della governance, aumentando esposizione a bias, contenuti inesatti, dipendenza dalle piattaforme, vulnerabilità dei dati e responsabilità sugli output automatizzati. Per aziende e brand il rischio diventa strutturale, distribuito e legato all’intera filiera digitale L'articolo Il lato fragile dell’AI nel marketing: reputazione, dati e responsabilità proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-17T10:09:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "summary": "Sarah Friar, CFO of OpenaAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "source": "OpenAI Blog",
+    "date": "2026-07-17T10:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
+    "title": "L’AI non basta: le banche devono cambiare modello operativo",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/lai-non-basta-le-banche-devono-cambiare-modello-operativo/",
+    "summary": "Nel banking l’intelligenza artificiale generativa non trova il suo limite principale nella tecnologia, ma nei modelli organizzativi. Processi frammentati, sistemi non coordinati e decisioni distribuite impediscono ai progetti AI di scalare, mentre emerge l’esigenza di un modello operativo bancario più integrato L'articolo L’AI non basta: le banche devono cambiare modello operativo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-17T09:56:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-17"
+  },
+  {
     "title": "AI nelle aziende italiane: adozione alta, governo fragile",
     "url": "https://www.agendadigitale.eu/industry-4-0/ai-nelle-aziende-italiane-adozione-alta-governo-fragile/",
     "summary": "Il management italiano usa già l’intelligenza artificiale, ma solo una minoranza di organizzazioni ha costruito regole, ruoli e processi per governarla. L’AI Management Index 2026 fotografa un Paese in movimento, con competenze ancora fragili e una sfida decisiva sulla responsabilità L'articolo AI nelle aziende italiane: adozione alta, governo fragile proviene da Agenda Digitale .",
@@ -2337,206 +2467,6 @@
     "date": "2026-07-10T16:21:10+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Fine-tune NVIDIA Nemotron 3 models with Amazon SageMaker AI serverless model customization",
-    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
-    "summary": "In this post, we explore what makes the Nemotron 3 architecture unique, walk through the fine-tuning techniques available, and show you step-by-step how to get started with serverless customization using SageMaker Studio.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-10T15:35:05+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Real-time dental image verification with Amazon SageMaker AI at Henry Schein One",
-    "url": "https://aws.amazon.com/blogs/machine-learning/real-time-dental-image-verification-with-amazon-sagemaker-ai-at-henry-schein-one/",
-    "summary": "This post describes how Henry Schein One closed that gap by building Image Verify, an AI-powered quality verification system on Amazon SageMaker AI that evaluates dental X-ray quality at the point of capture, in real time, across thousands of locations. The system went from concept to over 10,000 active locations within months and has already processed over 11 million X-rays and growing at 1.5 million per week. Henry Schein One is now scaling toward 40,000 locations globally across four regions.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-10T15:33:47+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Build a semantic layer for agentic AI on AWS with Stardog and Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-on-aws-with-stardog-and-amazon-bedrock-agentcore/",
-    "summary": "In this post we show how to build a semantic layer on AWS using Stardog’s Semantic AI Application over Amazon Aurora and Amazon Redshift, and how to run a Strands Agents agent on Amazon Bedrock AgentCore that queries the layer to answer customer 360 questions across both sources without extract, transform, and load (ETL). The same Stardog deployment works behind AWS computes (Amazon Elastic Kubernetes Service (Amazon EKS), Amazon Elastic Container Service (Amazon ECS), and AWS Lambda). We use Ag",
-    "source": "AWS ML Blog",
-    "date": "2026-07-10T15:31:12+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Scaling agentic workflows with native case management in Amazon Quick Automate",
-    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-workflows-with-native-case-management-in-amazon-quick-automate/",
-    "summary": "In this post, we show you how to combine case management with agentic automation capabilities in Quick Automate. We introduce case management and explore the lifecycle of cases in an agentic workflow from case creation through processing to resolution. We cover how to create and manage single or multiple cases, automatically track and update status, handle exceptions, and incorporate Human-in-the-loop (HITL) steps within workflows. We also show the case creator-processor pattern that enables dyn",
-    "source": "AWS ML Blog",
-    "date": "2026-07-10T15:28:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Deploying quantized models on Amazon SageMaker AI with Unsloth",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-quantized-models-on-amazon-sagemaker-ai-with-unsloth/",
-    "summary": "In this post, you will learn four deployment patterns for taking models that have already been quantized with Unsloth and deploying them on AWS infrastructure. The patterns use Amazon Elastic Compute Cloud (Amazon EC2) for direct instance access, Amazon SageMaker AI inference endpoints for managed serving, and Amazon Elastic Kubernetes Service (Amazon EKS) or Amazon Elastic Container Service (Amazon ECS) when inference needs to fit into an existing container framework. You also learn operational",
-    "source": "AWS ML Blog",
-    "date": "2026-07-10T15:26:05+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "How KTern.AI built agentic AI for SAP on Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-ktern-ai-built-agentic-ai-for-sap-on-amazon-bedrock-agentcore/",
-    "summary": "Evolving from a traditional software as a service (SaaS) platform into a next-generation agentic AI platform meant orchestrating multiple specialized agents across long-running enterprise programs. Each agent operates with persistent context, secure tool access, and production-grade reliability. We built that system on Amazon Bedrock AgentCore using the Strands Agents SDK. This post walks through how we architected it, which agents we built, and the outcomes for our customers.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-10T15:23:25+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Disaggregated prefill and decode for LLM inference on SageMaker HyperPod",
-    "url": "https://aws.amazon.com/blogs/machine-learning/disaggregated-prefill-and-decode-for-llm-inference-on-sagemaker-hyperpod/",
-    "summary": "In this post, we show how to implement DPD with vLLM on Amazon SageMaker HyperPod using the HyperPod Inference Operator.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-10T15:20:16+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Government Action is Crucial for AI Entrepreneurs Says Pelgo CEO",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/gov-action-vital-for-ai-entrepreneurs-says-pelgo-ceo-video",
-    "summary": "Artificial intelligence could reshape the jobs of nearly 80 million people across Southeast Asia, but there is little sign it has led to large-scale employment cuts, according to the International Labour Organization.\nThe ILO urged governments to strengthen AI governance and better integrate AI policies through a human-centered approach to help workers and businesses adapt.\nPelgo CEO Chieh Huang discusses how AI is impacting the labor market and how it could serve as a tool for displaced workers",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-10T15:08:48+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "AI Bust Fallout Would Be 'More Significant' Than Dot-Com, Says George Noble",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/ai-bust-would-be-worse-than-dot-com-bubble-says-noble-video",
-    "summary": "The US stock market’s rally to new highs has been propelled by so few stocks that it’s reminding some on Wall Street of the runup to the dot-com bubble.\nGeorge Noble, Managing Partner of Noble Capital Advisors, discusses the AI trade and how he believes the coming bust would be much worse than the dot-com bubble fallout. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-10T15:05:31+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "I social Meta danno dipendenza? Che c’è dietro l’accusa dell’UE",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/i-social-meta-danno-dipendenza-che-ce-dietro-laccusa-dellue/",
-    "summary": "La Commissione UE contesta in via preliminare a Meta il design di Instagram e Facebook, ritenuto potenzialmente capace di creare dipendenza. Al centro dell’indagine ci sono scrolling infinito, autoplay, notifiche push, raccomandazioni personalizzate e tutela dei minori nel quadro del Digital Services Act L'articolo I social Meta danno dipendenza? Che c’è dietro l’accusa dell’UE proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-10T15:01:05+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-    "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know […]",
-    "source": "The Verge AI",
-    "date": "2026-07-10T09:45:02-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Would you host part of an AI data center in your home?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-    "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes […]",
-    "source": "The Verge AI",
-    "date": "2026-07-10T09:20:25-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "AI in azienda, perché gestire il cambiamento è anche una questione di sicurezza",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-in-azienda-perche-gestire-il-cambiamento-e-anche-una-questione-di-sicurezza/",
-    "summary": "Change management e AI devono procedere insieme quando l’innovazione entra nei processi aziendali. La formazione, la governance e la cybersecurity diventano leve decisive per usare l’intelligenza artificiale in modo responsabile, soprattutto in settori sensibili come la sanità: ecco i consigli L'articolo AI in azienda, perché gestire il cambiamento è anche una questione di sicurezza proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-10T12:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-10T12:10:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Sovereign AI May Mean State-Backed Models and Political Tensions",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai",
-    "summary": "Washington wants in on the artificial intelligence gold rush.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-10T10:30:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
-    "summary": "The largest builders of artificial intelligence data centers have doubled their debt load in the last five years, turning to borrowing to finance an unprecedented spending spree they claim is needed to transform the economy.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-10T10:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "How to shrink the token budget without shrinking the team",
-    "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
-    "summary": "Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer’s annual AI token consumption came in under half their salary, “I am going to […] The post How to shrink the token budget without shrinking the team appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-10T09:34:27+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "RealPage e gli affitti automatizzati: la responsabilità resta umana",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/realpage-e-gli-affitti-automatizzati-la-responsabilita-resta-umana/",
-    "summary": "Il caso RealPage mostra come un software di pricing possa orientare migliaia di canoni sulla base di dati condivisi tra concorrenti. Tra diritto societario, antitrust e AI Act, la questione centrale non è se l’algoritmo decida, ma chi risponde del suo uso L'articolo RealPage e gli affitti automatizzati: la responsabilità resta umana proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-10T09:11:18+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "AI Act, non solo regole: la nuova agenda per le imprese",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-non-solo-regole-la-nuova-agenda-per-le-imprese/",
-    "summary": "L’AI Act non introduce soltanto nuovi obblighi di compliance, ma spinge le imprese a ripensare governance, dati, cybersecurity, competenze e leadership. La regolazione europea può diventare una leva di fiducia, innovazione responsabile e vantaggio competitivo per le organizzazioni più mature L'articolo AI Act, non solo regole: la nuova agenda per le imprese proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-10T08:46:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-10"
-  },
-  {
-    "title": "Avast Premium Security: intelligenza artificiale e sconto fino al 60% contro truffe online e deepfake",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/avast-premium-security-l-antivirus-con-ai-scontato-del-60-per-cento/",
-    "summary": "La promozione di Avast Premium Security consente di ottenere fino al 60% di sconto sui piani annuali. Il pacchetto integra strumenti basati sull'intelligenza artificiale per individuare truffe online, deepfake e tentativi di phishing, oltre a funzioni avanzate per la protezione di PC e dispositivi mobili L'articolo Avast Premium Security: intelligenza artificiale e sconto fino al 60% contro truffe online e deepfake proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-10T08:42:26+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
     "_slot_date": "2026-07-10"
   }
 ]
