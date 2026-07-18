@@ -1,5 +1,55 @@
 [
   {
+    "title": "Endogenous Alignment",
+    "url": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
+    "summary": "Starting when children are fairly young, usually around 1 year of age, we adults begin the work of aligning them to our values. We teach them to say “please”, not to hit, to ask for what they want instead of screaming, and much else. We do this primarily via exogenous methods, using a combination of punishments and rewards, that molds their behavior by encouraging good behaviors and discouraging bad ones. Such operant conditioning works because children have many instinctive behaviors that make ",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-18T14:10:37+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-18"
+  },
+  {
+    "title": "The apps, gadgets, and tools every reader needs",
+    "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+    "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History […]",
+    "source": "The Verge AI",
+    "date": "2026-07-18T08:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-18"
+  },
+  {
+    "title": "Moonshot’s Kimi Upends Conventional Wisdom on US Lead Over China",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china",
+    "summary": "At an event in Beijing earlier this year, some of China’s top artificial intelligence leaders warned that the country remained meaningfully behind the US in developing cutting-edge AI models, with one executive arguing that “the gap may actually be widening.”",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-18T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-18"
+  },
+  {
+    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+    "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+    "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+    "source": "Wired",
+    "date": "2026-07-18T10:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-18"
+  },
+  {
+    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+    "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "source": "Wired",
+    "date": "2026-07-18T09:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-18"
+  },
+  {
     "title": "China Joins Rush to Rethink the Smartphone for the AI Era",
     "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
     "summary": "ZTE Corp. showcased for the first time a lineup of co-designed smartphones with built-in AI services, joining a growing number of Chinese companies trying to reimagine mobile devices with artificial intelligence at the core.",
@@ -2518,35 +2568,5 @@
     "category": "policy_regulation",
     "_slot": "morning",
     "_slot_date": "2026-07-12"
-  },
-  {
-    "title": "Apple Sues OpenAI Over AI Talent Fight",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-11/apple-sues-openai-over-ai-talent-fight-video",
-    "summary": "Bloomberg Tech host Ed Ludlow says Apple's lawsuit against OpenAI reflects an intensifying battle for AI talent and hardware leadership, with Apple alleging former employees improperly took trade secrets as OpenAI expands its device ambitions. He also says SK Hynix expects AI memory demand to outpace supply, plans to increase US investment beyond $35 billion, and sees the next test for the AI boom coming as technology companies report earnings and investors assess whether spending is translating",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-11T14:37:15+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-11"
-  },
-  {
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-11T14:13:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-11"
-  },
-  {
-    "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
-    "summary": "When iPhone engineer Chang Liu quit for a job at OpenAI’s nascent hardware division, Apple Inc. says he left with more than just years of experience.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-11T13:59:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-11"
   }
 ]
