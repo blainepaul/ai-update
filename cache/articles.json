@@ -1,5 +1,45 @@
 [
   {
+    "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+    "url": "https://aethereos.net/static/token-atlas.html",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-07-18T22:42:20+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer […]",
+    "source": "The Verge AI",
+    "date": "2026-07-18T16:54:42-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "A Red Line and Oversight Framework for Government AI Contracts",
+    "url": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai",
+    "summary": "My post on leaving Google DeepMind tells a story. In contrast, this Framework is a question of mechanism design and negotiation posture. I quite enjoyed optimizing this Framework against its organizational and practical constraints. The original considerations were : Good red lines: Rule out the questionable use cases (autonomous targeting without human control, untargeted profiling) while allowing trustworthy ones like missile defense. Avoid the weaknesses flagged in legal analysis of Anthropic",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-18T18:58:31+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "Kimi: Threat or menace?",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-07-18T18:51:07+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-19"
+  },
+  {
     "title": "Endogenous Alignment",
     "url": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
     "summary": "Starting when children are fairly young, usually around 1 year of age, we adults begin the work of aligning them to our values. We teach them to say “please”, not to hit, to ask for what they want instead of screaming, and much else. We do this primarily via exogenous methods, using a combination of punishments and rewards, that molds their behavior by encouraging good behaviors and discouraging bad ones. Such operant conditioning works because children have many instinctive behaviors that make ",
@@ -2547,26 +2587,6 @@
     "date": "2026-07-12T08:00:00-04:00",
     "category": "business_investment",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-12"
-  },
-  {
-    "title": "Zhipu’s Chinese Founder Says Frontier AI Should Stay Open to All",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-12/zhipu-s-chinese-founder-says-frontier-ai-should-stay-open-to-all",
-    "summary": "The founder of Chinese AI lab Zhipu argued that frontier artificial intelligence should remain broadly accessible rather than controlled by select individuals, weighing in on a growing debate about the risks posed by ever more powerful models.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-12T06:59:51+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-12"
-  },
-  {
-    "title": "The current bottleneck is political will, not research",
-    "url": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
-    "summary": "Abstract: We already know enough to act. I wish we were in a world where research was the bottleneck, but the main constraint on AI safety is no longer a shortage of clever policy ideas: best practices already exist and are not being applied or enforced, and a serious international (or even just national) regulatory regime would probably cut most of the risk. They are not applied because awareness is low. The people who narrate and enforce AI policy mostly do not believe the problem exists. I es",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-11T21:56:26+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
     "_slot_date": "2026-07-12"
   }
 ]
