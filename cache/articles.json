@@ -1,5 +1,65 @@
 [
   {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "summary": "\"Everybody knows the Greeks are inside.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-07-19T14:52:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "Why Apple’s OpenAI Lawsuit Doesn’t Mention Jony Ive; AI Recording at Genius Bar",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
+    "summary": "Also: The company tries out AI recording for Genius Bar appointments.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-19T14:00:01+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-19T14:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+    "summary": "After last week’s wipeout in chips and the broader selloff in technology stocks, pressure is building for the biggest spenders on artificial intelligence to justify their expenditures to beleaguered traders with increasingly itchy fingers hovering over their sell buttons.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-19T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
+    "url": "https://tensorlabbet.com/2026/07/19/medqaswe_post_training/",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-07-19T12:44:45+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-19"
+  },
+  {
+    "title": "Alibaba’s Qwen Unveils Preview of Flagship AI Model",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
+    "summary": "Alibaba Group Holding Ltd. launched a preview version of its flagship Qwen3.8 Max model, which it described as comparable to leading frontier AI models and second only to Anthropic PBC’s Fable 5.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-19T11:02:09+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-19"
+  },
+  {
     "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
     "url": "https://aethereos.net/static/token-atlas.html",
     "summary": "",
@@ -2568,25 +2628,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models",
-    "summary": "Three prominent artificial intelligence developers released new models over the past week. They all promise to be more advanced, but their biggest immediate selling point may not be what they can do but how little they charge to do it.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-12T14:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-12"
-  },
-  {
-    "title": "The fight against AI data centers is just beginning",
-    "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power […]",
-    "source": "The Verge AI",
-    "date": "2026-07-12T08:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-12"
   }
 ]
