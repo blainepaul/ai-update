@@ -1,5 +1,195 @@
 [
   {
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the […]",
+    "source": "The Verge AI",
+    "date": "2026-07-20T12:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Introducing Cosmos 3 Edge",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-07-20T15:58:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Kimi K3: The open-weights escalation",
+    "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "summary": "The global implications on the AI ecosystem.",
+    "source": "Interconnects",
+    "date": "2026-07-20T15:48:28+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-20T15:23:06+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Z.AI Completes Giant Data Center With Chinese Chips to Train AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
+    "summary": "Z.AI has completed construction of a giant data center that houses only Chinese-made chips, a big step in Beijing’s efforts to replace restricted Nvidia Corp. silicon for future AI development.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-20T15:02:36+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+    "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+    "summary": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-20T15:00:53+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Perché i data center sono centrali per il futuro industriale dell’Italia",
+    "url": "https://www.agendadigitale.eu/infrastrutture/perche-i-data-center-sono-centrali-per-il-futuro-industriale-dellitalia/",
+    "summary": "I data center sono diventati infrastrutture strategiche per economia digitale, intelligenza artificiale, cloud e servizi connessi. In Italia possono attrarre investimenti, sostenere la competitività industriale, favorire rigenerazione urbana, creare competenze qualificate e contribuire a un modello di sviluppo più sostenibile L'articolo Perché i data center sono centrali per il futuro industriale dell’Italia proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-20T13:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
+    "summary": "Shares of Google owner Alphabet Inc. gained on a report that the company is developing a server chip designed to optimize its Gemini artificial intelligence model.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-20T13:22:04+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Lavoro, inattivi e AI: il capitale umano che l’Italia non usa",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/lavoro-inattivi-e-ai-il-capitale-umano-che-litalia-non-usa/",
+    "summary": "L’Italia conta milioni di persone in età lavorativa fuori dal mercato, mentre imprese e territori affrontano carenza di competenze, declino demografico e crescita debole. L’intelligenza artificiale può aiutare a mappare skill, personalizzare la formazione e riattivare capitale umano inutilizzato L'articolo Lavoro, inattivi e AI: il capitale umano che l’Italia non usa proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-20T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Kimi K3: l’AI cinese che mette alla prova prezzi, chip e sovranità dell’occidente",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/kimi-k3-lai-cinese-che-mette-alla-prova-prezzi-chip-e-sovranita-delloccidente/",
+    "summary": "Moonshot AI presenta Kimi K3, modello multimodale da 2,8 trilioni di parametri annunciato come open-weight. Il sistema avvicina la Cina alla fascia alta dell’AI globale, ma restano da verificare licenza, costi reali, benchmark, requisiti hardware e impatto regolatorio L'articolo Kimi K3: l’AI cinese che mette alla prova prezzi, chip e sovranità dell’occidente proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-20T12:17:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Agcom: che pluralismo resta se le fonti non arrivano più ai cittadini?",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/agcom-che-pluralismo-resta-se-le-fonti-non-arrivano-piu-ai-cittadini/",
+    "summary": "La Relazione annuale 2026 di Agcom individua nell’intelligenza artificiale una trasformazione strutturale dell’ecosistema informativo. Il nodo non riguarda solo la produzione dei contenuti, ma selezione, visibilità, fonti, mediazione algoritmica e pluralismo nell’accesso alla conoscenza L'articolo Agcom: che pluralismo resta se le fonti non arrivano più ai cittadini? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-20T12:11:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Moonshot’s Kimi AI Model Sets Off Anxiety in the US",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-s-kimi-ai-model-sets-off-anxiety-in-the-us",
+    "summary": "Moonshot’s release of Kimi K3 sparked fierce debate in the US",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-20T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+    "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+    "summary": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious results to show for it. And they’re doubling down. BMS announced today it is deploying its second NVIDIA DGX SuperPOD, this one built on […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-20T10:59:23+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Il cliente aumentato cambia la consulenza finanziaria nell’era AI",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/il-cliente-aumentato-cambia-la-consulenza-finanziaria-nellera-ai/",
+    "summary": "L’intelligenza artificiale sta trasformando la consulenza finanziaria non solo dal lato dell’offerta, ma anche da quello della domanda. Il cliente arriva più informato, più autonomo e più esposto a fonti diverse, spingendo il consulente verso un ruolo di interpretazione, validazione e relazione L'articolo Il cliente aumentato cambia la consulenza finanziaria nell’era AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-20T10:46:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Moonshot AI’s Kimi K3 Stuns Investors, Challenges Anthropic, OpenAI Lead",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
+    "summary": "Moonshot’s release is forcing Silicon Valley to reconsider long-held assumptions",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-20T10:30:02+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "China delivers a one-two punch to America’s AI dominance",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming […]",
+    "source": "The Verge AI",
+    "date": "2026-07-20T06:16:33-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "ChatGPT, Claude Infiltrate Dating Apps by Helping Singles Flirt With Matches",
+    "url": "https://www.bloomberg.com/news/features/2026-07-20/chatgpt-claude-infiltrate-dating-apps-by-helping-singles-flirt-with-matches",
+    "summary": "Singles are outsourcing chats to ChatGPT and Claude, complicating how romantic connections begin",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-20T10:15:20+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "Perché il dual use è diventato un problema di sovranità tecnologica",
+    "url": "https://www.agendadigitale.eu/sicurezza/perche-il-dual-use-e-diventato-un-problema-di-sovranita-tecnologica/",
+    "summary": "Le tecnologie dual use attraversano il confine tra applicazioni civili e militari, mettendo sotto pressione regole, imprese e autorità. Dal quantum computing all’intelligenza artificiale, il rischio nasce da convertibilità, intenzione, contesto geopolitico e velocità della militarizzazione L'articolo Perché il dual use è diventato un problema di sovranità tecnologica proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-20T10:01:04+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
+    "title": "US public health agencies to test OpenAI and Anthropic AI models",
+    "url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+    "summary": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, or territorial jurisdictions. The programme is intended to produce […] The post US public health agencies to test OpenAI and Anthropic AI models appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-07-20T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-20"
+  },
+  {
     "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
     "url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
     "summary": "Moonshot AI’s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released to date. Model sizes are usually grouped into rough brackets, and 2.8 trillion rounds into what the industry calls the 3T class. A tier no […] The post Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute appeared first on AI News .",
@@ -2458,175 +2648,5 @@
     "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-13T15:34:59+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Sunrun's Experiment to Turn Homes Into AI Hubs",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-13/sunrun-s-experiment-to-turn-homes-into-ai-hubs-video",
-    "summary": "Sunrun CEO Mary Powell joins Open Interest to explain how the company plans to transform homes with solar and batteries into AI computing hubs. She says homeowners could earn hundreds of dollars a month by hosting AI compute nodes while helping meet soaring demand for AI infrastructure. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T15:20:12+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "The AI Arms Race in Technical Interviews Is Escalating",
-    "url": "https://spectrum.ieee.org/technical-interview-ai-arms-race",
-    "summary": "Software engineering jobs are under threat from AI . Some applicants are fighting back by using AI in the interview process, employing AI assistants that suggest responses on the fly during remote technical interviews. Meanwhile, some employers are countering with—you guessed it—AI. They’re applying AI-powered tools to detect telltale signs of AI use during interviews. This two-sided dynamic is turning hiring into an AI arms race with no clear winners. Yet as interviewers and interviewees naviga",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-13T15:15:03+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "AI Chip Giants TSMC and SK Hynix Pull in Different Directions",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-13/tsmc-and-sk-hynix-pull-in-different-directions-video",
-    "summary": "TSMC soared while SK Hynix tumbled — why are are the two essential AI chip firms pulling in different directions?\n\nTom Mackenzie explains. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T15:01:32+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Waze adds new AI-powered features and customization updates",
-    "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-    "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-13T14:18:16+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Sticker shock has execs rethinking this whole AI thing",
-    "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sticker-shock-has-execs-rethinking-this-whole-ai-thing-1/5270073",
-    "summary": "This week on The Reg's Kettle podcast, we wonder whether tokenminning is going to bring the industry back down to Earth",
-    "source": "The Register AI",
-    "date": "2026-07-13T16:16:00+02:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Apple’s Lawsuit Threatens to Disrupt OpenAI’s Bid to Rival the iPhone",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone",
-    "summary": "Apple Inc.’s lawsuit accusing OpenAI of systematically stealing its intellectual property threatens to disrupt the AI company’s device ambitions long before the case is resolved.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T12:32:47+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "AI nelle grandi opere infrastrutturali, i nodi ancora irrisolti",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/ai-nelle-grandi-opere-infrastrutturali-i-nodi-ancora-irrisolti/",
-    "summary": "Dal workshop “L’Intelligenza Artificiale nella progettazione e realizzazione delle grandi opere infrastrutturali” al PoliTo emergono questioni centrali sull’uso dell’AI nelle grandi opere infrastrutturali: qualità del dato, ruolo umano nelle decisioni, competenze interne, applicazioni reali nei cantieri e responsabilità giuridica degli algoritmi L'articolo AI nelle grandi opere infrastrutturali, i nodi ancora irrisolti proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-13T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Intel Invests €5 Billion to Expand Irish Hub in AI Chip Race",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/intel-invests-5-billion-in-irish-hub-to-keep-up-in-ai-chip-race",
-    "summary": "Intel Corp. is spending €5 billion ($5.7 billion) to expand its plant in Ireland, as the chipmaker attempts to regain its manufacturing dominance for the AI boom.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T12:02:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "L’AI europea si gioca sulle infrastrutture: perché la PA è il banco di prova",
-    "url": "https://www.agendadigitale.eu/industry-4-0/lai-europea-si-gioca-sulle-infrastrutture-perche-la-pa-e-il-banco-di-prova/",
-    "summary": "L’Europa costruisce una nuova infrastruttura per l’intelligenza artificiale: AI factory, gigafactory, dati e servizi per imprese e PA. Il nodo è trasformare potenza di calcolo e governance in adozione reale sui territori L'articolo L’AI europea si gioca sulle infrastrutture: perché la PA è il banco di prova proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-13T11:54:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "L’era dell’AI nell’HR: efficienza e automazione per le imprese",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/lera-dellai-nellhr-efficienza-e-automazione-per-le-imprese/",
-    "summary": "L'integrazione di intelligenza artificiale e machine learning ridefinisce la funzione HR per massimizzare l'efficienza operativa. I dati confermano benefici tangibili sull'employee experience, a patto di mantenere una governance rigorosa e un approccio incentrato sulle persone L'articolo L’era dell’AI nell’HR: efficienza e automazione per le imprese proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-13T11:15:16+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "ChatGPT’s Upgraded Voice Mode Captures the Imperfections of Real Conversations",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-13/chatgpt-s-voice-mode-can-handle-the-um-and-oh-of-real-conversations",
-    "summary": "The OpenAI chatbot now speaks and converses a lot more like a real person",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T11:02:01+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Washington Is Looking to Keep China From Training Its AI on US Models",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/anthropic-openai-warnings-prompt-distillation-debate-in-dc",
-    "summary": "Anthropic and OpenAI’s warnings about “adversarial distillation” are reinvigorating one of the oldest debates in Silicon Valley.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T11:00:21+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Building a Foundation Stack for General-Purpose Robots",
-    "url": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-    "summary": "This article is brought to you by X Square Robot . Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has no such recipe. Robotics systems have long been assembled from separate perception, planning, and control parts that rarely add up to intelligence a robot can carry from one task to another, or one machine to another. The central problem in embodied AI is to find the equivalent recipe, and the fi",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-13T10:19:51+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Apple’s $650 Billion Rally Fueled by Traders Fleeing AI Selloff",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/apple-s-600-billion-rally-fueled-by-traders-fleeing-ai-selloff",
-    "summary": "Investors are flocking back to Apple Inc. as nervousness about artificial intelligence spending weighs on the stocks of chipmakers and cloud-computing giants.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T10:13:17+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Meta’s Louisiana Data Center to Surpass $250 Billion Price Tag",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/meta-s-louisiana-data-center-to-surpass-250-billion-price-tag",
-    "summary": "Meta Platforms Inc. has committed to spending an additional $40 billion on its sprawling data center campus in Louisiana, pushing its total expected investment beyond $250 billion for the site as it continues to grow its artificial intelligence computing footprint.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-13T09:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-13"
-  },
-  {
-    "title": "Physical AI, il salto dall’automazione alla fabbrica che apprende",
-    "url": "https://www.agendadigitale.eu/industry-4-0/physical-ai-il-salto-dallautomazione-alla-fabbrica-che-apprende/",
-    "summary": "La Physical AI porta l’intelligenza artificiale fuori dal solo linguaggio e dentro robot, sensori e fabbriche. Dai limiti dei modelli generativi alla robotica cognitiva, il salto riguarda percezione, azione, integrazione con MES, ERP e PLM, sicurezza, dati e trasformazione del lavoro L'articolo Physical AI, il salto dall’automazione alla fabbrica che apprende proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-13T09:24:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-13"
   }
 ]
