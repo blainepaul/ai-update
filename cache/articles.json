@@ -1,5 +1,265 @@
 [
   {
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21T15:37:05+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+    "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-21T15:36:43+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
+    "summary": "OpenAI Chief Executive Officer Sam Altman plans to brief the Trump administration and US lawmakers next week on the upcoming generation of artificial intelligence models as the US works to create a process to review the safety of cutting-edge AI systems, according to a senior company executive.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-21T15:35:53+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+    "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+    "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-21T15:00:20+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+    "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+    "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos. The cybersecurity model […]",
+    "source": "The Verge AI",
+    "date": "2026-07-21T11:00:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+    "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+    "summary": "Nvidia’s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company’s growing ambition to power every layer of AI infrastructure.",
+    "source": "Wired",
+    "date": "2026-07-21T15:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Nvidia Touts Progress Getting New Rubin Design to Customers",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers",
+    "summary": "Nvidia Corp., the semiconductor company at the heart of the artificial intelligence boom, said that its latest chip designs are making their way to customers and will help solidify its leadership in the industry.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-21T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21T13:27:42+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Poste-TIM, la scommessa digitale che può cambiare l’Italia, ecco perché",
+    "url": "https://www.agendadigitale.eu/infrastrutture/poste-tim-la-scommessa-digitale-che-puo-cambiare-litalia-ecco-perche/",
+    "summary": "Poste punta su TIM per creare una piattaforma nazionale tra telecomunicazioni, finanza, dati e intelligenza artificiale. L’operazione può anticipare un nuovo modello europeo, ma apre interrogativi su integrazione, governance, sinergie industriali, ruolo pubblico e capacità di innovare davvero L'articolo Poste-TIM, la scommessa digitale che può cambiare l’Italia, ecco perché proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T13:12:28+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Halliday’s latest smart glasses feature a much-improved display",
+    "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+    "summary": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the […]",
+    "source": "The Verge AI",
+    "date": "2026-07-21T09:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "OpenAI’s Agents Reach 10 Million Users After ChatGPT Work Debut",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut",
+    "summary": "OpenAI has seen a sharp uptick in demand for its artificial intelligence agents since its recent release of ChatGPT Work, providing new momentum in its bid to keep pace with rival Anthropic PBC.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-21T12:55:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
+    "url": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
+    "summary": "You open a generative AI tool expecting a quick boost. Ten minutes later, you’re still there, refining a prompt for the fourth time. The task you started with has drifted off to the side somewhere. Sound familiar? Knowledge workers in 2026 are running into this more and more. It makes sense once you look at […] The post The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-07-21T12:50:06+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Bessent Says US to Scrutinize Chinese AI Models for IP Theft",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/bessent-says-us-will-scrutinize-chinese-ai-models-for-ip-theft",
+    "summary": "Treasury Secretary Scott Bessent said the US will carefully examine open source artificial intelligence models from China for signs of intellectual property theft, amid concerns that a new wave of lower-cost Chinese competitors may sweep aside the top American models.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-21T12:29:41+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+    "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-21T12:10:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "AI Act, la prova che può salvare le imprese in caso di contestazione",
+    "url": "https://www.agendadigitale.eu/documenti/ai-act-la-prova-che-puo-salvare-le-imprese-in-caso-di-contestazione/",
+    "summary": "L’AI Act disciplina i sistemi di intelligenza artificiale ad alto rischio, ma lascia aperto il nodo della prova in giudizio. Registri tecnici, verbali consiliari e valutazioni di conformità diventano così strumenti decisivi per ricostruire le scelte dell’impresa L'articolo AI Act, la prova che può salvare le imprese in caso di contestazione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T12:08:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "China’s Low-Priced Z.ai Model Is Exposing Costly Coder Habits",
+    "url": "https://spectrum.ieee.org/ai-coding-assistant-china-anthropic",
+    "summary": "Zain Hasan , an AI engineer at Together AI , has taught himself to use AI coding assistants while still keeping an eye on cost. He directs difficult problems to a frontier model, meaning one near the current state of the art in reasoning and capability, such as Anthropic’s Fable . But if the task that Hasan is outsourcing is more straightforward, he directs it to a less capable—and less expensive—language model. Right now, the cheaper model, for him, tends to be GLM 5.2. Released on 16 June by t",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-21T12:00:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "America needs to stop getting shocked by Chinese AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+    "summary": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators declared Silicon Valley shooketh, and policymakers reached for the familiar language of arms races and wake-up calls. In one headline, The Associated Press said a […]",
+    "source": "The Verge AI",
+    "date": "2026-07-21T07:08:56-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Tesla’s Problem Is Opposite of Big Tech: Not Enough AI Spending",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/tesla-s-problem-is-opposite-of-big-tech-not-enough-ai-spending",
+    "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company to start putting its money where its mouth is.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-21T10:32:23+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Mangiare meglio con l’AI: più tempo libero e pasti personalizzati",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/mangiare-meglio-con-lai-piu-tempo-libero-e-pasti-personalizzati/",
+    "summary": "L’intelligenza artificiale entra nella preparazione dei pasti, nella ristorazione e nella gestione del benessere quotidiano. Dalla robotica in cucina alla personalizzazione nutrizionale, l’automazione trasforma tempo, salute e abitudini alimentari, aprendo nuove opportunità ma anche interrogativi sulla delega tecnologica L'articolo Mangiare meglio con l’AI: più tempo libero e pasti personalizzati proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T10:01:00+00:00",
+    "category": "healthcare",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-21T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+    "url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+    "summary": "Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker’s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations. The pharmaceutical company said it will be the first life sciences group to acquire a DGX SuperPOD based on Vera Rubin. Nvidia introduced the architecture earlier this […] The post Bristol Myers Squibb buys Nvidia AI system for drug discovery appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-07-21T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "L’hybrid cloud fully managed come alleato strategico dell’azienda",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/lhybrid-cloud-fully-managed-come-alleato-strategico-dellazienda/",
+    "summary": "L’hybrid cloud è motore di innovazione  in azienda: tra spinte normative e crescente adoption dell’intelligenza artificiale, le imprese si orientano verso modelli gestiti per superare la carenza di competenze specialistiche e concentrarsi sulle attività di business L'articolo L’hybrid cloud fully managed come alleato strategico dell’azienda proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T10:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Extended learning: apprendere facendo nell’era dell’AI",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/extended-learning-apprendere-facendo-nellera-dellai/",
+    "summary": "La trasformazione digitale e l’intelligenza artificiale stanno cambiando il modo in cui le aziende sviluppano competenze. L’extended learning propone un modello formativo basato su esperienza, collaborazione e ambienti immersivi, con applicazioni già adottate da grandi organizzazioni internazionali L'articolo Extended learning: apprendere facendo nell’era dell’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T09:55:35+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "AI nella scienza: la mappa degli strumenti per la ricerca",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-nella-scienza-la-mappa-degli-strumenti-per-la-ricerca/",
+    "summary": "Da scommessa visionaria, l'intelligenza artificiale apre nuove vie nella ricerca scientifica e nella medicina personalizzata, nelle cure su misura e nella scoperta di nuovi farmici. Ecco l'impatto dell'AI nella scienza oggi, dalla matematica alla chimica, dalle scienze dei materiali alla diagnosi istopatologica, a partire dalle sfide da affrontare L'articolo AI nella scienza: la mappa degli strumenti per la ricerca proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T09:44:27+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "L’esame che doveva mettere in crisi l’AI ora mette in crisi i ricercatori",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/lesame-che-doveva-mettere-in-crisi-lai-ora-mette-in-crisi-i-ricercatori/",
+    "summary": "Humanity's Last Exam era nato per mettere in difficoltà qualunque modello AI, ma in un anno i punteggi sono cresciuti rapidamente. Il caso apre una domanda più ampia: i benchmark statici riescono ancora a misurare davvero le capacità dell’intelligenza artificiale? L'articolo L’esame che doveva mettere in crisi l’AI ora mette in crisi i ricercatori proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T09:21:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
+    "title": "Data center in Italia, la guida completa: quanti, quali e dove sono",
+    "url": "https://www.agendadigitale.eu/infrastrutture/data-center-in-italia-la-guida-completa-quanti-quali-e-dove-sono/",
+    "summary": "Infografiche, immagini e dati restituiscono la fotografia della situazione dei data center in Italia, per capire in quali aree geografiche sono concentrati,di quante risorse si servono e come favoriscono lo sviluppo di aziende e PA italiane L'articolo Data center in Italia, la guida completa: quanti, quali e dove sono proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-21T09:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-21"
+  },
+  {
     "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
     "url": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
     "summary": "Enterprises evaluating Chinese open-weight models this month face a question that has nothing to do with benchmarks: whether using one will still be straightforward in a year. Moonshot AI’s Kimi K3 arrived on July 16 as the largest open-weight model yet released, and within days it had reopened a policy argument in Washington that had […] The post Chinese open-weight models are cheap. Washington is deciding what that costs. appeared first on AI News .",
@@ -2238,295 +2498,5 @@
     "category": "models_research",
     "_slot": "morning",
     "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-    "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-    "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-14T16:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "The Google Images homepage will recommend photos even before you search",
-    "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-    "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the […]",
-    "source": "The Verge AI",
-    "date": "2026-07-14T12:00:00-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Celebrating 25 years of visual search innovation",
-    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "summary": "Google Images logo surrounded by illustrations of people searching for different images",
-    "source": "Google AI Blog",
-    "date": "2026-07-14T16:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "How I Turned AI to the Dark Side",
-    "url": "https://spectrum.ieee.org/jailbreaking-llms",
-    "summary": "Summary Researcher Dave Kuszmar discovered multiple systemic vulnerabilities that let him bypass LLM safety and obtain dangerous instructions . These exploits worked across nearly all major LLMs revealing an industry-wide security problem. Kuszmar calls for slowing deployment, increasing transparency , and large-scale research into LLM safety before further integrating these systems into society. On a fine bright afternoon last fall, my colleague Matthew Gore-Kormanik (or Zigula, as he prefers t",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-14T15:59:35+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "AWS and Bluesight build AI for hospital 340B compliance",
-    "url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
-    "summary": "AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems, according to AWS vendor statements. Meanwhile, a multi-product agent for 340B Group Purchasing Organisation (GPO) compliance remains […] The post AWS and Bluesight build AI for hospital 340B compliance appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-14T15:54:39+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Spotify is now an AI chatbot, too",
-    "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-    "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the […]",
-    "source": "The Verge AI",
-    "date": "2026-07-14T11:47:36-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Small Amount of Nvidia AI Chips Shipped to China With US License",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-14/small-amount-of-nvidia-ai-chips-shipped-to-china-with-us-license",
-    "summary": "A small number of Nvidia Corp.’s H200 artificial intelligence chips have been shipped to customers in China after winning US approval, the Trump administration official who oversees export control programs confirmed.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T15:29:15+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "New York State halts construction of all new data centers",
-    "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-    "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-14T15:17:59+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-    "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-    "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories.  As agentic AI drives token demand […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-14T15:00:20+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Reflection inks $1B compute deal with Nebius",
-    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-    "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-14T14:37:48+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "The real AI race may no longer be at the frontier",
-    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-    "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-    "source": "TechCrunch AI",
-    "date": "2026-07-14T14:24:53+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-    "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-    "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-14T14:06:47+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Latest CPI Report Is a Huge Relief for Investors, Says Santos of JPM Asset Management",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-14/ai-spending-reshapes-tech-winners-video",
-    "summary": "Gabriela Santos, Chief Market Strategist for the Americas at JPMorgan Asset Management joined Bloomberg Open Interest to explains why the latest CPI report could keep the Fed on hold, why AI infrastructure spending is squeezing software companies and why investors should stay selective as AI stocks become more volatile. She also breaks down what upcoming tech earnings could mean for the next move in markets. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T14:04:35+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Kalshi Ramps Up Effort to Build Markets for AI Computing Power",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power",
-    "summary": "Kalshi Inc. has created a tool that plots the future price of computing power, joining the ranks of exchange and index operators attempting to build markets around the commodity powering artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T14:01:09+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Sam Altman didn’t need another lawsuit",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-    "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern […]",
-    "source": "The Verge AI",
-    "date": "2026-07-14T10:01:07-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
-    "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-    "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-14T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Farmaci e digitale, la sfida che decide il futuro competitivo dell’Ue",
-    "url": "https://www.agendadigitale.eu/sanita/farmaci-e-digitale-la-sfida-che-decide-il-futuro-competitivo-dellue/",
-    "summary": "Farmaci, sanità digitale, intelligenza artificiale e bilancio europeo diventano terreni decisivi per la competitività dell’UE. Il Rapporto Cantiere Europa+ indica rischi industriali, ritardi infrastrutturali e nodi finanziari che possono incidere su innovazione, accesso alle cure e autonomia strategica L'articolo Farmaci e digitale, la sfida che decide il futuro competitivo dell’Ue proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-14T12:26:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "The Download: Claude’s inner workings, and the future of world models",
-    "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-14T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "AI Investment Race Could Turn Debt-Fueled Boom to Bust, BIS Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-14/ai-investment-race-could-turn-debt-fueled-boom-to-bust-bis-says",
-    "summary": "The race to build infrastructure for artificial intelligence is on track to surpass previous technological booms that ended up in severe market disruptions, the Bank for International Settlements said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Bailey Says BOE Might Need to Respond If an AI Bubble Bursts",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-14/bailey-boe-might-need-to-respond-if-an-ai-bubble-bursts-video",
-    "summary": "Bank of England Governor Andrew Bailey warned that the fallout from an artificial intelligence stocks bubble bursting would reach the UK economy and could prompt a response in interest rates. He made the comments during a testimony before Parliament’s Treasury Committee. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T11:52:39+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
-    "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-    "summary": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic […]",
-    "source": "The Verge AI",
-    "date": "2026-07-14T07:43:29-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "9 Tips to Get More Out of Google Chat",
-    "url": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
-    "summary": "There’s more to Google’s messaging app than you might realize.",
-    "source": "Wired",
-    "date": "2026-07-14T11:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Nebius to Sell $1 Billion in AI Capacity to Reflection",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-14/nebius-to-sell-1-billion-in-ai-capacity-to-startup-reflection",
-    "summary": "Cloud provider Nebius Group NV agreed to sell more than $1 billion worth of computing power to Reflection AI, a developer of artificial intelligence models that was launched by two former Google DeepMind researchers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T11:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "DeepSeek Is Preparing For IPO Filing as Soon as This Year",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-14/deepseek-mulls-new-funding-weeks-after-7-billion-round-ft-says",
-    "summary": "Chinese AI pioneer DeepSeek has begun preparations for an initial public offering and may file as soon as this year, setting the stage for what could be a landmark debut for the country’s technology industry.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T10:59:20+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Open Distillation of Hereditary Traits",
-    "url": "https://www.alignmentforum.org/posts/WpYFAmJDH3zuAq2ha/open-distillation-of-hereditary-traits-1",
-    "summary": "TL;DR Josh and Neel show that distillation from a teacher model to a base pretrained student model transfers some of the teacher model’s traits (such as displaying negative emotion in the Gemma Needs Help evals) On its own this is pretty unsurprising, but Josh and Neel additionally show that even filtering out all the prompts and rollouts where the trait is mentioned doesn’t generally prevent the trait transfer In this post, I show a simple way to replicate and study these phenomena without acce",
-    "source": "AI Alignment Forum",
-    "date": "2026-07-14T10:15:03+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-    "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-    "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
-    "source": "Wired",
-    "date": "2026-07-14T10:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Studiare con l’IA, l’esperienza dell’Istituto Zaccagnini",
-    "url": "https://www.agendadigitale.eu/scuola-digitale/studiare-con-lia-lesperienza-dellistituto-zaccagnini/",
-    "summary": "L’Istituto Zaccagnini ha adottato una piattaforma di intelligenza artificiale personalizzata per affiancare tutoring e coaching online. Il sistema, basato su fonti e lessico dei docenti, punta sull’apprendimento attivo e sui feedback, evitando l’uso dell’IA come scorciatoia per i compiti L'articolo Studiare con l’IA, l’esperienza dell’Istituto Zaccagnini proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-14T09:13:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "New York becomes the first state to enact a data center moratorium",
-    "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-    "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data […]",
-    "source": "The Verge AI",
-    "date": "2026-07-14T05:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
-  },
-  {
-    "title": "Philippine Outsourcing Group Cuts Revenue and Jobs Forecasts on AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-14/philippine-outsourcing-group-cuts-revenue-jobs-forecasts-on-ai",
-    "summary": "The Philippines’ main business-process outsourcing group cut its industry revenue and job forecasts — and even warned of possible shrinking future business — with the emergence of artificial intelligence, shifting geopolitical conditions and increased competition.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-14T08:53:55+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-14"
   }
 ]
