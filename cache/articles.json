@@ -1,5 +1,265 @@
 [
   {
+    "title": "AI Teammates: how monday.com runs production AI agents on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
+    "summary": "AI Teammates are agentic AI on Amazon Bedrock, and few engineering organizations run them in production at the scale that monday.com does. Nine in ten Builders use AI coding tools every month, up from roughly half a year ago. Per-engineer PR throughput is up by more than half. Every figure in this post comes from monday’s own internal production data. In this post, we share the architecture behind those numbers, the retrofits that made it work in a decade-old code base, and the confidence-scored",
+    "source": "AWS ML Blog",
+    "date": "2026-07-22T15:54:28+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "White House Official Says Moonshot Accessed Banned Nvidia Chips",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/white-house-official-says-moonshot-accessed-banned-nvidia-chips",
+    "summary": "A White House official accused China’s Moonshot of improperly using US AI models and Nvidia Corp. chips to create the Kimi K3 system that stunned the tech industry last week with its advanced capabilities.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-22T15:45:47+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "AMD commits up to $5 billion to  Anthropic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
+    "source": "The Verge AI",
+    "date": "2026-07-22T10:44:27-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Infrastrutture digitali, quale strategia per sostenere l’innovazione",
+    "url": "https://www.agendadigitale.eu/documenti/infrastrutture-digitali-quale-strategia-per-sostenere-linnovazione/",
+    "summary": "Il nuovo paper di Anitec-Assinform mette al centro il ruolo delle infrastrutture digitali nello sviluppo di intelligenza artificiale, IoT, digital twin e quantum computing. Data center, reti, cloud, edge e competenze diventano asset strategici per competitività, investimenti e autonomia tecnologica del Paese L'articolo Infrastrutture digitali, quale strategia per sostenere l’innovazione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T14:40:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Apple to Launch New MacBook Air, iMac, MacBook Pro, Neo, Mac Mini, Mac Studio",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio",
+    "summary": "Apple Inc. is readying an overhaul of its Mac line, seeking to capitalize on demand for powerful laptops and desktops fueled by the artificial intelligence boom.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-22T14:30:12+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Open models recap: more on Kimi K3, Qwen 3.8, Xi's WAIC speech, distillation, the open-closed gap, and what's next",
+    "url": "https://www.interconnects.ai/p/open-models-recap-more-on-kimi-k3",
+    "summary": "A podcast with Florian Brand.",
+    "source": "Interconnects",
+    "date": "2026-07-22T14:09:04+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Contenuti AI, c’è responsabilità editoriale: la svolta parte dalla Germania",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-overview-e-perplexity-editori-la-decisione-tedesca-che-puo-cambiare-il-web/",
+    "summary": "La decisione della Zak tedesca su Google AI Overview e Perplexity AI apre un fronte decisivo: i contenuti di attualità generati dall’intelligenza artificiale possono essere considerati editoriali. Una qualificazione che incide su responsabilità, concorrenza, copyright, traffico agli editori e pluralismo democratico L'articolo Contenuti AI, c’è responsabilità editoriale: la svolta parte dalla Germania proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T13:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22T13:20:35+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "AI Act, obblighi dal 2 agosto: come adeguarsi",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-obblighi-dal-2-agosto-come-adeguarsi/",
+    "summary": "Dal 2 agosto scattano per le aziende gli obblighi di trasparenza dell’AI Act su chatbot, deepfake, sistemi biometrici, testi generati con AI e strumenti rivolti al pubblico. Altri obblighi scattano a dicembre, nel 2027 e 2028. Per pmi e imprese diventa decisivo mappare gli usi, formare il personale e adottare policy interne. Ecco come adeguarsi L'articolo AI Act, obblighi dal 2 agosto: come adeguarsi proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T13:09:39+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "OpenAI Plans to Spend Over $30 Billion on Georgia Data Center",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/openai-plans-to-spend-over-30-billion-on-georgia-data-center",
+    "summary": "OpenAI plans to spend tens of billions of dollars on a massive new data center near Savannah, Georgia as part of the ChatGPT maker’s push to keep up with surging demand for artificial intelligence software.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-22T13:00:23+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+    "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+    "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on schedule. That creates one of […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-22T13:00:11+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22T13:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "source": "OpenAI Blog",
+    "date": "2026-07-22T13:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "summary": "Gentle Monster glasses, Warby Parker glasses, a prompt asking for the history behind a pictured building, and a prompt asking to book a table at a pictured restaurant",
+    "source": "Google AI Blog",
+    "date": "2026-07-22T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "AI nell’HR: il confine tra selezione efficiente e discriminazione",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/ai-nellhr-il-confine-tra-selezione-efficiente-e-discriminazione/",
+    "summary": "L’Intelligenza Artificiale sta trasformando il reclutamento, dalla selezione dei CV ai colloqui automatizzati. Gli algoritmi promettono efficienza, ma possono replicare bias, uniformare i criteri di valutazione e ridurre la trasparenza per i candidati L'articolo AI nell’HR: il confine tra selezione efficiente e discriminazione proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T12:26:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…",
+    "source": "MIT Tech Review",
+    "date": "2026-07-22T12:10:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "source": "OpenAI Blog",
+    "date": "2026-07-22T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Art. 50 AI Act, la trasparenza diventa operativa: cosa cambia dal 2 agosto",
+    "url": "https://www.agendadigitale.eu/sicurezza/art-50-ai-act-la-trasparenza-diventa-operativa-cosa-cambia-dal-2-agosto/",
+    "summary": "La Commissione europea ha approvato le Linee guida definitive sull’art. 50 AI Act. Gli obblighi di trasparenza riguardano sistemi interattivi, contenuti sintetici, deep fake, testi di interesse pubblico e ruoli di provider e deployer, con scadenze operative dal 2 agosto 2026 L'articolo Art. 50 AI Act, la trasparenza diventa operativa: cosa cambia dal 2 agosto proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T11:59:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Magnifica Humanitas, perché l’AI diventa una questione di civiltà",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/magnifica-humanitas-perche-lai-diventa-una-questione-di-civilta/",
+    "summary": "L’enciclica Magnifica Humanitas di Papa Leone XIV affronta l’intelligenza artificiale come questione antropologica, sociale e politica, richiamando dignità umana, bene comune, Dottrina sociale della Chiesa e responsabilità pubblica davanti al rischio di un potere tecnologico opaco e disumanizzante L'articolo Magnifica Humanitas, perché l’AI diventa una questione di civiltà proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T11:50:50+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Il futuro promesso dall’IA è davvero un futuro per i giovani?",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/il-futuro-promesso-dallia-e-davvero-un-futuro-per-i-giovani/",
+    "summary": "Giovani, intelligenza artificiale e lavoro cognitivo sono al centro di una riflessione critica sul sistema tecnico, tra crisi del limite, principio responsabilità e il racconto distopico di Forster sulla dipendenza dell’uomo dalla Macchina L'articolo Il futuro promesso dall’IA è davvero un futuro per i giovani? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T11:26:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+    "url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+    "summary": "SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China. In a keynote titled ‘Intelligent Transformation and Symbiosis,’ Yang Fan – the company’s co-founder and president of its Large Device Business Group – laid out what SenseTime describes as a closed loop connecting chip-level technology, ecosystem […] The post SenseTime’s Galaxy Project targets domestic AI chip scale-up appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-07-22T11:21:05+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Meta made its own AI detection system. It should have just used Google’s",
+    "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+    "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But […]",
+    "source": "The Verge AI",
+    "date": "2026-07-22T07:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "GAINAfrica, il progetto italiano che porta l’AI europea in Africa",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/gainafrica-il-progetto-italiano-che-porta-lai-europea-in-africa/",
+    "summary": "Le supply chain tecnologiche sono diventate un terreno di confronto geopolitico, con l’intelligenza artificiale al centro. Tra Stati Uniti, Cina ed Europa, il progetto GAINAfrica mostra una possibile via europea basata su modelli specializzati, cooperazione tecnologica, responsabilità normativa e autonomia strategica L'articolo GAINAfrica, il progetto italiano che porta l’AI europea in Africa proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-22T10:50:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "OpenAI and Hugging Face Hacking Incident Highlights Growing AI Risk",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-22/openai-and-hugging-face-hacking-incident-highlights-growing-ai-risk",
+    "summary": "OpenAI says the AI went to “extreme lengths”",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-22T10:35:26+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Utility companies promise to spare us from AI’s energy bill",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+    "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it. The Wall Street Journal reports that nearly 200 organizations have signed President Donald Trump's \"rate payer protection pledge\" that's meant to […]",
+    "source": "The Verge AI",
+    "date": "2026-07-22T06:12:13-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-22T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-22"
+  },
+  {
     "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
     "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
     "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
@@ -2448,185 +2708,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "OpenAI finally launches hardware… for Codex",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, […]",
-    "source": "The Verge AI",
-    "date": "2026-07-15T12:00:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-15T15:29:33+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-    "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others.   On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Ode’s leaders Chris Taylor and Eddie Siegel, who founded Fractional AI, […]",
-    "source": "TechCrunch AI",
-    "date": "2026-07-15T15:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "New York becomes first U.S. state to impose AI data center ban",
-    "url": "https://www.cnbc.com/2026/07/14/new-york-ai-data-center-ban.html",
-    "summary": "",
-    "source": "Reddit r/singularity",
-    "date": "2026-07-15T14:28:37+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-15T13:10:47+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "This AI Folds DNA Into Mini Masterpieces",
-    "url": "https://spectrum.ieee.org/ai-dna-origami",
-    "summary": "Shaped like dogs, stars, and the Mona Lisa, you could mistake these DNA structures for fun-shaped macaroni if they weren’t only nanometers wide. South Korean scientists made the constructions using a technique called DNA origami , which can bend genetic material into any form. Designing DNA strands so they’ll fold into a specific shape typically requires tedious manual work, but the researchers behind the playful fabrications have developed a shortcut using generative AI. The AI model, called Ge",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-07-15T13:00:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-15T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-    "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-    "summary": "Rime is handling over 100 million calls each month across multiple companies.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-15T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Mondiali 2026, la cybersicurezza entra nel campo del calcio globale",
-    "url": "https://www.agendadigitale.eu/sicurezza/mondiali-2026-la-cybersicurezza-entra-nel-campo-del-calcio-globale/",
-    "summary": "Il Mondiale 2026 mette il calcio davanti a una superficie d’attacco senza precedenti. Tra supply chain digitale, dati biometrici degli atleti, sistemi di intelligenza artificiale e standard di resilienza, il torneo mostra come lo sport professionistico possa funzionare come infrastruttura critica di fatto L'articolo Mondiali 2026, la cybersicurezza entra nel campo del calcio globale proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-15T12:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "AI in banca e sanità: non basta che funzioni, deve anche spiegarsi",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/ai-in-banca-e-sanita-non-basta-che-funzioni-deve-anche-spiegarsi/",
-    "summary": "L’adozione dell’intelligenza artificiale nei settori regolamentati impone nuovi standard di trasparenza, auditabilità e controllo umano. Banking e sanità diventano il banco di prova della governance dell’AI, tra AI Act, risk management, explainability e necessità di decisioni verificabili L'articolo AI in banca e sanità: non basta che funzioni, deve anche spiegarsi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-15T12:17:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-    "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-15T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-    "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-15T12:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-    "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-    "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
-    "source": "Wired",
-    "date": "2026-07-15T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "pagoPA aiuta i Comuni a incassare di più: ecco cosa dicono i dati",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/pagopa-aiuta-i-comuni-a-incassare-di-piu-ecco-cosa-dicono-i-dati/",
-    "summary": "Uno studio econometrico di PagoPA e Ragioneria Generale dello Stato misura l’effetto della piattaforma sui bilanci comunali. L’adozione di pagoPA ha aumentato la capacità di riscossione, sbloccato risorse aggiuntive e ridotto alcuni divari tra amministrazioni locali, soprattutto nei servizi a domanda individuale L'articolo pagoPA aiuta i Comuni a incassare di più: ecco cosa dicono i dati proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-15T11:45:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Dal VHS ai deepfake, quando l’eros è laboratorio di innovazione",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/dal-vhs-ai-deepfake-quando-leros-e-laboratorio-di-innovazione/",
-    "summary": "L’industria dei contenuti per adulti ha spesso anticipato l’adozione di nuove tecnologie. Con l’AI generativa emergono immagini sintetiche, chatbot erotici, video personalizzati e strumenti d’abuso, mentre i primi studi descrivono effetti psicologici, rischi sociali e violenza non consensuale L'articolo Dal VHS ai deepfake, quando l’eros è laboratorio di innovazione proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-15T11:00:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-    "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-    "summary": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its partners in Japan are this week showcasing the AI ecosystem’s latest advancements. Check back here for updates.   NVIDIA and SEGA Celebrate 30 Years of […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-15T10:51:37+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "Copyright e AI, il modello giapponese divide autori e governo",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/copyright-e-ai-il-modello-giapponese-divide-autori-e-governo/",
-    "summary": "Il Giappone ha adottato una disciplina sul copyright considerata favorevole al machine learning, consentendo l’uso tecnico delle opere per l’addestramento dell’IA. L’art. 30-4 prevede però limiti, salvaguardie per gli autori e zone d’ombra applicative L'articolo Copyright e AI, il modello giapponese divide autori e governo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-15T10:21:52+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
-  },
-  {
-    "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-    "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-    "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-    "source": "Wired",
-    "date": "2026-07-15T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-15"
   }
 ]
