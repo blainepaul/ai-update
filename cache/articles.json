@@ -1,5 +1,95 @@
 [
   {
+    "title": "Nvidia is sending GPUs to the moon",
+    "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T15:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "Google’s Gemini nears billion-user milestone",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "summary": "Gemini had over 750 million monthly users in February.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T14:52:44+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of […]",
+    "source": "The Verge AI",
+    "date": "2026-07-23T10:13:35-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+    "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a number of ex-Apple employees at […]",
+    "source": "The Verge AI",
+    "date": "2026-07-23T10:00:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "Perché Mythos di Anthropic interessa ai servizi di intelligence",
+    "url": "https://www.agendadigitale.eu/sicurezza/perche-mythos-di-anthropic-interessa-ai-servizi-di-intelligence/",
+    "summary": "Mythos di Anthropic apre una nuova fase nell’uso dell’intelligenza artificiale per cybersecurity, intelligence e sicurezza nazionale. L'obiettivo è accelerare l’individuazione di vulnerabilità, anticipare attacchi e ridefinire il rapporto tra analisti, infrastrutture digitali e competizione geopolitica L'articolo Perché Mythos di Anthropic interessa ai servizi di intelligence proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-23T13:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "NASA Puts Google’s Gemma Large Language Model in Orbit",
+    "url": "https://spectrum.ieee.org/nasa-ai-satellite-image-analysis",
+    "summary": "The viability of orbital data centers hosting the largest and most capable large language models (LLMs) remains hotly contested. But enormous deployments that require thousands of GPUs aren’t the only way LLMs might prove useful in space. NASA’s Jet Propulsion Laboratory recently sent Google’s Gemma 3 to space, achieving the first in-orbit demonstration of a vision-language model analyzing imagery from a satellite’s own sensor. The system, known as NAVI-Orbital, used Gemma 3 to analyze images ca",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-07-23T13:00:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+    "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+    "summary": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their community. There was no immediate threat - the Hernando County commission had unanimously approved a one-year moratorium on such developments in June […]",
+    "source": "The Verge AI",
+    "date": "2026-07-23T08:00:00-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
+    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+    "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+    "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-07-23"
+  },
+  {
     "title": "Vivere più a lungo e meglio: la promessa della longevità digitale",
     "url": "https://www.agendadigitale.eu/sanita/vivere-piu-a-lungo-e-meglio-la-promessa-della-longevita-digitale/",
     "summary": "La longevità digitale sposta il baricentro della medicina dalla cura alla prevenzione, grazie a wearable, sensori, intelligenza artificiale e dati sanitari continui. Opportunità e rischi riguardano diagnosi precoce, autonomia degli anziani, sostenibilità dei sistemi sanitari ed equilibrio tra empowerment e controllo L'articolo Vivere più a lungo e meglio: la promessa della longevità digitale proviene da Agenda Digitale .",
@@ -2468,245 +2558,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-07-16T16:01:21+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Google’s AI Mode now lets you link and interact with select apps",
-    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T16:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Google is renaming NotebookLM to Gemini Notebook",
-    "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-    "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing […]",
-    "source": "The Verge AI",
-    "date": "2026-07-16T12:00:00-04:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Why teens deserve access to safe AI",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "source": "OpenAI Blog",
-    "date": "2026-07-16T16:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Connect more of your apps to Search",
-    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "summary": "Connected apps rendering",
-    "source": "Google AI Blog",
-    "date": "2026-07-16T16:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Create, edit and star in videos with two Google Vids updates",
-    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images",
-    "source": "Google AI Blog",
-    "date": "2026-07-16T16:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Building a restaurant telephony AI host with Amazon Bedrock AgentCore and Amazon Nova 2 Sonic",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-a-restaurant-telephony-ai-host-with-amazon-bedrock-agentcore-and-amazon-nova-2-sonic/",
-    "summary": "In this post, we show you how to build a voice ordering system that answers a phone number and takes the order from greeting to confirmation. The system uses Amazon Bedrock AgentCore to host and run the agent and Amazon Nova 2 Sonic for real-time speech, connected to a restaurant backend through the Model Context Protocol (MCP). The walkthrough covers deploying the full stack with AWS Cloud Development Kit (AWS CDK) and bridging a phone call into the agent through a Session Initiation Protocol (",
-    "source": "AWS ML Blog",
-    "date": "2026-07-16T15:50:52+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Yes, you can now order DoorDash from the command line",
-    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T15:38:55+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Why is OpenAI selling a ChatGPT basketball?",
-    "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-    "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T15:31:09+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "China-Led AI Body Enlists Global South States to Rival US",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/china-led-ai-body-enlists-global-south-states-to-rival-us",
-    "summary": "Twenty-nine countries including Russia have signed up to join the China-led World Artificial Intelligence Cooperation Organization, as Beijing’s plan to jostle with the US for influence over the emergence of artificial intelligence begins to take shape.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-16T15:28:02+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-    "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T15:02:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-    "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-    "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T14:40:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-    "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-    "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T14:26:29+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-    "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T13:17:59+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Claude can now use your 1Password credentials for you",
-    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-    "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login […]",
-    "source": "The Verge AI",
-    "date": "2026-07-16T09:00:00-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Travel Agency Platform Fora Valued at $1 Billion in New Funding",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/travel-agency-platform-fora-valued-at-1-billion-in-new-funding",
-    "summary": "Fora, an online platform for travel agents, has raised $60 million in funding at a $1 billion valuation, with the goal of adding artificial intelligence tools to help travel advisers accelerate their businesses.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-16T13:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-    "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
-    "source": "MIT Tech Review",
-    "date": "2026-07-16T12:10:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Google ordered to open Android and Search to rivals in Europe",
-    "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-    "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have […]",
-    "source": "The Verge AI",
-    "date": "2026-07-16T08:06:51-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Google Must Give Gemini Rivals Equal Access to Android System, EU Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/google-must-give-gemini-rivals-equal-access-to-android-system-eu-says",
-    "summary": "Google faces a European Union directive to open up its Android operating system to artificial intelligence rivals for certain features and give search data to competing online engine providers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-16T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Newer Models, Same Advantage",
-    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-07-16T11:49:48+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Computer cops",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-    "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me […]",
-    "source": "The Verge AI",
-    "date": "2026-07-16T07:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Please Stop Making Me Opt Out of AI",
-    "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
-    "summary": "I’m sick of “opt-out” toggles for automatically enabled generative AI features. It’s past time to make “opt in” the default setting for sensitive features.",
-    "source": "Wired",
-    "date": "2026-07-16T10:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Atlas Copco Orders Soar on Momentum in Chipmaking-Exposed Unit",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/atlas-copco-orders-soar-on-momentum-in-chipmaking-exposed-unit",
-    "summary": "Atlas Copco AB’s orders blew past expectations on growing momentum at its chipmaking-exposed business, cementing the Swedish industrial company’s spot as a key beneficiary of the artificial intelligence boom.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-16T09:39:29+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
-  },
-  {
-    "title": "Neko Health raises $700 million to expand AI body scans in the US",
-    "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-    "summary": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by Lightspeed Venture Partners and co-led by O.G. Venture Partners. Existing […] The post Neko Health raises $700 million to expand AI body scans in the US appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-16T09:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-07-16"
   }
 ]
