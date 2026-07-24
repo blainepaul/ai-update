@@ -1,5 +1,275 @@
 [
   {
+    "title": "Parlare con un chatbot non è terapia: il nodo etico dell’IA nella salute mentale",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/parlare-con-un-chatbot-non-e-terapia-il-nodo-etico-dellia-nella-salute-mentale/",
+    "summary": "I chatbot basati su IA sono sempre più usati per confidarsi e cercare aiuto psicologico. Ma la loro tendenza ad assecondare l’utente può rafforzare fragilità, bias e idee pericolose, aprendo interrogativi clinici, etici e normativi L'articolo Parlare con un chatbot non è terapia: il nodo etico dell’IA nella salute mentale proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-24T07:54:00+00:00",
+    "category": "healthcare",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Intelligenza artificiale in sanità: dove sta funzionando davvero",
+    "url": "https://www.agendadigitale.eu/sanita/intelligenza-artificiale-in-sanita-dove-sta-funzionando-davvero/",
+    "summary": "Chatbot, modelli predittivi, process mining e algoritmi per sale operatorie stanno trasformando la gestione delle aziende sanitarie italiane. L’intelligenza artificiale entra nei processi organizzativi, alleggerisce il lavoro amministrativo, migliora l’accesso ai servizi e sostiene la programmazione del Servizio sanitario nazionale L'articolo Intelligenza artificiale in sanità: dove sta funzionando davvero proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-07-24T06:45:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+    "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+    "summary": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-07-24T04:34:27+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-24T01:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Top Environmental Fund Sees Japan Key to AI Energy Challenge",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
+    "summary": "Asia’s best-performing environmental fund has increased exposure to Japan as it expects the nation’s technology sector to prove increasingly pivotal in solving the artificial intelligence industry’s surging power demands.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-24T00:04:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Best practices for applying Amazon Bedrock Guardrails to code generation workflows",
+    "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+    "summary": "In this post, we explain how Amazon Bedrock Guardrails can be configured for code generation workflows with coding assistants to overcome these constraints. With these best practices, you can build an efficient blueprint helping you with effective capacity planning with robust safety coverage.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-23T23:03:44+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Nvidia Signs $1.5 Billion Accord With Amkor for Chip Packaging",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging",
+    "summary": "Nvidia Corp. signed a $1.5 billion agreement with Amkor Technology Inc. to help bolster the company’s chip packaging facilities, part of a broader push to expand semiconductor operations in the US.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-23T21:27:05+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to […]",
+    "source": "The Verge AI",
+    "date": "2026-07-23T17:15:06-04:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T20:33:02+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "SAP Cloud Growth Beats Estimates as Customer Orders Speed Up",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff",
+    "summary": "SAP SE reported better-than-expected sales for its cloud products after pushing enterprise customers to upgrade systems at a faster pace and adopt a suite of artificial intelligence products.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-23T20:09:53+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion",
+    "summary": "The value of Alphabet Inc.’s stake in the artificial intelligence startup Anthropic PBC has soared to around $124 billion, making it one of the most lucrative bets in the company’s history.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-23T19:53:35+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T19:00:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]",
+    "source": "The Verge AI",
+    "date": "2026-07-23T15:00:00-04:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T18:38:34+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Patreon is laying off 20 percent of workers",
+    "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, […]",
+    "source": "The Verge AI",
+    "date": "2026-07-23T14:20:30-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Challenge: Hand coding weights for efficient sequence memorisation",
+    "url": "https://www.alignmentforum.org/posts/KWtchKwwnJkd4bwCi/challenge-hand-coding-weights-for-efficient-sequence-1",
+    "summary": "We hand coded weights for one layer MLPs that memorises labels for input token sequences of length two. The number of facts our hand-coded models can memorise with 90% accuracy [1] scales roughly linearly with the models' parameter count [2] , just like trained models for the same architecture. However, our hand-coded models' scaling prefactor still falls short of trained models' by a factor of . A hybrid solution in which we handcode the MLP input weights and learn the MLP output weights, which",
+    "source": "AI Alignment Forum",
+    "date": "2026-07-23T18:05:43+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "summary": "The Summer 2026 Edition",
+    "source": "One Useful Thing",
+    "date": "2026-07-23T18:05:24+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T17:07:35+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Evaluating AI Agents: A production blueprint with Strands and AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-a-production-blueprint-with-strands-and-agentcore/",
+    "summary": "Together, Motorway and AWS built an end-to-end evaluation pipeline that reduced incorrect results from 1 in 8 queries to 1 in 50 and cut issue detection time from few hours to few minutes. The pipeline combines the Strands Agents SDK with Amazon Bedrock AgentCore, a fully managed service for deploying and operating AI agents at scale. In this post, you will learn how to build this pipeline for your own agents.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-23T17:00:20+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T17:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+    "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
+    "source": "The Verge AI",
+    "date": "2026-07-23T13:00:00-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "AMD Unveils New Products in Pursuit of $2 Trillion Market",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-23/amd-unveils-new-products-in-pursuit-of-2-trillion-opportunity",
+    "summary": "Advanced Micro Devices Inc. announced a raft of new products for data centers that it said will outperform those from rival Nvidia Corp., aiming to make gains in a booming market for artificial intelligence computing.",
+    "source": "Bloomberg Tech",
+    "date": "2026-07-23T16:56:05+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Building trade assistant: How Jefferies optimized front office trading operations with AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-trade-assistant-how-jefferies-optimized-front-office-trading-operations-with-ai/",
+    "summary": "In this post, we explore how Jefferies overcame these challenges with a solution built on Strands Agents, an agent harness SDK for building AI agents that can reason, plan, and act by orchestrating calls to foundation models (FMs) and external tools. The solution uses large language models (LLMs), Amazon Bedrock, and Amazon Bedrock Knowledge Bases. It also uses Model Context Protocol (MCP), an open standard that helps AI agents securely connect to diverse data sources and tools through a unified",
+    "source": "AWS ML Blog",
+    "date": "2026-07-23T16:42:54+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Building multi-Region visualizations with Highcharts in Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-multi-region-visualizations-with-highcharts-in-amazon-quick/",
+    "summary": "This post shows you how to build multi-Region carrier performance dashboards in Quick Sight using Highcharts custom visualizations to overcome native chart limitations. You will learn how to maintain data sovereignty across AWS Regions while creating unified visualizations through the Quick Sight federated dataset capability. The solution includes production-ready chart configurations and addresses security, compliance, and scalability requirements.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-23T16:40:59+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
+    "url": "https://aws.amazon.com/blogs/machine-learning/detecting-silent-agent-failures-with-amazon-bedrock-agentcore-optimization/",
+    "summary": "Amazon Bedrock AgentCore optimization surfaces silent behavioral failures in production AI agents: the ones that pass every health check but still deliver wrong outcomes. Learn how insights discovers, explains, and ranks failure patterns across sessions so you can fix the highest-impact issues first.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-23T16:38:34+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Agentic retrieval for Amazon Bedrock Managed Knowledge Base",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-for-amazon-bedrock-managed-knowledge-base/",
+    "summary": "This post focuses on why classic retrieval falls short on multi-part questions, how the AgenticRetrieveStream API works (including request construction and trace parsing), and when to choose it over the standard Retrieve API.",
+    "source": "AWS ML Blog",
+    "date": "2026-07-23T16:30:20+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+    "source": "TechCrunch AI",
+    "date": "2026-07-23T16:28:50+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-07-24"
+  },
+  {
     "title": "Nvidia is sending GPUs to the moon",
     "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
     "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
@@ -2277,286 +2547,6 @@
     "date": "2026-07-17T09:56:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "AI nelle aziende italiane: adozione alta, governo fragile",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-nelle-aziende-italiane-adozione-alta-governo-fragile/",
-    "summary": "Il management italiano usa già l’intelligenza artificiale, ma solo una minoranza di organizzazioni ha costruito regole, ruoli e processi per governarla. L’AI Management Index 2026 fotografa un Paese in movimento, con competenze ancora fragili e una sfida decisiva sulla responsabilità L'articolo AI nelle aziende italiane: adozione alta, governo fragile proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T07:52:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Intelligenza artificiale e diritto: meno complessità, più qualità",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/intelligenza-artificiale-e-diritto-meno-complessita-piu-qualita/",
-    "summary": "L’intelligenza artificiale può aiutare cittadini, imprese e professionisti a orientarsi in un diritto sempre più complesso. Ma il rischio è che diventi una scusa per accettare norme opache, invece di spingere il legislatore verso leggi più chiare, leggibili e umane L'articolo Intelligenza artificiale e diritto: meno complessità, più qualità proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T07:33:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Intelligenza artificiale nelle aule: usarla senza farsi usare",
-    "url": "https://www.agendadigitale.eu/scuola-digitale/intelligenza-artificiale-nelle-aule-usarla-senza-farsi-usare/",
-    "summary": "L’intelligenza artificiale è ormai entrata nelle aule e nelle relazioni educative. Dalle parole degli studenti emergono opportunità, rischi e domande scomode per adulti, docenti e genitori: non solo come usare l’IA, ma cosa preservare di umano nella scuola L'articolo Intelligenza artificiale nelle aule: usarla senza farsi usare proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T07:15:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "China’s Powerful New Moonshot AI Model Closes Gap With US Rivals",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
-    "summary": "Chinese AI pioneer Moonshot touted a model that performs on par with some of the top-tier platforms from OpenAI and Anthropic PBC, the latest sign that the Asian country’s artificial intelligence labs are closing a technology gap with the US.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T07:01:58+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "GenAI in sanità: dove crea valore e dove resta promessa",
-    "url": "https://www.agendadigitale.eu/sanita/genai-in-sanita-dove-crea-valore-e-dove-resta-promessa/",
-    "summary": "La Generative AI entra nella sanità digitale tra aspettative elevate, sperimentazioni ancora immature e casi d’uso più solidi su dati clinici, interfacce, ambient listening e conoscenza medica. Il nodo resta distinguere valore reale, sostenibilità, certificazione e governo dell’hype L'articolo GenAI in sanità: dove crea valore e dove resta promessa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-17T06:58:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Z.AI Set to Be First China AI Firm With $1 Billion Annual Sales",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
-    "summary": "Z.AI is on track for annual recurring revenue of $1 billion, a significant ramp-up for an enterprise-focused AI startup trying to fend off a host of rivals in an intensely competitive Chinese field.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T06:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Xi Promises AI for All in Debut at China’s Top Tech Summit",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/xi-vows-to-make-ai-for-all-in-debut-at-china-s-top-tech-summit",
-    "summary": "President Xi Jinping hailed China’s progress in developing low-cost artificial intelligence, pressing his personal imprint on the country’s rapidly expanding global influence to call for a more open technological order.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T02:43:05+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih",
-    "summary": "Japan’s Nikkei 225 Stock Average tumbled to close more than 10% below its June 25 peak, a move termed as a technical correction, amid concerns the global artificial intelligence rally may be stretched.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T00:52:20+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "DeepSeek Champions China’s Bid to Flood the World With Cheap AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/deepseek-champions-china-s-bid-to-flood-the-world-with-cheap-ai",
-    "summary": "On a video conference call from Hangzhou earlier this year, one of China’s hottest startups held a four-hour pitch meeting with potential venture investors that was unusual by almost any measure. Only two representatives per institution were allowed. The majority of those present were getting a glimpse of the company’s leader for the very first time.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-17T00:36:10+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Xi Seeks Global AI Sway as Chinese Models Spur Security Alarm",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma",
-    "summary": "President Xi Jinping used the rise of China’s AI models to stake his claim on shaping the technology’s global rules, even as their growing power stirs security alarms in Washington and Beijing alike.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-16T23:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-    "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-    "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
-    "source": "Wired",
-    "date": "2026-07-16T22:17:27+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Build enterprise search for agents with Amazon Bedrock Managed Knowledge Base",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
-    "summary": "In this post, we walk through the three pillars that make this possible: simplified setup, smarter retrieval, and production readiness. We also show you code examples for setting up a knowledge base and retrieving from it.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-16T21:29:14+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed",
-    "url": "https://www.wired.com/story/wildfire-smoke-safety-guide/",
-    "summary": "As wildfire smoke threatens air quality and safety for millions, here’s your playbook to keep your family safe from the damaging effects of smoke.",
-    "source": "Wired",
-    "date": "2026-07-16T20:41:10+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models",
-    "summary": "Earlier this week, Google DeepMind Chief Executive Officer Demis Hassabis unveiled a proposal for a new international watchdog that would do “rigorous” tests and reviews of cutting-edge AI models before release.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-16T20:17:36+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "DeepMind CEO Rallies Support for International Group to Vet AI Models",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/deepmind-ceo-rallies-support-for-international-group-to-vet-ai-models",
-    "summary": "Demis Hassabis intends to hold meetings about his proposal with US policymakers.",
-    "source": "Bloomberg Tech",
-    "date": "2026-07-16T20:13:40+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Introducing Grok on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-grok-on-amazon-bedrock/",
-    "summary": "This post covers what makes Grok 4.3 a great fit for agentic and enterprise workloads, how you access it through Amazon Bedrock, and how to use the capabilities most teams reach for first: a basic chat request, configurable reasoning effort, tool calling, structured output, image input, and stateful multi-turn conversations.",
-    "source": "AWS ML Blog",
-    "date": "2026-07-16T19:29:26+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-    "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today; a majority intend to switch or add providers within the year, many within a quarter. Buying decisions turn on integration and total cost of ownership rather than headline token price — which is fortuna",
-    "source": "VentureBeat AI",
-    "date": "2026-07-16T19:16:48+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-    "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agen",
-    "source": "VentureBeat AI",
-    "date": "2026-07-16T19:02:38+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-    "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-    "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-    "source": "Wired",
-    "date": "2026-07-16T18:35:18+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Google Vids now lets you star in your own AI videos",
-    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T18:32:54+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-    "source": "TechCrunch AI",
-    "date": "2026-07-16T18:22:06+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-    "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated […]",
-    "source": "The Verge AI",
-    "date": "2026-07-16T13:58:37-04:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Intelligenza artificiale, la via per la sovranità secondo l’AI Office",
-    "url": "https://www.agendadigitale.eu/infrastrutture/intelligenza-artificiale-la-via-per-la-sovranita-secondo-lai-office/",
-    "summary": "Il primo European Expert Forum on Frontier AI dell’AI Office fotografa con dati il ritardo europeo nell’intelligenza artificiale di frontiera. Dal compute ai capitali, fino all'accesso ai modelli, il rapporto individua le debolezze dell'UE e propone una strategia fondata su infrastrutture, sovranità digitale e alleanze internazionali L'articolo Intelligenza artificiale, la via per la sovranità secondo l’AI Office proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-07-16T17:10:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-    "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fi",
-    "source": "VentureBeat AI",
-    "date": "2026-07-16T17:06:08+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "EU forces Google to share its toys with the other AI and search kids",
-    "url": "https://www.theregister.com/software/2026/07/16/eu-forces-google-to-share-its-toys-with-the-other-ai-and-search-kids/5273819",
-    "summary": "The Chocolate Factory is not amused",
-    "source": "The Register AI",
-    "date": "2026-07-16T18:48:41+02:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "Examining Google DeepMind’s AI bioresilience push",
-    "url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-    "summary": "Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joint initiative that began quietly and has now built out more than 15 partnerships with government bodies, biosecurity organisations, and research groups over the past 12 months. The […] The post Examining Google DeepMind’s AI bioresilience push appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-07-16T16:48:23+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-    "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to prod",
-    "source": "VentureBeat AI",
-    "date": "2026-07-16T16:40:48+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-07-17"
-  },
-  {
-    "title": "AI vendors have found someone to pay their infrastructure bills: You",
-    "url": "https://www.theregister.com/software/2026/07/16/ai-vendors-have-found-someone-to-pay-their-infrastructure-bills-you/5273712",
-    "summary": "Forrester warns price hikes and usage charges will pump up software budgets next year",
-    "source": "The Register AI",
-    "date": "2026-07-16T18:21:00+02:00",
-    "category": "other",
-    "_slot": "morning",
     "_slot_date": "2026-07-17"
   }
 ]
