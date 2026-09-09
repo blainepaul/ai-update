@@ -1,5 +1,65 @@
 [
   {
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-09T12:05:34+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-09"
+  },
+  {
+    "title": "Students who use AI generally score worse at school",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+    "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how […]",
+    "source": "The Verge AI",
+    "date": "2026-09-09T08:05:01-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-09"
+  },
+  {
+    "title": "AI Models Are Watermarking Text—Will You Notice?",
+    "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
+    "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) it uses on the output of its Gemini models . OpenAI has yet to introduce a text watermark but it plans to do so . The rapid spread of watermarking is in part a response to the European Union’s AI Act , which mandates watermarks for AI models released aft",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-09-09T12:00:04+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-09"
+  },
+  {
+    "title": "Legal AI Startup Harvey Hits $15.6 Billion Value With $550 Million Round",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
+    "summary": "Legal tech startup Harvey is now valued at $15.6 billion after raising $550 million in a new funding round aimed at powering efforts to build its own AI models.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-09T11:30:01+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-09"
+  },
+  {
+    "title": "Google DeepMind Uses AI to Predict 9 Billion DNA Changes",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-09/google-deepmind-uses-ai-to-predict-9-billion-dna-changes",
+    "summary": "The lab hopes its model helps researchers find the secrets to ailments",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-09T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-09"
+  },
+  {
+    "title": "When will average people feel AI’s impact?",
+    "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+    "summary": "We’re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
+    "source": "Interconnects",
+    "date": "2026-09-09T11:01:23+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-09"
+  },
+  {
     "title": "CloudNC aims to accelerate AI supply chain machining",
     "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
     "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the venture capital fund of Lockheed Martin. Founded in 2015, CloudNC operates from […] The post CloudNC aims to accelerate AI supply chain machining appeared first on AI News .",
@@ -2815,16 +2875,6 @@
     "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
     "source": "TechCrunch AI",
     "date": "2026-09-02T12:09:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-02"
-  },
-  {
-    "title": "Chi possiede i dati governa l’AI: la battaglia tra Cina, Usa ed Europa",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/chi-possiede-i-dati-governa-lai-la-battaglia-tra-cina-usa-ed-europa/",
-    "summary": "La corsa all’intelligenza artificiale sposta il conflitto sui dati: Pechino costruisce un mercato nazionale, le piattaforme rafforzano il controllo delle informazioni e l’Europa cerca una risposta fondata su portabilità, intermediari e sussidiarietà digitale L'articolo Chi possiede i dati governa l’AI: la battaglia tra Cina, Usa ed Europa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-02T11:51:00+00:00",
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-09-02"
