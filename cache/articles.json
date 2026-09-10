@@ -1,5 +1,35 @@
 [
   {
+    "title": "Meta Upgraded at JPMorgan as Muse Highlights Better AI Position",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/meta-upgraded-at-jpmorgan-as-muse-highlights-better-ai-position",
+    "summary": "Meta Platforms Inc. was upgraded to overweight at JPMorgan Chase & Co. on Thursday, the latest example of how sentiment toward the Facebook parent’s position with artificial intelligence has been improving.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-10T11:43:40+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-10"
+  },
+  {
+    "title": "Visa's Plan for India's Payment Future",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-10/visa-s-plan-for-india-s-payment-future-video",
+    "summary": "Visa is looking beyond plastic cards in India. From agentic commerce to tokenization, Haslinda Amin explains how the payments giant plans to keep up with the changing ways Indians pay. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-10T11:03:52+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-10"
+  },
+  {
+    "title": "Mathematicians want proof OpenAI didn’t use their work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+    "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins […]",
+    "source": "The Verge AI",
+    "date": "2026-09-10T07:00:57-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-10"
+  },
+  {
     "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
     "url": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
     "summary": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
@@ -7,6 +37,26 @@
     "date": "2026-09-10T10:45:00+00:00",
     "category": "other",
     "_slot": "morning",
+    "_slot_date": "2026-09-10"
+  },
+  {
+    "title": "DeepSeek’s New Low-Cost Model Deals a Fresh Blow to OpenAI, Z.ai",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/deepseek-s-new-low-cost-model-deals-a-fresh-blow-to-openai-z-ai",
+    "summary": "DeepSeek rolled out an AI model that charges as little as a fraction of a cent per million tokens, ramping up the pressure on rivals from Anthropic PBC to Z.AI Co.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-10T10:43:12+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-10"
+  },
+  {
+    "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+    "url": "https://mistral.ai/news/mistral-x-cloudera/",
+    "summary": "Cloudera and Mistral join forces to bring specialized, sovereign AI intelligence to enterprise data, helping regulated industries innovate on their own terms.",
+    "source": "Mistral AI Blog",
+    "date": "2026-09-10T10:42:55+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
     "_slot_date": "2026-09-10"
   },
   {
@@ -2815,36 +2865,6 @@
     "summary": "L’intelligenza artificiale è già entrata nei Comuni italiani, ma resta confinata a esperimenti isolati. Il confronto con il modello tedesco mostra due percorsi possibili: scalare i casi d’uso efficaci oppure riprogettare intere aree amministrative attraverso metodi comuni, verificabili e replicabili L'articolo AI nella PA italiana, due modelli per passare dai pilota alla scala proviene da Agenda Digitale .",
     "source": "Agenda Digitale",
     "date": "2026-09-03T12:05:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-03"
-  },
-  {
-    "title": "NVIDIA to Acquire Hugging Face",
-    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-    "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-09-03T11:56:49+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-03"
-  },
-  {
-    "title": "Eseguire grandi LLM in locale: le soluzioni per superare il limite della VRAM",
-    "url": "https://www.agendadigitale.eu/industry-4-0/eseguire-grandi-llm-in-locale-le-soluzioni-per-superare-il-limite-della-vram/",
-    "summary": "FreeToken, KTransformers e AirLLM puntano a eseguire grandi LLM su workstation con poca VRAM, spostando pesi ed esperti tra RAM, GPU e disco. Le architetture Mixture of Experts riducono i parametri attivi, ma velocità e casi d’uso restano molto diversi L'articolo Eseguire grandi LLM in locale: le soluzioni per superare il limite della VRAM proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-03T11:53:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-03"
-  },
-  {
-    "title": "Se anche l’IA è creativa, che cosa distingue ancora l’essere umano?",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/se-anche-lia-e-creativa-che-cosa-distingue-ancora-lessere-umano/",
-    "summary": "L’intelligenza artificiale generativa mette in discussione il confine tra capacità umane e artificiali. Creatività, coscienza, empatia, libero arbitrio e responsabilità diventano categorie da ridefinire mentre le macchine producono risultati sempre più simili a quelli umani L'articolo Se anche l’IA è creativa, che cosa distingue ancora l’essere umano? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-03T11:41:00+00:00",
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-09-03"
