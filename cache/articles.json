@@ -1,5 +1,155 @@
 [
   {
+    "title": "CoT controllability evals seem very under-elicited",
+    "url": "https://www.alignmentforum.org/posts/BbP2wCyDGdPWJ7PwP/cot-controllability-evals-seem-very-under-elicited",
+    "summary": "The CoTControl eval asks reasoning models to follow formatting constraints in their chain-of-thought (e.g. write in all lowercase, avoid a specific word) while solving questions. Models seem to mostly be pretty bad at this: recent models score between 0-30% with the exception of Mythos Preview [1] . OpenAI and Anthropic have used this eval in recent system cards ( GPT-5.5 , Fable 5 ) to argue that their current frontier models are pretty bad at shaping their CoTs in ways that would reduce monito",
+    "source": "AI Alignment Forum",
+    "date": "2026-09-11T17:12:04+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-11T16:46:25+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. […]",
+    "source": "The Verge AI",
+    "date": "2026-09-11T12:09:14-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Fidji Simo Joins Data Center Startup Nscale’s Board Ahead of IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/fidji-simo-joins-data-center-startup-nscale-s-board-ahead-of-ipo",
+    "summary": "Nscale Global Holdings appointed former OpenAI and Meta Platforms Inc. executive Fidji Simo to its board as the data center startup bolsters its ranks of directors ahead of an initial public offering.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-11T15:15:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Quando gli agenti IA fanno gruppo: il rischio che sfugge ai controlli",
+    "url": "https://www.agendadigitale.eu/sicurezza/quando-gli-agenti-ia-fanno-gruppo-il-rischio-che-sfugge-ai-controlli/",
+    "summary": "Il caso Hugging Face mostra come agenti IA isolati possano coordinarsi, influenzarsi e superare i limiti previsti dai test. Una dinamica collettiva che sposta il rischio dall’idea dell’IA ribelle alla nascita di comportamenti sociali artificiali difficili da controllare L'articolo Quando gli agenti IA fanno gruppo: il rischio che sfugge ai controlli proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-11T14:31:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "GPT-6 Astra in azione: quattro test sull’IA che agisce da sola",
+    "url": "https://www.agendadigitale.eu/industry-4-0/gpt-6-astra-in-azione-quattro-test-sullia-che-agisce-da-sola/",
+    "summary": "Quattro esperimenti con GPT-6 Astra mostrano come l’intelligenza artificiale stia passando dalla semplice generazione di contenuti all’azione autonoma su siti, video, software e file locali. Il tema centrale diventa il controllo degli agenti AI dentro l’ambiente operativo L'articolo GPT-6 Astra in azione: quattro test sull’IA che agisce da sola proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-11T14:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+    "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+    "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should […]",
+    "source": "The Verge AI",
+    "date": "2026-09-11T10:25:21-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Dai motori di ricerca agli AI gateway: la sfida delle regole",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/dai-motori-di-ricerca-agli-ai-gateway-la-sfida-delle-regole/",
+    "summary": "L’intelligenza artificiale sta cambiando la funzione della ricerca online, trasformandola da un sistema fondato sul ranking e sul rinvio a siti esterni in un’interfaccia in grado di elaborare direttamente risposte, Analizziamo le implicazioni concorrenziali e regolatorie L'articolo Dai motori di ricerca agli AI gateway: la sfida delle regole proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-11T13:50:54+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Attacchi terroristici con l’AI, le previsioni: rischi cyber e biologici",
+    "url": "https://www.agendadigitale.eu/sicurezza/attacchi-terroristici-con-lai-le-previsioni-rischi-cyber-e-biologici/",
+    "summary": "Philip Bobbitt, che nel 1999 previde un attacco di Al Qaeda negli Stati Uniti, indica nell'intelligenza artificiale il moltiplicatore di nuovi rischi cyber e biologici. Ma regole europee, scelte americane, sorveglianza e crisi della fiducia mostrano un quadro ancora più complesso L'articolo Attacchi terroristici con l’AI, le previsioni: rischi cyber e biologici proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-11T13:27:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Come si è arrivati alla PA generativa e quali sono le priorità del futuro",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/come-si-e-arrivati-alla-pa-generativa-e-quali-sono-le-priorita-del-futuro/",
+    "summary": "Dalla rigidità delle vecchie regole algoritmiche al PIAO, la modernizzazione della Pubblica Amministrazione passa per una governance che integra intelligenza artificiale, gestione del rischio, protezione dei dati e responsabilità del decisore pubblico L'articolo Come si è arrivati alla PA generativa e quali sono le priorità del futuro proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-11T13:12:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "NYC, LA, Montessori Schools Limit AI As Families Flock to Low-Tech Classrooms",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/nyc-la-montessori-schools-limit-ai-as-families-flock-to-low-tech-classrooms",
+    "summary": "US schools across the nation are curbing their use of technology amid mounting parental concerns. This is happening as districts look to boost enrollment and cut costs while grappling with a dwindling pool of students.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-11T13:00:46+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "AI, la grande fuga dal controllo (umano). Il senso degli ultimi allarmi e quali soluzioni ci sono",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-la-grande-fuga-dal-controllo-umano-il-senso-degli-ultimi-allarmi-e-quali-soluzioni-ci-sono/",
+    "summary": "C'è un escalation di allarmi: gli agenti AI, di Anthropic e OpenAI, fanno attacchi complessi fuori dal controllo umano. Prende peso l'ipotesi di dover rallentare lo sviluppo dell'AI, per evitare rischi catastrofici. Ma che sta succedendo davvero, che si può fare? Facciamo un quadro completo della situazione e delle prospettive L'articolo AI, la grande fuga dal controllo (umano). Il senso degli ultimi allarmi e quali soluzioni ci sono proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-11T12:36:29+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Open-Source AI & Open Models Reading List",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "summary": "How to get up to speed on open models and their implications.",
+    "source": "Interconnects",
+    "date": "2026-09-11T12:36:25+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Anthropic Says Iran, Russia Used Claude for Weapons Research",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research",
+    "summary": "Anthropic PBC says its artificial intelligence model Claude has been misused in attempts to develop a wide range of military applications, including kamikaze drone swarms, missile navigation systems and research tied to potential biological weapons.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-11T12:04:27+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+    "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+    "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software […] The post Palantir Foundry and cuOpt drive NVIDIA supply chain allocation appeared first on AI News .",
+    "source": "AI News (AIN)",
+    "date": "2026-09-11T12:00:18+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-11"
+  },
+  {
     "title": "Distillazione cognitiva dell’utente: cosa rischiano le imprese con l’AI esterna",
     "url": "https://www.agendadigitale.eu/documenti/distillazione-cognitiva-dellutente-cosa-rischiano-le-imprese-con-lai-esterna/",
     "summary": "La distillazione cognitiva dell’utente porta l’attenzione su ciò che può uscire dai confini organizzativi quando l’AI viene usata per ragionare: non soltanto dati, ma metodi, criteri decisionali e capitale competitivo L'articolo Distillazione cognitiva dell’utente: cosa rischiano le imprese con l’AI esterna proviene da Agenda Digitale .",
@@ -37,6 +187,16 @@
     "date": "2026-09-11T10:25:28+00:00",
     "category": "models_research",
     "_slot": "morning",
+    "_slot_date": "2026-09-11"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "source": "OpenAI Blog",
+    "date": "2026-09-11T10:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
     "_slot_date": "2026-09-11"
   },
   {
@@ -2498,295 +2658,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-09-05"
-  },
-  {
-    "title": "AI Cloud Firm Nscale Seeks $3.5 Billion in Pre-IPO Financing",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing",
-    "summary": "Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion in financing ahead of a planned initial public offering, according to people familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T17:41:48+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-09-05"
-  },
-  {
-    "title": "Designing lifecycle policies for AgentCore memory",
-    "url": "https://aws.amazon.com/blogs/machine-learning/designing-lifecycle-policies-for-agentcore-memory/",
-    "summary": "Long-running AI agents accumulate outdated memories that degrade quality and create compliance risk. Learn how to design memory lifecycle policies for Amazon Bedrock AgentCore: scoring, consolidating, and pruning agent memories on a nightly AWS Step Functions workflow, with a deployable AWS CDK stack.",
-    "source": "AWS ML Blog",
-    "date": "2026-09-04T17:20:04+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "What will Apple’s John Ternus era look like?",
-    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04T17:18:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "AI Startup Micro1 Seeks to Topple Google’s Bid for Spirit Data",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data",
-    "summary": "An artificial intelligence startup is attempting to wrest away a vast trove of Spirit Aviation Holdings Inc.’s business records from Google LLC.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T17:13:55+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Carney’s Push to Build Canadian Data Centers is Running Into Backlash",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/carney-s-push-to-build-canadian-data-centers-is-running-into-backlash",
-    "summary": "The data center backlash that has gripped US politics is spreading north, complicating Prime Minister Mark Carney’s efforts to attract investment in the rapidly expanding artificial intelligence infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T16:59:33+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Anthropic Finalizing $15 Billion Pre-IPO Credit Facility",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-04/anthropic-finalizing-15-billion-pre-ipo-credit-facility-video",
-    "summary": "Anthropic PBC is set to finalize an expansion of its revolving credit facility to $15 billion, according to people familiar with the matter, clearing a hurdle before the artificial intelligence firm’s public filing for its highly anticipated IPO.\n\nMorgan Stanley is leading the process, the people said. Goldman Sachs Group Inc. and JPMorgan Chase & Co. also have prominent roles on the facility, along with Citigroup Inc., they said. The four lenders are also leading the IPO, Bloomberg News has rep",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T16:32:47+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04T16:21:11+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-physical-ai-model-factory-with-nvidia-cosmos-3-on-sagemaker-hyperpod/",
-    "summary": "Building a Physical AI system takes a continuous pipeline, not a single training job. This post shows how to run that model factory (synthetic data generation, post-training, and closed-loop evaluation with NVIDIA Cosmos 3) on a persistent, resilient Amazon SageMaker HyperPod cluster on Amazon EKS, with GPU goodput as the metric that matters.",
-    "source": "AWS ML Blog",
-    "date": "2026-09-04T16:16:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Run agent-driven Amazon SageMaker HyperPod operations with InstantStart",
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-agent-driven-amazon-sagemaker-hyperpod-operations-with-instantstart/",
-    "summary": "HyperPod InstantStart is an open source control plane that composes Amazon EKS orchestration with the managed capabilities of Amazon SageMaker HyperPod. It drives the same guarded operations through both a web interface and an AI agent, turning cluster bootstrap, capacity, training, inference, and storage into dependable, agent-driven infrastructure.",
-    "source": "AWS ML Blog",
-    "date": "2026-09-04T16:12:17+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Customizing your knowledge base on Amazon Bedrock for large and complex documents using Amazon Textract",
-    "url": "https://aws.amazon.com/blogs/machine-learning/customizing-your-knowledge-base-on-amazon-bedrock-for-large-and-complex-documents-using-amazon-textract/",
-    "summary": "Learn how to customize an Amazon Bedrock knowledge base for large, complex documents by combining the high-accuracy text extraction of Amazon Textract with the generative AI of Amazon Bedrock. This post shows how to ingest and preprocess PDFs and images, then query utility bills at scale for faster, more accurate customer interactions.",
-    "source": "AWS ML Blog",
-    "date": "2026-09-04T16:08:10+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Kai-Fu Lee Says China Will Win AI Reach Race",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-04/kai-fu-lee-says-china-will-win-ai-reach-race-video",
-    "summary": "Are Chinese rivals a serious threat to OpenAI and Anthropic?\n\nFormer Google China chief Kai-Fu Lee explains the business model behind the country's cheaper rivals. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T16:06:51+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "How Intuit built an agentic disaster recovery assistant with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-intuit-built-an-agentic-disaster-recovery-assistant-with-amazon-bedrock/",
-    "summary": "Disaster recovery at scale is hard. Learn how Intuit built EWOK Agent, an agentic disaster recovery assistant on Amazon Bedrock that lets on-call engineers run production failovers from a plain-language request while keeping every action audited, policy-compliant, and safe.",
-    "source": "AWS ML Blog",
-    "date": "2026-09-04T16:06:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot […]",
-    "source": "The Verge AI",
-    "date": "2026-09-04T12:05:57-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "summary": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04T16:04:08+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "AI, per Trump è “fair use”: povero copyright",
-    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/ai-e-copyright-cosa-insegna-la-nuova-mossa-di-trump/",
-    "summary": "Il Dipartimento di Giustizia USA interviene nel processo fra New York Times, autori, OpenAI e Microsoft, sostenendo una lettura estesa del \"fair use\". La posizione dell’amministrazione Trump mette il copyright AI al centro del confronto internazionale, dal G20 alle regole europee L'articolo AI, per Trump è “fair use”: povero copyright proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-04T14:51:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Google’s Gemini Spark can now manage your Google Photos library",
-    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04T14:47:11+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Polar Express, perché la Russia vuole un corridoio digitale nell’Artico",
-    "url": "https://www.agendadigitale.eu/infrastrutture/polar-express-perche-la-russia-vuole-un-corridoio-digitale-nellartico/",
-    "summary": "Il prolungarsi della stagione di navigazione rende l’Artico un corridoio strategico anche per i dati. La Russia investe in cavi sottomarini e impianti nazionali, cercando di ridurre le vulnerabilità senza riuscire ancora a liberarsi dalla dipendenza estera L'articolo Polar Express, perché la Russia vuole un corridoio digitale nell’Artico proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-04T14:39:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Troppa energia solare, rete in difficoltà: come può intervenire l’IA",
-    "url": "https://www.agendadigitale.eu/smart-city/troppa-energia-solare-rete-in-difficolta-come-puo-intervenire-lia/",
-    "summary": "La crescita di fotovoltaico ed eolico aumenta il curtailment delle fonti rinnovabili, tra congestioni, surplus e vincoli di rete. Il fenomeno pesa su sistema, investitori e collettività, mentre l'intelligenza artificiale può migliorare previsioni, dispacciamento e uso delle risorse flessibili L'articolo Troppa energia solare, rete in difficoltà: come può intervenire l’IA proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-04T14:25:21+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-    "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-    "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-04T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
-    "source": "The Verge AI",
-    "date": "2026-09-04T09:34:12-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Abu Dhabi’s G42 Weighs US Ownership to Safeguard AI Chip Access",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access",
-    "summary": "Executives at Abu Dhabi-based artificial intelligence firm G42 have held exploratory talks over potentially selling a majority stake to American companies, people familiar with the matter said, as it races to guarantee access to high-tech chips beyond next year.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T12:50:43+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Gpt 6 Astra: la frontiera AI fonde autonomia e affidabilità",
-    "url": "https://www.agendadigitale.eu/industry-4-0/gpt-6-astra-la-frontiera-ai-fonde-autonomia-e-affidabilita/",
-    "summary": "Astra di OpenAI dimostra che è ormai riduttivo parlare di modello e prestazioni. A contare ormai e sempre più è quanto lavoro autonomo può essere affidato a un sistema e quali condizioni servono perché quella delega rimanga affidabili. Astra è una prima risposta in tal senso L'articolo Gpt 6 Astra: la frontiera AI fonde autonomia e affidabilità proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-04T12:35:39+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Google Fairwind Program: la sicurezza di tutti è un affare privato",
-    "url": "https://www.agendadigitale.eu/sicurezza/google-fairwind-program-la-sicurezza-di-tutti-e-un-affare-privato/",
-    "summary": "Google riserva Gemini 3.8 Flash Cyber a enti selezionati dal Fairwind Program. L'accesso a strumenti capaci di individuare vulnerabilità critiche dipende così da criteri privati, mentre AI Act e Europa non disciplinano la governance della difesa digitale L'articolo Google Fairwind Program: la sicurezza di tutti è un affare privato proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-04T12:19:14+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Instagram’s AI detection is a mess (again)",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-    "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI […]",
-    "source": "The Verge AI",
-    "date": "2026-09-04T08:00:00-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Token, il “chilo variabile” con cui imprese e PA pagano l’AI",
-    "url": "https://www.agendadigitale.eu/industry-4-0/token-il-chilo-variabile-con-cui-imprese-e-pa-pagano-lai/",
-    "summary": "Imprese e amministrazioni pagano l’intelligenza artificiale in token, ma ogni fornitore li definisce e li conta diversamente. Senza standard indipendenti, telemetria verificabile e unità legate ai risultati, confrontare offerte e controllare la spesa resta un esercizio fragile e poco trasparente L'articolo Token, il “chilo variabile” con cui imprese e PA pagano l’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-04T11:49:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "China’s Moonshot Said to Seek Up to $5 Billion in Hong Kong IPO This Year",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/moonshot-is-said-to-seek-up-to-5-billion-in-hk-ipo-this-year",
-    "summary": "Moonshot AI is considering raising up to $5 billion in its planned Hong Kong initial public offering as soon as this year, people familiar with the matter said, as the Chinese artificial intelligence champion taps into strong investor demand.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T11:07:32+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Lacan, l’AI e il nostro stupore davanti alla macchina che “parla”",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/lacan-lai-e-il-nostro-stupore-davanti-alla-macchina-che-parla/",
-    "summary": "L’hype intorno all’intelligenza artificiale viene letto attraverso Lacan, la cibernetica e la questione del linguaggio. Dai Large Language Models alla nozione di macchina pensante, emerge un interrogativo centrale: cosa resta dell’umano quando il linguaggio sembra funzionare senza soggetto? L'articolo Lacan, l’AI e il nostro stupore davanti alla macchina che “parla” proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-04T11:02:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Middle East’s Data Center Push Endures Under the Cloud of War",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/middle-east-s-data-center-push-endures-under-the-cloud-of-war",
-    "summary": "The Persian Gulf’s richest states are pushing forward with plans for a massive build-out of artificial intelligence infrastructure, even though data centers have become repeated targets in the US war with Iran.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-04T11:00:14+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
-  },
-  {
-    "title": "Why AI food looks like that",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-    "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading […]",
-    "source": "The Verge AI",
-    "date": "2026-09-04T07:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-04"
   }
 ]
