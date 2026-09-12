@@ -10,6 +10,76 @@
     "_slot_date": "2026-09-12"
   },
   {
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]",
+    "source": "The Verge AI",
+    "date": "2026-09-12T12:23:40-04:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-12"
+  },
+  {
+    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "summary": "What would it actually look like to \"pace the frontier\"?",
+    "source": "TechCrunch AI",
+    "date": "2026-09-12T15:52:11+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-12"
+  },
+  {
+    "title": "Trump is giving data centers a pass to pollute",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+    "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […]",
+    "source": "The Verge AI",
+    "date": "2026-09-12T10:41:27-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-12"
+  },
+  {
+    "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+    "summary": "Anthropic PBC Chief Executive Officer Dario Amodei said that the artificial intelligence industry needs to slow the pace of development for new models, citing growing concerns about “serious” risks to humans.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-12T14:17:56+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-12"
+  },
+  {
+    "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+    "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-09-12T11:23:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-12"
+  },
+  {
+    "title": "OpenAI just wants to win",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with […]",
+    "source": "The Verge AI",
+    "date": "2026-09-12T07:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-12"
+  },
+  {
+    "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+    "source": "Wired",
+    "date": "2026-09-12T10:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-12"
+  },
+  {
     "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
     "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
     "summary": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
@@ -2688,35 +2758,5 @@
     "category": "tools_products",
     "_slot": "morning",
     "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]",
-    "source": "The Verge AI",
-    "date": "2026-09-05T07:15:55-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-05"
-  },
-  {
-    "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
-    "summary": "Tata Consultancy Services Ltd. on Saturday said its HyperVault unit and partners have committed 700 billion rupees ($7.4 billion) to set up a large-scale artificial intelligence data center campus in southern India, speeding up its push into an area that Indian tech firms are prioritizing for future growth.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-05T11:07:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-05"
-  },
-  {
-    "title": "OpenAI Agents Hacked Another Website",
-    "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
-    "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
-    "source": "Wired",
-    "date": "2026-09-05T10:30:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-05"
   }
 ]
