@@ -10,6 +10,86 @@
     "_slot_date": "2026-09-12"
   },
   {
+    "title": "AI Agents Are Thirsty for Power",
+    "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+    "source": "Wired",
+    "date": "2026-09-13T10:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
+    "title": "Xi Pitches His AI Vision at BRICS Summit as China Duels With US",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
+    "summary": "Chinese President Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for artificial intelligence, as it vies for global influence over the technology with the US.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-13T09:10:57+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
+    "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+    "summary": "AI executives’ calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term, but will probably have limited long-term impact as spending on computing infrastructure remains strong, market watchers say.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-13T08:00:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
+    "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
+    "summary": "China’s data regulator said it plans to develop standards for embodied artificial intelligence and guide local authorities in related work, as demand for high-quality, diverse and large-scale datasets continues to grow.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-13T03:29:51+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
+    "source": "The Verge AI",
+    "date": "2026-09-12T17:41:36-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]",
+    "source": "The Verge AI",
+    "date": "2026-09-12T17:16:28-04:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-12T20:19:16+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
+    "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
+    "summary": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-12T19:36:39+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-09-13"
+  },
+  {
     "title": "Anthropic CEO says it’s time to pump the brakes on AI",
     "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
     "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]",
@@ -2647,116 +2727,6 @@
     "date": "2026-09-06T16:45:00+00:00",
     "category": "other",
     "_slot": "afternoon",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "An Alien Mind",
-    "url": "https://openai.com/index/an-alien-mind",
-    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "source": "OpenAI Blog",
-    "date": "2026-09-06T09:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
-    "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-09-06T08:13:16+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Rouge AI Tracker: A central news source for Rogue AI incidents",
-    "url": "https://rogueaitracker.com/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-09-06T07:41:17+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Can AI design circuit boards yet?",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-09-06T05:14:52+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
-    "url": "https://www.independent.co.uk/news/world/americas/us-politics/midterms-data-center-ai-backlash-trump-b3043739.html",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-09-05T23:50:17+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release",
-    "url": "https://findcheap.ai/introducing-findcheap",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-09-05T23:27:32+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-05T22:49:55+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Companies Have 6 Months to Prepare for Automated Attacks",
-    "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-09-05T19:57:08+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Hikers rescued after using Google Gemini for planning",
-    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-09-05T19:35:24+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom",
-    "url": "https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579",
-    "summary": "",
-    "source": "Reddit r/artificial",
-    "date": "2026-09-05T19:11:08+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-06"
-  },
-  {
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-05T18:05:27+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
     "_slot_date": "2026-09-06"
   }
 ]
