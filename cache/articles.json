@@ -1,5 +1,45 @@
 [
   {
+    "title": "Carlyle CEO on US Economy, Fed, MIT AI Partnership",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-15/carlyle-ceo-on-us-economy-fed-mit-ai-partnership-video",
+    "summary": "Carlyle CEO Harvey Schwartz sees the US economy “doing quite well,” despite uncertainty and inflation, and says the US is at a period where the Federal Reserve will continue to watch the data. Schwartz also discusses the firm’s partnership with MIT and his view on growth concerns related to artificial intelligence. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-15T12:05:48+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-15"
+  },
+  {
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-15T12:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-15"
+  },
+  {
+    "title": "Crusoe Signs Perplexity AI Deal to Provide Cloud Capacity",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/crusoe-signs-perplexity-ai-deal-to-provide-cloud-capacity",
+    "summary": "Data center operator Crusoe struck a multiyear cloud deal with Perplexity AI Inc., an AI search company, continuing its push to win more business renting out artificial intelligence chips and related software.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-15T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-15"
+  },
+  {
+    "title": "Profound Hits $1.8 Billion Value to Boost Brands in AI Search",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search",
+    "summary": "The artificial intelligence marketing startup Profound has raised $180 million at a $1.8 billion valuation in its Series D fundraising round, co-led by Sequoia Capital and Kleiner Perkins, the company plans to announce Tuesday.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-15T11:30:13+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-15"
+  },
+  {
     "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
     "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
     "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC Commercial Vehicle’s T9 battery-electric truck architecture, with mass production set to start […] The post Pony.ai unveils autonomous electric truck for logistics fleets appeared first on AI News .",
@@ -3076,26 +3116,6 @@
     "source": "OpenAI Blog",
     "date": "2026-09-08T13:00:00+00:00",
     "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-08"
-  },
-  {
-    "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "summary": "Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-    "source": "Mistral AI Blog",
-    "date": "2026-09-08T12:00:22+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-09-08"
-  },
-  {
-    "title": "Arm launches Total Design for Physical AI and robotics framework",
-    "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
-    "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation […] The post Arm launches Total Design for Physical AI and robotics framework appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-09-08T11:44:10+00:00",
-    "category": "tools_products",
     "_slot": "afternoon",
     "_slot_date": "2026-09-08"
   }
