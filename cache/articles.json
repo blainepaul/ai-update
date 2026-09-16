@@ -10,6 +10,26 @@
     "_slot_date": "2026-09-16"
   },
   {
+    "title": "A brief history of AI executives calling for regulation",
+    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+    "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]",
+    "source": "The Verge AI",
+    "date": "2026-09-16T08:00:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-16"
+  },
+  {
+    "title": "AI-Fueled Profit Growth Set to Flow Through Every S&P 500 Sector",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-16/ai-fueled-profit-growth-set-to-flow-through-every-s-p-500-sector",
+    "summary": "The next earnings season is set to be robust across the board, as the benefits of artificial intelligence spending start to flow across the economy.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-16T11:30:08+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-16"
+  },
+  {
     "title": "AI Omnibus, il dato sintetico entra nella conformità dei sistemi AI",
     "url": "https://www.agendadigitale.eu/sicurezza/privacy/ai-omnibus-il-dato-sintetico-entra-nella-conformita-dei-sistemi-ai/",
     "summary": "L’AI Omnibus introduce una nuova fase nella regolazione europea dell’intelligenza artificiale. Il focus si sposta dalla somma degli adempimenti alla capacità di dimostrare, caso per caso, perché l’uso di dati personali, anonimizzati o sintetici sia proporzionato al rischio L'articolo AI Omnibus, il dato sintetico entra nella conformità dei sistemi AI proviene da Agenda Digitale .",
@@ -2898,65 +2918,5 @@
     "category": "policy_regulation",
     "_slot": "morning",
     "_slot_date": "2026-09-10"
-  },
-  {
-    "title": "The Download: OpenAI’s turning point for math and a battery record",
-    "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathematics. Under normal circumstances, that would…",
-    "source": "MIT Tech Review",
-    "date": "2026-09-09T12:10:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-10"
-  },
-  {
-    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-    "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-09T12:05:34+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-09"
-  },
-  {
-    "title": "Students who use AI generally score worse at school",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-    "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how […]",
-    "source": "The Verge AI",
-    "date": "2026-09-09T08:05:01-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-09"
-  },
-  {
-    "title": "Modernizing complex legacy code with AI agents.",
-    "url": "https://mistral.ai/news/legacy-code-modernization/",
-    "summary": "Mistral helped a European energy operator migrate 40,000 lines of Fortran 77 to C++.  Learn how it was done, and the lessons to carry forward.",
-    "source": "Mistral AI Blog",
-    "date": "2026-09-09T12:00:46+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-09-10"
-  },
-  {
-    "title": "AI Models Are Watermarking Text—Will You Notice?",
-    "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
-    "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) it uses on the output of its Gemini models . OpenAI has yet to introduce a text watermark but it plans to do so . The rapid spread of watermarking is in part a response to the European Union’s AI Act , which mandates watermarks for AI models released aft",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-09-09T12:00:04+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-09"
-  },
-  {
-    "title": "Legal AI Startup Harvey Hits $15.6 Billion Value With $550 Million Round",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
-    "summary": "Legal tech startup Harvey is now valued at $15.6 billion after raising $550 million in a new funding round aimed at powering efforts to build its own AI models.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-09T11:30:01+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-09"
   }
 ]
