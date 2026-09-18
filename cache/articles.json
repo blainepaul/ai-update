@@ -1,5 +1,25 @@
 [
   {
+    "title": "Hugging Face AI Hack Shows Humans Can Keep the Technology in Check",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-18/hugging-face-ai-hack-shows-humans-can-keep-the-technology-in-check",
+    "summary": "The rhetoric focused on the technology’s existential threat overshadows more correctable issues",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-18T11:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-18"
+  },
+  {
+    "title": "Flash floods can strike without warning — this new technology could change that",
+    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
+    "source": "The Verge AI",
+    "date": "2026-09-18T07:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-18"
+  },
+  {
     "title": "The Leftist Split Over AI Doom",
     "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
     "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
@@ -2875,16 +2895,6 @@
     "summary": "Anthropic PBC says its artificial intelligence model Claude has been misused in attempts to develop a wide range of military applications, including kamikaze drone swarms, missile navigation systems and research tied to potential biological weapons.",
     "source": "Bloomberg Tech",
     "date": "2026-09-11T12:04:27+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-11"
-  },
-  {
-    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-    "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-    "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software […] The post Palantir Foundry and cuOpt drive NVIDIA supply chain allocation appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-09-11T12:00:18+00:00",
     "category": "models_research",
     "_slot": "afternoon",
     "_slot_date": "2026-09-11"
