@@ -1,5 +1,75 @@
 [
   {
+    "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+    "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
+    "summary": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
+    "source": "Wired",
+    "date": "2026-09-20T09:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-09-20"
+  },
+  {
+    "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
+    "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation between the US and China.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-20T00:39:58+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-09-20"
+  },
+  {
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",
+    "source": "The Verge AI",
+    "date": "2026-09-19T16:44:40-04:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-09-20"
+  },
+  {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-19T20:39:13+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-20"
+  },
+  {
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-19T19:57:47+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-20"
+  },
+  {
+    "title": "Trump to Name AI Czar While Rejecting Safety Risks as a Hoax",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/trump-to-name-ai-czar-while-rejecting-safety-risks-as-a-hoax",
+    "summary": "President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-19T18:02:53+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-09-20"
+  },
+  {
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-19T17:30:00+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-09-20"
+  },
+  {
     "title": "Why I still haven’t bought into true RSI",
     "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
     "summary": "An “AI moderate’s” view on recent events and the trajectory of frontier models.",
@@ -2968,85 +3038,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-09-14"
-  },
-  {
-    "title": "AI Agents Are Thirsty for Power",
-    "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-    "source": "Wired",
-    "date": "2026-09-13T10:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
-  },
-  {
-    "title": "Xi Pitches His AI Vision at BRICS Summit as China Duels With US",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-13/xi-pitches-his-ai-vision-at-brics-summit-as-china-duels-with-us",
-    "summary": "Chinese President Xi Jinping has sought to turn the annual BRICS summit into another platform for championing Beijing’s vision for artificial intelligence, as it vies for global influence over the technology with the US.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-13T09:10:57+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
-  },
-  {
-    "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
-    "summary": "AI executives’ calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term, but will probably have limited long-term impact as spending on computing infrastructure remains strong, market watchers say.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-13T08:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
-  },
-  {
-    "title": "China’s Data Regulator Plans Standards Push for Embodied AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-13/china-s-data-regulator-plans-standards-push-for-embodied-ai",
-    "summary": "China’s data regulator said it plans to develop standards for embodied artificial intelligence and guide local authorities in related work, as demand for high-quality, diverse and large-scale datasets continues to grow.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-13T03:29:51+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
-  },
-  {
-    "title": "OpenAI’s rogue AI tried to hack another company in May",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
-    "source": "The Verge AI",
-    "date": "2026-09-12T17:41:36-04:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
-  },
-  {
-    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]",
-    "source": "The Verge AI",
-    "date": "2026-09-12T17:16:28-04:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
-  },
-  {
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-12T20:19:16+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
-  },
-  {
-    "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
-    "summary": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-12T19:36:39+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-09-13"
   }
 ]
