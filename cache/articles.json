@@ -1,5 +1,75 @@
 [
   {
+    "title": "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+    "url": "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/",
+    "summary": "To build and deploy sophisticated robotics applications that can perceive, reason and act in dynamic environments, developers need new physical AI models and tools. The ROS open framework is a project from Open Robotics that helps humans build robots. NVIDIA Isaac ROS 5.0 — a collection of GPU-accelerated packages built on ROS, released today at […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-09-22T12:00:41+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-22"
+  },
+  {
+    "title": "AI Startup Heidi Doubles Valuation to $900 Million in New Round",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/ai-startup-heidi-doubles-valuation-to-900-million-in-new-round",
+    "summary": "Heidi, an artificial intelligence startup which helps doctors automate clinical notes and other administrative work, raised $340 million to tap growing demand for AI tools that can make healthcare workers more productive.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-22T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-22"
+  },
+  {
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers […]",
+    "source": "The Verge AI",
+    "date": "2026-09-22T07:53:58-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-22"
+  },
+  {
+    "title": "AI Act in azienda: quali documenti servono per essere in regola",
+    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-in-azienda-quali-documenti-servono-per-essere-in-regola/",
+    "summary": "Con l’AI Act e il GDPR, utilizzare strumenti di intelligenza artificiale non basta: le aziende devono poter documentare scelte, responsabilità e controlli. Dall’AI Register alla DPIA, dalla policy interna alla formazione, ecco gli adempimenti che compongono un fascicolo di governance dell’IA L'articolo AI Act in azienda: quali documenti servono per essere in regola proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-22T11:53:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-22"
+  },
+  {
+    "title": "Anthropic CEO Dario Amodei to Brief UN Security Council on AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-22/anthropic-ceo-dario-amodei-to-brief-un-security-council-on-ai",
+    "summary": "Anthropic PBC CEO Dario Amodei is set to brief the United Nations Security Council on Wednesday alongside OpenAI CEO Sam Altman during a meeting dedicated to the future of artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-22T11:48:09+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-22"
+  },
+  {
+    "title": "AutoScheduler launches warehouse app builder for logistics teams",
+    "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+    "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company’s wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and labour. Distribution centres routinely depend on rigid enterprise resource planning and warehouse management suites. When […] The post AutoScheduler launches warehouse app builder for logistics teams appeared first on AI N",
+    "source": "AI News (AIN)",
+    "date": "2026-09-22T11:34:39+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-22"
+  },
+  {
+    "title": "Don’t be fooled by this summer of AI hype",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed…",
+    "source": "MIT Tech Review",
+    "date": "2026-09-22T11:04:51+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-22"
+  },
+  {
     "title": "AI Shopping Bots Still Have a Hard Time Telling Web Facts From Fiction",
     "url": "https://www.bloomberg.com/news/newsletters/2026-09-22/ai-shopping-bots-still-have-a-hard-time-telling-web-facts-from-fiction",
     "summary": "Marketers need to provide accurate information to improve AI tools",
@@ -2918,75 +2988,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-09-16"
-  },
-  {
-    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs…",
-    "source": "MIT Tech Review",
-    "date": "2026-09-15T12:10:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-09-16"
-  },
-  {
-    "title": "Carlyle CEO on US Economy, Fed, MIT AI Partnership",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-15/carlyle-ceo-on-us-economy-fed-mit-ai-partnership-video",
-    "summary": "Carlyle CEO Harvey Schwartz sees the US economy “doing quite well,” despite uncertainty and inflation, and says the US is at a period where the Federal Reserve will continue to watch the data. Schwartz also discusses the firm’s partnership with MIT and his view on growth concerns related to artificial intelligence. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-15T12:05:48+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-15"
-  },
-  {
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-15T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-15"
-  },
-  {
-    "title": "Crusoe Signs Perplexity AI Deal to Provide Cloud Capacity",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-15/crusoe-signs-perplexity-ai-deal-to-provide-cloud-capacity",
-    "summary": "Data center operator Crusoe struck a multiyear cloud deal with Perplexity AI Inc., an AI search company, continuing its push to win more business renting out artificial intelligence chips and related software.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-15T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-15"
-  },
-  {
-    "title": "AI models need more data about biology, and OpenAI is paying to create it",
-    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing strategies, and safety data—types of information usually considered trade secrets. She…",
-    "source": "MIT Tech Review",
-    "date": "2026-09-15T12:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-09-16"
-  },
-  {
-    "title": "Profound Hits $1.8 Billion Value to Boost Brands in AI Search",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search",
-    "summary": "The artificial intelligence marketing startup Profound has raised $180 million at a $1.8 billion valuation in its Series D fundraising round, co-led by Sequoia Capital and Kleiner Perkins, the company plans to announce Tuesday.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-15T11:30:13+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-15"
-  },
-  {
-    "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-    "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-    "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC Commercial Vehicle’s T9 battery-electric truck architecture, with mass production set to start […] The post Pony.ai unveils autonomous electric truck for logistics fleets appeared first on AI News .",
-    "source": "AI News (AIN)",
-    "date": "2026-09-15T11:15:57+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-09-15"
   }
 ]
