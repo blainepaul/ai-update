@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "source": "OpenAI Blog",
+    "date": "2026-09-23T13:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-23"
+  },
+  {
+    "title": "Why I'm scared of RL",
+    "url": "https://www.alignmentforum.org/posts/LcQ9x72eNji2gpS9b/why-i-m-scared-of-rl",
+    "summary": "Summary: First, I give several different angles on how I feel about reinforcement learning: Theoretical case: RL is a black-box source of agency — this should give us classic misalignment worries, especially compared to agency-via-scaffolding Recent incidents (huggingface etc) and more mundane forms of misaligned behaviour in personal use give me bad vibes about the direction-of-travel of recent AI progress I’m worried things might get worse: if RL environments start incorporating agents, they m",
+    "source": "AI Alignment Forum",
+    "date": "2026-09-23T12:07:33+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-23"
+  },
+  {
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+    "source": "TechCrunch AI",
+    "date": "2026-09-23T12:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-23"
+  },
+  {
     "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
     "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
     "summary": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with […]",
@@ -2948,55 +2978,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-09-17"
-  },
-  {
-    "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-    "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,…",
-    "source": "MIT Tech Review",
-    "date": "2026-09-16T12:10:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-17"
-  },
-  {
-    "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-    "url": "https://mistral.ai/news/mistral-x-mozilla/",
-    "summary": "Open, private and multilingual AI is coming to your web browser. Mistral and Mozilla team up to put powerful, trustworthy AI where you already browse.",
-    "source": "Mistral AI Blog",
-    "date": "2026-09-16T12:00:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-09-16"
-  },
-  {
-    "title": "A brief history of AI executives calling for regulation",
-    "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-    "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]",
-    "source": "The Verge AI",
-    "date": "2026-09-16T08:00:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-16"
-  },
-  {
-    "title": "How to connect AI usage to business value",
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "source": "OpenAI Blog",
-    "date": "2026-09-16T12:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "morning",
-    "_slot_date": "2026-09-17"
-  },
-  {
-    "title": "AI-Fueled Profit Growth Set to Flow Through Every S&P 500 Sector",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-16/ai-fueled-profit-growth-set-to-flow-through-every-s-p-500-sector",
-    "summary": "The next earnings season is set to be robust across the board, as the benefits of artificial intelligence spending start to flow across the economy.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-16T11:30:08+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-16"
   }
 ]
