@@ -1,5 +1,55 @@
 [
   {
+    "title": "Microsoft Abandons Personal AI Chatbot Race With Copilot Reboot",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "summary": "Microsoft Corp. is merging the consumer and workplace versions of its Copilot AI assistant into one product aimed at corporate customers, ceding the crowded market for personal chatbots to OpenAI, Alphabet Inc.’s Google and, now, Meta Platforms Inc.",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-25T12:00:01+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-25"
+  },
+  {
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. […]",
+    "source": "The Verge AI",
+    "date": "2026-09-25T08:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-25"
+  },
+  {
+    "title": "Trump, Xi Have Realized They Need Each Other: China Beige Book",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-realize-they-need-each-other-china-beige-book-video",
+    "summary": "China Beige Book COO and Managing Editor Shehzad Qazi examines the takeaways from US President Donald Trump’s meeting with his Chinese counterpart Xi Jinping, with a focus on the tensions underneath the surface of US-China relations. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-09-25T11:52:53+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-25"
+  },
+  {
+    "title": "Tesla guarda alla Cina per Optimus: la lezione industriale per l’Europa",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/tesla-guarda-alla-cina-per-optimus-la-lezione-industriale-per-leuropa/",
+    "summary": "Tesla progetta Optimus negli Stati Uniti, ma guarda alla Cina per trovare fornitori e capacità produttive necessarie alla produzione su scala. La robotica umanoide mostra così una nuova dimensione della competizione sull’intelligenza artificiale, nella quale fabbriche, supply chain ed ecosistemi industriali diventano asset strategici L'articolo Tesla guarda alla Cina per Optimus: la lezione industriale per l’Europa proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-25T11:35:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-25"
+  },
+  {
+    "title": "L’agente AI agisce da solo, ma il rischio resta all’impresa: chi risponde?",
+    "url": "https://www.agendadigitale.eu/industry-4-0/lagente-ai-agisce-da-solo-ma-il-rischio-resta-allimpresa-chi-risponde/",
+    "summary": "Gli agenti AI possono eseguire azioni senza conferme continue, ma individuare chi risponde dei danni richiede di ricostruire autorizzazioni, controlli e scelte organizzative. Le nuove norme italiane sull’accesso alle prove rendono centrale la possibilità di documentare il funzionamento dei sistemi. L'articolo L’agente AI agisce da solo, ma il rischio resta all’impresa: chi risponde? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-09-25T11:34:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-09-25"
+  },
+  {
     "title": "Meta Connect 2026: Muse AI Gadget Shows Ambitious Hardware Vision",
     "url": "https://www.bloomberg.com/news/newsletters/2026-09-25/meta-connect-2026-muse-ai-gadget-shows-ambitious-hardware-vision",
     "summary": "Meta’s AI hardware portfolio just got a lot more interesting — and risky",
@@ -2836,16 +2886,6 @@
     "source": "Agenda Digitale",
     "date": "2026-09-18T12:25:00+00:00",
     "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-09-19"
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "url": "https://openai.com/index/australian-youth-safety-blueprint",
-    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "source": "OpenAI Blog",
-    "date": "2026-09-18T12:00:00+00:00",
-    "category": "tools_products",
     "_slot": "morning",
     "_slot_date": "2026-09-19"
   }
