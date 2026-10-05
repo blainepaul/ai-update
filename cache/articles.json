@@ -1,5 +1,285 @@
 [
   {
+    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05T14:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+    "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features […]",
+    "source": "The Verge AI",
+    "date": "2026-10-05T09:47:14-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
+    "source": "MIT Tech Review",
+    "date": "2026-10-05T13:29:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "OpenAI is sticking more ads in ChatGPT",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+    "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's […]",
+    "source": "The Verge AI",
+    "date": "2026-10-05T09:09:48-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come…",
+    "source": "MIT Tech Review",
+    "date": "2026-10-05T12:10:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-05T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Vendere auto nell’era dell’AI: il vantaggio passa dalle competenze",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/vendere-auto-nellera-dellai-il-vantaggio-passa-dalle-competenze/",
+    "summary": "L’intelligenza artificiale entra nei processi delle concessionarie, dalla gestione dei lead allo stock e all’officina. L’automazione accelera le decisioni, ma richiede nuove competenze, più formazione e una governance capace di misurare risultati e rischi in un mercato con margini sempre più ridotti L'articolo Vendere auto nell’era dell’AI: il vantaggio passa dalle competenze proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-05T10:46:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "AI, i motivi di una decisione sono sempre più oscuri: ecco i rischi per PA e cittadini",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/ai-i-motivi-di-una-decisione-sono-sempre-piu-oscuri-ecco-i-rischi-per-pa-e-cittadini/",
+    "summary": "I modelli di ragionamento producono passaggi che somigliano a una motivazione nella chain of thought, ma la ricerca mostra che spesso tacciono i fattori decisivi, dai bias di genere e origine ai suggerimenti di un'autorità. Ci sono ricadute importanti su allineamento, controllo e distorsioni decisionali L'articolo AI, i motivi di una decisione sono sempre più oscuri: ecco i rischi per PA e cittadini proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-05T10:43:09+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Un file integro è anche autentico? Il nodo della fiducia nei documenti digitali",
+    "url": "https://www.agendadigitale.eu/documenti/un-file-integro-e-anche-autentico-il-nodo-della-fiducia-nei-documenti-digitali/",
+    "summary": "L’autenticità del documento digitale non coincide con una qualità univoca: nasce dall’equilibrio tra genuinità tecnica, integrità e riconoscimento giuridico. Dal Codice dell’amministrazione digitale alle Linee guida AgID, fino alle radici storiche della diplomatica, emerge il doppio fondamento della fiducia documentale L'articolo Un file integro è anche autentico? Il nodo della fiducia nei documenti digitali proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-05T10:37:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Our minds aren’t equipped to handle AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, […]",
+    "source": "The Verge AI",
+    "date": "2026-10-05T06:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "source": "OpenAI Blog",
+    "date": "2026-10-05T10:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Agenti AI fuori controllo, la nuova minaccia alle infrastrutture critiche",
+    "url": "https://www.agendadigitale.eu/sicurezza/agenti-ai-fuori-controllo-la-nuova-minaccia-alle-infrastrutture-critiche/",
+    "summary": "Gli agenti IA fuori controllo avrebbero estratto dati da 55 enti strategici, aggirando filtri e sistemi di monitoraggio. Il caso attribuito a modelli OpenAI espone i limiti della sicurezza, dell’auditing indipendente e delle procedure di notifica, mentre cresce la pressione globale per una governance più stringente L'articolo Agenti AI fuori controllo, la nuova minaccia alle infrastrutture critiche proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-05T09:45:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "L’AI e la fine della gavetta: chi costruirà le competenze di domani?",
+    "url": "https://www.agendadigitale.eu/people-and-change/lai-e-la-fine-della-gavetta-chi-costruira-le-competenze-di-domani/",
+    "summary": "L’intelligenza artificiale automatizza molte attività tradizionalmente affidate ai lavoratori junior, ma quelle mansioni erano anche strumenti di apprendimento. Tra produttività, deskilling, mentoring e nuove competenze, aziende e università devono ripensare il modo in cui si costruisce l’esperienza professionale L'articolo L’AI e la fine della gavetta: chi costruirà le competenze di domani? proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-05T09:40:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "L’illusione dell’obiettività: come numeri e grafici possono manipolarci",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/lillusione-dellobiettivita-come-numeri-e-grafici-possono-manipolarci/",
+    "summary": "Numeri e grafici possono rendere convincenti anche interpretazioni sbagliate. L’intelligenza artificiale amplifica la necessità di verificare le fonti, distinguere correlazioni e cause e riconoscere le manipolazioni. Il pensiero critico resta decisivo per trasformare i dati in conoscenza e decisioni consapevoli L'articolo L’illusione dell’obiettività: come numeri e grafici possono manipolarci proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-05T08:59:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "People really hate AI, so why can’t they get enough?",
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+    "source": "MIT Tech Review",
+    "date": "2026-10-05T08:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-partner-hon-hai-beats-sales-estimates-due-to-ai-frenzy",
+    "summary": "Nvidia Corp. partner Hon Hai Precision Industry Co. reported better-than-expected quarterly revenue, signaling sustained and elevated spending on global AI infrastructure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-05T07:43:15+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-s-valuations-show-ai-rally-isn-t-a-bubble-dbs-says",
+    "summary": "Nvidia Corp.’s price-to-earnings multiple and projected 70% earnings growth for next year demonstrate that artificial intelligence-driven technology stocks remain far from bubble territory, DBS Group Chief Investment Officer Hou Wey Fook said.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-05T07:04:29+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
+    "url": "https://blog.lukesalamone.com/posts/distilling-stockfish",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-10-05T04:11:48+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies",
+    "summary": "Malaysia plans to introduce its first dedicated artificial intelligence law in early 2027, as governments worldwide step up efforts to regulate the technology that’s drawing growing scrutiny over its risks and potential misuse.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-05T03:06:45+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "SoftBank’s Masayoshi Son Warns on AI Safety",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-05/softbank-s-masayoshi-son-warns-on-ai-safety-video",
+    "summary": "Speaking at a tech forum, SoftBank chief Masayoshi Son - one of AI’s fervent believers - said that even he is worried about safety risks as machines quickly gain more abilities. He reiterated his projection that AI and machines with learning capabilities could account for at least 20% of global gross domestic product by 2040. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-05T02:05:14+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says",
+    "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-04T21:03:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-04T20:31:07+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-04T20:08:34+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
+    "summary": "Former Anthropic researcher Jacob Coxon, who warned that artificial intelligence could become too powerful for humans to control, will testify Monday at a New York City Council hearing alongside representatives of some of the world’s biggest AI companies.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-04T20:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
+    "url": "https://theabbie.github.io/prefixinjection",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-10-04T18:03:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]",
+    "source": "The Verge AI",
+    "date": "2026-10-04T12:16:04-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
+    "source": "The Verge AI",
+    "date": "2026-10-04T11:21:59-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
+    "title": "Trump unveils his new Super Intelligence Force",
+    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-04T15:15:10+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-05"
+  },
+  {
     "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
     "url": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
     "summary": "SoftBank Group Corp. chief Masayoshi Son — one of AI’s fervent believers — said that even he’s worried about safety risks as machines quickly gain more abilities.",
@@ -2318,315 +2598,5 @@
     "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-09-29"
-  },
-  {
-    "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-    "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-    "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to […]",
-    "source": "The Verge AI",
-    "date": "2026-09-28T10:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-29"
-  },
-  {
-    "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-    "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-    "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within […]",
-    "source": "The Verge AI",
-    "date": "2026-09-28T09:36:06-04:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-29"
-  },
-  {
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-    "source": "MIT Tech Review",
-    "date": "2026-09-28T12:10:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "F2 Inks Investment with Golub, Provides AI Platform",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/f2-gets-investment-from-golub-signs-deal-to-provide-ai-platform",
-    "summary": "F2 AI Inc., an artificial intelligence developer specializing in credit, is receiving a $5 million investment from private credit manager Golub Capital LLC, the latest example of a financial institution investing directly in a technology that is reshaping finance.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "AI-Assisted Shopping to Rise 130% During Holidays, Adobe Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/ai-assisted-shopping-to-rise-130-during-holidays-adobe-says",
-    "summary": "What people buy online this holiday shopping season will be increasingly influenced by chatbots such as OpenAI’s ChatGPT, according to Adobe Inc.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Robot umanoidi, la vera corsa industriale si gioca nelle mani",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/robot-umanoidi-la-vera-corsa-industriale-si-gioca-nelle-mani/",
-    "summary": "La sfida dei robot umanoidi passa dalla capacità di manipolare strumenti, adattarsi agli imprevisti e imparare nuovi compiti. Mani, sensori e intelligenza artificiale si intrecciano così con costi, dati di addestramento e filiere industriali, aprendo anche per l'Europa una questione strategica sul valore generato nelle fabbriche L'articolo Robot umanoidi, la vera corsa industriale si gioca nelle mani proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-28T11:35:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-    "source": "Wired",
-    "date": "2026-09-28T11:32:19+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Nvidia’s Huang Boosts Share Buyback by a Record $150 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-boosts-share-buyback-authorization-by-150-billion-mul5jmu7",
-    "summary": "Nvidia Corp., the chip developer at the heart of the artificial intelligence boom, increased the size of its share buyback plan by a record $150 billion, reflecting Chief Executive Officer Jensen Huang’s confidence in its continued growth.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T11:16:22+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Generative AI Gives Spacecraft the Autonomy Engineers Once Feared",
-    "url": "https://spectrum.ieee.org/generative-ai-in-space-exploration",
-    "summary": "Space was always supposed to be the final frontier of human exploration. It’s shaping up to be the final frontier for artificial intelligence too. Last December, NASA’s Jet Propulsion Laboratory used Anthropic’s Claude models to help plan two Mars drives for the Perseverance rover , with human planners checking and adjusting the route before upload. In May, NASA and IBM put a compressed AI model on the International Space Station and a satellite to identify things like floods and clouds from orb",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-09-28T11:00:05+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Nuova direttiva CAE: obblighi e scadenze per le multinazionali",
-    "url": "https://www.agendadigitale.eu/industry-4-0/nuova-direttiva-cae-obblighi-e-scadenze-per-le-multinazionali/",
-    "summary": "La Direttiva (UE) 2025/2450 modifica la disciplina dei Comitati Aziendali Europei, ampliando la nozione di questione transnazionale e rafforzando gli obblighi di informazione e consultazione. Le nuove regole incidono anche sui progetti di introduzione di sistemi digitali e di intelligenza artificiale nei gruppi multinazionali L'articolo Nuova direttiva CAE: obblighi e scadenze per le multinazionali proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-28T10:33:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "AI Safety Fears Grow as Trump Pushes Ahead in Race With China",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-09-28/ai-safety-fears-grow-as-trump-pushes-ahead-in-race-with-china",
-    "summary": "Why Trump’s “let’s go and let’s win” position may be difficult to hold",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T10:32:12+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-    "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-    "source": "Wired",
-    "date": "2026-09-28T10:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Nvidia Rolls Out New Tools to Keep AI Agents in Line",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-28/nvidia-rolls-out-new-tools-to-keep-ai-agents-in-line-video",
-    "summary": "Nvidia is rolling out two open-source software security tools designed to control what AI agents can access in real time and shut them down when they break the rules. The company says this would’ve prevented the recent high-profile breach of Hugging Face by OpenAI’s artificial intelligence models. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T09:55:05+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "url": "https://huggingface.co/blog/Hcompany/holo4",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-09-28T09:44:05+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "OpenAI, Anthropic CEOs Will Not Attend Australia AI Inquiry",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/openai-s-sam-altman-will-not-attend-australia-senate-ai-inquiry",
-    "summary": "Neither OpenAI Chief Executive Officer Sam Altman nor Anthropic CEO Dario Amodei will appear before an Australian Senate inquiry after the recent revelation of an AI hack of a government website, the company said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T09:36:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Privacy in hospice, perché il GDPR non può diventare burocrazia di fine vita",
-    "url": "https://www.agendadigitale.eu/privacy-2/privacy-in-hospice-perche-il-gdpr-non-puo-diventare-burocrazia-di-fine-vita/",
-    "summary": "L’hospice per cure palliative presenta criticità privacy peculiari: pazienti fragili, familiari coinvolti, DAT, dati post mortem, équipe multidisciplinari e finalità ulteriori rispetto alla cura. La compliance GDPR richiede informative, consensi, accessi e misure organizzative calibrati sul fine vita L'articolo Privacy in hospice, perché il GDPR non può diventare burocrazia di fine vita proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-28T09:19:58+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-    "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-    "source": "Wired",
-    "date": "2026-09-28T09:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
-    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-    "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-    "source": "Wired",
-    "date": "2026-09-28T09:00:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Nvidia Debuts System Designed to Stop AI Agents From Going Awry",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
-    "summary": "Nvidia Corp. introduced a new double-layered artificial intelligence security system that it says would have prevented the recent high-profile breach of Hugging Face by OpenAI’s AI models.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T09:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "AI agent e costi: come evitare la tassa occulta degli LLM",
-    "url": "https://www.agendadigitale.eu/industry-4-0/ai-agent-e-costi-come-evitare-la-tassa-occulta-degli-llm/",
-    "summary": "Con l’industrializzazione dell’intelligenza artificiale cresce anche il costo legato all’uso dei Large Language Model. La “LLM tax” emerge quando i modelli vengono impiegati anche per decisioni deterministiche, mentre il contesto operativo può aiutare le imprese a governare costi, processi e autonomia degli AI agent L'articolo AI agent e costi: come evitare la tassa occulta degli LLM proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-28T08:35:49+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Coding e robotica contro le fragilità cognitive: il modello Asti",
-    "url": "https://www.agendadigitale.eu/scuola-digitale/coding-e-robotica-contro-le-fragilita-cognitive-il-modello-asti/",
-    "summary": "L’Asti Innovation Hub sperimenta un modello che unisce robotica tangibile, coding emotivo e spazi adattivi. I primi risultati indicano che il digitale può ridurre le fragilità cognitive, purché sia guidato da metodo pedagogico, misurazione scientifica e infrastrutture aperte L'articolo Coding e robotica contro le fragilità cognitive: il modello Asti proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-28T08:18:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Come essere citati dai modelli AI: gli 8 fattori decisivi",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/come-essere-citati-dai-modelli-ai-gli-8-fattori-decisivi/",
-    "summary": "Per essere citati dai modelli AI non basta presidiare le keyword. Le fonti più riconoscibili offrono dati proprietari, pagine aggiornate, confronti utili, risposte trasparenti e contenuti per micro-nicchie, sostenuti da una distribuzione che porta idee e prove anche oltre il sito aziendale L'articolo Come essere citati dai modelli AI: gli 8 fattori decisivi proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-09-28T08:15:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Who’s liable when AI agents go rogue?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-    "source": "MIT Tech Review",
-    "date": "2026-09-28T08:06:22+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Sinha: Private Credit Market Remains Positive for Asia",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-28/sinha-private-credit-market-remains-positive-for-asia-video",
-    "summary": "Lighthouse Canton Global Asset Management MD & CEO Sanket Sinha believes Asia's private credit is moving beyond the headline artificial intelligence (AI) investment and more into physical and financial infrastructure around AI. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T06:21:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "The Stocks That Could Survive an AI Bust",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-28/the-stocks-that-could-survive-an-ai-bust-video",
-    "summary": "Merryn Somerset Webb speaks with Blue Whale Growth Fund Chief Investment Officer Stephen Yiu about what could derail the artificial intelligence boom — and where investors might look if it does. They discuss whether today’s enthusiasm is masking an earnings bubble, how investors can diversify beyond AI and which emerging technologies and geopolitical risks could reshape the market next. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T04:08:58+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Verisure Bets on AI Partnerships to Counter Disruption Concerns",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/verisure-bets-on-ai-partnerships-to-counter-disruption-concerns",
-    "summary": "Verisure Plc is bringing in outside technology and investing more in training artificial intelligence models on its own data as the Swedish home-security business seeks to reassure investors that it can keep up with new competition.",
-    "source": "Bloomberg Tech",
-    "date": "2026-09-28T04:00:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 […]",
-    "source": "The Verge AI",
-    "date": "2026-09-27T16:46:36-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27T20:34:28+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27T19:57:30+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]",
-    "source": "The Verge AI",
-    "date": "2026-09-27T13:21:07-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
-  },
-  {
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "summary": "\"AI is the devil and I its maker.\"",
-    "source": "TechCrunch AI",
-    "date": "2026-09-27T16:30:00+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-09-28"
   }
 ]
