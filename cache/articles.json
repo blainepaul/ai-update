@@ -1,5 +1,155 @@
 [
   {
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
+    "source": "The Verge AI",
+    "date": "2026-10-11T07:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+    "source": "The Verge AI",
+    "date": "2026-10-10T18:10:17-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-10T21:47:51+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "source": "TechCrunch AI",
+    "date": "2026-10-10T19:50:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
+    "summary": "Nvidia Corp. is in talks to boost its investment in Reflection AI or offer the startup computing power, a move that would strengthen ties with a key developer of open-weight models, according to a person familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-10T18:52:58+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]",
+    "source": "The Verge AI",
+    "date": "2026-10-10T14:52:07-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+    "summary": "Microsoft Corp. Chief Executive Officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be compromised and create an “emergency brake” system to prevent agentic models from going rogue.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-10T18:35:59+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+    "url": "https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-10-10T18:08:33+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Bloomberg This Weekend | Diesel Deal Struck with Putin, Isaias Makes Landfall",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-10/bloomberg-this-weekend-10-10-2026-video",
+    "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York.\nJoined by Nancy Yousef - The Atlantic Staff Writer, Bill Wadell - AccuWeather Reporter, Kevin Roose - Tech Journalist, Author “The AGI Chronicles,” Shannon Kingston - ABC News State Department Reporter, Jesse Cole - Banana Ball Championship League Owner, Amanda Agati - PNC Asset MGMT Group Chief Investment O",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-10T15:55:31+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-10T15:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]",
+    "source": "The Verge AI",
+    "date": "2026-10-10T10:41:16-04:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
+    "summary": "The Trump administration’s embrace of legal liability to enforce artificial intelligence safety sets the stage for future conflicts over who foots the bill when AI models go rogue: the companies that design the systems or the people that deploy the technology.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-10T14:19:14+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-10T14:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "The Race for AI Supremacy Raises Safety Concerns",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
+    "summary": "Technology Journalist and Author Kevin Roose tells Bloomberg This Weekend that a relatively small group of researchers and executives at OpenAI, Anthropic and Google DeepMind has driven the race toward artificial general intelligence, raising questions about who controls the technology and its potential risks. Speaking with hosts David Gura and Christina Ruffini, Roose discusses his new book, The AGI Chronicles, and the challenges of regulating increasingly capable AI systems as developers pursu",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-10T13:41:50+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
+    "title": "AI agent makers are promising privacy — will they deliver?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+    "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
+    "source": "The Verge AI",
+    "date": "2026-10-10T09:00:00-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-11"
+  },
+  {
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
@@ -2488,125 +2638,5 @@
     "category": "ethics_safety",
     "_slot": "afternoon",
     "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-04/softbank-s-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
-    "summary": "SoftBank Group Corp. chief Masayoshi Son — one of AI’s fervent believers — said that even he’s worried about safety risks as machines quickly gain more abilities.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-04T09:32:29+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "Jev: Not Frontier, But Still Worth Your Attention [R]",
-    "url": "https://jevresearch.github.io/Jev-Research/",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-10-03T23:57:28+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "US AI Task Force to Report on Technology’s Risks, WSJ Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
-    "summary": "A new White House task force will produce a report assessing risks posed by artificial intelligence and what responsibility the US federal government should have over the technology.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-03T23:38:35+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-10-03T22:56:48+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03T18:43:57+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-    "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-    "source": "Wired",
-    "date": "2026-10-03T18:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-    "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-    "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, Further Evolving the RE Engine for […]",
-    "source": "The Verge AI",
-    "date": "2026-10-03T12:49:10-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03T16:30:01+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-    "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-    "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here and here, for the curious.) Before that, Kakul held executive roles […]",
-    "source": "The Verge AI",
-    "date": "2026-10-03T11:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "An OpenAI safety employee has quit and is sounding the alarm",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-    "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous […]",
-    "source": "The Verge AI",
-    "date": "2026-10-03T10:31:56-04:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-03T14:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
-  },
-  {
-    "title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-    "summary": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren’t doing enough to mitigate the technology’s risks, joining a growing chorus of employees raising alarms from within the industry.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-03T13:13:42+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-04"
   }
 ]
