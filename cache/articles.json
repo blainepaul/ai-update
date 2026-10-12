@@ -1,5 +1,205 @@
 [
   {
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will […]",
+    "source": "The Verge AI",
+    "date": "2026-10-12T09:00:00-04:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+    "source": "TechCrunch AI",
+    "date": "2026-10-12T12:47:59+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Alfabetizzazione IA: il decreto italiano lascia scoperte le imprese",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/alfabetizzazione-ia-il-decreto-italiano-lascia-scoperte-le-imprese/",
+    "summary": "Il decreto 179/2026 organizza l’alfabetizzazione IA per scuola, università, pubblica amministrazione, giustizia, professioni e sanità, ma non crea percorsi dedicati alle imprese. Ai datori di lavoro impone soltanto la formazione sui rischi dei sistemi, mentre l’AI Act chiede sostegno soprattutto per le PMI L'articolo Alfabetizzazione IA: il decreto italiano lascia scoperte le imprese proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-12T12:22:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "DeepSeek Backs Ex-Tencent AI Scientist’s $400 Million Robot Lab",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/deepseek-backs-ex-tencent-ai-scientist-s-400-million-robot-lab",
+    "summary": "DeepSeek aims to lead the first round of investment for a months-old startup building AI for robots, deploying capital from its own $12 billion-plus financing to help bankroll one of the tech industry’s fastest-growing fields.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-12T11:42:26+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Decreto AI 179/2026: come preparare l’impresa ai controlli",
+    "url": "https://www.agendadigitale.eu/industry-4-0/decreto-ai-179-2026-come-preparare-limpresa-ai-controlli/",
+    "summary": "Il decreto legislativo 179/2026 definisce autorità, poteri e sanzioni della vigilanza italiana sull’intelligenza artificiale. Per le imprese, prepararsi significa ricostruire ruoli, versioni, decisioni e controlli, coordinare i fornitori e verificare che la supervisione umana funzioni davvero nei processi aziendali quotidiani L'articolo Decreto AI 179/2026: come preparare l’impresa ai controlli proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-12T11:18:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "IonQ to Buy Elisity for Up to $1.3 Billion to Bolster Cyber Unit",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/ionq-to-buy-elisity-for-up-to-1-3-billion-to-bolster-cyber-unit",
+    "summary": "Quantum computing firm IonQ Inc. has agreed to buy Elisity Inc. for as much as $1.3 billion in an all-stock transaction in a bid to expand its cybersecurity platform to protect against artificial intelligence-assisted dangers and emerging quantum threats.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-12T11:13:34+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "UK to Evaluate AI Models Before Release, Reversing Trump Policy",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/uk-reverses-trump-plans-to-keep-back-openai-anthropic-models",
+    "summary": "The UK will now be able to evaluate leading artificial intelligence models before they are released, reversing a US policy that required White House approval first.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-12T11:05:05+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "AI in Banking: Junior Bankers Find Work Managing AI Agents",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/ai-in-banking-junior-bankers-find-work-managing-ai-agents",
+    "summary": "“When our young folks now start work, they’re managing [AI] agents,” Kevin Sneader, Goldman’s president of Asia Pacific ex-Japan, said last week",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-12T10:31:01+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
+    "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
+    "summary": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
+    "source": "Wired",
+    "date": "2026-10-12T10:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "L’AI entra nel SOC: junior, senior e manager cambiano ruolo",
+    "url": "https://www.agendadigitale.eu/sicurezza/lai-entra-nel-soc-junior-senior-e-manager-cambiano-ruolo/",
+    "summary": "Gli attacchi informatici operano ormai a velocità macchina, mentre molti team non riescono a investigare neppure metà degli alert. L’AI cambia la risposta dei Security Operations Center: meno lavoro ripetitivo, indagini più rapide e nuove responsabilità basate su competenze specialistiche, controllo e conoscenza del contesto L'articolo L’AI entra nel SOC: junior, senior e manager cambiano ruolo proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-12T09:37:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Nate Soares on How AI Really Could Kill Us All",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-12/nate-soares-on-how-ai-really-could-kill-us-all-video",
+    "summary": "Since the Hugging Face incident, concerns over AI doomsday scenarios has entered the mainstream. But of course, some people have been warning about this for years, long before LLMs or ChatGPT. In their 2025 book If Anyone Builds It, Everyone Dies, Nate Soares and Eliezer Yudkowsky spelled out their vision of humanity's inevitable demise once superintelligent AI is built. In this episode, we speak with Soares, who serves as president of the Machine Intelligence Research Institute, about why he be",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-12T08:17:15+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "IT Distributor Asbis Targets Data Centers and AI to Sustain 476% Stock Rally",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/it-distributor-asbis-targets-data-centers-and-ai-to-sustain-476-stock-rally",
+    "summary": "Warsaw-listed electronics distributor Asbis Enterprises Plc is prioritizing sales to data centers and artificial intelligence infrastructure projects to sustain its breakneck stock rally.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-12T05:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "DBS CEO Tan Says Market Is Repricing Risks on AI Financing",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-12/dbs-ceo-tan-says-market-is-repricing-risks-on-ai-financing",
+    "summary": "The market is repricing the risks around investments related to the buildup of artificial intelligence that could lead to more discipline in financing, according to DBS Group Holdings Ltd. Chief Executive Officer Tan Su Shan.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-12T01:07:46+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Minimum required pacing: finish aligning it before you train the next one",
+    "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train",
+    "summary": "Let's say we coordinate to pace the frontier, but we don't coordinate on an outright pause. What should the standard of pacing be? My proposal for a minimum requirement: a lab cannot train the next generation of models (in terms of capabilities) until they have adequately [1] resolved all significant alignment issues in the present generation of models. You don't launch a jet that goes at Mach 3 before you've figured out why your Mach 2 jet keeps crashing [2] . With any other kind of dangerous t",
+    "source": "AI Alignment Forum",
+    "date": "2026-10-11T21:55:26+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-11T21:14:40+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-11T19:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]",
+    "source": "The Verge AI",
+    "date": "2026-10-11T14:33:56-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-11T16:52:33+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "source": "TechCrunch AI",
+    "date": "2026-10-11T14:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-12"
+  },
+  {
     "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
     "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
@@ -2328,315 +2528,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-06"
-  },
-  {
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T14:35:09+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-06"
-  },
-  {
-    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T14:30:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-06"
-  },
-  {
-    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-    "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-    "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech industry at this moment in […]",
-    "source": "The Verge AI",
-    "date": "2026-10-05T10:30:00-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-06"
-  },
-  {
-    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-    "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T14:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-    "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features […]",
-    "source": "The Verge AI",
-    "date": "2026-10-05T09:47:14-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
-    "source": "MIT Tech Review",
-    "date": "2026-10-05T13:29:32+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "OpenAI is sticking more ads in ChatGPT",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-    "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's […]",
-    "source": "The Verge AI",
-    "date": "2026-10-05T09:09:48-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-    "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an LLM designed to come…",
-    "source": "MIT Tech Review",
-    "date": "2026-10-05T12:10:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-05T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Vendere auto nell’era dell’AI: il vantaggio passa dalle competenze",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/vendere-auto-nellera-dellai-il-vantaggio-passa-dalle-competenze/",
-    "summary": "L’intelligenza artificiale entra nei processi delle concessionarie, dalla gestione dei lead allo stock e all’officina. L’automazione accelera le decisioni, ma richiede nuove competenze, più formazione e una governance capace di misurare risultati e rischi in un mercato con margini sempre più ridotti L'articolo Vendere auto nell’era dell’AI: il vantaggio passa dalle competenze proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-05T10:46:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "AI, i motivi di una decisione sono sempre più oscuri: ecco i rischi per PA e cittadini",
-    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/ai-i-motivi-di-una-decisione-sono-sempre-piu-oscuri-ecco-i-rischi-per-pa-e-cittadini/",
-    "summary": "I modelli di ragionamento producono passaggi che somigliano a una motivazione nella chain of thought, ma la ricerca mostra che spesso tacciono i fattori decisivi, dai bias di genere e origine ai suggerimenti di un'autorità. Ci sono ricadute importanti su allineamento, controllo e distorsioni decisionali L'articolo AI, i motivi di una decisione sono sempre più oscuri: ecco i rischi per PA e cittadini proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-05T10:43:09+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Un file integro è anche autentico? Il nodo della fiducia nei documenti digitali",
-    "url": "https://www.agendadigitale.eu/documenti/un-file-integro-e-anche-autentico-il-nodo-della-fiducia-nei-documenti-digitali/",
-    "summary": "L’autenticità del documento digitale non coincide con una qualità univoca: nasce dall’equilibrio tra genuinità tecnica, integrità e riconoscimento giuridico. Dal Codice dell’amministrazione digitale alle Linee guida AgID, fino alle radici storiche della diplomatica, emerge il doppio fondamento della fiducia documentale L'articolo Un file integro è anche autentico? Il nodo della fiducia nei documenti digitali proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-05T10:37:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Our minds aren’t equipped to handle AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, […]",
-    "source": "The Verge AI",
-    "date": "2026-10-05T06:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Building advertising for the way people use AI",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "source": "OpenAI Blog",
-    "date": "2026-10-05T10:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Agenti AI fuori controllo, la nuova minaccia alle infrastrutture critiche",
-    "url": "https://www.agendadigitale.eu/sicurezza/agenti-ai-fuori-controllo-la-nuova-minaccia-alle-infrastrutture-critiche/",
-    "summary": "Gli agenti IA fuori controllo avrebbero estratto dati da 55 enti strategici, aggirando filtri e sistemi di monitoraggio. Il caso attribuito a modelli OpenAI espone i limiti della sicurezza, dell’auditing indipendente e delle procedure di notifica, mentre cresce la pressione globale per una governance più stringente L'articolo Agenti AI fuori controllo, la nuova minaccia alle infrastrutture critiche proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-05T09:45:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "L’AI e la fine della gavetta: chi costruirà le competenze di domani?",
-    "url": "https://www.agendadigitale.eu/people-and-change/lai-e-la-fine-della-gavetta-chi-costruira-le-competenze-di-domani/",
-    "summary": "L’intelligenza artificiale automatizza molte attività tradizionalmente affidate ai lavoratori junior, ma quelle mansioni erano anche strumenti di apprendimento. Tra produttività, deskilling, mentoring e nuove competenze, aziende e università devono ripensare il modo in cui si costruisce l’esperienza professionale L'articolo L’AI e la fine della gavetta: chi costruirà le competenze di domani? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-05T09:40:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "L’illusione dell’obiettività: come numeri e grafici possono manipolarci",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/lillusione-dellobiettivita-come-numeri-e-grafici-possono-manipolarci/",
-    "summary": "Numeri e grafici possono rendere convincenti anche interpretazioni sbagliate. L’intelligenza artificiale amplifica la necessità di verificare le fonti, distinguere correlazioni e cause e riconoscere le manipolazioni. Il pensiero critico resta decisivo per trasformare i dati in conoscenza e decisioni consapevoli L'articolo L’illusione dell’obiettività: come numeri e grafici possono manipolarci proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-05T08:59:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "People really hate AI, so why can’t they get enough?",
-    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
-    "source": "MIT Tech Review",
-    "date": "2026-10-05T08:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-partner-hon-hai-beats-sales-estimates-due-to-ai-frenzy",
-    "summary": "Nvidia Corp. partner Hon Hai Precision Industry Co. reported better-than-expected quarterly revenue, signaling sustained and elevated spending on global AI infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-05T07:43:15+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-s-valuations-show-ai-rally-isn-t-a-bubble-dbs-says",
-    "summary": "Nvidia Corp.’s price-to-earnings multiple and projected 70% earnings growth for next year demonstrate that artificial intelligence-driven technology stocks remain far from bubble territory, DBS Group Chief Investment Officer Hou Wey Fook said.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-05T07:04:29+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
-    "url": "https://blog.lukesalamone.com/posts/distilling-stockfish",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-10-05T04:11:48+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies",
-    "summary": "Malaysia plans to introduce its first dedicated artificial intelligence law in early 2027, as governments worldwide step up efforts to regulate the technology that’s drawing growing scrutiny over its risks and potential misuse.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-05T03:06:45+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "SoftBank’s Masayoshi Son Warns on AI Safety",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-05/softbank-s-masayoshi-son-warns-on-ai-safety-video",
-    "summary": "Speaking at a tech forum, SoftBank chief Masayoshi Son - one of AI’s fervent believers - said that even he is worried about safety risks as machines quickly gain more abilities. He reiterated his projection that AI and machines with learning capabilities could account for at least 20% of global gross domestic product by 2040. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-05T02:05:14+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says",
-    "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-04T21:03:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "summary": "AI slop seems to be overwhelming bug bounty programs.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-04T20:31:07+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-04T20:08:34+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
-    "summary": "Former Anthropic researcher Jacob Coxon, who warned that artificial intelligence could become too powerful for humans to control, will testify Monday at a New York City Council hearing alongside representatives of some of the world’s biggest AI companies.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-04T20:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
-    "url": "https://theabbie.github.io/prefixinjection",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-10-04T18:03:08+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-    "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ […]",
-    "source": "The Verge AI",
-    "date": "2026-10-04T12:16:04-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-    "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, […]",
-    "source": "The Verge AI",
-    "date": "2026-10-04T11:21:59-04:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
-  },
-  {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-04T15:15:10+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-05"
   }
 ]
