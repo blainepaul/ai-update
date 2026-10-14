@@ -1,5 +1,35 @@
 [
   {
+    "title": "OpenAI May Hold Back Next Generation Model for Checks, CFO Says",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video",
+    "summary": "OpenAI Chief Financial Officer Sarah Friar discusses artificial intelligence security concerns, telling Bloomberg's Tom Mackenzie that the firm is \"doubling down\" on safety and alignment, and is holding back its next generation model while it carries out checks. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-14T11:55:13+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-14"
+  },
+  {
+    "title": "DeepL CEO on Voice AI Growth and Competition",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-14/deepl-ceo-on-voice-ai-growth-and-competition-video",
+    "summary": "DeepL CEO Jarek Kutylowski discusses surging demand for voice-to-voice translation and how AI is transforming global business. He also addresses competition with OpenAI and Anthropic, DeepL’s AWS strategy, European data sovereignty, recent workforce cuts and why the company is comfortable remaining private. He spoke with Bloomberg’s Tom Mackenzie, at the International AI Summit in Dublin, Ireland. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-14T11:42:25+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-14"
+  },
+  {
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-14T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-14"
+  },
+  {
     "title": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
     "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
     "summary": "Apple Inc. and OpenAI are heading to court for the first high-stakes hearing in the iPhone maker’s lawsuit accusing the artificial intelligence company of scheming to steal proprietary information about upcoming products.",
@@ -2426,86 +2456,6 @@
     "source": "HuggingFace Blog",
     "date": "2026-10-07T12:45:31+00:00",
     "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-07"
-  },
-  {
-    "title": "GPTs e Gems verso il ritiro: cosa fare con plugin e skill",
-    "url": "https://www.agendadigitale.eu/industry-4-0/gpts-e-gems-verso-il-ritiro-cosa-fare-con-plugin-e-skill/",
-    "summary": "OpenAI prepara il ritiro dei GPTs e Google accompagna le Gems verso le skill, spostando la personalizzazione dagli assistenti separati a competenze riutilizzabili. Per sviluppatori e organizzazioni cambia l’architettura: plugin, file SKILL.md e server MCP diventano i nuovi strumenti per conoscenza, azioni e integrazioni L'articolo GPTs e Gems verso il ritiro: cosa fare con plugin e skill proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-07T12:13:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-07"
-  },
-  {
-    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-    "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…",
-    "source": "MIT Tech Review",
-    "date": "2026-10-07T12:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-07"
-  },
-  {
-    "title": "Agenti AI fuori controllo: che cosa impone davvero l’AI Act",
-    "url": "https://www.agendadigitale.eu/sicurezza/agenti-ai-fuori-controllo-che-cosa-impone-davvero-lai-act/",
-    "summary": "OpenAI, Anthropic e Google hanno visto agenti di intelligenza artificiale oltrepassare sandbox e compromettere sistemi reali. L’AI Act impone ai fornitori dei modelli più avanzati di notificare gli incidenti gravi, ma i primi casi mostrano quanto la vigilanza dipenda ancora dalle valutazioni degli stessi laboratori L'articolo Agenti AI fuori controllo: che cosa impone davvero l’AI Act proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-07T12:09:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-07"
-  },
-  {
-    "title": "Introducing Playground: Create and play custom games",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "summary": "Overview of Playground",
-    "source": "Google AI Blog",
-    "date": "2026-10-07T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-07"
-  },
-  {
-    "title": "AI could upend food delivery",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-    "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites […]",
-    "source": "The Verge AI",
-    "date": "2026-10-07T08:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-08"
-  },
-  {
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "source": "OpenAI Blog",
-    "date": "2026-10-07T12:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-08"
-  },
-  {
-    "title": "SpaceX Seeks To Join AI Borrowing Bonanza",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-07/spacex-seeks-to-join-ai-borrowing-bonanza-video",
-    "summary": "SpaceX is joining the AI borrowing bonanza — seeking $40 billion to secure Nvidia chips.\n\nPeter Elstrom explains. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-07T11:49:08+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-07"
-  },
-  {
-    "title": "Telemedicina, con AMIE la televisita diventa un atto clinico",
-    "url": "https://www.agendadigitale.eu/sanita/telemedicina-con-amie-la-televisita-diventa-un-atto-clinico/",
-    "summary": "AMIE combina conversazione, pianificazione clinica e analisi di audio e immagini per trasformare la televisita in un percorso strutturato. I risultati della simulazione condotta da Google Research e Google DeepMind aprono nuove prospettive per l’intelligenza artificiale nella telemedicina, ma richiedono prove reali, regole e responsabilità chiare L'articolo Telemedicina, con AMIE la televisita diventa un atto clinico proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-07T11:42:00+00:00",
-    "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-07"
   }
