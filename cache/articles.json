@@ -1,5 +1,45 @@
 [
   {
+    "title": "Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan",
+    "summary": "Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person’s day, marking the company’s efforts to reshape Bee, a startup it acquired last year to compete in the hot AI hardware segment.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-15T12:00:32+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-15"
+  },
+  {
+    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+    "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+    "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]",
+    "source": "The Verge AI",
+    "date": "2026-10-15T08:00:00-04:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-15"
+  },
+  {
+    "title": "AI Trade in Fear Phase Right Now, Says Baird’s Mortonson",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-15/ai-trade-in-fear-phase-right-now-says-baird-s-mortonson-video",
+    "summary": "Ted Mortonson, managing director of technology at Baird, expects that a sharp move lower in the artificial intelligence trade will happen “real quick” if the market moves from fear to a panic phase. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-15T11:31:11+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-15"
+  },
+  {
+    "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+    "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+    "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where […]",
+    "source": "The Verge AI",
+    "date": "2026-10-15T07:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-15"
+  },
+  {
     "title": "AI Demand Keeps T. Rowe Price CIO Optimistic on Trade",
     "url": "https://www.bloomberg.com/news/videos/2026-10-15/ai-demand-keeps-t-rowe-price-cio-optimistic-on-trade-video",
     "summary": "Sebastien Page, co-head of global investments and CIO at T. Rowe Price, explains why he “fundamentally” remains optimistic on the artificial intelligence trade over the next 6-12 months. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
@@ -2408,45 +2448,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-08"
-  },
-  {
-    "title": "German Startup Trains Its Robots Using Humans Filming Themselves",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-08/german-startup-trains-its-robots-using-humans-filming-themselves",
-    "summary": "Germany’s Agile Robots is training its machines by filming humans performing tasks, in a bid to compensate for a shortfall of data that is holding back industrial automation, according to its chief executive officer.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-08T12:24:45+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-08"
-  },
-  {
-    "title": "GPT-6 costa fino a cento volte di più: la strategia di OpenAI",
-    "url": "https://www.agendadigitale.eu/industry-4-0/gpt-6-costa-fino-a-cento-volte-di-piu-la-strategia-di-openai/",
-    "summary": "Il listino GPT-6 porta da cinque a cento volte la distanza tra modello base e frontiera, mentre OpenAI differenzia prezzi, velocità, contesto e ragionamento e trasforma ChatGPT in una piattaforma dove costi, lock-in e sicurezza diventano leve decisive nelle decisioni aziendali L'articolo GPT-6 costa fino a cento volte di più: la strategia di OpenAI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-08T12:04:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-08"
-  },
-  {
-    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "url": "https://openai.com/index/pollo-ai",
-    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "source": "OpenAI Blog",
-    "date": "2026-10-08T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-09"
-  },
-  {
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "url": "https://openai.com/index/legalon-halves-codex-costs",
-    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-    "source": "OpenAI Blog",
-    "date": "2026-10-08T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-09"
   }
 ]
