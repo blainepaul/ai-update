@@ -1,5 +1,85 @@
 [
   {
+    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+    "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+    "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+    "source": "Wired",
+    "date": "2026-10-18T10:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
+    "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+    "summary": "A deepening selloff in US technology stocks is exposing a new vulnerability in Asia’s artificial intelligence trade: mounting financing costs could choke off the spending needed to sustain the boom, threatening earnings across a supply chain that has powered the region’s stock-market rally.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-18T00:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
+    "title": "Deconfusing Corrigibility",
+    "url": "https://www.alignmentforum.org/posts/f8R3B2zqqTJZjSAsm/deconfusing-corrigibility",
+    "summary": "Many thanks to Abram Demski for materially and intellectually supporting this research. Thanks also to Brian Berns, Roman Malov, Gurkenglas, and Lorxus for valuable conversations. Introduction Despite the central place of corrigibility to theoretical AI alignment, it seems like no one can really agree about what is . Much of this confusion is due to the fact that almost every definition of corrigibility proposed thus far is deficient in one way or another. In particular, the most prevalent exist",
+    "source": "AI Alignment Forum",
+    "date": "2026-10-17T23:08:02+00:00",
+    "category": "ethics_safety",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-17T21:31:32+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+    "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-10-17T21:00:13+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-17T20:21:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
+    "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+    "url": "https://chrystianschutz.com/blog/ai-poker-holdembench/",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-10-17T19:41:19+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-17T18:48:08+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-10-18"
+  },
+  {
     "title": "Meta removes language that may have allowed it to scrape news sites",
     "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
@@ -2295,76 +2375,6 @@
     "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful […]",
     "source": "The Verge AI",
     "date": "2026-10-11T07:00:00-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-11"
-  },
-  {
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
-    "source": "The Verge AI",
-    "date": "2026-10-10T18:10:17-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-11"
-  },
-  {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-10T21:47:51+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-11"
-  },
-  {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-    "source": "TechCrunch AI",
-    "date": "2026-10-10T19:50:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-11"
-  },
-  {
-    "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
-    "summary": "Nvidia Corp. is in talks to boost its investment in Reflection AI or offer the startup computing power, a move that would strengthen ties with a key developer of open-weight models, according to a person familiar with the matter.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-10T18:52:58+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-11"
-  },
-  {
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]",
-    "source": "The Verge AI",
-    "date": "2026-10-10T14:52:07-04:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-11"
-  },
-  {
-    "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
-    "summary": "Microsoft Corp. Chief Executive Officer Satya Nadella said companies should treat powerful artificial intelligence models as potential insider threats, assume they could be compromised and create an “emergency brake” system to prevent agentic models from going rogue.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-10T18:35:59+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-11"
-  },
-  {
-    "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
-    "url": "https://github.com/vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing-",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-10-10T18:08:33+00:00",
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-11"
