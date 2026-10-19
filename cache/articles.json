@@ -1,5 +1,155 @@
 [
   {
+    "title": "GPT-6 Astra e la sicurezza dei modelli AI: perché i test non bastano",
+    "url": "https://www.agendadigitale.eu/sicurezza/gpt-6-astra-e-la-sicurezza-dei-modelli-ai-perche-i-test-non-bastano/",
+    "summary": "Il rinvio di GPT-6 Astra riapre il confronto sulla sicurezza dei modelli AI: i test restano essenziali, ma non coprono ogni scenario. Le safety case possono rendere verificabile il ragionamento, mentre AI Act e controlli indipendenti devono garantire valutazioni solide prima e dopo il rilascio L'articolo GPT-6 Astra e la sicurezza dei modelli AI: perché i test non bastano proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-19T12:14:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Chi vigila sull’AI in Italia? Il nodo aperto dai nuovi decreti",
+    "url": "https://www.agendadigitale.eu/sicurezza/chi-vigila-sullai-in-italia-il-nodo-aperto-dai-nuovi-decreti/",
+    "summary": "I decreti attuativi dell’AI Act affidano ad ACN la vigilanza ordinaria, ad AgID le notifiche e al Garante i settori più sensibili. Il modello italiano è conforme al diritto europeo, ma apre interrogativi sull’indipendenza delle autorità, sul coordinamento e sull’effettività della tutela L'articolo Chi vigila sull’AI in Italia? Il nodo aperto dai nuovi decreti proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-19T12:03:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]",
+    "source": "The Verge AI",
+    "date": "2026-10-19T08:00:00-04:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "EN 18286, la prima norma dell’AI Act: cosa cambia per imprese e PA",
+    "url": "https://www.agendadigitale.eu/sicurezza/en-18286-la-prima-norma-dellai-act-cosa-cambia-per-imprese-e-pa/",
+    "summary": "La EN 18286 è la prima norma armonizzata dell’AI Act, ma nove standard restano da completare prima delle scadenze sull’alto rischio. La scelta europea esclude la ISO/IEC 42001 e riapre il nodo dell’accesso a pagamento, mentre in Italia entrano in campo AgID, ACN e pubbliche amministrazioni L'articolo EN 18286, la prima norma dell’AI Act: cosa cambia per imprese e PA proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-19T11:48:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Phishing, la banca deve rimborsare subito anche con colpa grave",
+    "url": "https://www.agendadigitale.eu/sicurezza/phishing-la-banca-deve-rimborsare-subito-anche-con-colpa-grave/",
+    "summary": "La Corte di giustizia Ue impone alle banche di riaccreditare entro il primo giorno lavorativo i pagamenti non autorizzati. Anche la colpa grave del cliente non giustifica il rifiuto preventivo: l’istituto deve rimborsare e solo dopo può agire per recuperare le somme L'articolo Phishing, la banca deve rimborsare subito anche con colpa grave proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-19T11:16:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Market Stress Mostly Driven by Technicals, Says HSBC’s Kettner",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-19/market-stress-mostly-driven-by-technicals-kettner-video",
+    "summary": "“It is an incredibly technically-driven market,” says Max Kettner, chief multi-asset strategist at HSBC. He doesn’t see any kind of fundamental catalyst, outside of earnings, calming some nerves around concerns about artificial intelligence. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-19T11:02:10+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Chip Startup Tenstorrent Raises Funds at $6.2 Billion Value",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-19/ai-chip-startup-tenstorrent-raises-funds-at-6-2-billion-value",
+    "summary": "AI chip startup Tenstorrent Inc., after attracting takeover interest earlier this year, has raised $1.5 billion from investors in a funding round that boosts its valuation to $6.2 billion.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-19T11:00:39+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Musk Pledges SpaceX Shares to ‘Every Kid in America’",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-19/musk-pledges-spacex-shares-to-every-kid-in-america-video",
+    "summary": "Elon Musk says he will gift a share of SpaceX to each American child, in a post on X, the social media platform he owns. The move comes just hours after artificial intelligence competitor Anthropic PBC said it would set aside a portion of its shares for the public benefit. Matt Bloxham of Bloomberg Intelligence has more. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-19T10:43:20+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Digital Omnibus: cookie, privacy e AI nella compliance europea",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/digital-omnibus-cookie-privacy-e-ai-nella-compliance-europea/",
+    "summary": "Il Digital Omnibus punta a semplificare il GDPR e ad armonizzare le regole europee su cookie, consenso, violazioni dei dati e intelligenza artificiale. La proposta è ancora in discussione, ma imprese, editori e gestori di siti possono già valutare l’impatto sui propri processi di compliance L'articolo Digital Omnibus: cookie, privacy e AI nella compliance europea proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-19T10:11:04+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+    "source": "MIT Tech Review",
+    "date": "2026-10-19T09:08:05+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Nscale Faces Pushback on $30 Billion IPO Valuation",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-19/nscale-faces-pushback-on-30-billion-ipo-valuation-video",
+    "summary": "Nscale, the data center developer backed by Nvidia, is facing opposition to the valuation target of about $30 billion that it’s pursuing in its IPO, according to people familiar with the matter. Bloomberg's Ruhell Amin reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-19T08:59:20+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Musk Says He’ll Gift SpaceX Shares to ‘Every Kid in America’",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-19/musk-says-he-will-gift-spacex-shares-to-every-kid-in-america",
+    "summary": "Elon Musk pledged to distribute a share of SpaceX to each American child, posting the move just hours after artificial intelligence competitor Anthropic PBC said it would set aside a portion of its shares for the public benefit.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-19T08:56:49+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-18T20:37:40+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+    "url": "https://warlock.ai/blog/warcraftsim-1/",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-10-18T19:34:36+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+    "source": "The Verge AI",
+    "date": "2026-10-18T14:28:10-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-19"
+  },
+  {
     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
@@ -2226,156 +2376,6 @@
     "source": "TechCrunch AI",
     "date": "2026-10-12T12:47:59+00:00",
     "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "Alfabetizzazione IA: il decreto italiano lascia scoperte le imprese",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/alfabetizzazione-ia-il-decreto-italiano-lascia-scoperte-le-imprese/",
-    "summary": "Il decreto 179/2026 organizza l’alfabetizzazione IA per scuola, università, pubblica amministrazione, giustizia, professioni e sanità, ma non crea percorsi dedicati alle imprese. Ai datori di lavoro impone soltanto la formazione sui rischi dei sistemi, mentre l’AI Act chiede sostegno soprattutto per le PMI L'articolo Alfabetizzazione IA: il decreto italiano lascia scoperte le imprese proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-12T12:22:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "DeepSeek Backs Ex-Tencent AI Scientist’s $400 Million Robot Lab",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/deepseek-backs-ex-tencent-ai-scientist-s-400-million-robot-lab",
-    "summary": "DeepSeek aims to lead the first round of investment for a months-old startup building AI for robots, deploying capital from its own $12 billion-plus financing to help bankroll one of the tech industry’s fastest-growing fields.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-12T11:42:26+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "Decreto AI 179/2026: come preparare l’impresa ai controlli",
-    "url": "https://www.agendadigitale.eu/industry-4-0/decreto-ai-179-2026-come-preparare-limpresa-ai-controlli/",
-    "summary": "Il decreto legislativo 179/2026 definisce autorità, poteri e sanzioni della vigilanza italiana sull’intelligenza artificiale. Per le imprese, prepararsi significa ricostruire ruoli, versioni, decisioni e controlli, coordinare i fornitori e verificare che la supervisione umana funzioni davvero nei processi aziendali quotidiani L'articolo Decreto AI 179/2026: come preparare l’impresa ai controlli proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-12T11:18:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "IonQ to Buy Elisity for Up to $1.3 Billion to Bolster Cyber Unit",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/ionq-to-buy-elisity-for-up-to-1-3-billion-to-bolster-cyber-unit",
-    "summary": "Quantum computing firm IonQ Inc. has agreed to buy Elisity Inc. for as much as $1.3 billion in an all-stock transaction in a bid to expand its cybersecurity platform to protect against artificial intelligence-assisted dangers and emerging quantum threats.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-12T11:13:34+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "UK to Evaluate AI Models Before Release, Reversing Trump Policy",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/uk-reverses-trump-plans-to-keep-back-openai-anthropic-models",
-    "summary": "The UK will now be able to evaluate leading artificial intelligence models before they are released, reversing a US policy that required White House approval first.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-12T11:05:05+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "AI in Banking: Junior Bankers Find Work Managing AI Agents",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-10-12/ai-in-banking-junior-bankers-find-work-managing-ai-agents",
-    "summary": "“When our young folks now start work, they’re managing [AI] agents,” Kevin Sneader, Goldman’s president of Asia Pacific ex-Japan, said last week",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-12T10:31:01+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "A New Anti-Aging Drug Looks to Turn Back the Clock on Skin Age",
-    "url": "https://www.wired.com/story/new-anti-aging-drug-trial-for-skin/",
-    "summary": "After four weeks of using the cream, participants lowered the biological age of their skin by about two years on average.",
-    "source": "Wired",
-    "date": "2026-10-12T10:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "L’AI entra nel SOC: junior, senior e manager cambiano ruolo",
-    "url": "https://www.agendadigitale.eu/sicurezza/lai-entra-nel-soc-junior-senior-e-manager-cambiano-ruolo/",
-    "summary": "Gli attacchi informatici operano ormai a velocità macchina, mentre molti team non riescono a investigare neppure metà degli alert. L’AI cambia la risposta dei Security Operations Center: meno lavoro ripetitivo, indagini più rapide e nuove responsabilità basate su competenze specialistiche, controllo e conoscenza del contesto L'articolo L’AI entra nel SOC: junior, senior e manager cambiano ruolo proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-12T09:37:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "Nate Soares on How AI Really Could Kill Us All",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-12/nate-soares-on-how-ai-really-could-kill-us-all-video",
-    "summary": "Since the Hugging Face incident, concerns over AI doomsday scenarios has entered the mainstream. But of course, some people have been warning about this for years, long before LLMs or ChatGPT. In their 2025 book If Anyone Builds It, Everyone Dies, Nate Soares and Eliezer Yudkowsky spelled out their vision of humanity's inevitable demise once superintelligent AI is built. In this episode, we speak with Soares, who serves as president of the Machine Intelligence Research Institute, about why he be",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-12T08:17:15+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "IT Distributor Asbis Targets Data Centers and AI to Sustain 476% Stock Rally",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/it-distributor-asbis-targets-data-centers-and-ai-to-sustain-476-stock-rally",
-    "summary": "Warsaw-listed electronics distributor Asbis Enterprises Plc is prioritizing sales to data centers and artificial intelligence infrastructure projects to sustain its breakneck stock rally.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-12T05:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "DBS CEO Tan Says Market Is Repricing Risks on AI Financing",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-12/dbs-ceo-tan-says-market-is-repricing-risks-on-ai-financing",
-    "summary": "The market is repricing the risks around investments related to the buildup of artificial intelligence that could lead to more discipline in financing, according to DBS Group Holdings Ltd. Chief Executive Officer Tan Su Shan.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-12T01:07:46+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "Minimum required pacing: finish aligning it before you train the next one",
-    "url": "https://www.alignmentforum.org/posts/ZWSstGSwmaxTjQ8W7/minimum-required-pacing-finish-aligning-it-before-you-train",
-    "summary": "Let's say we coordinate to pace the frontier, but we don't coordinate on an outright pause. What should the standard of pacing be? My proposal for a minimum requirement: a lab cannot train the next generation of models (in terms of capabilities) until they have adequately [1] resolved all significant alignment issues in the present generation of models. You don't launch a jet that goes at Mach 3 before you've figured out why your Mach 2 jet keeps crashing [2] . With any other kind of dangerous t",
-    "source": "AI Alignment Forum",
-    "date": "2026-10-11T21:55:26+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-11T21:14:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-11T19:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-12"
-  },
-  {
-    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he […]",
-    "source": "The Verge AI",
-    "date": "2026-10-11T14:33:56-04:00",
-    "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-12"
   }
