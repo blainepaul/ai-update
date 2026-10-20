@@ -1,5 +1,75 @@
 [
   {
+    "title": "Sentenze scritte con l’AI: i confini che la giustizia non può ignorare",
+    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/sentenze-scritte-con-lai-i-confini-che-la-giustizia-non-puo-ignorare/",
+    "summary": "Le risposte dei chatbot rimaste nelle decisioni giudiziarie rivelano un fenomeno più ampio di singole distrazioni. Tra sentenze, precedenti inesistenti e uso di Copilot, l’intelligenza artificiale nella giustizia apre interrogativi sulla responsabilità dei magistrati, sulla verifica degli output e sulla credibilità del sistema L'articolo Sentenze scritte con l’AI: i confini che la giustizia non può ignorare proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-20T12:23:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-20"
+  },
+  {
+    "title": "China Sets Up State-Owned Data Group to Drive its AI Ambitions",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-sets-up-state-owned-data-group-to-drive-its-ai-ambitions",
+    "summary": "China has established a new state-owned data group directly administered by the central government as Beijing seeks to strengthen its data infrastructure and foster technological development to support its artificial intelligence ambitions.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-20T12:13:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-20"
+  },
+  {
+    "title": "Salesforce to Buy Marketing Platform Braze for $5.7 Billion",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/salesforce-to-buy-marketing-platform-braze-for-5-7-billion",
+    "summary": "Salesforce Inc. has agreed to buy Braze Inc., an artificial intelligence-powered platform for marketers, for almost $5.7 billion in enterprise value.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-20T12:12:14+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-20"
+  },
+  {
+    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of…",
+    "source": "MIT Tech Review",
+    "date": "2026-10-20T12:10:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-20"
+  },
+  {
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+    "source": "MIT Tech Review",
+    "date": "2026-10-20T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-20"
+  },
+  {
+    "title": "Dalla certezza all’inganno: la fiducia fragile nell’AI generativa",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/dalla-certezza-allinganno-la-fiducia-fragile-nellai-generativa/",
+    "summary": "L’intelligenza artificiale non si limita a calcolare: persuade, imita l’empatia e sfrutta i meccanismi cognitivi della fiducia. Pubblicità invisibile, opacità dei modelli e supervisione umana inefficace impongono nuove regole fondate sulla responsabilità delle imprese e sulla tutela della libertà di scelta L'articolo Dalla certezza all’inganno: la fiducia fragile nell’AI generativa proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-20T11:57:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-20"
+  },
+  {
+    "title": "I numeri del boom dell’AI: cosa non torna nei conti di OpenAI e Big Tech",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/i-numeri-del-boom-dellai-cosa-non-torna-nei-conti-di-openai-e-big-tech/",
+    "summary": "Una differenza di 20 miliardi nei ricavi annualizzati di OpenAI ha scosso i mercati e mostrato quanto siano fragili i numeri del boom dell’AI, tra metriche non confrontabili, impegni fuori bilancio, rivalutazioni dei laboratori privati e rendimenti ancora difficili da misurare L'articolo I numeri del boom dell’AI: cosa non torna nei conti di OpenAI e Big Tech proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-20T11:47:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-20"
+  },
+  {
     "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
     "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
@@ -7,6 +77,16 @@
     "date": "2026-10-20T11:00:00+00:00",
     "category": "business_investment",
     "_slot": "morning",
+    "_slot_date": "2026-10-20"
+  },
+  {
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-20T11:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
     "_slot_date": "2026-10-20"
   },
   {
@@ -2486,86 +2566,6 @@
     "source": "TechCrunch AI",
     "date": "2026-10-13T13:00:00+00:00",
     "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-13"
-  },
-  {
-    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "summary": "The startup will sell some of its assets to Disney for $20 million.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-13T12:23:42+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-13"
-  },
-  {
-    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
-    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-    "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-10-13T12:00:49+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-13"
-  },
-  {
-    "title": "The Download: open model trade-offs and geothermal power’s promise",
-    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
-    "source": "MIT Tech Review",
-    "date": "2026-10-13T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-13"
-  },
-  {
-    "title": "AI Turns Little-Known Lithuanian Unicorn Into Data Powerhouse",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-13/ai-turns-little-known-lithuanian-unicorn-into-data-powerhouse",
-    "summary": "A Baltic tech company tucked away on the site of a former sock factory has soared to become Lithuania’s latest unicorn, positioning itself as the workhorse of the data-driven artificial intelligence revolution.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-13T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-13"
-  },
-  {
-    "title": "Higgsfield takes AI video from 1 minute to over 10",
-    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-    "source": "OpenAI Blog",
-    "date": "2026-10-13T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-10-14"
-  },
-  {
-    "title": "Frodi nella green economy e nel PNRR, il ruolo decisivo dei dati",
-    "url": "https://www.agendadigitale.eu/smart-city/frodi-nella-green-economy-e-nel-pnrr-il-ruolo-decisivo-dei-dati/",
-    "summary": "Green economy e PNRR concentrano risorse, accelerano procedure e ampliano i rischi di frode. Rendicontazione di sostenibilità, revisione, controlli pubblici e intelligenza artificiale diventano strumenti complementari per verificare dati, filiere e risultati, proteggendo investimenti e sicurezza economica senza confondere anomalie e prove L'articolo Frodi nella green economy e nel PNRR, il ruolo decisivo dei dati proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-13T11:55:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-13"
-  },
-  {
-    "title": "Modelli GPT-6 e soluzioni OpenAI per le aziende: la guida",
-    "url": "https://www.agendadigitale.eu/industry-4-0/modelli-gpt-6-e-soluzioni-openai-per-le-aziende-la-guida/",
-    "summary": "OpenAI amplia l’offerta per le imprese con GPT-6, GPT-6.1 Sol, ChatGPT Business, Work, Codex e Frontier. Modelli, costi, livelli di ragionamento, accesso e sicurezza determinano quale soluzione può sostenere attività quotidiane, sviluppo software, automazioni e processi aziendali complessi, con risultati misurabili L'articolo Modelli GPT-6 e soluzioni OpenAI per le aziende: la guida proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-13T11:46:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-13"
-  },
-  {
-    "title": "Il paradosso del Catasto: controlli con l’AI, tasse calcolate su valori di 37 anni fa",
-    "url": "https://www.agendadigitale.eu/documenti/il-paradosso-del-catasto-controlli-con-lai-tasse-calcolate-su-valori-di-37-anni-fa/",
-    "summary": "Il Fisco usa immagini aeree e intelligenza artificiale per individuare immobili sconosciuti e rendite non aggiornate. Ma il sistema catastale continua a basarsi su valori del 1988-1989, lasciando irrisolte profonde disparità fiscali tra immobili e territori L'articolo Il paradosso del Catasto: controlli con l’AI, tasse calcolate su valori di 37 anni fa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-13T11:41:00+00:00",
-    "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-13"
   }
