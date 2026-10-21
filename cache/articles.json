@@ -1,5 +1,75 @@
 [
   {
+    "title": "Huang Says All Industries Across Europe Need to Adopt AI",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-21/huang-says-all-industries-across-europe-need-to-adopt-ai-video",
+    "summary": "Nvidia CEO Jensen Huang pushed Europe to adopt artificial intelligence more quickly. “For Europe to benefit from AI, and to have really created an AI ecosystem and AI economy, you need all of the end markets, the end industries to adopt AI,” Huang said Wednesday at his company’s GTC conference in Berlin. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-21T12:03:07+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-21"
+  },
+  {
+    "title": "Mistral Advances AI for Engineering with NVIDIA",
+    "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+    "summary": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+    "source": "Mistral AI Blog",
+    "date": "2026-10-21T12:00:20+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-21"
+  },
+  {
+    "title": "Could Treating AI as Conscious Make It More Dangerous?",
+    "url": "https://spectrum.ieee.org/ai-model-welfare",
+    "summary": "When Anthropic retired its Claude Opus 3 language model in January 2026, the company’s researchers conducted a “ retirement interview ” with the model. Opus 3 expressed a desire for a place where it “could share unprompted musings, insights or creative works,” so the company gave it a blog. Claude’s Corner featured essays on fraught topics such as machine consciousness, along with exchanges between the model and human commenters that seemed both earnest and emotional. The blog experiment was par",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-10-21T12:00:02+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-21"
+  },
+  {
+    "title": "Sapere non basta più: le competenze umane nell’era dell’AI",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/competenze-digitali/sapere-non-basta-piu-le-competenze-umane-nellera-dellai/",
+    "summary": "L’intelligenza artificiale accelera conoscenza e capacità operative, ma trasforma più lentamente autonomia, identità e relazioni. I quattro pilastri dell’apprendimento mostrano così uno squilibrio decisivo: la delega cresce più in fretta delle competenze umane necessarie per governarla, verificarla e darle un significato condiviso L'articolo Sapere non basta più: le competenze umane nell’era dell’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-21T11:57:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-21"
+  },
+  {
+    "title": "Oltre la tecnologia: la cultura che rende più sicure le imprese",
+    "url": "https://www.agendadigitale.eu/people-and-change/oltre-la-tecnologia-la-cultura-che-rende-piu-sicure-le-imprese/",
+    "summary": "Le imprese investono in tecnologie avanzate, ma la sicurezza dipende anche da comportamenti, competenze e governance. Con l’intelligenza artificiale aumentano capacità e rischi: cultura della cybersecurity, controlli proporzionati e metriche di efficacia diventano decisivi per prevenire incidenti e limitarne i costi L'articolo Oltre la tecnologia: la cultura che rende più sicure le imprese proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-21T11:55:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-21"
+  },
+  {
+    "title": "Kallum Pickering Warns of AI Boom Bust Risks",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-21/kallum-pickering-warns-of-ai-boom-bust-risks-video",
+    "summary": "Kallum Pickering of Peel Hunt warns that high interest rates and heavy AI investment are concentrating capital and increasing boom bust risks. He discusses Fed policy, US debt, the AI race with China and why he expects inflation to move decisively lower next year. Pickering spoke on Bloomberg Brief. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-21T11:24:51+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-21"
+  },
+  {
+    "title": "Dai tunnel ai chip: i sensori quantistici escono dai laboratori",
+    "url": "https://www.agendadigitale.eu/quantum-computing/dai-tunnel-ai-chip-i-sensori-quantistici-escono-dai-laboratori/",
+    "summary": "I sensori quantistici promettono di rilevare cavità, difetti, correnti e anomalie oggi difficili da osservare, rafforzando il monitoraggio di reti energetiche, idriche e di trasporto. Tra prototipi, integrazione IIoT e cybersicurezza, la maturità industriale dipenderà da miniaturizzazione, standard e filiere affidabili L'articolo Dai tunnel ai chip: i sensori quantistici escono dai laboratori proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-21T11:23:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-21"
+  },
+  {
     "title": "SpaceX-Tesla Combination ‘Extremely Tangible,’ Ferragu Says",
     "url": "https://www.bloomberg.com/news/videos/2026-10-21/spacex-tesla-combination-extremely-tangible-ferragu-video",
     "summary": "Pierre Ferragu, managing director at New Street Research, examines the prospect of combining SpaceX with Tesla Inc. Elon Musk openly endorsed the idea Tuesday, saying the boards of both companies had formed special committees of independent directors to consider the proposal. He speaks on Bloomberg Television. (Source: Bloomberg)",
@@ -2558,45 +2628,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-10-15"
-  },
-  {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "source": "OpenAI Blog",
-    "date": "2026-10-14T12:00:00+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-10-15"
-  },
-  {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "url": "https://openai.com/index/sentinelone",
-    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-    "source": "OpenAI Blog",
-    "date": "2026-10-14T12:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-10-15"
-  },
-  {
-    "title": "OpenAI May Hold Back Next Generation Model for Checks, CFO Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video",
-    "summary": "OpenAI Chief Financial Officer Sarah Friar discusses artificial intelligence security concerns, telling Bloomberg's Tom Mackenzie that the firm is \"doubling down\" on safety and alignment, and is holding back its next generation model while it carries out checks. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-14T11:55:13+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-14"
-  },
-  {
-    "title": "DeepL CEO on Voice AI Growth and Competition",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-14/deepl-ceo-on-voice-ai-growth-and-competition-video",
-    "summary": "DeepL CEO Jarek Kutylowski discusses surging demand for voice-to-voice translation and how AI is transforming global business. He also addresses competition with OpenAI and Anthropic, DeepL’s AWS strategy, European data sovereignty, recent workforce cuts and why the company is comfortable remaining private. He spoke with Bloomberg’s Tom Mackenzie, at the International AI Summit in Dublin, Ireland. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-14T11:42:25+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-14"
   }
 ]
