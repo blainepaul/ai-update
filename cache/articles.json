@@ -1,5 +1,35 @@
 [
   {
+    "title": "Perché il rifiuto degli LLM non basta a rendere sicura l’AI",
+    "url": "https://www.agendadigitale.eu/sicurezza/perche-il-rifiuto-degli-llm-non-basta-a-rendere-sicura-lai/",
+    "summary": "I grandi modelli linguistici vengono addestrati a rifiutare richieste pericolose, ma il loro “no” nasce da calcoli probabilistici e può essere aggirato. Tra jailbreak, informazioni a doppio uso e decisioni private sui limiti, la sicurezza dell’intelligenza artificiale resta esposta a falle e abusi L'articolo Perché il rifiuto degli LLM non basta a rendere sicura l’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-22T12:08:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-22"
+  },
+  {
+    "title": "Sicurezza cyber, la filiera resta il punto debole delle imprese",
+    "url": "https://www.agendadigitale.eu/sicurezza/sicurezza-cyber-la-filiera-resta-il-punto-debole-delle-imprese/",
+    "summary": "L’EY Cyber Barometer 2025 misura la maturità cyber delle imprese italiane e individua nella supply chain il fronte più fragile. Controlli di base diffusi, divari tra settori e verifiche ancora deboli mostrano perché continuità operativa, fornitori e capacità di ripristino devono entrare nelle decisioni aziendali L'articolo Sicurezza cyber, la filiera resta il punto debole delle imprese proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-22T11:57:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-22"
+  },
+  {
+    "title": "Meta Reports $825 Billion in Future Spending Commitments",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-22/meta-reports-825-billion-in-future-spending-commitments",
+    "summary": "Meta Platforms Inc. said it has agreed to spend about $825 billion in the future on various leases and contracts, many of them related to computing power and infrastructure for artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-22T11:35:47+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-22"
+  },
+  {
     "title": "Nvidia’s Jensen Huang Scolds Europe on AI Race",
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-22/nvidia-s-jensen-huang-scolds-europe-on-ai-race",
     "summary": "The CEO urges the bloc to get serious and harness its strengths to join the AI race",
@@ -7,6 +37,16 @@
     "date": "2026-10-22T11:02:01+00:00",
     "category": "business_investment",
     "_slot": "morning",
+    "_slot_date": "2026-10-22"
+  },
+  {
+    "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+    "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+    "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security […]",
+    "source": "The Verge AI",
+    "date": "2026-10-22T07:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
     "_slot_date": "2026-10-22"
   },
   {
@@ -2748,55 +2788,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-10-16"
-  },
-  {
-    "title": "Amazon Debuts Revamped Bee AI Wearables, $12-a-Month Subscription Plan",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan",
-    "summary": "Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person’s day, marking the company’s efforts to reshape Bee, a startup it acquired last year to compete in the hot AI hardware segment.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-15T12:00:32+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-15"
-  },
-  {
-    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-    "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-    "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]",
-    "source": "The Verge AI",
-    "date": "2026-10-15T08:00:00-04:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-15"
-  },
-  {
-    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-15T12:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-10-16"
-  },
-  {
-    "title": "Introducing Timestral",
-    "url": "https://mistral.ai/news/timestral/",
-    "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.",
-    "source": "Mistral AI Blog",
-    "date": "2026-10-15T12:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-10-16"
-  },
-  {
-    "title": "AI Trade in Fear Phase Right Now, Says Baird’s Mortonson",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-15/ai-trade-in-fear-phase-right-now-says-baird-s-mortonson-video",
-    "summary": "Ted Mortonson, managing director of technology at Baird, expects that a sharp move lower in the artificial intelligence trade will happen “real quick” if the market moves from fear to a panic phase. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-15T11:31:11+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-15"
   }
 ]
