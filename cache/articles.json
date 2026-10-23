@@ -1,5 +1,45 @@
 [
   {
+    "title": "BlackRock’s Boivin Sees Rates Getting More in Line With the Environment",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-23/rates-getting-more-in-line-with-environment-boivin-video",
+    "summary": "Jean Boivin, head of BlackRock Investment Institute, discusses the firm turning positive on US Treasuries, how the artificial intelligence buildout is influencing rates, and why long-term US Treasuries are “starting to be attractive.” He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-23T12:16:32+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-23"
+  },
+  {
+    "title": "Sanità digitale, perché la cura deve restare una relazione umana",
+    "url": "https://www.agendadigitale.eu/sanita/sanita-digitale-perche-la-cura-deve-restare-una-relazione-umana/",
+    "summary": "Telemedicina e intelligenza artificiale possono aiutare a seguire i pazienti, ma il monitoraggio non basta a prendersi cura. Per il Fasi servono trasparenza, protezione dei dati e una relazione umana che accompagni le decisioni cliniche L'articolo Sanità digitale, perché la cura deve restare una relazione umana proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-23T12:12:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-23"
+  },
+  {
+    "title": "Retro gaming is being overrun with AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
+    "source": "The Verge AI",
+    "date": "2026-10-23T08:00:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-23"
+  },
+  {
+    "title": "Dudley Sees Fed Likely to Hold With a Hike Coming in December",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-23/dudley-sees-fed-likely-to-hold-with-a-hike-in-december-video",
+    "summary": "Bill Dudley, former New York Fed President and Bloomberg Opinion columnist, discusses messaging on interest rates from the Federal Reserve’s so-called troika, the influence of the artificial intelligence buildout on rates, and his expectation for the central bank to hold steady in October. His opinions are his own. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-10-23T11:52:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-23"
+  },
+  {
     "title": "AI Chipmaker Cambricon’s Sales Miss in Sign of Output Constraint",
     "url": "https://www.bloomberg.com/news/articles/2026-10-23/ai-chipmaker-cambricon-s-sales-miss-in-sign-of-output-constraint",
     "summary": "Cambricon Technologies Corp. reported a slower-than-expected revenue growth in a reflection of its persistent challenges with manufacturing constraints and memory chip shortages.",
@@ -2788,35 +2828,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-10-17"
-  },
-  {
-    "title": "AI Act, come funzionano le nuove sanzioni previste in Italia",
-    "url": "https://www.agendadigitale.eu/sicurezza/ai-act-come-funzionano-le-nuove-sanzioni-previste-in-italia/",
-    "summary": "Il decreto 179 adegua l'ordinamento italiano all'AI Act e distribuisce i poteri sanzionatori tra ACN, AgID, Banca d'Italia, CONSOB, IVASS e Garante privacy. Multe fino al 7% del fatturato mondiale convivono con procedure diverse, rinvii normativi e garanzie affidate anche alla giurisprudenza L'articolo AI Act, come funzionano le nuove sanzioni previste in Italia proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-16T12:22:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-10-17"
-  },
-  {
-    "title": "Mascotte per gli agenti AI: un volto tenero dietro un potere crescente",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/mascotte-per-gli-agenti-ai-un-volto-tenero-dietro-un-potere-crescente/",
-    "summary": "Meta e OpenAI affidano a personaggi teneri il compito di rendere più familiari gli agenti capaci di gestire posta, agenda e pagamenti. La strategia cerca di superare la diffidenza degli utenti, ma apre interrogativi su dati, minori e controlli effettivi L'articolo Mascotte per gli agenti AI: un volto tenero dietro un potere crescente proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-16T11:42:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-16"
-  },
-  {
-    "title": "Smart glasses e privacy: chi risponde delle persone riprese",
-    "url": "https://www.agendadigitale.eu/sicurezza/privacy/smart-glasses-e-privacy-chi-risponde-delle-persone-riprese/",
-    "summary": "L’EDPB chiarisce che fabbricanti e fornitori di servizi per smart glasses possono rispondere dei dati dei passanti anche quando l’utente agisce in ambito domestico. Trasparenza, base giuridica e protezione fin dalla progettazione diventano obblighi centrali per produttori, imprese e strutture sanitarie L'articolo Smart glasses e privacy: chi risponde delle persone riprese proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-16T11:38:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-16"
   }
 ]
