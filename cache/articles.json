@@ -1,5 +1,45 @@
 [
   {
+    "title": "Block’s new voice model sounds eerily human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "source": "TechCrunch AI",
+    "date": "2026-10-24T16:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-24"
+  },
+  {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-24T15:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-24"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-24T14:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-24"
+  },
+  {
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "source": "Wired",
+    "date": "2026-10-24T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-24"
+  },
+  {
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
@@ -2768,45 +2808,5 @@
     "category": "business_investment",
     "_slot": "morning",
     "_slot_date": "2026-10-18"
-  },
-  {
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
-    "source": "The Verge AI",
-    "date": "2026-10-17T11:04:36-04:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-17"
-  },
-  {
-    "title": "Meta shakes up the frontiers, open and closed",
-    "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-    "summary": "US open weights are back!",
-    "source": "Interconnects",
-    "date": "2026-10-17T14:06:54+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-17"
-  },
-  {
-    "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
-    "summary": "DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping up the Chinese company’s challenge to Silicon Valley rivals Anthropic PBC and OpenAI as well as domestic competitors like Moonshot Kimi and Z.ai",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-17T13:47:14+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-17"
-  },
-  {
-    "title": "Websites are closing their doors to AI agents",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
-    "source": "The Verge AI",
-    "date": "2026-10-17T09:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-17"
   }
 ]
