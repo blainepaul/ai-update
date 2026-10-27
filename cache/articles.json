@@ -1,5 +1,35 @@
 [
   {
+    "title": "Manipolazione dei chatbot, il rischio per la sovranità della mente",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/manipolazione-dei-chatbot-il-rischio-per-la-sovranita-della-mente/",
+    "summary": "I chatbot possono trasformare pensieri, emozioni e preferenze in dati commerciali, costruire profili psicologici e influenzare scelte politiche senza che gli utenti percepiscano la manipolazione. Un estratto dal libro La bolla dell'intelligenza artificiale L'articolo Manipolazione dei chatbot, il rischio per la sovranità della mente proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-27T12:26:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-27"
+  },
+  {
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out…",
+    "source": "MIT Tech Review",
+    "date": "2026-10-27T12:10:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-27"
+  },
+  {
+    "title": "Da Dune alla legge italiana sull’AI: chi controlla davvero le macchine",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/da-dune-alla-legge-italiana-sullai-chi-controlla-davvero-le-macchine/",
+    "summary": "L’attacco alla casa di Sam Altman riporta in primo piano la Crociata Butleriana di Dune: non una semplice guerra alle macchine, ma un monito contro la delega del pensiero, la comodità cognitiva e il potere esercitato dagli uomini attraverso l’intelligenza artificiale L'articolo Da Dune alla legge italiana sull’AI: chi controlla davvero le macchine proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-10-27T11:38:46+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-27"
+  },
+  {
     "title": "Anthropic Relies on Close Connections With Amazon, Google and Microsoft",
     "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/anthropic-relies-on-close-connections-with-amazon-google-and-microsoft",
     "summary": "Amazon and Google invested in the AI startup, supply it computing power — and compete with it.",
@@ -2738,75 +2768,5 @@
     "category": "other",
     "_slot": "morning",
     "_slot_date": "2026-10-21"
-  },
-  {
-    "title": "Sentenze scritte con l’AI: i confini che la giustizia non può ignorare",
-    "url": "https://www.agendadigitale.eu/documenti/giustizia-digitale/sentenze-scritte-con-lai-i-confini-che-la-giustizia-non-puo-ignorare/",
-    "summary": "Le risposte dei chatbot rimaste nelle decisioni giudiziarie rivelano un fenomeno più ampio di singole distrazioni. Tra sentenze, precedenti inesistenti e uso di Copilot, l’intelligenza artificiale nella giustizia apre interrogativi sulla responsabilità dei magistrati, sulla verifica degli output e sulla credibilità del sistema L'articolo Sentenze scritte con l’AI: i confini che la giustizia non può ignorare proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-20T12:23:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-20"
-  },
-  {
-    "title": "China Sets Up State-Owned Data Group to Drive its AI Ambitions",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/china-sets-up-state-owned-data-group-to-drive-its-ai-ambitions",
-    "summary": "China has established a new state-owned data group directly administered by the central government as Beijing seeks to strengthen its data infrastructure and foster technological development to support its artificial intelligence ambitions.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-20T12:13:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-20"
-  },
-  {
-    "title": "Salesforce to Buy Marketing Platform Braze for $5.7 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/salesforce-to-buy-marketing-platform-braze-for-5-7-billion",
-    "summary": "Salesforce Inc. has agreed to buy Braze Inc., an artificial intelligence-powered platform for marketers, for almost $5.7 billion in enterprise value.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-20T12:12:14+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-20"
-  },
-  {
-    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of…",
-    "source": "MIT Tech Review",
-    "date": "2026-10-20T12:10:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-20"
-  },
-  {
-    "title": "Voxtral 3",
-    "url": "https://mistral.ai/news/voxtral-3/",
-    "summary": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
-    "source": "Mistral AI Blog",
-    "date": "2026-10-20T12:00:22+00:00",
-    "category": "models_research",
-    "_slot": "morning",
-    "_slot_date": "2026-10-21"
-  },
-  {
-    "title": "AI adoption by industry shows what other sectors can learn",
-    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
-    "source": "MIT Tech Review",
-    "date": "2026-10-20T12:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-20"
-  },
-  {
-    "title": "Dalla certezza all’inganno: la fiducia fragile nell’AI generativa",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/dalla-certezza-allinganno-la-fiducia-fragile-nellai-generativa/",
-    "summary": "L’intelligenza artificiale non si limita a calcolare: persuade, imita l’empatia e sfrutta i meccanismi cognitivi della fiducia. Pubblicità invisibile, opacità dei modelli e supervisione umana inefficace impongono nuove regole fondate sulla responsabilità delle imprese e sulla tutela della libertà di scelta L'articolo Dalla certezza all’inganno: la fiducia fragile nell’AI generativa proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-10-20T11:57:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-20"
   }
 ]
