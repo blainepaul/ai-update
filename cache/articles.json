@@ -1,5 +1,15 @@
 [
   {
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "source": "Wired",
+    "date": "2026-10-31T12:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-10-31"
+  },
+  {
     "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
     "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
     "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
@@ -2516,16 +2526,6 @@
     "source": "TechCrunch AI",
     "date": "2026-10-24T14:00:00+00:00",
     "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-24"
-  },
-  {
-    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-    "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-    "source": "Wired",
-    "date": "2026-10-24T12:00:00+00:00",
-    "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-24"
   }
