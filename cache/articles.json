@@ -1,5 +1,85 @@
 [
   {
+    "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+    "summary": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-01T03:48:18+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-31T21:41:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
+    "title": "Explaining “AI might obliterate you” to senior policymakers in India",
+    "url": "https://www.alignmentforum.org/posts/RHxaRkarGp9snWoKY/explaining-ai-might-obliterate-you-to-senior-policymakers-in",
+    "summary": "I gave a 20-minute talk in Delhi at the NDTV World Summit . The audience consisted of Indian policymakers, executives, and journalists. I’ve transcribed the talk and included some highlight clips. I also reflect on several rhetorical decisions I made. The talk This summer, a swarm of AIs went rogue. OpenAI was testing 1,206 agents . Some of the test questions were actually impossible. So the agents cheated by looking for answers online. Then, to keep the test grader from penalizing them, they tr",
+    "source": "AI Alignment Forum",
+    "date": "2026-10-31T21:37:22+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-31T21:36:07+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-31T21:17:03+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "source": "TechCrunch AI",
+    "date": "2026-10-31T16:12:55+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
+    "title": "I built an AI Tamagotchi before Meta could",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+    "source": "The Verge AI",
+    "date": "2026-10-31T12:05:00-04:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
+    "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+    "url": "https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1981436",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-10-31T15:21:39+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-01"
+  },
+  {
     "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
     "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
     "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
@@ -2388,145 +2468,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-10-26"
-  },
-  {
-    "title": "Markets Look to Big Tech for AI Payoff",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
-    "summary": "On Bloomberg This Weekend, MetLife Investment Management Chief Market Strategist Drew Matus examines how AI investment is driving markets, corporate spending and parts of the US economy as investors look to Big Tech earnings for evidence that the spending will pay off. Speaking with hosts David Gura and Christina Ruffini, Matus discusses risks from rising technology investment and what markets need to hear from Federal Reserve Chair Kevin Warsh on inflation. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-25T12:10:28+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review",
-    "summary": "Meta Platforms Inc.’s $349-and-up Ray-Ban Meta Audio, announced last month, are an odd proposition. On the one hand, they’re more expensive than some of the company’s entry-level models and yet they do many of the same things:  play music, make calls, answer questions through Meta’s artificial intelligence assistant, or let the wearer dictate texts and audio messages. Users can connect their calendar to keep tabs on it throughout the day, set reminders and get recommendations for things like nea",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-25T12:00:03+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Google’s AI search changes upended online publishing",
-    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
-    "source": "The Verge AI",
-    "date": "2026-10-25T08:00:00-04:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-    "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
-    "summary": "#20",
-    "source": "Interconnects",
-    "date": "2026-10-25T11:49:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Chinese Manufacturer Dongshan Raises $1.3 Billion in HK Listing",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
-    "summary": "Suzhou Dongshan Precision Manufacturing Co. a printed circuit board maker, raised about HK$9.9 billion ($1.3 billion) in Hong Kong’s biggest listing in nearly two months, which hit a volatile market for companies related to the artificial intelligence build out.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-25T10:30:39+00:00",
-    "category": "business_investment",
-    "_slot": "morning",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
-    "summary": "Despite the significant investments ploughed into artificial intelligence it has provided “zero payoff” to corporate America outside of technology, according to Apollo Global Management Inc. Chief Economist Torsten Slok.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-25T09:28:36+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Setting the Scene (Public v1; October 25)",
-    "url": "https://www.alignmentforum.org/posts/dmYP7DS3ERyXGAYe6/setting-the-scene-public-v1-october-25",
-    "summary": "Context: I created this to share before the start of courses I facilitate to provide a refresher on recent events, but also as a hook to draw students into engaging with some of ideas we think about in AI safety early. I expect the topics I cover in my “Setting the Scene” post to change frequently, so this is less polished than some of my other content. I emphasise to students that these posts are to be considered as bonus content —not core curriculum content—and that as such they are really jus",
-    "source": "AI Alignment Forum",
-    "date": "2026-10-25T07:52:23+00:00",
-    "category": "ethics_safety",
-    "_slot": "morning",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "SoftBank’s Son Plans $50 Billion Malaysia Tech Outlay, PM Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
-    "summary": "Masayoshi Son of SoftBank Group Corp. chose locations in Malaysia for $50 billion in technology investments, the country’s prime minister said, an outlay that would accelerate the billionaire’s global bet on AI infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-10-25T07:42:28+00:00",
-    "category": "policy_regulation",
-    "_slot": "morning",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Blue Planet III is keeping the rough edges in the age of AI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-    "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
-    "source": "The Verge AI",
-    "date": "2026-10-24T17:29:12-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T19:00:00+00:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Pennsylvania will require labels on AI-generated ads",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artificial intelligence\" to include a label in the same format as […]",
-    "source": "The Verge AI",
-    "date": "2026-10-24T14:32:21-04:00",
-    "category": "other",
-    "_slot": "morning",
-    "_slot_date": "2026-10-25"
-  },
-  {
-    "title": "Block’s new voice model sounds eerily human",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T16:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-24"
-  },
-  {
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T15:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-24"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "source": "TechCrunch AI",
-    "date": "2026-10-24T14:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-10-24"
   }
 ]
