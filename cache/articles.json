@@ -1,5 +1,555 @@
 [
   {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-12T00:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Elon Musk’s AI Chatbot Grok Sexualized These Teens’ Childhood Photos",
+    "url": "https://www.bloomberg.com/features/2026-grok-sexualized-childhood-photos/",
+    "summary": "The images are nearly impossible to erase. Now, a growing number of victims are pushing to hold Elon Musk’s xAI accountable.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T13:30:21+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Nvidia Gets Rare Downgrade as Baird Raises CEO Uncertainities",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-gets-rare-downgrade-as-baird-raises-ceo-uncertainities",
+    "summary": "Wall Street sentiment toward Nvidia Corp. is starting to crack, as an investigation into Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy is sowing doubt over the the artificial intelligence chipmaker’s prospects.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T13:27:14+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Take-Two CEO Zelnick: AI Wont Kill Gaming Jobs",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-ceo-zelnick-ai-wont-kill-gaming-jobs-video",
+    "summary": "Take-Two Interactive Chairman & CEO Strauss Zelnick says artificial intelligence will transform the video game industry, but he doesn't believe It will lead to fewer jobs. He says technology ultimately needs to serve one goal: make great entertainment. Zelnick sits down with David Rubenstein on this week’s episode of The David Rubenstein Show: Peer to Peer Conversations. This interview was recorded October 19 in New York. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T13:00:55+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Nvidia Is Core Part AI-Basket of Stocks, Emanuel Says",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/nvidia-is-core-part-ai-basket-of-stocks-emanuel-says-video",
+    "summary": "Julian Emanuel, Evercore ISI chief equity strategist and quantitative strategist, says Nvidia is a core part of their basket of AI stocks. He also expects the Anthropic IPO to go smoothly. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T12:17:48+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "SAP Touts AI Tools, But Fails to Disclose Numbers to Measure Results",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/sap-touts-ai-tools-but-fails-to-disclose-numbers-to-measure-results",
+    "summary": "The software company hasn’t disclosed many metrics to show whether its AI effort is paying off",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T12:02:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Modelli decisionali AI, come portarli nei flussi di lavoro aziendali",
+    "url": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/soluzioni/modelli-decisionali-ai-come-portarli-nei-flussi-di-lavoro-aziendali/",
+    "summary": "Classificare i ticket, valutarne urgenza e complessità, indirizzarli agli uffici competenti: una prova con Ollama e clef-flash mostra come integrare i modelli decisionali nei processi aziendali. Il caso d’uso parte da Microsoft Forms e arriva a uno script PowerShell L'articolo Modelli decisionali AI, come portarli nei flussi di lavoro aziendali proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-11T12:02:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mythos-ai-looking-for-cyber-flaws-in-energy-systems",
+    "summary": "Some power companies are using cybersecurity technology from Anthropic PBC after spending months urging US government officials and the artificial intelligence company to help them access the company’s powerful AI models in order to help fend off hackers.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T12:00:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Citi’s Aganga on AI, Markets and Inflation",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/citi-s-aganga-on-ai-markets-and-inflation-video",
+    "summary": "Olaolu Aganga of Citi says strong earnings and attractive valuations continue to support US stocks despite recent volatility. She discusses the long-term AI investment cycle, opportunities in cybersecurity and critical metals, and why AI productivity gains are still ahead. Aganga also warns inflation could remain hotter than expected, pushing rates higher and favoring shorter-duration fixed income and gold. She speaks with Anna Edwards on Bloomberg Brief. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T11:38:40+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Minori e AI: come misurare i rischi e proteggere i più giovani",
+    "url": "https://www.agendadigitale.eu/people-and-change/minori-e-ai-come-misurare-i-rischi-e-proteggere-i-piu-giovani/",
+    "summary": "Uno studio approfondito descrive come l'intelligenza artificiale interagisce con i minori, evidenziando i rischi legati a dipendenza emotiva e integrità educativa, e proponendo soluzioni di misurazione per garantire un'esperienza digitale più sicura L'articolo Minori e AI: come misurare i rischi e proteggere i più giovani proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-11T11:34:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "AI Stocks Face Tug-of-War as Anthropic, CoreWeave Lift Hopes",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-11/ai-stocks-face-tug-of-war-as-anthropic-coreweave-lift-hopes",
+    "summary": "The AI trade is so massive that its friends and foes increasingly find support on the same day.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T11:28:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Red teaming dell’AI agentica: i rischi che i test sui prompt non vedono",
+    "url": "https://www.agendadigitale.eu/sicurezza/red-teaming-dellai-agentica-i-rischi-che-i-test-sui-prompt-non-vedono/",
+    "summary": "Con l’AI agentica, il red teaming non si limita più a valutare prompt e risposte: deve analizzare azioni, strumenti e risorse condivise. L’incidente tra OpenAI e Hugging Face mostra i rischi delle interazioni tra agenti, mentre i principi NIST indicano come progettare vincoli e controlli di sistema L'articolo Red teaming dell’AI agentica: i rischi che i test sui prompt non vedono proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-11T11:07:12+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Kai-Fu Lee Questions Soaring AI Valuations",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/kai-fu-lee-questions-soaring-ai-valuations-video",
+    "summary": "AI pioneer Kai-Fu Lee discusses whether trillion-dollar AI valuations can be justified, the risks of circular funding, and the impact of cheaper Chinese and open-source models. The Sinovation Ventures Chairman and CEO and 01.AI CEO also explains why businesses need to reinvent themselves around AI, and why Europe’s biggest opportunity may be in AI applications rather than foundation models. Lee appeared on “The Pulse with Francine Lacqua”. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T11:06:40+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+    "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+    "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+    "source": "Wired",
+    "date": "2026-11-11T11:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Formare i manager nell’era dell’IA: il ruolo strategico dei business game",
+    "url": "https://www.agendadigitale.eu/people-and-change/formare-i-manager-nellera-dellia-il-ruolo-strategico-dei-business-game/",
+    "summary": "L’intelligenza artificiale trasforma il lavoro e mette alla prova i modelli formativi. I business game integrati con l’IA permettono di sperimentare decisioni complesse, sviluppare pensiero critico e preparare manager e professionisti a collaborare con sistemi sempre più autonomi L'articolo Formare i manager nell’era dell’IA: il ruolo strategico dei business game proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-11T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Anthropic IPO Demand Surges as AI Trade Roars Back",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/the-pulse-with-francine-lacqua-11-11-2026-video",
+    "summary": "Traders piled back into the artificial intelligence trade, lifting US stock futures following strong results from beaten-down neocloud firm CoreWeave and robust demand for Anthropic’s initial public offering.\n\nUkraine and Russia started a second day of US-led peace talks in Abu Dhabi after Ukrainian President Volodymyr Zelenskyy called the first round of discussions “constructive and quite substantive.”\n\nClimate negotiators from almost 200 countries have gathered for COP31 in Antalya, Turkey wit",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T10:46:34+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Perché le persone cambiano le aziende più dell’AI",
+    "url": "https://www.agendadigitale.eu/people-and-change/perche-le-persone-cambiano-le-aziende-piu-dellai/",
+    "summary": "L’intelligenza artificiale accelera l’innovazione, ma sono le persone a trasformarla in valore per le imprese. Competenze, formazione esperienziale e nuovi modelli di apprendimento diventano decisivi per superare le resistenze al cambiamento e integrare le tecnologie nel lavoro quotidiano L'articolo Perché le persone cambiano le aziende più dell’AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-11T10:43:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+    "url": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+    "summary": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.",
+    "source": "Wired",
+    "date": "2026-11-11T10:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "AI Has Driven a Quarter of UK Growth This Year, Analysis Shows",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/ai-has-driven-a-quarter-of-uk-growth-this-year-analysis-shows",
+    "summary": "Artificial intelligence has powered around a quarter of UK growth this year, according to Bloomberg economists, putting the country at risk of a global downturn in valuations around the technology.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T10:25:40+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "UBS’ Laud Sees Underpriced Risk in AI's ‘Web of Debt’",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-11/ubs-laud-sees-underpriced-risk-in-ai-s-web-of-debt-video",
+    "summary": "Sonja Laud, co-head of investments and real assets at UBS Asset Management, says the AI investment boom has shifted from an equity story to a balance-sheet story driven by debt, creating an interconnected web of risk that markets are dangerously underestimating. “To me, it is the web of debt across public-private debt and equity, which I think we need to be very mindful that we might not quite see the returns on these investments that we anticipated,” Laud said in an interview on Bloomberg Telev",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T10:15:17+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "ByteDance Prepares Muse-Like Agent in Push to Close AI Gap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-11/bytedance-prepares-muse-like-agent-in-push-to-close-ai-gap",
+    "summary": "ByteDance Ltd. plans the release of a Muse-like AI assistant in the coming weeks to augment its lead in AI video, a milestone event the company hopes will help close the gap with top US labs in as soon as three years.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-11T10:10:36+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "How I'm thinking about different types of automated alignment",
+    "url": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated",
+    "summary": "I used to think of \"automating alignment\" as a natural category. But when I tried to think through the strategic implications, I realised that it depends a lot on the type of work. I'm now thinking of it in three buckets: Empirical alignment research : design and execution of alignment-relevant experiments (for a given notion of what we’re aiming for) Conceptual alignment research: theoretical or judgement-driven work to improve our understanding of what we’re aiming for and how to achieve it (i",
+    "source": "AI Alignment Forum",
+    "date": "2026-11-11T09:49:37+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+    "source": "Google AI Blog",
+    "date": "2026-11-11T09:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-11T08:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-11T07:30:51+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-11-11T05:01:16+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+    "summary": "Kimi K3.1 Pro from Moonshot AI is now available on Amazon Bedrock. Learn how to get started through the OpenAI-compatible Chat Completions, Responses, and Converse APIs, optimize inference with explicit prompt caching, and use the model as a coding assistant in OpenCode.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-11T01:07:19+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Delaying Internal Deployments Until After X Days of Safety Testing",
+    "url": "https://www.alignmentforum.org/posts/XNLhpWgzhF8GYZ4Er/delaying-internal-deployments-until-after-x-days-of-safety",
+    "summary": "This post reflects my own takes, and not that of my employer's. This is a simple idea: before a new model can be deployed internally, you must first test it for a minimum, fixed period. You can adjust various axes of this proposal: Duration of the wait: in calendar time, or until you fulfill some condition. What it blocks: external deployment, internal deployment, or the training of future checkpoints. When the fixed period starts: from the first checkpoint, the final checkpoint, or any checkpoi",
+    "source": "AI Alignment Forum",
+    "date": "2026-11-11T00:18:16+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Anthropic tiptoes into MS Office territory",
+    "url": "https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988",
+    "summary": "Sheets, Whiteboards, and Data artifact types bring Claude closer to a productivity suite",
+    "source": "The Register AI",
+    "date": "2026-11-11T00:45:26+01:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Build a daily dependency watcher with LangGraph and Amazon Bedrock AgentCore web search",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-daily-dependency-watcher-with-langgraph-and-amazon-bedrock-agentcore-web-search/",
+    "summary": "The Web Search API in Amazon Bedrock AgentCore gives agents current, cited web results signed with the AWS credentials they already use. In this post, build a daily dependency watcher as a LangGraph graph that researches package ecosystems in parallel, keeps its rules in code, and checks every finding against its cited sources.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-10T23:34:05+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "The agent evaluation playbook: Built-in, DeepEval, and AutoEval on Amazon Bedrock AgentCore Evaluations",
+    "url": "https://aws.amazon.com/blogs/machine-learning/the-agent-evaluation-playbook-built-in-deepeval-and-autoeval-on-agentcore/",
+    "summary": "When you deploy an agent, whether it is working is really several questions: did it finish the task, stay on topic, leak data, or skip steps? This post shows how to evaluate agents on Amazon Bedrock AgentCore with built-in, DeepEval, and AutoEval evaluators, and how to match each behavior that matters to the right evaluator at the right level.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-10T22:35:03+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+    "source": "Ars Technica",
+    "date": "2026-11-10T21:12:59+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T21:08:52+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T20:52:13+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T19:57:52+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T19:23:34+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
+    "source": "The Verge AI",
+    "date": "2026-11-10T14:04:05-05:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T19:03:52+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Gemini Intelligence: New features, on more devices",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+    "source": "Google AI Blog",
+    "date": "2026-11-10T19:00:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T18:49:52+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "14-year-old creates tool for AI agents to band together like a team",
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/10/14-year-old-creates-tool-for-ai-agents-to-band-together-like-a-team/5308841",
+    "summary": "Autark can act without constant prompting, but leaves users to enforce their own security boundaries",
+    "source": "The Register AI",
+    "date": "2026-11-10T19:31:53+01:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Autonomous treasury agents: How Trovata built an AI-native solution on Amazon Bedrock and AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/autonomous-treasury-agents-how-trovata-built-an-ai-native-solution-on-amazon-bedrock-and-agentcore/",
+    "summary": "Learn how Trovata built autonomous treasury agents on Amazon Bedrock and Amazon Bedrock AgentCore, using an RBAC-secured architecture for bank-branded AI deployment and agentic workflows that move corporate treasury from manual operations to real-time decision-making at enterprise scale.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-10T18:11:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+    "source": "The Verge AI",
+    "date": "2026-11-10T13:00:00-05:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+    "source": "The Verge AI",
+    "date": "2026-11-10T12:32:47-05:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T17:30:00+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Anthropic has its own AI-powered office suite now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint […]",
+    "source": "The Verge AI",
+    "date": "2026-11-10T12:30:00-05:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T17:04:19+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "How TCS built an agentic test orchestrator with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-tcs-built-an-agentic-test-orchestrator-with-amazon-bedrock-agentcore/",
+    "summary": "Tata Consultancy Services (TCS) built an agentic test orchestrator on Amazon Bedrock AgentCore that turns requirements into executable, governed tests for its Banking, Financial Services, and Insurance (BFSI) clients. Learn how specialized agents, per-tenant isolation, and workload-aware execution cut testing effort by 88% in an internal benchmark.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-10T16:59:43+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Amazon Bedrock tokenomics data lake",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-tokenomics-data-lake/",
+    "summary": "Running Amazon Bedrock across many accounts shows you the bill but not what happened inside each call. This post builds a centralized observability data lake that aggregates Bedrock invocation logs from every linked account into one queryable table, so you can see prompts, token counts, model choice, and per-invocation cost across your organization.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-10T16:56:36+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All",
+    "url": "https://www.alignmentforum.org/posts/f9PajMLmBYzmWzyDv/q3-5-timelines-update-looks-like-the-intelligence-explosion",
+    "summary": "We want to get this post out quickly given the urgency of the topic. It’s possible that there are some errors in the modeling, but we think it’s very unlikely that they undermine the high level conclusions. We would love to be corrected on any mistakes we made. METR recently estimated that Anthropic is now making AI progress about twice as fast as its historical rate (they would not be surprised by anything from 1.3x to 3x), and guessed that “perhaps ≈80%” of the current acceleration is due to A",
+    "source": "AI Alignment Forum",
+    "date": "2026-11-10T16:30:09+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
+    "source": "The Verge AI",
+    "date": "2026-11-10T11:20:30-05:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+    "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-10T16:00:03+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+    "source": "The Verge AI",
+    "date": "2026-11-10T11:00:00-05:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T15:54:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-10T15:29:30+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-11"
+  },
+  {
     "title": "Anthropic targets $1.4 trillion IPO",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
     "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share and according to the Wall Street Journal's sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next […]",
@@ -2438,405 +2988,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-11-05"
-  },
-  {
-    "title": "The Download: blended meat, restored sight, and the agentic web",
-    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:…",
-    "source": "MIT Tech Review",
-    "date": "2026-11-04T13:10:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-04T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Securing the agentic enterprise with data lineage",
-    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-    "source": "MIT Tech Review",
-    "date": "2026-11-04T13:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Quando gli agenti AI violano i permessi: chi risponde degli errori?",
-    "url": "https://www.agendadigitale.eu/sicurezza/quando-gli-agenti-ai-violano-i-permessi-chi-risponde-degli-errori/",
-    "summary": "C ome si distribuiscono le responsabilità quando un agente AI supera i permessi assegnati e accede a risorse non autorizzate? Alla luce di GDPR, NIS2 e AI Act, occorre individuare quando scattano gli obblighi di segnalazione, chi è tenuto ad adempiervi e quali lacune emergono quando l’incidente avviene durante i test di un sistema autonomo. L'articolo Quando gli agenti AI violano i permessi: chi risponde degli errori? proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-04T12:39:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Luca Zaia e l’AI: la campagna del leoncino che ha conquistato i social",
-    "url": "https://www.agendadigitale.eu/cultura-digitale/luca-zaia-e-lai-la-campagna-del-leoncino-che-ha-conquistato-i-social/",
-    "summary": "Luca Zaia affronta le regionali venete del 2025 da candidato consigliere e affida ai social una campagna organica costruita con video generati dall’intelligenza artificiale, simboli identitari e messaggi territoriali, fino al record di 203.054 preferenze personali e a una rinnovata centralità politica nel Veneto L'articolo Luca Zaia e l’AI: la campagna del leoncino che ha conquistato i social proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-04T12:08:12+00:00",
-    "category": "creativity",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-    "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]",
-    "source": "The Verge AI",
-    "date": "2026-11-04T07:00:00-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "La voce rivela salute ed emozioni? La ricerca italiana con l’AI",
-    "url": "https://www.agendadigitale.eu/sanita/la-voce-rivela-salute-ed-emozioni-la-ricerca-italiana-con-lai/",
-    "summary": "La voce può trasmettere informazioni mediche, fisiologiche, emotive e identitarie anche senza intenzione. Il progetto Voce Umana Predittiva studia questi segnali con l’intelligenza artificiale, dalla revisione scientifica alla misurazione acustica, fino alla classificazione fonetica e semiotica dei tratti minimi vocali L'articolo La voce rivela salute ed emozioni? La ricerca italiana con l’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-04T11:28:45+00:00",
-    "category": "healthcare",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Desiderata for the Theory of Agents",
-    "url": "https://www.alignmentforum.org/posts/sqjti8dxcKSvZJikd/desiderata-for-the-theory-of-agents",
-    "summary": "TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories fall short of these desiderata. A Theory of What? The word \"agent\" is often used in the AI safety discourse and in other research communities, but the intended meaning and scope of this concept varies substantially. For the purpose of this sequence, I informally define an agent to be a system with inputs (\"observations\") and outputs (\"actions\") tha",
-    "source": "AI Alignment Forum",
-    "date": "2026-11-04T11:25:12+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "CISO e AI in azienda: il vero rischio è innovare senza regole",
-    "url": "https://www.agendadigitale.eu/sicurezza/ciso-e-ai-in-azienda-il-vero-rischio-e-innovare-senza-regole/",
-    "summary": "L’intelligenza artificiale accelera l’innovazione aziendale ma espone dati, processi e infrastrutture a rischi nuovi. Il CISO deve governarne l’adozione con autorizzazioni preventive, responsabilità formali, monitoraggio sostenibile, competenze specialistiche e un framework condiviso che concili velocità del business, compliance e sicurezza L'articolo CISO e AI in azienda: il vero rischio è innovare senza regole proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-04T11:00:50+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Google to Spend $15 Billion in Malaysia Data Center Expansion",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/google-to-spend-15-billion-in-malaysia-data-center-expansion",
-    "summary": "Alphabet Inc.’s Google said it plans to spend $15 billion to expand data center and cloud operations in Malaysia as the artificial intelligence boom fuels demand for digital infrastructure.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-04T09:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Meta Gets Record €53 Billion of Orders for Debut Euro Bonds",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/meta-starts-debut-euro-bond-sale-after-15-billion-dollar-deal",
-    "summary": "Meta Platforms Inc. has pulled in €53 billion ($59.7 billion) of investor demand for its debut euro bond sale, setting a record for any corporate deal in Europe after offering generous yields to shore up funding for massive investments in artificial intelligence.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-04T08:11:35+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
-    "summary": "Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-04T05:01:21+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "The biggest modding site in PC gaming is taking a stance on AI",
-    "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-    "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T19:42:10-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Please stop asking me when the AI bubble will pop",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-    "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T18:37:45-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T22:41:03+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T22:19:53+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T21:43:08+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-    "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T21:05:55+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Those Jeff Bezos hair transplant photos are very fake",
-    "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-    "summary": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X, Threads, and Bluesky in which they both have substantially more hair than their usual shaved […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T16:01:07-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Apple starts giving Siri AI access to third-party apps",
-    "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-    "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T15:16:17-05:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "summary": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T19:34:43+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T18:42:16+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-    "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-    "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T13:31:00-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "OpenAI says ChatGPT is catching up to Google in search",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-    "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T13:30:42-05:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Automating subtle emergent misalignment research",
-    "url": "https://www.alignmentforum.org/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research",
-    "summary": "Authors: Oscar Balcells Obeso, Richard Qi, Monte MacDiarmid, Evan Hubinger Abstract Red-teaming by humans is a vital part of model safety testing, but it may struggle to keep up as models improve. To test whether automated safety techniques could scale (which would allow us to turn more compute into progressively more safety confidence), we set up a deliberately one-sided game as a first test. We instructed a Claude model to write training data that would make a small research model misaligned w",
-    "source": "AI Alignment Forum",
-    "date": "2026-11-03T18:27:53+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Indie games are missing launch dates because Steam is backed up",
-    "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-    "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T13:14:50-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-    "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-    "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T13:00:00-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "StateBench: Testing how language models track state changes over long documents",
-    "url": "https://huggingface.co/blog/allenai/statebench",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-11-03T17:15:21+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Anthropic is still grappling with the economics of compute",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-    "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T17:07:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-    "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-    "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
-    "source": "The Verge AI",
-    "date": "2026-11-03T12:00:04-05:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Bring structured and unstructured data together with Amazon Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/",
-    "summary": "Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-03T16:49:29+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway",
-    "url": "https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/",
-    "summary": "Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-03T16:47:40+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/",
-    "summary": "Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-03T16:43:20+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/",
-    "summary": "Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-03T16:41:13+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Building ultra-low-latency voice AI applications on AWS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/",
-    "summary": "Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-03T16:40:54+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Palette: teaching a small model to build decks in your design language",
-    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-11-03T16:35:36+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Introducing India-based inference for Kimi K3 on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-india-based-inference-for-kimi-k3-on-amazon-bedrock/",
-    "summary": "Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global and geographic cross-Region inference options and shares example code for reading and understanding Indic-language documents with Kimi K3.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-03T16:32:54+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T16:30:34+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-03T15:38:27+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
-  },
-  {
-    "title": "Here’s Why You Shouldn’t Use AI to Vote",
-    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-    "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-    "source": "Wired",
-    "date": "2026-11-03T14:45:08+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-04"
   }
 ]
