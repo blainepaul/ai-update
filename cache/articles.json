@@ -1,5 +1,395 @@
 [
   {
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T15:02:34+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T14:48:13+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Anthropic IPO Is Delaying Some Deals, Moynihan Says",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/anthropic-ipo-is-delaying-some-deals-moynihan-says-video",
+    "summary": "Bank of America Corp. Chief Executive Officer Brian Moynihan says capital markets activity has been bumpy, and some deals are being delayed until early next year because of the expected Anthropic initial public offering. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T14:47:26+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "US Moves to Restrict Remote Access to Advanced AI Chips",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/us-moves-to-restrict-remote-access-to-advanced-ai-chips-video",
+    "summary": "The US Commerce Department issued an interim rule to limit remote access to advanced AI chips and servers from certain countries. The new rule will require licenses to reexport advanced AI chips to Brazil, Singapore, Indonesia, Malaysia and Thailand following increased scrutiny over semiconductor exports after an alleged espionage scandal involving Nvidia Corp. Ed Ludlow reports on Bloomberg Television. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T14:34:16+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Bank of America CEO Moynihan on IPO Pipeline, AI, Consumer Strength",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/bofa-s-moynihan-on-ipo-pipeline-ai-consumer-strength-video",
+    "summary": "Bank of America Chairman and Chief Executive Officer Brian Moynihan says some deals are getting delayed until 2027 because the Anthropic expected blockbuster initial public offering is crowding out smaller companies. He also talks about using AI, earnings and his own succession plans. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T14:33:11+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook […]",
+    "source": "The Verge AI",
+    "date": "2026-11-16T09:00:00-05:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Google Maps can now create trip itineraries for you",
+    "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+    "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […]",
+    "source": "The Verge AI",
+    "date": "2026-11-16T09:00:00-05:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "summary": "tbd",
+    "source": "Google AI Blog",
+    "date": "2026-11-16T14:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Linee guida AgID sull’AI: la checklist operativa per i Comuni",
+    "url": "https://www.agendadigitale.eu/cittadinanza-digitale/linee-guida-agid-sullai-la-checklist-operativa-per-i-comuni/",
+    "summary": "Le Linee guida AgID non obbligano i Comuni ad adottare sistemi di intelligenza artificiale, ma rendono vincolanti governance, strategia, controlli, formazione e trasparenza. Dal confronto con la bozza del 2025 emergono anche adempimenti alleggeriti, clausole contrattuali e soluzioni associate per gli enti più piccoli L'articolo Linee guida AgID sull’AI: la checklist operativa per i Comuni proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-16T13:02:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "The Nvidia scandal isn’t slowing down",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+    "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at […]",
+    "source": "The Verge AI",
+    "date": "2026-11-16T08:00:00-05:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Building AI that can work across the enterprise",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+    "source": "MIT Tech Review",
+    "date": "2026-11-16T13:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Medici, colpa grave e AI: la riforma arriva al Senato",
+    "url": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/etica-regole-societa/medici-colpa-grave-e-ai-la-riforma-arriva-al-senato/",
+    "summary": "Il disegno di legge approvato dalla Camera limita la punibilità del sanitario alla colpa grave quando sono rispettate linee guida adeguate, impone di valutare condizioni di lavoro e carenze organizzative e apre il confronto su intelligenza artificiale, dati clinici e responsabilità delle strutture L'articolo Medici, colpa grave e AI: la riforma arriva al Senato proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-16T12:40:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "La truffa è già dentro la tua email: così l’AI cambia gli attacchi BEC",
+    "url": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/cybersecurity/la-truffa-e-gia-dentro-la-tua-email-cosi-lai-cambia-gli-attacchi-bec/",
+    "summary": "Le frodi Business Email Compromise si inseriscono nelle comunicazioni aziendali, imitano fornitori e dirigenti e deviano pagamenti o dati riservati. L’intelligenza artificiale rende email e deepfake più credibili, mentre procedure rigorose, autenticazione forte e verifiche su canali separati diventano difese decisive L'articolo La truffa è già dentro la tua email: così l’AI cambia gli attacchi BEC proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-16T12:34:00+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Governare l’IA come bene comune: la sfida per la democrazia",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/governare-lia-come-bene-comune-la-sfida-per-la-democrazia/",
+    "summary": "Le scelte sull’intelligenza artificiale incidono sui diritti, sul lavoro e sulla partecipazione democratica. Per distribuire i benefici servono infrastrutture accessibili, ricerca aperta e alfabetizzazione diffusa. Le iniziative europee e internazionali indicano possibili strumenti per riconoscere alla società un ruolo nelle decisioni tecnologiche L'articolo Governare l’IA come bene comune: la sfida per la democrazia proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-16T12:34:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T12:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Jensen Huang’s China Views Preceded the Nvidia Scandal",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/jensen-huang-s-china-views-preceded-the-nvidia-scandal",
+    "summary": "The ousted CEO has long been a forceful advocate for selling US tech to China",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T12:02:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Fed’s Barr Warns AI Agents May Fuel Future Bank Runs",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/fed-s-barr-warns-ai-agents-may-fuel-future-bank-runs-video",
+    "summary": "Federal Reserve Governor Michael Barr warned that autonomous artificial intelligence agents could speed destabilizing stampedes out of banks, “potentially accelerating runs that unfold in seconds, overwhelming traditional liquidity management and regulatory intervention timelines.” Barr noted at a conference in Milan on Monday that major banks are already detecting AI agents attempting to take unauthorized actions in retail accounts. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T11:51:59+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Anthropic IPO Tests Whether AI Models Can Rival Nvidia’s Rich Valuation",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-ipo-tests-whether-ai-models-can-rival-nvidia-s-rich-valuation",
+    "summary": "Plus, Nvidia’s CEO search draws fire",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T11:28:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Trump, Xi, Putin To Meet as Jensen Huang Reportedly Eyes Nvidia Comeback",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-pulse-with-francine-lacqua-11-16-2026-video",
+    "summary": "Pressure is mounting on Nvidia days after it ousted Jensen Huang as CEO with Treasury Secretary Scott Bessent urging the company to make a “dramatic” leadership shakeup and come clean about its compliance with export controls on its prized AI chips. Hours after Bessent’s comments, the Financial Times reported that ousted CEO Jensen Huang has been discussing the idea of returning to the company he co-founded more than three decades ago.\n\nA selloff in technology stocks carried into a new week as t",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T11:03:10+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "source": "Wired",
+    "date": "2026-11-16T11:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "AI Startup Dreamteam Raises Capital to Challenge Salesforce, SAP",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/ai-startup-dreamteam-raises-capital-to-challenge-salesforce-sap",
+    "summary": "Dreamteam AI Inc. has raised $53 million in a round led by Accel with capital from billionaire Azim Premji’s firm and Together Fund, seeking to get into a software market dominated by the likes of Salesforce Inc. and SAP SE.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T11:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+    "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+    "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The count may change following vendor and vulnerability-authority review, and some findings do not yet have ",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-11-16T10:00:01+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Fed’s Barr Says AI Agents Could Fuel Future Bank Runs",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs",
+    "summary": "Federal Reserve Governor Michael Barr warned that autonomous artificial intelligence agents could speed destabilizing stampedes out of banks by automatically shifting customer deposits in response to market signals or interest-rate changes.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-16T10:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16T09:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Advancing computer-use agents for healthcare teams",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "summary": "",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16T06:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16T06:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Apple launches new app to study how people use AI for health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "summary": "Apple's new app for a study will answer everyday medical questions",
+    "source": "TechCrunch AI",
+    "date": "2026-11-16T01:30:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]",
+    "source": "The Verge AI",
+    "date": "2026-11-15T20:26:56-05:00",
+    "category": "healthcare",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+    "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+    "source": "NVIDIA Blog",
+    "date": "2026-11-16T00:00:28+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-16T00:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T23:30:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-15T22:00:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-15T22:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T21:56:35+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]",
+    "source": "The Verge AI",
+    "date": "2026-11-15T15:43:49-05:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-15T20:20:57+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "We made a multiplayer game where each player's view is generated by a world model running on their GPU [P]",
+    "url": "https://vor.tech/x/reddit-ml",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-11-15T19:46:49+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+    "source": "The Verge AI",
+    "date": "2026-11-15T14:15:43-05:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
+    "title": "Marimba: a System One model for speech [R]",
+    "url": "https://huggingface.co/charcot-ai/marimba/resolve/main/assets/marimba-demo-60s.mp4",
+    "summary": "",
+    "source": "Reddit r/MachineLearning",
+    "date": "2026-11-15T16:30:09+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-16"
+  },
+  {
     "title": "An overview of Jensen Huang’s messy days",
     "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
@@ -2896,356 +3286,6 @@
     "source": "The Verge AI",
     "date": "2026-11-09T10:30:00-05:00",
     "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "New Ericsson CEO Sees AI Fueling Next-Generation Network Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/new-ericsson-ceo-sees-ai-fueling-next-generation-network-demand",
-    "summary": "Artificial intelligence will create demand for next-generation telecommunications networks as connected devices such as smart glasses require more data, according to Ericsson AB’s new chief executive officer.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T15:14:26+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "EU Plans Crackdown on Addictive Social Media and AI Bot Features",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/eu-plans-crackdown-on-addictive-social-media-and-ai-bot-features",
-    "summary": "Social media platforms face a fresh wave of European Union curbs, this time targeting addictive features and artificial intelligence chatbots.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T15:10:16+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-11-09T15:05:57+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-    "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-    "source": "Wired",
-    "date": "2026-11-09T14:30:56+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Jonathan Kanter is using AI to take on Big Tech",
-    "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-    "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a […]",
-    "source": "The Verge AI",
-    "date": "2026-11-09T09:30:00-05:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-    "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.  The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-09T14:00:01+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "summary": "Automattic aims to compete with likes of Lovable with Spacefast",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Nvidia Adds ‘Huge Element of Surprise’ to AI Trade, Strategist Hunt Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-adds-huge-element-of-surprise-to-ai-trade-hunt-video",
-    "summary": "Sarah Hunt, chief market strategist at Alpine Saxon Woods, says Nvidia’s probe of CEO Jensen Huang adds “another layer of complexity” to questions around the AI trade. She says it is “job one” for the company to talk about the potential for succession from an investor standpoint. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T13:48:47+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "US Stocks Rise as Crude Falls on War Hopes Even as Nvidia Sinks",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/s-p-500-futures-rise-as-oil-falls-nvidia-sinks-on-huang-affair",
-    "summary": "US equities are climbing in early trading on Monday as oil prices drop, while shares of Nvidia Corp. fell as much as 8.8% after Chief Executive Officer Jensen Huang admitted to an extramarital affair with Alice Huang, a woman identified as a suspected Chinese spy.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T13:34:22+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "What Nvidia Probe Could Mean for US-China Chip Sales",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/what-nvidia-probe-could-mean-for-us-china-chip-sales-video",
-    "summary": "China Beige Book CEO Leland Miller calls for closer scrutiny of chipmakers’ export-control assurances in the wake of Nvidia CEO Jensen Huang admitting to having an affair with a suspected Chinese spy. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T13:23:49+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "L’Europa sa costruire satelliti: ora deve far crescere le imprese",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/leuropa-sa-costruire-satelliti-ora-deve-far-crescere-le-imprese/",
-    "summary": "L’Europa dispone di infrastrutture satellitari e competenze nell’analisi dei dati, ma il vantaggio industriale dipende dalla capacità di conquistare clienti. L’intelligenza artificiale accelera lo sviluppo dei servizi: contratti ricorrenti, integrazione nei processi e accesso al capitale diventano decisivi per trasformare le osservazioni in ricavi L'articolo L’Europa sa costruire satelliti: ora deve far crescere le imprese proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-09T13:21:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,…",
-    "source": "MIT Tech Review",
-    "date": "2026-11-09T13:15:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Innovating with AI in the special chemicals industry",
-    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
-    "source": "MIT Tech Review",
-    "date": "2026-11-09T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Come la spy story Nvidia incide sui chip dell’AI",
-    "url": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/nvidia-perche-il-caso-huang-scuote-il-titolo-e-riaccende-le-tensioni-sui-chip/",
-    "summary": "L'avvio da parte di Nvidia di un'indagine indipendente per far luce sulle notizie secondo cui il Ceo Jensen Huang sarebbe stato obiettivo di un'operazione di spionaggio cinese porta a interrogarsi sui possibili impatti su imprese e commercio globali, nel contesto della \"guerra dei chip\" tra Usa e Cina L'articolo Come la spy story Nvidia incide sui chip dell’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-09T12:39:12+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-11-09T12:34:29+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Google Escalates Nvidia Rivalry With New Versions of Its TPU Systems",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
-    "summary": "Alphabet Inc.’s Google is rolling out a broader array of artificial intelligence chips, aiming to capitalize on its rapid ascent as a challenger to Nvidia Corp. in a market worth hundreds of billions of dollars.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T12:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "OpenAI and Anthropic Valuations Fall as AI Market Rout Hits Fundraising",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-09/openai-and-anthropic-valuations-fall-as-ai-market-rout-hits-fundraising",
-    "summary": "Anthropic starts marketing for its test-case IPO today",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T11:28:16+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Big Tech dopo le midterm: i soldi non bastano a ottenere consenso sull’AI",
-    "url": "https://www.agendadigitale.eu/infrastrutture/data-center/big-tech-dopo-le-midterm-i-soldi-non-bastano-a-ottenere-consenso-sullai/",
-    "summary": "Le Big Tech finanziano le campagne, ma l’espansione dei data center incontra resistenze crescenti. Le midterm rafforzano candidati favorevoli a vincoli, moratorie e revisione degli incentivi. Energia, acqua e consenso locale diventano variabili decisive per gli investimenti nell’intelligenza artificiale americana L'articolo Big Tech dopo le midterm: i soldi non bastano a ottenere consenso sull’AI proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-09T11:12:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Jensen Huang’s Affair Sparks Nvidia Crisis",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-09/jensen-huang-s-affair-sparks-nvidia-crisis-video",
-    "summary": "Nvidia's board has launched an independent probe into reports its CEO Jensen Huang was targeted by foreign intelligence after he admitted to an affair with a suspected Chinese spy. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T10:19:17+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Alice Huang, Suspected China Spy, Spent Years in Nvidia’s Orbit",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/alice-huang-suspected-china-spy-spent-years-in-nvidia-s-orbit",
-    "summary": "At the heart of the biggest controversy to confront Nvidia Corp. in its three-decade history is a former television journalist who became a semiconductor power broker renting advanced chips to China’s top firms.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T10:15:26+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "The climate case for AI has not been made",
-    "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…",
-    "source": "MIT Tech Review",
-    "date": "2026-11-09T10:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Nvidia Controversy Throws High-Profile Korea Event Into Disarray",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray",
-    "summary": "Nvidia Corp. co-founder Jensen Huang’s daughter planned to showcase deepening ties with two of South Korea’s most important AI players Monday. Instead, Madison Huang cancelled her appearance, a senior government official pulled out and company executives fended off uncomfortable questions from invited journalists.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-09T09:58:05+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
-    "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-09T08:00:53+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-09T05:26:29+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
-    "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-    "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-09T05:00:40+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-    "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-    "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-09T05:00:39+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-    "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-    "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-09T05:00:04+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-    "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
-    "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-09T05:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
-    "source": "The Verge AI",
-    "date": "2026-11-08T17:54:50-05:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "summary": "In a memo to the company, Huang admitted that he had an affair.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-08T21:00:11+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
-    "source": "The Verge AI",
-    "date": "2026-11-08T15:22:39-05:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
-    "summary": "Nvidia Corp.’s investigation into Chief Executive Officer Jensen Huang’s affair with an alleged Chinese spy raises a series of once-unthinkable questions, including whether the man at the center of the AI boom is at risk of losing his job.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-08T20:00:02+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Apple is racing to make Siri more agentic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
-    "source": "The Verge AI",
-    "date": "2026-11-08T14:18:19-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
-    "source": "The Verge AI",
-    "date": "2026-11-08T12:23:19-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-09"
-  },
-  {
-    "title": "Ajeya: AI is dramatically accelerating AI research right now",
-    "url": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now",
-    "summary": "Earlier this week, Anthropic stated in their S1 that they “may imminently meet” the threshold of “dramatically accelerated progress due to AI” as defined in their Responsible Scaling Policy. In their latest RSP (effective July 2026) , say this threshold will be met when: They observe or expect overall capabilities progress to be going twice as fast as the fastest sustained rate before AI was contributing much to AI R&D. This is plausibly attributable to AI automating AI R&D, rather than accelera",
-    "source": "AI Alignment Forum",
-    "date": "2026-11-08T17:15:13+00:00",
-    "category": "policy_regulation",
     "_slot": "afternoon",
     "_slot_date": "2026-11-09"
   }
