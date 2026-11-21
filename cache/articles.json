@@ -1,5 +1,225 @@
 [
   {
+    "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+    "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+    "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]",
+    "source": "The Verge AI",
+    "date": "2026-11-21T09:00:00-05:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "China Plans to Strengthen AI Token Standards in Computing Push",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+    "summary": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-21T10:11:29+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+    "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+    "summary": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads and Amplitude.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-21T01:06:42+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+    "summary": "On the heels of Anthropic PBC’s record-breaking initial public offering, a researcher at the company said he believes he used its artificial intelligence software to solve a famous number theory problem that has plagued mathematicians for more than 150 years.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-21T00:17:14+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+    "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+    "summary": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up the cache from your coding agent.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-21T00:14:26+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+    "summary": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter of running a shared Slurm cluster with them.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-20T23:07:03+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Hindlian Advisory CEO on AI & Anthropic Market Sell-off",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-20/hindlian-advisory-ceo-on-ai-anthropic-market-sell-off-video",
+    "summary": "Amanda Hindlian, Founder and CEO of Hindlian Advisory and Former Global Head of Capital Markets at the New York Stock Exchange, says Anthropic’s IPO should be judged separately from a volatile week for markets. She notes that investors had been uncertain about the pricing and overall execution just two weeks earlier, but the offering priced well, drew a significantly oversubscribed book—estimated at five to seven times—and traded strongly on its first day. She speaks with Romaine Bostick on \"The",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-20T22:58:38+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+    "summary": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS PrivateLink.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-20T22:35:24+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Anthropic CEO Vacations at Italian Resort After Public Listing",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing",
+    "summary": "Anthropic PBC Chief Executive Officer Dario Amodei is vacationing at a luxury resort in the south of Italy after completing a blockbuster initial public offering, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-20T20:57:42+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Cognition in Talks for $75 Billion Value With New Funding",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+    "summary": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding round, according to people familiar with the matter.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-20T20:47:55+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+    "summary": "Standard Bank Group automated the evidence behind its generative AI approval gates. Working with AWS Professional Services, the bank built an assessment in its own AWS account that scores each use case against international AI standards and its own policies using LLM-as-a-judge on Amazon Bedrock, giving risk committees consistent, traceable evidence.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-20T20:37:31+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+    "summary": "Announcing the general availability of Amazon Textract Insights, a new generative AI feature of Amazon Textract. Describe the fields you need in natural language, submit a document or a mixed packet, and receive structured results with a confidence score and page-level grounding for each value, with no model training required.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-20T20:22:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T19:53:41+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+    "source": "Wired",
+    "date": "2026-11-20T19:52:21+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T19:32:08+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+    "source": "The Verge AI",
+    "date": "2026-11-20T13:50:19-05:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/",
+    "summary": "Amazon SageMaker HyperPod now offers enhanced observability to help you diagnose GPU training issues faster. It brings together diagnostic and profiling capabilities for training workloads on both Amazon EKS and Slurm orchestrators, pinpointing issues across GPU, network, and host layers.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-20T18:24:06+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Chips can survive the space environment — can their financing?",
+    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+    "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+    "source": "TechCrunch AI",
+    "date": "2026-11-20T17:40:01+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "IPO Anthropic, il record non basta: perché Wall Street teme la bolla AI",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/ipo-anthropic-il-record-non-basta-perche-wall-street-teme-la-bolla-ai/",
+    "summary": "L’IPO di Anthropic raccoglie una cifra record, ma il debutto non basta a rassicurare Wall Street sulle prospettive dell’intelligenza artificiale. Il calo dei titoli tecnologici, gli investimenti nei data center e le diverse valutazioni della società alimentano le domande sul futuro del settore L'articolo IPO Anthropic, il record non basta: perché Wall Street teme la bolla AI proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-20T17:27:34+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "GTA VI: come è cambiato il digitale dal 2013 al 2026",
+    "url": "https://www.agendadigitale.eu/cultura-digitale/gta-vi-come-e-cambiato-il-digitale-dal-2013-al-2026/",
+    "summary": "Dalla PlayStation 3 all'intelligenza artificiale, dall'America dei social network a quella degli algoritmi. Grand Theft Auto torna dopo tredici anni in un mondo profondamente cambiato, portando con sé le aspettative di un'intera generazione e il peso economico di uno dei marchi più importanti dell'intrattenimento L'articolo GTA VI: come è cambiato il digitale dal 2013 al 2026 proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-20T16:48:15+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+    "source": "The Verge AI",
+    "date": "2026-11-20T11:34:13-05:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
+    "title": "Don’t Bring Jensen Back",
+    "url": "https://www.wired.com/story/dont-bring-jensen-back/",
+    "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea.",
+    "source": "Wired",
+    "date": "2026-11-20T16:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-21"
+  },
+  {
     "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
     "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
     "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
@@ -3178,355 +3398,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Nvidia Looks for a New Era After Huang",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
-    "summary": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-14T14:25:34+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "“Bigger Than a Business Story”: Nvidia Shakeup",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
-    "summary": "At the end of a week that saw revelations of ousted Nvidia CEO Jensen Huang’s alleged affairs with employees and a suspected Chinese spy, Centerview Partners Senior Counselor Richard Haass says the national security implications go beyond the consequences for the company itself.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-14T13:03:52+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Beware the New AI-Fueled Ransomware Boom",
-    "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-    "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-    "source": "Wired",
-    "date": "2026-11-14T13:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
-    "summary": "Bloomberg senior technology and strategic industries editor Mike Shepard tells Bloomberg This Weekend that Nvidia’s appointment of longtime CFO Colette Kress as interim CEO may offer investors some stability after Jensen Huang’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Shepard examines how Nvidia moves beyond a leader who defined the company for more than three decades and whether the upheaval creates an opening for AI chip rivals. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-14T12:47:31+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Open-source AI without Jensen",
-    "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-    "summary": "A decapitation. It’s time to rebuild.",
-    "source": "Interconnects",
-    "date": "2026-11-14T12:23:15+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-    "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
-    "source": "The Verge AI",
-    "date": "2026-11-14T07:00:00-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Great Video for Understanding How Cosine Similarity Works [D]",
-    "url": "https://youtu.be/H8dT3gdmsdc?si=x591KRJwXMtqDuzq",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-11-14T11:39:39+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "White House Urges Easing Liability to Encourage AI Disclosure",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
-    "summary": "At a White House meeting on Thursday, officials from President Donald Trump’s artificial intelligence task force recommended that agencies ease their cyber liability policies in an effort to incentivize AI companies to report critical incidents.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-14T00:34:34+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
-    "source": "The Verge AI",
-    "date": "2026-11-13T18:49:11-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Colette Kress Will Face Scrutiny at Nvidia",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
-    "summary": "Nina Trentmann, senior editor at Bloomberg News, says Colette Kress is likely to become more visible as Nvidia’s interim CEO, speaking more about the company’s finances, performance and plans after Jensen Huang’s departure. She speaks with Vonnie Quinn on “The Close”. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T23:23:54+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
-    "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
-    "summary": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 minutes.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-13T23:22:09+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T22:43:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
-    "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
-    "summary": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model baselines.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-13T22:30:12+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Morgan Stanley’s Shalett ‘Incredibly’ Bullish Despite AI Turmoil",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
-    "summary": "Nvidia Corp.’s leadership turmoil and the Democrats’ midterm election victories have added to concerns about the artificial intelligence boom, but those won’t derail the main driver of the bull market: capital spending on AI infrastructure, says Morgan Stanley Wealth Management’s Lisa Shalett.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T22:22:59+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Match Group Keeping AI Out of Dating",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
-    "summary": "Match Group is embracing artificial intelligence across its business, but CEO Spencer Rascoff says AI agents won't be allowed to date for users on Tinder, Hinge and its other apps. Rascoff says Match wants its platforms to remain a “human-only zone,” even as the company uses AI to verify identities, improve safety and block harmful messages. He joins Bloomberg Businessweek Daily to discuss where companies should draw the line on AI and how the technology is transforming Match Group. He also weig",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T22:20:58+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
-    "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
-    "summary": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-13T22:02:39+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
-    "url": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
-    "summary": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-13T21:53:40+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Nvidia Crisis Spurs Scrutiny of Agency That Oversees Chip Curbs",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-crisis-spurs-scrutiny-of-agency-that-oversees-chip-curbs",
-    "summary": "The Trump administration official who runs US export control programs was looking for marquee names for his agency’s upcoming annual conference and threw an unusual option into the mix: Nvidia Corp. Chief Executive Officer Jensen Huang.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T21:45:38+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
-    "summary": "The Federal Reserve on Friday flagged potential vulnerabilities stemming from artificial intelligence and elevated asset valuations in a semi-annual report on financial stability.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T21:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Inside Jensen Huang’s Last Hours as Nvidia CEO",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
-    "summary": "Bloomberg's Ian King said that situation Jensen Huang put himself in after he had multiple affairs, including one with an alleged Chinese spy, gave the former Nvidia CEO 'no choice' other than the resign from the company. King said that in his final days at the company Huang tried to 'cauterize the wounds' and accept responsibility, but that it ultimately wasn't enough.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T20:47:47+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-    "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-    "source": "The Verge AI",
-    "date": "2026-11-13T15:45:10-05:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Nvidia Says Speculation on New CEO Candidates Is ‘Premature’",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
-    "summary": "Nvidia Corp. tamped down speculation that the company is already engaging with potential chief executive officer candidates, saying it’s still in the process of selecting a firm to find a successor to ousted leader Jensen Huang.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T20:37:36+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Huang’s Exit Leaves Silicon Valley Unsure About AI Boom’s Future",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future",
-    "summary": "The Nvidia chief’s ouster raises new questions about a key piece of the money machine supporting AI.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T20:18:02+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video",
-    "summary": "Aaron Brown, founder and CEO of Lumbra, said that the average person has 'no idea' how much Nvidia impacts their lives and that it remains a messaging issue the AI industry at large needs to solve. Brown, who is a former CIA officer, said that it is hard to know exactly how the woman accused of spying on Jensen Huang came to be involved, as China is good at identifying potential resources who may have inroads with business.  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T20:13:13+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T19:37:57+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
-    "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
-    "summary": "Learn how AssemblyAI runs cost-optimized speech-to-text inference at scale on AWS, using Amazon ECS, Amazon EC2 Spot GPU instances, and an Amazon SQS-based retry architecture to achieve 70% cost savings while maintaining SLA commitments across European Regions.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-13T19:35:35+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-    "url": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
-    "summary": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics” refers to the principles developers use to govern and operate workflows. “Governance” refers to the rules and procedures an organization establishes for AI workflows and how they inte",
-    "source": "IEEE Spectrum AI",
-    "date": "2026-11-13T19:00:03+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Anthropic CEO Calls Computing Power Deepest Business Dilemma",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
-    "summary": "Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the artificial intelligence company’s biggest challenges, in a briefing ahead of its hotly anticipated initial public offering.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-13T18:46:29+00:00",
-    "category": "ethics_safety",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
-    "summary": "Amazon Bedrock provides built-in, zero-instrumentation cost attribution that traces every inference call back to the IAM principal that made it. This post shows how to attribute per-user Bedrock costs for AI developer and productivity tools using IAM Identity Center, session tags, and CUR 2.0, and how to enforce per-user usage limits.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-13T18:44:02+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T18:40:30+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
-    "summary": "Amazon SageMaker HyperPod Data Capture records live inference inputs and outputs to Amazon S3. This post walks through one end-to-end example: capturing a support router's production traffic, surfacing a new-product blind spot with Amazon Athena, fine-tuning on the captured data with the HyperPod training operator, and measuring the before-and-after lift.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-13T18:01:15+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-11-13T18:00:39+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "XYBench: Helping with the problem behind the question",
-    "url": "https://huggingface.co/blog/allenai/xybench",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-11-13T17:02:35+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T16:00:12+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-13T15:58:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-14"
   }
 ]
