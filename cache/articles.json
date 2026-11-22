@@ -1,5 +1,155 @@
 [
   {
+    "title": "Nvidia Board Faces a Governance Reckoning",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
+    "summary": "On Bloomberg This Weekend, Bloomberg opinion columnist Gautam Mukunda tells hosts David Gura and Christina Ruffini that Jensen Huang’s departure from Nvidia has exposed broader corporate governance problems, as the board faces outside pressure to bring him back while investigations and potential shareholder litigation loom. Mukunda argues that Silicon Valley’s tendency to concentrate power around founder CEOs can weaken oversight, while Huang’s exit also complicates the debate over whether the U",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-22T14:11:25+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Tech Outages Fuel a New Prepping Boom",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video",
+    "summary": "Bloomberg senior cybersecurity reporter Jordan Robertson tells Bloomberg This Weekend that a wave of network failures resembling the effects of a major cyberattack was instead self-inflicted, exposing risks from aging infrastructure, interconnected systems, staffing cuts and the rapid adoption of AI. Speaking with hosts David Gura and Christina Ruffini, Robertson explains why the disruptions are fueling renewed interest in doomsday prepping while cautioning that a prolonged cyber catastrophe rem",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-22T13:08:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Governors Call for Federal AI Rules Without Sidelining States",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states",
+    "summary": "A bipartisan group of US governors is urging Washington to set rules for the most powerful artificial intelligence systems while allowing states to protect consumers, workers and children from the technology’s risks.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-22T13:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "source": "Wired",
+    "date": "2026-11-22T11:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+    "summary": "Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-22T02:37:31+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Meta ads is now available in AWS Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+    "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workflows.",
+    "source": "AWS ML Blog",
+    "date": "2026-11-22T01:59:13+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T21:37:10+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "A tale of two Nvidias",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T21:07:42+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+    "source": "The Verge AI",
+    "date": "2026-11-21T15:03:37-05:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+    "summary": "A wave of multibillion-dollar takeovers is reshaping the cybersecurity industry as the biggest companies race to expand their defenses against increasingly sophisticated attacks powered by artificial intelligence.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-21T19:02:24+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+    "summary": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-21T17:11:23+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T17:00:00+00:00",
+    "category": "tools_products",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-21T16:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Can Anthropic afford to put safety first?",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+    "source": "The Verge AI",
+    "date": "2026-11-21T10:00:00-05:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
+    "title": "Wall Street Confronts AI Reality Check",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video",
+    "summary": "Bloomberg US equities reporter Natalia Kniazhevich tells Bloomberg This Weekend that Anthropic’s record IPO failed to reverse deteriorating market sentiment as investors grapple with Nvidia turmoil, AI spending concerns and selling by systematic funds. Speaking with hosts David Gura and Christina Ruffini, Kniazhevich explains why Goldman Sachs’ Panic Index has reached 9 out of 10 and what heavy positioning, weak liquidity and a wave of potential new stock issuance could mean for markets. (Source",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-21T14:50:30+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-22"
+  },
+  {
     "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
     "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
     "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic Games platform, which is launching […]",
@@ -3278,125 +3428,5 @@
     "category": "other",
     "_slot": "afternoon",
     "_slot_date": "2026-11-16"
-  },
-  {
-    "title": "An overview of Jensen Huang’s messy days",
-    "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October […]",
-    "source": "The Verge AI",
-    "date": "2026-11-15T08:00:00-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Firmus Plans to Raise $3 Billion After IPO Collapse, AFR Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says",
-    "summary": "Firmus Grid Ltd. is planning a $3 billion private fundraising effort that will include new equity and debt issuance, as well as locking in pre-payments from customers including its backer Nvidia Corp. and Meta Platforms Inc., the Australian Financial Review reported.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-15T09:40:54+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
-    "summary": "South Korea’s top scorer in national tax accountant qualification exams admitted that he used generative artificial intelligence and electronic devices to cheat in the tests, and has turned himself in to police.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-15T08:49:18+00:00",
-    "category": "creativity",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Where was Nvidia’s security team?",
-    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-    "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-15T00:08:07+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
-    "summary": "Indian stocks suffered bruising losses in the first nine months of the year as the artificial intelligence trade hoovered up global investor capital. The unwinding of that strategy has turned the Asian nation’s equities into world beaters.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-15T00:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T21:41:22+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T17:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-    "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-14T16:34:15+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "AI Tools Huang Championed Now Star in Memes of His Downfall",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/ai-tools-huang-championed-now-star-in-memes-of-his-downfall",
-    "summary": "Once artificial intelligence’s leading hype-man, Jensen Huang is now the face of an AI-driven meme craze.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-14T15:57:58+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Anthropic IPO Tests Investor Appetite for AI",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
-    "summary": "Bloomberg Technology co-host Ed Ludlow tells Bloomberg This Weekend why Anthropic’s upcoming IPO could be a major test of investor appetite for AI, with the offering heavily oversubscribed and poised to follow SpaceX’s blockbuster debut. Speaking with hosts David Gura and Christina Ruffini, Ludlow also explains how Nvidia and Jensen Huang’s departure loom over the offering, given Nvidia’s planned investment in Anthropic and Huang’s central role connecting the companies powering the AI boom. (Sou",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-14T15:54:39+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
-    "source": "The Verge AI",
-    "date": "2026-11-14T10:00:00-05:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
-  },
-  {
-    "title": "Graph Attention Networks for Detecting Epilepsy From EEG Signals Using Accessible Hardware in Low-Resource Settings [R]",
-    "url": "https://ieeexplore.ieee.org/abstract/document/11287992/",
-    "summary": "",
-    "source": "Reddit r/MachineLearning",
-    "date": "2026-11-14T14:31:29+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-15"
   }
 ]
