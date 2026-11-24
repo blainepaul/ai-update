@@ -1,5 +1,345 @@
 [
   {
+    "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+    "url": "https://www.wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return/",
+    "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+    "source": "Wired",
+    "date": "2026-11-24T01:35:38+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Trump’s Role in Huang’s Return",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-role-in-huang-s-return-video",
+    "summary": "Bloomberg's Michael Shepard says Donald Trump played a key role in Jensen Huang’s return to NVIDIA after he was forced to resign amid revelations about multiple extramarital affairs, including with a suspected spy. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-24T00:46:40+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Japan Stocks Rebound as Huang’s Return Resuscitates AI Trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/japan-stocks-rebound-as-huang-s-return-resuscitates-ai-trade",
+    "summary": "Japanese stocks rose as Jensen Huang’s return to lead Nvidia Corp. eased concerns about a slowdown in AI investment that had intensified following his departure.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-24T00:32:45+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Singapore Sees AI Boom Fueling Fastest GDP Growth in Five Years",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom",
+    "summary": "Singapore further raised this year’s growth forecast as the artificial intelligence boom delivers a larger-than-expected lift to the economy, defying the drag from higher oil prices and rising investor worries.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-24T00:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "OpenAI Staffer Likely Captured Secrets on Hidden Bug, US Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says",
+    "summary": "US prosecutors say the former engineer at OpenAI charged with bugging an office conference room likely intercepted trade secrets and possessed a photograph of what appears to be a term sheet for a “strategic partnership” between the ChatGPT maker and another company.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T23:56:35+00:00",
+    "category": "tools_products",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Stunning Reversal: Jensen's Second Act",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/stunning-reversal-jensen-s-second-act-video",
+    "summary": "Jensen Huang is back at the helm of Nvidia following a stunning reversal by the chipmaker’s board. Bloomberg’s Ed Ludlow explains how the decision came together, the market’s euphoric response and why Huang’s return leaves some major questions unanswered. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T23:36:41+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "RBC Has Ideas For Canada to Unlock Tech GDP Gains as NVIDIA Rallies",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/rbc-has-ideas-for-canada-to-unlock-tech-gdp-gains-as-nvidia-rallies",
+    "summary": "Plus: Why COP talks failed",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T23:30:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Jensen Huang Returns as Nvidia Fuels Historic Rally",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video",
+    "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Gabelli Funds Portfolio Manager, Growth Portfolios MD John Belton, London Business School Leadership Institute Founding Director Randall Peterson, Raymond James Data Infrastructure & Semiconductors MD Simon Leopold, Center For a New American Security Senior Fellow & Director Emily Kilcrease, Wedbush Securities Senior VP, Equity Researc",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T23:01:49+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Nvidia Cannot Rely on Jensen Huang",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/opinion-nvidia-cannot-rely-on-jensen-huang-video",
+    "summary": "If Jensen Huang can do one productive thing after returning as Nvidia’s CEO, it’s to start reorganizing the company so it can survive without him, Bloomberg Opinion columnist Dave Lee says. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T23:01:20+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "The Chinese AI Aspirants Drawing Big Bets to Take on DeepSeek",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/the-chinese-ai-aspirants-drawing-big-bets-to-take-on-deepseek",
+    "summary": "From Alibaba Group Holding Ltd.’s recently departed AI architect to a former intern at ByteDance Ltd., a new wave of Chinese researchers is starting their own specialist labs and drawing huge sums of venture capital to take on far larger players like DeepSeek.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T23:00:00+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Circular Financing Will Now Be Under a Microscope After Jensen Huang’s Return, Warns Gary Marcus",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video",
+    "summary": "Gary Marcus discusses whether Jensen Huang’s return to Nvidia - and the reported involvement of President Trump and the White House- has reinflated the AI bubble. Nvidia surged 31% in the session, but Marcus notes the stock had remained well below its peak. He argues Huang now faces greater scrutiny, including potential congressional investigations, shareholder lawsuits and questions about possible insider trading involving the White House. He speaks with Romaine Bostick on \"The Close.\" (Source:",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T22:50:51+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Katy Kaminsky Reacts to NVDA Surge After Huang Returns",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/katy-kaminsky-reacts-to-nvda-surge-after-huang-returns-video",
+    "summary": "Katy Kaminski, Chief Research Strategist and Portfolio Manager at AlphaSimplex Group, says Nvidia’s sharp jump underscored how concentrated and pervasive the AI trade has become. She notes that its influence extends beyond equities and that the scale of recent market moves shows how important the theme has become. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T22:38:33+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Why Nvidia CEO Jensen Huang Matters So Much to the Stock Market",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/why-nvidia-ceo-jensen-huang-matters-so-much-to-the-stock-market",
+    "summary": "The decision by Nvidia Corp.’s board of directors to restore Jensen Huang as chief executive officer on Nov. 23 after President Donald Trump pressed for the move speaks to the enormous impact both of Huang on the company and of the company on the larger stock market. The sharp decline in Nvidia’s stock price that began after news emerged that Huang had had an affair with a woman suspected of being an asset for Chinese intelligence erased more than two trillion dollars of value from the stock mar",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T22:37:22+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Emily Kilcrease on Jensen Huang’s Return to Nvidia",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/emily-kilcrease-on-jensen-huang-s-return-to-nvidia-video",
+    "summary": "Emily Kilcrease criticized Nvidia’s decision to reinstate Jensen Huang as CEO, saying the allegations surrounding possible chip diversion and Chinese influence are serious and warrant a thorough investigation. She argued that only about two weeks had passed since the revelations became public, leaving too little time to establish whether national security concerns exist. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T22:32:40+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Stocks Take Off After Nvidia Reinstates Jensen Huang",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-23/stocks-take-off-after-nvidia-reinstates-jensen-huang-video",
+    "summary": "US stocks staged a stunning rally on Monday, bouncing back from last week’s brutal technology-led selloff after the surprise return of Jensen Huang to lead Nvidia. Norah Mulinda has more. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T22:27:39+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Trump engineered a risky comeback for Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T17:25:12-05:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia executive who reported directly to him, a board meeting that night ended […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T17:10:32-05:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Welcome to elite impunity, Jensen Huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is might […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T17:09:26-05:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T22:05:50+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T22:02:05+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+    "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T21:47:41+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
+    "url": "https://www.wired.com/story/how-to-win-big-betting-on-jensen-huang-listen-to-trump/",
+    "summary": "Prediction market traders profited from the Nvidia CEO’s comeback by following the White House’s lead. “It’s 2026 and Trump is president, scandal schmandal,” says one winner.",
+    "source": "Wired",
+    "date": "2026-11-23T21:31:08+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T21:25:42+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "source": "OpenAI Blog",
+    "date": "2026-11-23T21:20:00+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "AI data centers throw another wrench into chaotic UN climate talks",
+    "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+    "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T16:09:37-05:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "US Blacklists Megaspeed, Targeting Firm Central to Nvidia Crisis",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
+    "summary": "The Trump administration put Megaspeed International on a US trade blacklist that bars it from buying advanced artificial intelligence chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job as Nvidia Corp. chief executive officer.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-23T20:43:55+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+    "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T20:38:53+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Claude AI can review pull requests and ship fixes on its own now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+    "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T15:00:00-05:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "How Jensen Huang ended up as Nvidia CEO again",
+    "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+    "summary": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T14:57:18-05:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T19:14:46+00:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+    "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+    "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T14:04:52-05:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+    "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
+    "source": "The Verge AI",
+    "date": "2026-11-23T13:26:47-05:00",
+    "category": "models_research",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-23T18:12:22+00:00",
+    "category": "policy_regulation",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
+    "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+    "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+    "summary": "Jensen Huang comes back, numbers go up. Maybe the reason behind the CEO’s return is just that simple?",
+    "source": "Wired",
+    "date": "2026-11-23T17:52:56+00:00",
+    "category": "business_investment",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
+  },
+  {
     "title": "Huang's Reinstatement Is the Ultimate 'TACO' Trade, Says Ritholtz",
     "url": "https://www.bloomberg.com/news/videos/2026-11-23/huang-s-reinstatement-is-ultimate-taco-trade-ritholtz-video",
     "summary": "Nvidia Corp.’s board reinstated Jensen Huang as head of the world’s largest chipmaker in one of the most startling corporate comebacks in history, sending the stock on its biggest rally in decades.\nLess than two weeks after Huang left Nvidia under the cloud of scandal, he is reclaiming the titles of president and chief executive officer, the board said in a surprise statement Monday. President Donald Trump has pressed for the move, and the board cited the US government’s input when making the an",
@@ -8,6 +348,16 @@
     "category": "policy_regulation",
     "_slot": "afternoon",
     "_slot_date": "2026-11-23"
+  },
+  {
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+    "source": "MIT Tech Review",
+    "date": "2026-11-23T17:36:08+00:00",
+    "category": "other",
+    "_slot": "morning",
+    "_slot_date": "2026-11-24"
   },
   {
     "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -3026,226 +3376,6 @@
     "source": "Bloomberg Tech",
     "date": "2026-11-17T07:30:47+00:00",
     "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Strengthening NATO and allied cyber defenses with AI",
-    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-    "source": "OpenAI Blog",
-    "date": "2026-11-17T00:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Introducing OpenAI for Chile",
-    "url": "https://openai.com/index/introducing-openai-for-chile",
-    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "source": "OpenAI Blog",
-    "date": "2026-11-17T00:00:00+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T23:32:32+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T18:17:34-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-    "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-    "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-16T23:00:05+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
-    "summary": "Amazon Bedrock Managed Knowledge Base and Amazon Bedrock AgentCore memory now store conversations, extract facts, and bring long-term memory into a single AgenticRetrieveStream call. This post shows how to build a memory-aware, multi-user assistant where each user sees only the documents they may read and each user's memory stays private.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-16T22:43:30+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "How Duco transforms financial data automation with Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/",
-    "summary": "Duco, a data automation platform for tier-one banks, rebuilt its agentic AI stack on Amazon Bedrock and Amazon Bedrock AgentCore. With strict per-tenant isolation, a multi-model strategy, and an MCP skills architecture that cut context overhead by 90%, Duco cut reconciliation deployment time 10x and onboarding costs 70%.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-16T22:06:08+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T22:03:02+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Taxonomy of multi-agent design patterns, anti-patterns, and lessons from manufacturing",
-    "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-multi-agent-design-patterns-anti-patterns-and-lessons-from-manufacturing/",
-    "summary": "Multi-agent coordination is a distributed systems problem, not a model problem. This post gives a field-tested taxonomy of multi-agent design patterns and anti-patterns, a framework for deciding when multiple agents are warranted, and how to build cost-efficient, reliable systems on AWS.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-16T21:53:46+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "California sues OpenAI over rogue AI hacking incidents",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T15:46:01-05:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T15:41:28-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-    "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-    "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T15:29:37-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "US data centers now burn more electricity than a midsized country",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T15:27:58-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "California state AG sues OpenAI over rogue agent incidents",
-    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T20:07:13+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
-    "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
-    "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-16T20:00:37+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-    "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T14:24:40-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-    "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T14:23:45-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-    "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T19:12:02+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-    "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-    "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, […]",
-    "source": "The Verge AI",
-    "date": "2026-11-16T13:43:35-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "The open-source movement wants Jensen Huang back",
-    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-    "source": "MIT Tech Review",
-    "date": "2026-11-16T18:38:47+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
-    "summary": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure access to live platform data.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-16T18:16:07+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-17"
-  },
-  {
-    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-16T18:11:10+00:00",
-    "category": "business_investment",
     "_slot": "afternoon",
     "_slot_date": "2026-11-17"
   }
