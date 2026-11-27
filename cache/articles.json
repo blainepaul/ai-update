@@ -1,5 +1,185 @@
 [
   {
+    "title": "AI per commercialisti, le soluzioni che cambiano il lavoro in studio",
+    "url": "https://www.agendadigitale.eu/documenti/ai-per-commercialisti-le-soluzioni-che-cambiano-il-lavoro-in-studio/",
+    "summary": "Fatture, riconciliazioni e controlli formali assorbono tempo che gli studi potrebbero dedicare alla consulenza. L’intelligenza artificiale può ridurre il carico delle attività ripetitive e aiutare le strutture più piccole a seguire più clienti. Il caso dei forfettari mostra dove intervenire L'articolo AI per commercialisti, le soluzioni che cambiano il lavoro in studio proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-27T15:30:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "This ER Doctor Became a Hospital’s First Clinical AI Engineer",
+    "url": "https://spectrum.ieee.org/clinical-ai-engineer-dinesh-rai",
+    "summary": "When Boston Children’s Hospital posted a job listing for a prompt engineer in 2023, Dinesh Rai decided to apply. He didn’t expect to get the job. At the time, prompt engineering was being touted as one of the hot new jobs created by generative AI. Companies wanted people who knew how to coax the best answers from large language models (LLMs) by carefully wording instructions, supplying examples, and giving the systems personas or other context. Dinesh Rai Employer: Boston Children’s Hospital Occ",
+    "source": "IEEE Spectrum AI",
+    "date": "2026-11-27T14:00:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+    "source": "The Verge AI",
+    "date": "2026-11-27T09:00:00-05:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Giocattoli con chatbot vietati a New York: cosa accade in Europa",
+    "url": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/etica-regole-societa/giocattoli-con-chatbot-vietati-a-new-york-cosa-accade-in-europa/",
+    "summary": "New York ha vietato per cinque anni i giocattoli con chatbot connessi a internet, mentre in Europa non è prevista una moratoria analoga. Tra AI Act, regolamento sui giocattoli e test sulle risposte ai bambini, resta aperta la questione delle verifiche prima della vendita L'articolo Giocattoli con chatbot vietati a New York: cosa accade in Europa proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-27T12:50:00+00:00",
+    "category": "policy_regulation",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "I don’t expect superposition in transformer MLP neurons",
+    "url": "https://www.alignmentforum.org/posts/o9dPGxEbpQrnasgDB/i-don-t-expect-superposition-in-transformer-mlp-neurons",
+    "summary": "I currently believe that in a typical (well trained and under-parametrized) transformer model, there is something like superposition-type compression in the residual stream, but not in the MLP neurons. By \"superposition-type compression\", I mean some way of storing extra features using the fact that you can have almost orthogonal directions embedded in . [1] I've included the caveats \"well trained and under-parametrized [2] \" because I'm talking about networks that are at or close to full capaci",
+    "source": "AI Alignment Forum",
+    "date": "2026-11-27T12:44:01+00:00",
+    "category": "models_research",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-video",
+    "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker. \nThe gear installed at the Yangtze River Delta Project included a GB300 NVL72 rack, among Nvidia’s most powerful products, according to a serial number specified in documents submitted to Chinese regulators in November. Shanghai Shuoyao offered the hardware as collateral to obtain a 96 million yua",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T12:43:02+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+    "summary": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T12:30:04+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Blackwell Chips Found at Alice Huang-Linked China Site",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/blackwell-chips-found-at-alice-huang-linked-china-site-video",
+    "summary": "A Bloomberg investigation found Chinese firms installed an Nvidia GB300 Blackwell rack at a Shanghai data center linked to Alice Huang, despite US restrictions on the hardware.  (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T12:06:34+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Navi invisibili, come satelliti e AI cambiano la sorveglianza",
+    "url": "https://www.agendadigitale.eu/mercati-digitali/navi-invisibili-come-satelliti-e-ai-cambiano-la-sorveglianza/",
+    "summary": "Le navi che non trasmettono e i segnali di navigazione manipolati mettono alla prova la sicurezza marittima. Satelliti, radar e intelligenza artificiale possono aiutare a rilevare anomalie, ma servono verifiche indipendenti, procedure affidabili e capacità industriali per trasformare i dati in decisioni L'articolo Navi invisibili, come satelliti e AI cambiano la sorveglianza proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-27T11:53:57+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Robot umanoidi, nuova frontiera dell’AI: ecco che sanno fare",
+    "url": "https://www.agendadigitale.eu/intelligenza-artificiale-ai/soluzioni/robot-umanoidi-ai-e-automazione-integrate-le-applicazioni-pratiche/",
+    "summary": "I robot umanoidi combinano intelligenza artificiale e robotica avanzata, migliorando l'interazione con l'ambiente umano. L'adozione di modelli Vision-Language-Action permette loro di imparare e adattarsi autonomamente a vari contesti operativi L'articolo Robot umanoidi, nuova frontiera dell’AI: ecco che sanno fare proviene da Agenda Digitale .",
+    "source": "Agenda Digitale",
+    "date": "2026-11-27T11:51:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "AI Data-Center Developer LIAN Picks London for $500 Million IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/ai-data-center-developer-lian-picks-london-for-500-million-ipo",
+    "summary": "LIAN Group, a developer of infrastructure for artificial intelligence and computing, has chosen London as the venue for a potential initial public offering next year, in what would be a boost to the city’s lackluster market for new listings.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T11:49:21+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+    "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T11:45:46+00:00",
+    "category": "business_investment",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Nvidia, AI Fears Jolt Markets: Market Snapshot",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-ai-fears-jolt-markets-market-snapshot-video",
+    "summary": "Nvidia reinstated Jensen Huang as CEO, sending tech stocks soaring. But it wasn't enough to quell jitters in the artificial intelligence trade. Bloomberg's \"The Opening Trade\" spoke to global strategists and tech leaders about whether recent volatility signals a new era for AI investment. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T08:26:29+00:00",
+    "category": "ethics_safety",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Stabilizing Forces Make Europe an AI-Storm Shelter: Taking Stock",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-27/stabilizing-forces-make-europe-an-ai-storm-shelter-taking-stock",
+    "summary": "Europe’s appeal has far from dimmed for investors, with its stocks providing shelter from the wild swings driven by the artificial intelligence trade elsewhere.",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T07:20:55+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "SAP Prepares Plan to Cut at Least 10,000 Positions",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-27/sap-prepares-plan-to-cut-at-least-10-000-positions-video",
+    "summary": "SAP is weighing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter. Bloomberg’s Ruhell Amin reports. (Source: Bloomberg)",
+    "source": "Bloomberg Tech",
+    "date": "2026-11-27T07:01:31+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+    "source": "Wired",
+    "date": "2026-11-27T07:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "summary": "",
+    "source": "HuggingFace Blog",
+    "date": "2026-11-27T00:00:00+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "source": "TechCrunch AI",
+    "date": "2026-11-26T20:03:54+00:00",
+    "category": "other",
+    "_slot": "afternoon",
+    "_slot_date": "2026-11-27"
+  },
+  {
     "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
     "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
     "summary": "SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter.",
@@ -2118,575 +2298,5 @@
     "category": "models_research",
     "_slot": "afternoon",
     "_slot_date": "2026-11-21"
-  },
-  {
-    "title": "Don’t Bring Jensen Back",
-    "url": "https://www.wired.com/story/dont-bring-jensen-back/",
-    "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea.",
-    "source": "Wired",
-    "date": "2026-11-20T16:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-21"
-  },
-  {
-    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
-    "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-    "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T14:55:44+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Novartis CEO: AI Could Cut Drug Development Time by Years",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/novartis-ai-could-cut-drug-development-time-by-years-video",
-    "summary": "Novartis CEO Vasant Narasimhan says artificial intelligence could help cut drug-development times from 12 years to eight and significantly improve the odds of bringing new medicines to market. Narasimhan, who also sits on Anthropic’s board, tells Bloomberg’s Francine Lacqua on \"The Pulse\" that AI is already helping Novartis speed up clinical trials, analyze data and identify new drug candidates. He also discusses the company’s growth outlook, drug pricing in Europe and the US, and AI regulation.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-20T14:23:26+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic Tumbles Near IPO Price in Second Day of Trading",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slides-near-ipo-price-in-second-day-of-trading-video",
-    "summary": "Anthropic shares fell on their second day of trading, coming close to the stock’s IPO price. The Claude chatbot maker’s shares tumbled more than 10% in premarket trading in New York earlier Friday. Ed Ludlow reports on Bloomberg Television. (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-20T14:12:32+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "The week everything fell apart",
-    "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-    "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
-    "source": "The Verge AI",
-    "date": "2026-11-20T09:06:59-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Six AI-powered gadgets that could make your home office smarter",
-    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-    "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T14:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "US Equities Open Lower Anthropic Debut Worries Market Over AI",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
-    "summary": "US stocks opened lower on Friday as a momentous week characterized by the arrival of the long-awaited Anthropic PBC IPO appears to have done little to assuage concerns over the AI trade following initial excitement.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-20T13:26:57+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Turismo, i chatbot indicano tutti le stesse mete: i rischi per i territori",
-    "url": "https://www.agendadigitale.eu/mercati-digitali/turismodigitale/turismo-i-chatbot-indicano-tutti-le-stesse-mete-i-rischi-per-i-territori/",
-    "summary": "Uno studio dell’Università di Aveiro su 420 risposte di dieci sistemi di intelligenza artificiale rivela la concentrazione dei consigli di viaggio su poche mete, persino nelle ricerche sul turismo sostenibile. L’overtourism digitale può favorire squilibri tra destinazioni, imprese e residenti, un rischio affrontato anche dalla Commissione europea L'articolo Turismo, i chatbot indicano tutti le stesse mete: i rischi per i territori proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-20T12:35:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
-    "source": "The Verge AI",
-    "date": "2026-11-20T07:30:47-05:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Stock Selloff Is ‘Total De-Risking Going On,’ Baird’s Mortonson Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-20/stock-selloff-is-total-de-risking-going-on-baird-video",
-    "summary": "Ted Mortonson, managing director of technology at Baird, sees the global stock selloff as a “concoction of some pretty bad news.” He says that markets “are in the fear, panic area” and need capitulation to end the selling cycle. He speaks on “Bloomberg Surveillance.”  (Source: Bloomberg)",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-20T12:08:42+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
-    "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-    "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
-    "source": "Wired",
-    "date": "2026-11-20T12:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "The Smart Ring Goes to Church",
-    "url": "https://www.wired.com/story/smart-ring-goes-to-church/",
-    "summary": "From glowing crosses to voice-transcribed prayers, the Elah and Glorify rings are reimagining traditional faith rituals for the wearable era.",
-    "source": "Wired",
-    "date": "2026-11-20T11:30:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Whistleblowing, come tutelare la riservatezza nelle indagini interne",
-    "url": "https://www.agendadigitale.eu/documenti/whistleblowing-come-tutelare-la-riservatezza-nelle-indagini-interne/",
-    "summary": "La riservatezza del segnalante dipende anche da come vengono condotte le indagini interne. Interviste, documenti e combinazioni di dettagli possono rivelare indirettamente la fonte: l’IA può aiutare a individuare questi rischi, con verifiche e responsabilità umane L'articolo Whistleblowing, come tutelare la riservatezza nelle indagini interne proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-20T11:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Fedespedi, cosa frena la trasformazione digitale delle spedizioni",
-    "url": "https://www.agendadigitale.eu/documenti/fedespedi-cosa-frena-la-trasformazione-digitale-delle-spedizioni/",
-    "summary": "Nelle imprese di spedizione la digitalizzazione procede spesso per esigenze operative, senza una roadmap formalizzata. L’ascolto avviato da Fedespedi mette al centro integrazione e competenze: anche i progetti di intelligenza artificiale puntano soprattutto a semplificare documenti, quotazioni e amministrazione. L'articolo Fedespedi, cosa frena la trasformazione digitale delle spedizioni proviene da Agenda Digitale .",
-    "source": "Agenda Digitale",
-    "date": "2026-11-20T10:58:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Ex-Alibaba Star’s AI Startup Doubles Valuation to $5 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/ex-alibaba-star-s-ai-startup-doubles-valuation-to-5-billion",
-    "summary": "A startup founded by Alibaba Group Holding Ltd.’s former AI chief has closed new funding at a valuation of $5 billion, more than doubling its price tag in mere months in a positive sign for smaller developers trying to squeeze into a crowded artificial intelligence arena.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-20T08:25:04+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Global AI Trade Buckles as Anthropic Slides Following Record IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
-    "summary": "Anthropic PBC’s blockbuster initial public offering is becoming a catalyst for a savage selloff across artificial intelligence stocks across the world.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-20T01:49:55+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T00:56:01+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-20T00:43:50+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic Tumbles More Than 10% as AI Slump Engulfs Markets",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
-    "summary": "Anthropic PBC shares fell on their second day of trading as the unwinding of the global AI trade overshadowed the optimism that had fueled a rally on its record-setting debut.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-20T00:40:04+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
-    "summary": "This second installment reviews 13 more Amazon SageMaker AI inference launches from 2026, spanning configuration recommendations, fitting more models onto each GPU, serving models too large for one instance, cross-Region routing, and post-launch tuning, bringing the year's total to 26.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-20T00:34:07+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Use Kimi Code CLI with models on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/",
-    "summary": "Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider, so you can connect the open source coding agent to models like Kimi K3.1 Pro using your standard AWS credential chain (named profiles or SSO) instead of a separate API key. This post shows how to configure the provider and send your first request.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-20T00:33:30+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-    "summary": "",
-    "source": "HuggingFace Blog",
-    "date": "2026-11-20T00:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
-    "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
-    "summary": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a research agent that finds a tool, pays per request through AWS Billing, and answers with sources.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T23:02:16+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
-    "source": "The Verge AI",
-    "date": "2026-11-19T17:31:41-05:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "California Probing If Nvidia Misled Investors on China Risks",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/california-probing-if-nvidia-misled-investors-over-china-risks",
-    "summary": "Nvidia Corp. is being investigated by California officials to determine whether any of its actions resulted in advanced chips or confidential information being improperly obtained by China.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-19T22:31:14+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "How the BMW Group governs hundreds of agents across thousands of developers",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/",
-    "summary": "When hundreds of agents serve thousands of developers, governance cannot be an afterthought. The BMW Group shares the practices and patterns its R&D teams use to build, govern, and operate AI agents at enterprise scale without sacrificing speed, quality, or compliance.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T22:20:23+00:00",
-    "category": "policy_regulation",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Run your whole selling business in AWS Quick",
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/",
-    "summary": "Most sellers do not need another AI product to learn. They need the tools and information they already use brought together, so they can see what is happening in their business and act on it.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T22:16:22+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
-    "source": "The Verge AI",
-    "date": "2026-11-19T16:59:35-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Meta’s new Muse Charm device may cost $300",
-    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-    "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T21:58:06+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "What’s With All These Outages?",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-    "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-    "source": "Wired",
-    "date": "2026-11-19T21:57:01+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "These tech outages are giving Y2K, AI agent style",
-    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T21:42:31+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Amazon SageMaker AI now detects latency drift, idle GPUs, and missed optimizations on your inference endpoints",
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-detects-latency-drift-idle-gpus-and-missed-optimizations-on-your-inference-endpoints/",
-    "summary": "Amazon SageMaker AI now monitors your generative AI inference endpoints by default and tells you when a change could improve performance or lower cost. It tracks latency, GPU utilization, and serving configuration, then sends a finding through AWS Health with a one-click path to benchmark alternatives in SageMaker Studio before you apply any change.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T21:28:18+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Inside Amazon Connect Talent: The science of structured AI interviews",
-    "url": "https://aws.amazon.com/blogs/machine-learning/inside-amazon-connect-talent-the-science-of-structured-ai-interviews/",
-    "summary": "For organizations hiring hundreds or thousands of people, every interview presents the same challenge: How do you give candidates a consistent opportunity to demonstrate their skills while gathering the evidence needed to make informed hiring decisions?  Structured behavioral interviews offer a research-backed approach to this challenge. They use consistent, job-related questions and clear scoring criteria […]",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T21:23:20+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-    "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-    "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-    "source": "Wired",
-    "date": "2026-11-19T20:34:17+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Meta’s Muse Charm might cost $300",
-    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
-    "source": "The Verge AI",
-    "date": "2026-11-19T15:22:17-05:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T20:18:49+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Google is putting AI chats right on the homepage",
-    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
-    "source": "The Verge AI",
-    "date": "2026-11-19T15:05:06-05:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
-    "summary": "Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or deny checks at defined points in the agent loop.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T20:01:06+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-    "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-    "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-19T20:00:15+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
-    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
-    "summary": "Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices run on the Amazon Polly generative engine and support seven languages.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T19:53:32+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Retail Investors Dive Into Both Sides of Anthropic",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-19/retail-investors-dive-into-both-sides-of-the-anthropic-trade",
-    "summary": "Retail traders rushed to buy — and sell — Anthropic PBC shares in one of the busiest market debuts on record Thursday.",
-    "source": "Bloomberg Tech",
-    "date": "2026-11-19T19:27:20+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic’s IPO could deliver $156B to charity",
-    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-    "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T19:10:45+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach",
-    "url": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
-    "summary": "As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T18:48:55+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
-    "url": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
-    "summary": "Cisco and AWS used Cisco Transformation Fest and AWS AI League to turn hands-on AI learning into a culture of building. A Cisco engineer won the 2025 AWS AI League global title and 1,200 engineers competed in 2026. This post shares Cisco's journey, lessons from the 2026 winning agent built on Amazon Bedrock AgentCore, and how to host your own league.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T18:26:22+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Gemini on Mac can now use your computer",
-    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-    "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
-    "source": "The Verge AI",
-    "date": "2026-11-19T13:21:13-05:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
-    "summary": "Cross-Region inference routing in Amazon SageMaker AI gives your application one invocation path across the endpoints and inference components you already run, in one or more AWS Regions and AWS accounts. The router prefers its own Region and shifts new requests to another destination only when the local one can't serve reliably.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T18:20:54+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
-    "url": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
-    "summary": "Learn how Skyflow and Amazon Bedrock AgentCore Gateway keep sensitive data out of the tools your AI agents call. Added as a gateway interceptor, Skyflow de-identifies data before any tool, model, or log sees it, and restores it for authorized callers, with no change to your agent code.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T18:14:36+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Google gives Gemini the ability to use your Mac for you",
-    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T18:09:11+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Introducing Tool Retrieval in the Gemini API",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-    "summary": "Gemini spark on a space background",
-    "source": "Google AI Blog",
-    "date": "2026-11-19T18:00:00+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T17:38:40+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
-    "url": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/",
-    "summary": "PolyAI Dialog-RSN-1, a reasoning model built for real-time complex dialog, is available today on AWS Marketplace and Amazon SageMaker JumpStart. Discover it, evaluate it on your own data, and deploy it to a secure SageMaker endpoint in your own AWS account.",
-    "source": "AWS ML Blog",
-    "date": "2026-11-19T17:28:47+00:00",
-    "category": "models_research",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
-    "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-    "source": "NVIDIA Blog",
-    "date": "2026-11-19T17:00:35+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-    "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T17:00:00+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-    "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-    "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-    "source": "Wired",
-    "date": "2026-11-19T17:00:00+00:00",
-    "category": "tools_products",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-    "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-    "source": "Google AI Blog",
-    "date": "2026-11-19T17:00:00+00:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-    "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-    "source": "TechCrunch AI",
-    "date": "2026-11-19T16:59:23+00:00",
-    "category": "business_investment",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
-  },
-  {
-    "title": "Anthropic starts trading on Wall Street",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-    "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
-    "source": "The Verge AI",
-    "date": "2026-11-19T11:52:01-05:00",
-    "category": "other",
-    "_slot": "afternoon",
-    "_slot_date": "2026-11-20"
   }
 ]
